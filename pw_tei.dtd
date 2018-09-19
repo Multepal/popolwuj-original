@@ -1,0 +1,97 @@
+<!DOCTYPE TEI [
+        <!ELEMENT TEI (teiHeader|text)*>
+        <!ATTLIST TEI
+                xmlns CDATA #REQUIRED
+                xmlns:xi CDATA #REQUIRED
+                xmlns:xml CDATA #REQUIRED>
+        <!ELEMENT teiHeader (fileDesc|encodingDesc|profileDesc)*>
+        <!ELEMENT fileDesc (titleStmt|publicationStmt|sourceDesc)*>
+        <!ELEMENT titleStmt (title|author)*>
+        <!ELEMENT title (#PCDATA)>
+        <!ELEMENT author (#PCDATA)>
+        <!ELEMENT publicationStmt (publisher|pubPlace)*>
+        <!ELEMENT publisher (#PCDATA)>
+        <!ELEMENT pubPlace (#PCDATA)>
+        <!ELEMENT sourceDesc (p)*>
+        <!ELEMENT p (lb|hi|pc|note|rs|pb|unclear|add|num|del|corr|abbr|choice|expan|gap)*>
+        <!ELEMENT encodingDesc (projectDesc|editorialDecl)*>
+        <!ELEMENT projectDesc (#PCDATA)>
+        <!ATTLIST projectDesc
+                default CDATA #REQUIRED>
+        <!ELEMENT editorialDecl (#PCDATA)>
+        <!ELEMENT profileDesc (langUsage|creation)*>
+        <!ELEMENT langUsage (language)*>
+        <!ELEMENT language (#PCDATA)>
+        <!ATTLIST language
+                ident CDATA #REQUIRED>
+        <!ELEMENT creation (date)*>
+        <!ELEMENT date (#PCDATA)>
+        <!ATTLIST date
+                instant CDATA #REQUIRED>
+        <!ELEMENT text (body)*>
+        <!ATTLIST text
+                xml:id CDATA #REQUIRED
+                n CDATA #REQUIRED>
+        <!ELEMENT body (div)*>
+        <!ELEMENT div (pb|note|p|lb)*>
+        <!ATTLIST div
+                xml:lang CDATA #REQUIRED>
+        <!ELEMENT pb (#PCDATA)>
+        <!ATTLIST pb
+                corresp CDATA #IMPLIED
+                xml:id CDATA #IMPLIED>
+        <!ELEMENT note (lb|note|rs|num|del|pc|unclear|hi|abbr)*>
+        <!ATTLIST note
+                anchored CDATA #IMPLIED
+                place CDATA #IMPLIED
+                rend CDATA #IMPLIED
+                resp CDATA #IMPLIED
+                type CDATA #IMPLIED>
+        <!ELEMENT lb (#PCDATA)>
+        <!ATTLIST lb
+                n CDATA #IMPLIED
+                rend CDATA #IMPLIED>
+        <!ELEMENT rs (pc|lb|pb|del|add|note|hi|choice|abbr)*>
+        <!ATTLIST rs
+                ana CDATA #REQUIRED
+                type CDATA #IMPLIED>
+        <!ELEMENT hi (pc|lb|choice|num|abbr)*>
+        <!ATTLIST hi
+                rend CDATA #IMPLIED>
+        <!ELEMENT pc (#PCDATA)>
+        <!ELEMENT num (hi|lb)*>
+        <!ATTLIST num
+                rend CDATA #IMPLIED>
+        <!ELEMENT unclear (#PCDATA)>
+        <!ATTLIST unclear
+                instant CDATA #IMPLIED
+                reason CDATA #IMPLIED>
+        <!ELEMENT add (#PCDATA)>
+        <!ATTLIST add
+                instant CDATA #IMPLIED
+                place CDATA #IMPLIED
+                status CDATA #IMPLIED>
+        <!ELEMENT del (num|unclear|lb|pc|hi|add|choice|rs)*>
+        <!ATTLIST del
+                cert CDATA #IMPLIED
+                instant CDATA #IMPLIED
+                rend CDATA #IMPLIED
+                status CDATA #IMPLIED
+                type CDATA #IMPLIED>
+        <!ELEMENT corr (hi|del|pc)*>
+        <!ATTLIST corr
+                instant CDATA #IMPLIED>
+        <!ELEMENT abbr (hi|rs|add)*>
+        <!ATTLIST abbr
+                type CDATA #IMPLIED>
+        <!ELEMENT choice (abbr|expan)*>
+        <!ELEMENT expan (#PCDATA)>
+        <!ATTLIST expan
+                instant CDATA #REQUIRED>
+        <!ELEMENT gap (#PCDATA)>
+        <!ATTLIST gap
+                extent CDATA #IMPLIED
+                instant CDATA #REQUIRED
+                reason CDATA #REQUIRED
+                unit CDATA #IMPLIED>
+        ]>

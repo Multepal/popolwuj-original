@@ -1,0 +1,128 @@
+div.page {
+    margin-left:1in;
+    background-color: blanchedalmond;
+}
+
+div.col {
+    width: 5in;
+    padding: 1rem;
+    font-family: sans-serif;
+    height: 8in;
+    float: left;
+    overflow: scroll;
+}
+
+div.col.quc {
+    padding-left: 2in;
+}
+
+div.col.spa {
+    padding-right: 2in;
+}
+
+p {
+    line-height: 150%;
+    margin: 1rem 0;
+
+}
+
+.num {
+    /* display: none; */
+}
+
+.pnum {
+    display: none;
+    color: grey;
+    float: left;
+}
+
+.note {
+    float:left;
+    clear: both;
+    background: lightgray;
+    padding: .5rem;
+    margin: .5rem;
+    margin-left: -2in;
+    text-align: center;
+}
+
+div.col.spa .note {
+    float:right;
+    margin-right: -2in;
+}
+
+.rs {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/*
+.pb {
+    display: block;
+    padding: .5rem 0; 
+}
+*/
+
+.pb a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pc {
+    display: none;
+}
+
+.lb {
+    font-size: 80%;
+    vertical-align: super;
+}
+
+.large {
+    font-size: 110%;
+}
+
+.del {
+    text-decoration: line-through; 
+}
+
+.hi {
+    font-weight: bold;
+    display: inline;
+}
+
+.hi.superscript {
+    font-weight: normal;
+    display: inline;
+    vertical-align: super;
+    font-size: 80%;
+}
+
+.note.editor {
+    display: none;
+}
+
+.pb {
+    float: right;
+    padding: 5px;
+    margin: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+
+#topic-list {
+    display:  none;
+}
+
+.topic-description img {
+    max-height: 100px;  
+}
+
+.topic-entry {
+    border-top: 1px solid gray;
+    width: 400px;
+}
+
+.topic-entry h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+

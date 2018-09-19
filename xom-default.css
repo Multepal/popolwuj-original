@@ -1,0 +1,80 @@
+div.page {
+    margin-left:1in;
+    background-color: blanchedalmond;
+}
+
+div.col {
+    width: 5in;
+    float: left;
+    padding: 1rem;
+}
+
+div.col.spa {
+    width: 7in;
+}
+
+p {
+    line-height: 125%;
+    margin:0;
+}
+
+.num {
+    display: none;
+}
+
+.pnum {
+    display: none;
+    color: grey;
+    float: left;
+}
+
+.note {
+    float:right;
+    color:gray;
+}
+
+.rs {
+    color:red;
+    font-weight:bold;
+}
+
+.pb {
+    display: block;
+    padding: .5rem 0; 
+    /* background-color: lightgray; */
+}
+
+.pb a {
+    /* border: gray; */
+    /* background-color: white; */
+    /* color: grey; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* padding:0 1rem; */
+}
+
+/* .pc {} */
+
+/* .lb {} */
+
+.lb-num {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    color: lightblue;
+    margin-right: 1rem; 
+    text-align: right;
+    width: 20px;
+}
+
+.lb-num.hanging {
+    margin-right: 2rem;
+}
+
+.large {
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.del {
+    text-decoration: line-through; 
+}
+
