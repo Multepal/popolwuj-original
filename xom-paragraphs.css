@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Peddana');
+
+h1, h2, h3 {
+    font-family: 'IM Fell English SC', serif;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+
 div.page {
     margin-left:1in;
     background-color: blanchedalmond;

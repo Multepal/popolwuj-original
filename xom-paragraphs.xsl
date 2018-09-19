@@ -26,7 +26,7 @@
     <body>
         <div id="topic-box" title="Téma"></div>
         <xsl:apply-templates select="//tei:text//tei:body"/>
-        <div id="topic-list">
+        <div class="w3-container" id="topic-list">
             <xsl:apply-templates select="$topics/topics/topic"/>
         </div>
     </body>
@@ -34,7 +34,7 @@
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='quc']">
-        <div class="col quc" xml:lang="quc">
+        <div class="ws-container col quc" xml:lang="quc">
             <b>K'iche'</b>
             <xsl:apply-templates />
         </div>

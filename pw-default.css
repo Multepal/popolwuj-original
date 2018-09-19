@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Lato|Peddana');
+
+h1, h2, h3 {
+    font-family: 'IM Fell English SC', serif;
+}
+
+p, li {
+    font-family: Lato;
+}
