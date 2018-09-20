@@ -2,32 +2,44 @@
 <html>
     <head>
         <title>Multepal: A Digital Critical Edition of the Popol Wuh</title>
-        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="pw-default.css">
     </head>
     <body>
-        <div class="w3-container w3-black w3-padding-16" id="header">
-            <div class="page-title">Digital Editions of the <i>Popol Wuh</i></div>
-            <div class="page-subtitle">A collection from the <a href="http://multepal.spanitalport.virginia.edu/" target="_blank">Multepal Project</a></div>
-        </div>
-        <div class="w3-container w3-half" id="container">
-            <p>This site contains a set of digital critical editions associated with the Multepal Project. 
-            We expect to develop several editions, each presenting the text from a particular editorial or critical perspective.</p>
-
-    <h2>Paragraphs and Topics Edition</h2>
-
-    <p>This edition presents the TEI-encoded version of the text prepared by the Multepal team with line breaks removed, manuscript page breaks represented as milestones, and inferred paragraph breaks added. It is intended to represent the text in so-called logical form, that is, as a discursive structure independent of its documentary vehicle. This has two advantages. First, it presents the text as it was meant to be read. Second, it allows for the natural representation of annotatiohns of the text that cross line and page boundaries. Other editions of the text will emphasize its material structure.  The edition contains highlighted segments of the text that correspond to topics on the Multepal database; these are links that launch pop-up menus describing the topic, along with a link back to the Multepal database for more information.</p>
-    <p><a href="xom-paragraphs.html">View edition</a>.
+        
+        <div class="container p-3 mb-3" id="header">
+            <h1 class="">Digital Editions of the <i>Popol Wuh</i></h1>
+            <div class="">A collection from the Multepal Project</div>
         </div>
 
-        <div class="w3-container w3-half w3-section">
-            <img src="facsimiles/MS1515v2_f01r.jpg" height="450px">
-            <p style="width: 300px; text-align: center;">Facsimile of the <i>Popol Vuh</i>, Folio 1, <i>recto</i>. Courtesy of Newberry Library and Ohio State University Libraries.</p>
+        <div class="container" id="content">
+            <div class="row">
+
+                <div class="col">
+
+                    <p class="alert alert-info">This site contains a set of digital critical editions associated with the <a href="http://multepal.spanitalport.virginia.edu/">Multepal Project at the University of Virginia</a>. We expect to develop several editions, each presenting the text from a particular editorial or critical perspective.</p>
+
+                    <h2>Paragraphs and Topics Edition</h2>
+                    
+                    <p>This edition presents the TEI-encoded version of the text prepared by the Multepal team with line breaks removed, manuscript page breaks represented as milestones, and inferred paragraph breaks added. It is intended to represent the text in so-called logical form, that is, as a discursive structure independent of its documentary vehicle. This has two advantages. First, it presents the text as it was meant to be read. Second, it allows for the natural representation of annotatiohns of the text that cross line and page boundaries. Other editions of the text will emphasize its material structure.  The edition contains highlighted segments of the text that correspond to topics on the Multepal database; these are links that launch pop-up menus describing the topic, along with a link back to the Multepal database for more information.</p>
+                    
+                    <p><a class="btn btn-primary btn-sm" href="xom-paragraphs.html">View the Edition</a>
+
+                </div>
+                
+                <div class="col" style="text-align: center; padding: auto; width: 450px;">
+                    <img src="facsimiles/MS1515v2_f01r.jpg" height="450px">
+                    <p>Facsimile of the <i>Popol Vuh</i>, Folio 1, <i>recto</i>.
+                    <br/>Courtesy of the Newberry Library and<br/>the Ohio State University Libraries.</p>
+                </div>  
+
+            </div>
         </div>
-
-        <div class="w3-container" id="footer">
-
+        <div class="container pt-3" id="footer">
+            &copy; 2018 Editors of the Multepal Project
         </div>
-
     </body>    
 </html>

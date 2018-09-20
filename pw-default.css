@@ -8,6 +8,10 @@ p, li {
     font-family: Lato;
 }
 
-.page-title {
-    font-size: 24pt;
+#header {
+    border-bottom: 1px solid gray;
+}
+
+#footer {
+    border-top: 1px solid gray;
 }
