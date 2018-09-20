@@ -19,6 +19,6 @@ for tfile in glob.glob("./templates/*.html"):
         continue
     print('Template:', tfile)
     template = ENV.get_template(fname)
-    html = template.render(site_title = 'TEST')
+    html = template.render(site_title = config['DEFAULT']['site_title'])
     with open(fname, 'w') as pfile:
         pfile.write(html)
