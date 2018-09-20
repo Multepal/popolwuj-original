@@ -8,7 +8,7 @@ subs = [
     ('ꜫ', "q'")
 ]
 
-with open('xom-paragraphs.html', 'r') as xom:
+with open('./templates/xom-paragraphs.html', 'r') as xom:
     bigline = ' '.join([line.strip() for line in xom.readlines()])
     bigline = re.sub(r'\s+', ' ', bigline)
     bigline = re.sub(r'- ', '', bigline)

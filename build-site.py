@@ -15,6 +15,8 @@ ENV = Environment(loader=FileSystemLoader('./templates'))
 # Convert all templates to pages
 for tfile in glob.glob("./templates/*.html"):
     fname = tfile.split('/')[-1]
+    if fname == 'base.html':
+        continue
     print('Template:', tfile)
     template = ENV.get_template(fname)
     html = template.render(site_title = 'TEST')
