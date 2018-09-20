@@ -4,6 +4,11 @@ h1, h2, h3 {
     font-family: 'IM Fell English SC', serif;
 }
 
+a.btn-info {
+    color: white;
+    text-decoration: none;
+}
+
 p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 14pt;
