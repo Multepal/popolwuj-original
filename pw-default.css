@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Lato|Peddana');
 
-h1, h2, h3 {
+h1, h2, h3, .page-title  {
     font-family: 'IM Fell English SC', serif;
 }
 
 p, li {
     font-family: Lato;
+}
+
+.page-title {
+    font-size: 24pt;
 }
