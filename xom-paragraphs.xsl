@@ -16,7 +16,7 @@
         </xsl:text>
 <html>
     <head>
-        <title>Popol Vuh, Multepal Edition, Paragraphs</title>
+        <title>Popol Vuj, Multepal Edition, Paragraphs</title>
         <link rel="stylesheet" type="text/css" href="xom-paragraphs.css"></link>
         <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"></link>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

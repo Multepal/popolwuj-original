@@ -7,7 +7,6 @@ import glob
 # Import config
 config = onfig = configparser.ConfigParser()
 config.read('./config.ini')
-print(config['DEFAULT']['site_title'])
 
 # Open template parser
 ENV = Environment(loader=FileSystemLoader('./templates'))

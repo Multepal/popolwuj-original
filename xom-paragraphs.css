@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Peddana');
-
 h1, h2, h3 {
     font-family: 'IM Fell English SC', serif;
 }
@@ -13,6 +12,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 14pt;
 }
+
 
 div.page {
     margin-left:1in;
@@ -28,6 +28,7 @@ div.col {
     overflow: scroll;
 }
 
+
 div.col.quc {
     padding-left: 2in;
 }
@@ -35,6 +36,7 @@ div.col.quc {
 div.col.spa {
     padding-right: 2in;
 }
+
 
 p {
     line-height: 150%;
@@ -51,6 +53,7 @@ p {
     color: grey;
     float: left;
 }
+
 
 .note {
     float:left;
@@ -141,4 +144,3 @@ div.col.spa .note {
 .topic-entry h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
-

@@ -1,6 +1,13 @@
 #! /usr/bin/env python
 
 import re
+import sys
+
+if sys.argv[1]:
+    src_file = sys.argv[1]
+else:
+    src_file = "xom-paragraphs.html"
+print('src_file:', src_file)
 
 subs = [
     ('ꜩ', 'tz'),
@@ -8,7 +15,8 @@ subs = [
     ('ꜫ', "q'")
 ]
 
-with open('./templates/xom-paragraphs.html', 'r') as xom:
+bigline = ''
+with open(src_file, 'r') as xom:
     bigline = ' '.join([line.strip() for line in xom.readlines()])
     bigline = re.sub(r'\s+', ' ', bigline)
     bigline = re.sub(r'- ', '', bigline)
@@ -17,6 +25,7 @@ with open('./templates/xom-paragraphs.html', 'r') as xom:
 
     # THIS IS WHERE YOU CAN ADD THE SEMANTIC MARKUP
 
-with open('xom-paragraphs.html', 'w') as xom:
+with open(src_file, 'w') as xom:
     xom.write(bigline)
 
+print("Done with", src_file)
