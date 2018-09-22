@@ -12,23 +12,13 @@
     <xsl:strip-space elements="p" /> 
 
     <xsl:template match="/">
-        <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;        
+        <xsl:text disable-output-escaping='yes'>
+            {% extends "base.html" %}
+            {% block content %}
         </xsl:text>
-<html>
-    <head>
-        <title>Popol Vuj, Multepal Edition, Paragraphs</title>
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"></link>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-                    
-        <script src="xom-paragraphs.js"> </script>
-        <link rel="stylesheet" type="text/css" href="xom-paragraphs.css"></link>
-    </head>
-    <body>
         <div class="container" id="topic-list">
             <div class="row">
-                <div id="topic-box" title="Téma"></div>
+                <div id="topic-box" title="Téma"> </div>
             </div>
             <div class="row">
                 <xsl:apply-templates select="//tei:text//tei:body"/>
@@ -37,8 +27,9 @@
                 <xsl:apply-templates select="$topics/topics/topic"/>
             </div>
         </div>
-    </body>
-</html>
+        <xsl:text disable-output-escaping="yes">
+            {% endblock %}
+        </xsl:text>
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='quc']">

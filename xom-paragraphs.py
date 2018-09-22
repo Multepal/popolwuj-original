@@ -26,6 +26,7 @@ with open(src_file, 'r') as xom:
     # THIS IS WHERE YOU CAN ADD THE SEMANTIC MARKUP
 
 with open(src_file, 'w') as xom:
+    bigline = re.sub(r'<', '\n<', bigline)
     xom.write(bigline)
 
 print("Done with", src_file)

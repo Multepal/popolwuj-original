@@ -3,6 +3,7 @@
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
     xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
     <xsl:output method="html" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+
     <xsl:variable name="themes_ajax_root">http://live-multepal.pantheonsite.io/node/</xsl:variable>
 
     <xsl:param name="fileName" select="'topics.xml'" />
@@ -12,36 +13,37 @@
     <xsl:strip-space elements="p" /> 
 
     <xsl:template match="/">
-        <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;        
-        </xsl:text>
-<html>
-    <head>
-        <title>Popol Vuj, Multepal Edition, Paragraphs</title>
-        <link rel="stylesheet" type="text/css" href="xom-paragraphs.css"></link>
-        <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css"></link>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-        <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-        <script src="xom-paragraphs.js"> </script>
-    </head>
-    <body>
-        <div id="topic-box" title="Téma"></div>
+
+        <xsl:text disable-output-escaping='yes'>{% extends "base.html" %}</xsl:text>
+        <xsl:text disable-output-escaping='yes'>{% block content %}</xsl:text>
+
+        <div class="w3-container w3-black">
+            <h1>The <i>Popol Wuj</i>: Paragraphs Edition</h1>
+            <div class="w3-bar">
+                <a href="index.html">Home</a>
+            </div>
+        </div>
+
         <xsl:apply-templates select="//tei:text//tei:body"/>
+
         <div class="w3-container" id="topic-list">
+            <div id="topic-box" title="Téma"> </div>
             <xsl:apply-templates select="$topics/topics/topic"/>
         </div>
-    </body>
-</html>
+
+        <xsl:text disable-output-escaping='yes'>{% endblock %}</xsl:text>
+    
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='quc']">
-        <div class="ws-container col quc" xml:lang="quc">
+        <div class="w3-container col quc" xml:lang="quc">
             <b>K'iche'</b>
             <xsl:apply-templates />
         </div>
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='spa']">
-        <div class="col spa" xml:lan="spa">
+        <div class="w3-container col spa" xml:lan="spa">
             <b>Castellano</b>
             <xsl:apply-templates />
         </div>
