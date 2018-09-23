@@ -1,4 +1,116 @@
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Peddana');
+
+h1, h2, h3 {
+    font-family: 'IM Fell English SC', serif;
+  }
+
+  p {
+    font-family: serif;
+    font-size: 14pt;
+  }
+
+  button.pb {
+    font-family: sans-serif;
+    padding: 0 .5rem;
+    margin: .5rem;
+  }
+
+  div.quc button.pb {
+    float: left;
+    margin-left: -1in;
+  }
+
+  div.spa button.pb {
+    float: right;
+    margin-right: -1in;
+  }
+
+  .note {
+    clear: both;
+    font-family: sans-serif;
+    font-size: 90%;
+    max-width: 1.5in;
+    padding: .5rem 0;
+    color: charcoal;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+  }
+
+  div.col.quc .note {
+    float: left;
+    padding-right: .5rem;
+    margin-right: .5rem;
+  }
+
+  div.col.spa .note {
+    float: right;
+    padding-left: .5rem;
+    margin-left: .5rem;
+  }
+
+  .pnum {
+    display: none;
+    color: grey;
+    float: left;
+}
+
+.rs {
+    color: red;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.pb a {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pc {
+    display: none;
+}
+
+.del {
+    text-decoration: line-through; 
+}
+
+.hi {
+    font-weight: bold;
+    display: inline;
+}
+
+.hi.superscript {
+    font-weight: normal;
+    display: inline;
+    vertical-align: super;
+    font-size: 80%;
+}
+
+.note.editor {
+    /* display: none; */
+    background-color: beige;
+}
+
+#topic-list {
+    display:  none;
+}
+
+.topic-description img {
+    max-height: 100px;  
+}
+
+/*
+.topic-entry {
+    border-top: 1px solid gray;
+    width: 400px;
+}
+
+.topic-entry h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+*/
+
+/* PREVIOUS VERSION */
+
+/*
 h1, h2, h3 {
     font-family: 'IM Fell English SC', serif;
 }
@@ -44,9 +156,7 @@ p {
 
 }
 
-.num {
-    /* display: none; */
-}
+.num {}
 
 .pnum {
     display: none;
@@ -75,13 +185,6 @@ div.col.spa .note {
     font-weight: bold;
     text-decoration: none;
 }
-
-/*
-.pb {
-    display: block;
-    padding: .5rem 0; 
-}
-*/
 
 .pb a {
     font-family: Arial, Helvetica, sans-serif;
@@ -144,3 +247,4 @@ div.col.spa .note {
 .topic-entry h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
+*/

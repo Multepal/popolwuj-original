@@ -17,18 +17,44 @@
         <xsl:text disable-output-escaping='yes'>{% extends "base.html" %}</xsl:text>
         <xsl:text disable-output-escaping='yes'>{% block content %}</xsl:text>
 
-        <div class="w3-container w3-black">
+        <div class="container" id="header">
             <h1>The <i>Popol Wuj</i>: Paragraphs Edition</h1>
-            <div class="w3-bar">
+            <div class="">
                 <a href="index.html">Home</a>
             </div>
         </div>
 
-        <xsl:apply-templates select="//tei:text//tei:body"/>
+        <div class="container" id="content">
+            <div class="row">
+                <xsl:apply-templates select="//tei:text//tei:body"/>
+            </div>
+        </div>
 
-        <div class="w3-container" id="topic-list">
-            <div id="topic-box" title="Téma"> </div>
+        <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="Téma">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3 class="modal-title">Topic Entry</h3>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&#215;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Modal body text goes here.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <a class="multepal-link btn btn-primary" href="#" target="_blank">See full record</a>
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container" id="topic-list">
             <xsl:apply-templates select="$topics/topics/topic"/>
+        </div>
+
+        <div class="container" id="footer">
         </div>
 
         <xsl:text disable-output-escaping='yes'>{% endblock %}</xsl:text>
@@ -36,15 +62,15 @@
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='quc']">
-        <div class="w3-container col quc" xml:lang="quc">
-            <b>K'iche'</b>
+        <div class="col quc" xml:lang="quc">
+            <h2>Lado K'iche'</h2>
             <xsl:apply-templates />
         </div>
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='spa']">
-        <div class="w3-container col spa" xml:lan="spa">
-            <b>Castellano</b>
+        <div class="col spa" xml:lan="spa">
+            <h2>Lado Castellano</h2>
             <xsl:apply-templates />
         </div>
     </xsl:template>
@@ -70,8 +96,7 @@
     </xsl:template>
 
     <xsl:template match="tei:pb">
-        <button class="pb" data-side="{@xml:id}{@corresp}">
-            <xsl:text><!-- &#x25C4; --></xsl:text>
+        <button class="pb btn btn-secondary btn-sm" data-side="{@xml:id}{@corresp}">
             <xsl:value-of select="@xml:id"/>
             <xsl:value-of select="@corresp"/>
         </button>
@@ -82,7 +107,7 @@
     </xsl:template>
     
     <xsl:template match="tei:rs">
-        <a class="rs" data-ana="{@ana}" href="#"><xsl:apply-templates /></a>
+        <a class="rs" data-ana="{@ana}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a>
     </xsl:template>
     
     <xsl:template match="tei:corr">
@@ -109,8 +134,8 @@
 
     <xsl:template match="topic">
         <div class="topic-entry" id="topic-{key}">
-            <h2><xsl:value-of select="title" /></h2>
-            <a href="{$themes_ajax_root}{nid}" target="_blank">See full record</a>
+            <h2 class="topic-title"><xsl:value-of select="title" /></h2>
+            <a href="{$themes_ajax_root}{nid}" class="topic-link btn btn-primary btn-sm" target="_blank">See full record</a>
             <div class="topic-description">
                 <xsl:apply-templates select="description" />
             </div>

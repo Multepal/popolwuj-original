@@ -1,21 +1,18 @@
 
 $(document).ready(function()
 {
+
     $('.rs').click(function() {
         topic = '#topic-' + $(this).data('ana')
         content = $(topic).html()
-        $('#topic-box').html(content)
-        $('#topic-box').dialog({
-            width: 500,
-            modal: true,
-            maxHeight: 600
-        })
+        title = $(topic + ' .topic-title').html()
+        desc = $(topic + ' .topic-description').html()
+        link = $(topic + ' .topic-link').attr('href')
+        $('#topic-box .modal-title').html(title)
+        $('#topic-box .modal-body').html(desc)
+        $('#topic-box .multepal-link').attr('href', link) 
+        $('#topic-box').trigger('focus')
     });
 
-    $('.pb').click(function() {
-//        side = $(this).data("side")
-//        sel = '[data-side="' + side + '"]'
-//        $(sel).parent().offset({top:100})
-    });
 
 });

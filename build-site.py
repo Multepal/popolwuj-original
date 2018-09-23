@@ -32,27 +32,37 @@ styles['editions'] = [
         crossorigin="anonymous"),
     dict(href="pw-default.css")
 ]
-scripts['default'] = [
-    dict(src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"),
-    dict(src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"),
-    dict(src="xom-paragraphs.js")
+scripts['paragraphs'] = [
+    dict(src="https://code.jquery.com/jquery-3.3.1.slim.min.js",
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo",
+        crossorigin="anonymous"),
+    dict(src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js",
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49",
+        crossorigin="anonymous"),
+    dict(src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js",
+        integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy",
+        crossorigin="anonymous"),
+    dict(src="./xom-paragraphs.js", crossorigin="anonymous")
 ]
-styles['default'] = [
+styles['paragraphs'] = [
     #dict(href='https://www.w3schools.com/w3css/4/w3.css'),
-    dict(href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",),
-    dict(href="xom-paragraphs.css")
+    #dict(href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",),
+    dict(href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css",
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",
+        crossorigin="anonymous"),
+    dict(href="./xom-paragraphs.css", crossorigin="anonymous")
 ]
 docmap = {
     'index.html': {
-        'page_title': 'Digital Editions of the Popol Wuj',
+        'page_title': 'Home',
         'assets':'editions'
     },
     'xom-paragraphs.html': {
-        'page_title': 'DEPW | Paragraphs Edition',
-        'assets': 'default'
+        'page_title': 'Paragraphs Edition',
+        'assets': 'paragraphs'
     },
     'xom-paragraphs.1.html': {
-        'page_title': 'DEPW | Paragraphs Edition | Experimental',
+        'page_title': 'Paragraphs Edition (Experimental)',
         'assets': 'editions'
     }
 }
@@ -69,6 +79,7 @@ for tfile in glob.glob("./templates/*.html"):
     print(fname, '+', mapkey)
     template = ENV.get_template(fname)
     data = dict(
+        site_tite = config['DEFAULT']['site_title'],
         page_title = docmap[fname]['page_title'],
         styles = styles[mapkey],
         scripts = scripts[mapkey]
