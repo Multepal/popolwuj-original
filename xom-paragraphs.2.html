@@ -19,7 +19,7 @@
   {
       $('.rs').click(function() {
           topic = '#topic-' + $(this).data('ana')
-          content = $(topic).html()
+          content = $(topic).html() # Grab parts 
           $('#topic-box .modal-body').html(content)
           $('#topic-box').trigger('focus')
       });
@@ -37,7 +37,12 @@
         crossorigin=""></link>
   -->
   <style type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC|Peddana');
 
+    h1, h2, h3 {
+      font-family: 'IM Fell English SC', serif;
+    }
+  
     p {
       font-family: serif;
       font-size: 14pt;
@@ -51,12 +56,12 @@
 
     div.quc button.pb {
       float: left;
-      margin-left: 0;
+      margin-left: -1in;
     }
 
     div.spa button.pb {
       float: right;
-      margin-right: 0;
+      margin-right: -1in;
     }
 
     .note {
@@ -110,8 +115,7 @@
   <div class="row">
       <div class="col quc" xml:lang="quc">
 
-	<b>K'iche'
-	</b>
+	<h2>K'iche'</h2>
 	<button class="pb btn btn-success" type="button" data-side="xom-f01-s1">xom-f01-s1
 	</button>
 	<span class="note margin-left"> cap.
@@ -16650,8 +16654,7 @@
 </p>
 </div>
 <div class="col spa" xml:lan="spa">
-<b>Castellano
-</b>
+<h2>Castellano</h2>
 <button class="pb btn btn-success" type="button" data-side="xom-f01-s1">xom-f01-s1
 </button>
 <p data-pos="4">

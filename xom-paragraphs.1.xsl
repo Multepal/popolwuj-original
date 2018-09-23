@@ -34,14 +34,14 @@
 
     <xsl:template match="tei:div[@xml:lang='quc']">
         <div class="col quc" xml:lang="quc">
-            <b>K'iche'</b>
+            <h2>K'iche'</h2>
             <xsl:apply-templates />
         </div>
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='spa']">
         <div class="col spa" xml:lan="spa">
-            <b>Castellano</b>
+            <h2>Castellano</h2>
             <xsl:apply-templates />
         </div>
     </xsl:template>
