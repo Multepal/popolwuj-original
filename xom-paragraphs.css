@@ -36,6 +36,11 @@ h1, h2, h3 {
     border-bottom: 1px solid gray;
   }
 
+  div.col {
+    overflow: scroll;
+    height: 8in;
+  }
+
   div.col.quc .note {
     float: left;
     padding-right: .5rem;
