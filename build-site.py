@@ -15,7 +15,7 @@ ENV = Environment(loader=FileSystemLoader('./templates'))
 # Define assets -- PUT THESE IN A CONFIG
 scripts = dict(default=[], editions=[])
 styles = dict(default=[], editions=[])
-scripts['editions'] = [
+scripts['index'] = [
     dict(src="https://code.jquery.com/jquery-3.3.1.slim.min.js",
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo",
         crossorigin="anonymous"),
@@ -26,7 +26,7 @@ scripts['editions'] = [
         integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy",
         crossorigin="anonymous")
 ]
-styles['editions'] = [
+styles['index'] = [
     dict(href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css",
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",
         crossorigin="anonymous"),
@@ -45,8 +45,6 @@ scripts['paragraphs'] = [
     dict(src="./xom-paragraphs.js", crossorigin="anonymous")
 ]
 styles['paragraphs'] = [
-    #dict(href='https://www.w3schools.com/w3css/4/w3.css'),
-    #dict(href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css",),
     dict(href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css",
         integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO",
         crossorigin="anonymous"),
@@ -55,15 +53,11 @@ styles['paragraphs'] = [
 docmap = {
     'index.html': {
         'page_title': 'Home',
-        'assets':'editions'
+        'assets':'index'
     },
     'xom-paragraphs.html': {
         'page_title': 'Paragraphs Edition',
         'assets': 'paragraphs'
-    },
-    'xom-paragraphs.1.html': {
-        'page_title': 'Paragraphs Edition (Experimental)',
-        'assets': 'editions'
     }
 }
 
