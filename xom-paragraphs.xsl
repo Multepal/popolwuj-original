@@ -18,13 +18,16 @@
         <xsl:text disable-output-escaping='yes'>{% block content %}</xsl:text>
 
         <div class="container" id="header">
-            <h1>The <i>Popol Wuj</i>: Paragraphs Edition</h1>
+            <h1 class="text-center">
+                The <i>Popol Wuj</i><br/>
+                <small>Paragraphs and Topics Edition</small>
+            </h1>
             <div class="">
                 <a href="index.html">Home</a>
             </div>
         </div>
 
-        <div class="container" id="content">
+        <div class="container-fluid" id="content">
             <div class="row">
                 <xsl:apply-templates select="//tei:text//tei:body"/>
             </div>
@@ -62,15 +65,15 @@
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='quc']">
-        <div class="col quc" xml:lang="quc">
-            <h2>Lado K'iche'</h2>
+        <div class="col quc" xml:lang="quc">    
+            <h2 class="text-center">Lado K'iche'</h2>
             <xsl:apply-templates />
         </div>
     </xsl:template>
 
     <xsl:template match="tei:div[@xml:lang='spa']">
-        <div class="col spa" xml:lan="spa">
-            <h2>Lado Castellano</h2>
+        <div class="col spa" xml:lan="spa">    
+            <h2 class="text-center">Lado Castellano</h2>
             <xsl:apply-templates />
         </div>
     </xsl:template>
@@ -96,7 +99,7 @@
     </xsl:template>
 
     <xsl:template match="tei:pb">
-        <button class="pb btn btn-secondary btn-sm" data-side="{@xml:id}{@corresp}">
+        <button class="pb btn btn-secondary btn-sm" data-side="{@xml:id}{@corresp}" title="{@xml:id}">
             <xsl:value-of select="@xml:id"/>
             <xsl:value-of select="@corresp"/>
         </button>
