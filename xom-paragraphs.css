@@ -6,7 +6,7 @@ h1, h2, h3 {
 
 div.col {
     overflow: scroll;
-    height: 8in;
+    height: 6.5in;
 }
 
 p {
@@ -16,7 +16,7 @@ p {
 
 .pb {
     font-family: sans-serif;
-    padding: 0 .5rem;
+    padding: .25rem .5rem;
     margin: .5rem;
 }
 

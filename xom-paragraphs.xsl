@@ -22,9 +22,6 @@
                 The <i>Popol Wuj</i><br/>
                 <small>Paragraphs and Topics Edition</small>
             </h1>
-            <div class="">
-                <a href="index.html">Home</a>
-            </div>
         </div>
 
         <div class="container-fluid" id="content">
@@ -57,7 +54,8 @@
             <xsl:apply-templates select="$topics/topics/topic"/>
         </div>
 
-        <div class="container" id="footer">
+        <div class="container text-center mt-3" id="footer">
+                <a class="btn btn-primary btn-sm" href="index.html">Return Home</a>
         </div>
 
         <xsl:text disable-output-escaping='yes'>{% endblock %}</xsl:text>
@@ -99,10 +97,10 @@
     </xsl:template>
 
     <xsl:template match="tei:pb">
-        <button class="pb btn btn-secondary btn-sm" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
+        <span class="pb badge badge-secondary" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
             <xsl:value-of select="@xml:id"/>
             <xsl:value-of select="@corresp"/>
-        </button>
+        </span>
     </xsl:template>
     
     <xsl:template match="tei:note">
