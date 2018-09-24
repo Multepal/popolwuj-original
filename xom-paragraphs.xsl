@@ -99,7 +99,7 @@
     </xsl:template>
 
     <xsl:template match="tei:pb">
-        <button class="pb btn btn-secondary btn-sm" data-side="{@xml:id}{@corresp}" title="{@xml:id}">
+        <button class="pb btn btn-secondary btn-sm" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
             <xsl:value-of select="@xml:id"/>
             <xsl:value-of select="@corresp"/>
         </button>
@@ -135,6 +135,7 @@
     </xsl:template>
     -->
 
+    <!-- Change this into a data record for use by JQuery, etc. -->
     <xsl:template match="topic">
         <div class="topic-entry" id="topic-{key}">
             <h2 class="topic-title"><xsl:value-of select="title" /></h2>

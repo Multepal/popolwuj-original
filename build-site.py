@@ -73,7 +73,7 @@ for tfile in glob.glob("./templates/*.html"):
     print(fname, '+', mapkey)
     template = ENV.get_template(fname)
     data = dict(
-        site_tite = config['DEFAULT']['site_title'],
+        site_title = config['DEFAULT']['site_title'],
         page_title = docmap[fname]['page_title'],
         styles = styles[mapkey],
         scripts = scripts[mapkey]
