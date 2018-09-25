@@ -12,11 +12,13 @@
     <!-- Not sure if this is doing anything -->
     <xsl:strip-space elements="p" /> 
 
+    <!-- Root node: Insert containing page elements -->
     <xsl:template match="/">
 
         <xsl:text disable-output-escaping='yes'>{% extends "base.html" %}</xsl:text>
         <xsl:text disable-output-escaping='yes'>{% block content %}</xsl:text>
 
+        <!-- Header; may include a menu at some point -->
         <div class="container" id="header">
             <h1 class="text-center">
                 The <i>Popol Wuj</i><br/>
@@ -24,12 +26,14 @@
             </h1>
         </div>
 
+        <!-- Main text viewing area -->
         <div class="container-fluid" id="content">
             <div class="row">
                 <xsl:apply-templates select="//tei:text//tei:body"/>
             </div>
         </div>
 
+        <!-- Model box for displaying topic info when segment is selected -->
         <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="Téma">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">

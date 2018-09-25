@@ -3,16 +3,19 @@
 <head>
     <title>{{site_title}} | {{page_title}}</title>
     <meta charset="UTF-8">
-    {% block scripts %}{% for script in scripts %}
-    <script src="{{script.src}}" integrity="{{script.integrity}}" crossorigin="{{script.crossorigin}}"></script>
-    {% endfor %}{% endblock %}
+    <!-- STTYLES -->
     {% block styles %}{% for style in styles %}
     <link rel="stylesheet" type="text/css" href="{{style.href}}" integrity="{{style.integrity}}" crossorigin="{{style.crossorigin}}">
     {% endfor %}{% endblock %}
 </head>
 <body>
+    <!-- CONTENT -->
     {% block content %}{% endblock %}
-    {% block postscripts %}{% endblock %}
+
+    <!-- SCRIPTS -->
+    {% block scripts %}{% for script in scripts %}
+    <script src="{{script.src}}" integrity="{{script.integrity}}" crossorigin="{{script.crossorigin}}"></script>
+    {% endfor %}{% endblock %}
 </body>    
 </html>
     
