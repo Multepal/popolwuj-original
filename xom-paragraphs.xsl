@@ -6,7 +6,7 @@
 
     <xsl:variable name="themes_ajax_root">http://live-multepal.pantheonsite.io/node/</xsl:variable>
 
-    <xsl:param name="fileName" select="'topics.xml'" />
+    <xsl:param name="fileName" select="'multepal/topics.xml'" />
     <xsl:param name="topics" select="document($fileName)" />
     
     <!-- Not sure if this is doing anything -->

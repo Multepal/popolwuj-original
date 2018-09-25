@@ -1,0 +1,16 @@
+--2018-09-25 17:31:58--  http://live-multepal.pantheonsite.io/export/topics.xml
+Resolving live-multepal.pantheonsite.io... 23.185.0.2
+Connecting to live-multepal.pantheonsite.io|23.185.0.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 290511 (284K) [text/xml]
+Saving to: ‘topics.xml.5’
+
+     0K .......... .......... .......... .......... .......... 17% 4.33M 0s
+    50K .......... .......... .......... .......... .......... 35% 5.69M 0s
+   100K .......... .......... .......... .......... .......... 52% 3.78M 0s
+   150K .......... .......... .......... .......... .......... 70% 6.41M 0s
+   200K .......... .......... .......... .......... .......... 88% 6.37M 0s
+   250K .......... .......... .......... ...                  100% 6.36M=0.05s
+
+2018-09-25 17:31:58 (5.21 MB/s) - ‘topics.xml.5’ saved [290511/290511]
+

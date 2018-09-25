@@ -1,0 +1,11 @@
+--2018-09-25 17:31:58--  http://live-multepal.pantheonsite.io/export/annotations.xml
+Resolving live-multepal.pantheonsite.io... 23.185.0.2
+Connecting to live-multepal.pantheonsite.io|23.185.0.2|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25215 (25K) [text/xml]
+Saving to: ‘annotations.xml.5’
+
+     0K .......... .......... ....                            100% 3.17M=0.008s
+
+2018-09-25 17:31:58 (3.17 MB/s) - ‘annotations.xml.5’ saved [25215/25215]
+

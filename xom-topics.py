@@ -1,5 +1,12 @@
+#!/usr/bin/env python
+
 import re
 import pandas as pd
+
+# Create xom-topics.csv
+cmd = "xsltproc xom-topics.xsl xom-all-flat-mod-pnums.xml > xom-topics.csv"
+import os
+os.system(cmd)
 
 bigline = ''
 with open('xom-topics.csv', 'r') as xom:
