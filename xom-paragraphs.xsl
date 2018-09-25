@@ -21,7 +21,7 @@
         <!-- Header; may include a menu at some point -->
         <div class="container" id="header">
             <h1 class="text-center">
-                The <i>Popol Wuj</i><br/>
+                <i>Popol Wuj</i><br/>
                 <small>Paragraphs and Topics Edition</small>
             </h1>
         </div>

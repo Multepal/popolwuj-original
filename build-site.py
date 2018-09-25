@@ -68,8 +68,10 @@ for tfile in glob.glob("./templates/*.html"):
         continue
     try:
         mapkey = docmap[fname]['assets']
-    except IndexError:
-        mapkey = 'default'
+    except KeyError:
+        #mapkey = 'default'
+        print('{} does not have a docmap entry; skipping.'.format(fname))
+        continue
     print(fname, '+', mapkey)
     template = ENV.get_template(fname)
     data = dict(
