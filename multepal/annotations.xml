@@ -1,11 +1,1064 @@
---2018-09-25 17:31:58--  http://live-multepal.pantheonsite.io/export/annotations.xml
-Resolving live-multepal.pantheonsite.io... 23.185.0.2
-Connecting to live-multepal.pantheonsite.io|23.185.0.2|:80... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 25215 (25K) [text/xml]
-Saving to: ‘annotations.xml.5’
+<?xml version="1.0" encoding="UTF-8" ?>
+<annotations>
+  <annotation>
+    <nid>995</nid>
+    <title>Nima camha hun vnim ha</title>
+    <lineas>Folio 56 recto|Column A|Line 27|Line 29|Column B|Line 28|Line 30</lineas>
+    <content><![CDATA[<p>On folio 56r of the manuscript, Ximénez repeats the line "Nima camha hun vnim ha," placing it correctly as the 4th Lordship of the Great Houses of the Nija'ib lineage, and incorrectly placing it in the 6th position. Christenson (2007: 284) preserves the original error, while Colop (1999: 216) corrects it.</p>
 
-     0K .......... .......... ....                            100% 3.17M=0.008s
+<p>Colop (2008: notas 399-400, páginas 216-217) observa: "Conforme a la lista brindada en el folio 51r éste sería un título que se encuentra repetido como <em>Nima K'amja </em>en el sexto lugar, mencionado en la lista del folio 56r."</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: The Sacred Book of the Maya, Popol Wuj</sources>
+    <texto_de_destino></texto_de_destino>
+    <source>Popol Vuh: The Sacred Book of the Maya, Popol Wuj</source>
+  </annotation>
+  <annotation>
+    <nid>1015</nid>
+    <title>Chuwach Kaweqib</title>
+    <lineas>Folio 56 verso|Column A|Line 27|Line 28</lineas>
+    <content><![CDATA[<p>Colop (2008: nota 409, página 219) observa una discrepancia entre las dos columnas. Escribe: “En la columna k’iche’ de la copia de Ximénez se omite por error <em>chuwach Kaweqib</em>, pero se reestablece en su traducción en español donde dice ‘de los caviquib’.”</p>
 
-2018-09-25 17:31:58 (3.17 MB/s) - ‘annotations.xml.5’ saved [25215/25215]
+<p>Christenson (2004: note 121, p. 303) remarks on the discrepancy in the K'iche' and Spanish columns as such: "The phrase marked in parentheses does not appear in the K'iche' version of the text, but it does appear in the parallel translation provided by Ximénez."</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Wuj, Popol Vuh: Literal Poetic Version</sources>
+    <texto_de_destino></texto_de_destino>
+    <source>Popol Wuj, Popol Vuh: Literal Poetic Version</source>
+  </annotation>
+  <annotation>
+    <nid>1017</nid>
+    <title>Saquik</title>
+    <lineas>Folio 56 verso|Column A|Line 23|Line 26</lineas>
+    <content><![CDATA[<p>Colop (2008: nota 408, página 218) observa que “Aquí se omite la identificación de los dos últimos linajes, el de los Saquik que en el folio 51r se les nombra como <em>Tz’utuja</em> y <em>Q’alel Saqik</em>.”</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Wuj</sources>
+    <texto_de_destino></texto_de_destino>
+    <source>Popol Wuj</source>
+  </annotation>
+  <annotation>
+    <nid>1056</nid>
+    <title>Junajpu y Jun Junajpu</title>
+    <lineas>Folio 06 verso|Column A|Line 39|Folio 7 recto Column A Line 23</lineas>
+    <content><![CDATA[<p>Here there is a notable divergence in the K'iche'- and Spanish-language rendering of names of the hero twins, Junajpu and Xbalanke.</p>
 
+<p>Christenson (2004: note 32, page 42) observes that "In this brief section, from lines 1008-1023," or 6v:39-7r:23 in the Ximénez manuscript, "the brother of Xbalanque is referred to in the original manuscript as Hun Hunahpu, the name used exclusively in the remainder of the text for the father of the twin boys. This is unlikely to be a scribal error because it is repeated consistently. This is more likely evidence of a different K'iche' author, supporting the conclusion that the <em>Popol Vuh</em> is the product of sevaral scribes."</p>
+
+<p>Por su parte, Sam Colop (2011: nota 57, página 211) observa esta importante brecha entre la columna escrita en k'iche' y la traducción del pasaje al castellano. Escribe sencillamente: "En la copia k'iche' de Ximénez erróneamente se identifica a este gemelo como Jun Junajpu, en lugar de Junajpu." El destacado traductor no interpreta el significado del error.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: Literal Poetic Version, Popol Wuj</sources>
+    <texto_de_destino></texto_de_destino>
+    <source>Popol Vuh: Literal Poetic Version, Popol Wuj</source>
+  </annotation>
+  <annotation>
+    <nid>1060</nid>
+    <title>Señor obispo (Francisco Marroquín)</title>
+    <lineas>Folio 50 verso|Column B|Line 46</lineas>
+    <content><![CDATA[<p>The legacy of Francisco Marroquín, founder and first bishop of the Archdiocese of Guatemala, would have been familiar to Ximénez and his contemporaries. Having accompanied Fray Juan de Zumárraga and “los letrados que [iban] a constituir la nueva audiencia” to Mexico in 1529 (Saenz 16), Marroquín arrives to Guatemala in 1530 to begin his service as parish priest, a position offered to him by Governor Pedro de Alvarado (Ibid., 19). Drawing from the chronicles of Dominican historian Antonio de Remesal, Karl Scherzer notes the following in his 1857 edition of the <em>Popol Wuj: </em></p>
+
+<p>"Marroquín hizo construir en la vecindad de la antigua capital en el pueblo de San Juan del Obispo un palacio magnífico por las manos de los prisioneros de guerra, que los conquistadores hicieron esclavos. Este edificio continúa hasta hoy llamándose palacio de los esclavos" (122).</p>
+
+<p>Marroquín was witness to the catastrophic earthquake that destroyed the capital, Santiago de los Caballeros de Guatemala; and which claimed the life of Alvarado’s widow Beatriz de la Cueva, a few days after she was named Governor of Guatemala. Recalling the scene in vivid detail in Chapter CCXXIII of <em>Historia Verdadera de la Conquista de la Nueva España, </em>Bernal Díaz del Castillo, who had lived alongside Marroquín for more than twenty years (Saenz 7), notes that he owes his account of the events to the bishop: “porque entre los papeles y memorias que dexó el buen Obispo Don Francisco Marroquin, estaban escritos los temblores, cómo y quando, y de qué manera pasó, según aquí va declarado.”</p>
+
+<p>As J.T. Medina notes in the introduction to his 1905 edition of Marroquín’s <em>Doctrina cristiana en lengua guatemalteca</em>, in addition to overseeing the construction of the parish cathedral, the bishop also “logró que se fundase una cátedra de gramática y erigió un hospital; hizo que fueran frailes de San Francisco y la Merced y quiso llevar también a los jesuitas” (n.p.) Additional projects that Marroquín had hoped to develop included a convent, a school for orphaned girls, and a University (ibid). Marroquín’s bilingual Spanish and Cakchiquel edition of the <em>Doctrina cristiana </em>was first printed in Mexico in 1556, roughly one hundred and fifty years prior to Ximénez’s transcription of the <em>Popol Wuj </em>(ibid, n.p.).</p>
+
+<p>Although the relationship between Marroquín and Fray Bartolomé de las Casas would eventually prove to be rivalrous and rocky, the two were united, if only nominally, in their aversion to the enslavement and mistreatment of indigenous populations. In a letter addressed to the Holy Roman Emperor Charles V in 1537, Marroquín notes that he left instructions “para que conforme a ella, hiciese la tasación..a quien quedó poder de mi iglesia y de la protección, que es un fray Bartolomé de las Casas, gran religioso y de mucho espíritu; y he sabido que ansí se hacía como yo lo dexé ordenado” (Saenz 26).</p>
+
+<p>As Saenz de Santa María points out, “Marroquín creía urgente una revisión total de los tributos que los indios pagaban. Había que tasarlos, y para ello había que recorrer el país de punta a cabo y examinar en cada caso las posibilidades de cada grupo indígena,” an ambitious mission that was well underway at the time of the bishop’s correspondence with Charles V (25). One such trip would later be recorded by the K’iche’ authors of the <em>Popol Wuj</em>, and again with more specificity by Francisco Ximénez.</p>
+
+<p>In addition to these literary footprints, Marroquín, and missionaries like him, <a href="http://live-multepal.pantheonsite.io/content/francisco-marroqu%C3%ADn-and-qumarkaj">left an important mark upon the physical and built environment of colonial Mesoamerica</a>.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/MarroquinObispo.png" width="1335" height="138" alt="" /></image>
+    <sources>El licenciado don Francisco Marroquín, Doctrina cristiana en lengua guatemalteca, Las historias del origen de los indios de esta provincia de Guatemala, Historia verdadera de la conquista de la Nueva España</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1099</nid>
+    <title>Cosmographia liber</title>
+    <lineas>Escolio 01 recto|Line 11|Line 15</lineas>
+    <content><![CDATA[<p>Escolios: Folio 1, side 1, líneas 11–15</p>
+
+<p>Ximénez cites Petrus Apianus's description of "los moradores de America" in chapter four (folio 34) of his <em>Cosmographia liber</em> (1548), available to read in Spanish <a href="https://books.google.com/books?id=dwo8AAAAcAAJ&amp;printsec=frontcover&amp;hl=es&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false">here</a>. That chapter, "de la Cosmographia de America," begins:</p>
+
+<blockquote>
+<p>“America, que agora se dize quarta parte del mundo, tomo nombre de Americo Vespucio inuentor della, y casi se podria llamar isla, por que la mar la rodea casi por todas partes. Fue incognita a Ptolomeo y a los autores antiguos, por estar muy apartada, Hallose el año. 1497. por mandamiento del Rey de España, y por ser tan grã tierra la llaman el nueuo orbe o mundo. Los moradores van desnudos, y muchos dellos comen hombres, son diestros en el arte de tirar conel arco. En muchas partas viuen sin Rey ni Señor. … Tienen condicional liberal en dar y tambien son promptísimos a tomar. … Los habitadores de la Española comen serpientes grandes, y raizes de plantas. Los que habitan en estas Islas tienen semejantes costumbres, con los moradores de America.”</p>
+</blockquote>]]></content>
+    <copia_local>&quot;el Doctor Po. Apíano cosmografo de el emperador carlos quínto de marcando la ísla española, los quiere dar acononocer al mundo dícíendo: q&#039;son gente: índando líberalíssímí, ín accípíendo cupídíssímí en el dar muy líberales, en el recíbír muy codícíosos, y q&#039;consumen todo Un día dando bueltas a un palo.&quot;</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Captura%20de%20Tela%202017-04-23%20a%CC%80s%2011.30.40.png" width="578" height="876" alt="" /></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source>La cosmographia de Pedro Apiano</source>
+  </annotation>
+  <annotation>
+    <nid>1103</nid>
+    <title>&quot;níños, con barbas&quot;</title>
+    <lineas>Escolio 01 verso|Line3 21|Line 25</lineas>
+    <content><![CDATA[<p>Escolios: Folio 1, Side 2: Lines 21–25</p>
+
+<p>In this passage, Ximénez likens his native parishioners to children, calling them “níños, con barbas.” He characterizes their disposition by citing Saint Paul (“como S. Pablo deçía de sí de su hedad pueril”), in an allusion to 1 Corinthians 13:11:</p>
+
+<blockquote>
+<p>“When I was a child, I spoke like a child, I thought like a child, I reasoned like a child; when I became an adult, I put an end to childish ways.”</p>
+</blockquote>
+
+<p>This moment in the text sheds light on Ximénez’s attitude toward Mayan rituals (which he refers to in escolios folio 2, side 1 as “bobería”) and his evangelization strategy in extirpating them, which he describes in terms of persuasion rather than outright physical destruction. For Ximénez, this childishness leaves native people incapable of full responsibility for their “evils”: “no son sus malíçías de tanto peso como lo son las de otros hombres de otras naçíones.” Instead, he blames poor instruction by previous generations of missionaries for native “herrores”—as well as the manipulations of “el demonío.”</p>
+
+<p>While Ximénez’s approach to evangelization is laid out in terms of ethnography followed by peaceful argumentation, this discourse of native innocence or childishness did have physically violent consequences. Similar language was employed in legal contexts to suppress indigenous agency and subjugate them as perpetual minors within the Spanish colonial state. Susan Kellogg describes how the <em>Leyes nuevas de Indias</em> of 1542, which nominally reformed the <em>encomienda</em> system of forced indigenous labor, “grew out of medieval elements of Spanish law granting protection to <em>miserables</em> (or the poor and wretched)” (4). This legal system positioned indigenous people as the easily exploited subjects of the Crown’s “protection,” made explicit in the administrative office of the “Protectoría de Indios.” Members of the Dominican Order, particularly reformers such as influential former encomendero Fray Bartolomé de las Casas, had a significant role in the passage of the <em>Leyes nuevas</em>. In practice, they simply led to the renaming of slavery: the <em>encomienda</em> shifted into the <em>repartimiento</em> system, which technically “redistributed” rather than owned indigenous labor.</p>
+
+<p>Meanwhile, this same language of “protection” was leveraged to justify priests’ policing of their parishioners’ lives beyond the scope of a pastor’s standard duties. Deborah E. Kanter described the practice of <em>depósito</em> in eighteenth-century Mexico, as “a loosely regulated practice whereby women were sequestered in private houses or with parish priests, for punishment or for protection.”</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source>Hijos del pueblo: Gender, Family, and Community in Rural Mexico, 1730–1850, Introduction–back to the future: Law, politics, and culture in colonial Mexican ethnohistorical studies</source>
+  </annotation>
+  <annotation>
+    <nid>1105</nid>
+    <title>La carta de Fray Alonso de Noreña</title>
+    <lineas>Escolio 01 verso|Line 25|Line 26</lineas>
+    <content><![CDATA[<p>Escolios: folio 1, side 2: lines 25–26</p>
+
+<p>This is a reference to material in the <em>Tratado segundo</em>, bound together with <em>Empiezan las historias...</em> (or the <em>Popol Vuh</em>) in Ayer MS 1515 at the Newberry Library.</p>
+
+<p>Included in this <em>Tratado</em> is a copy of a letter from Fray Alonso de Noreña dated 25 February 1581, responding to Fray Diego Ferrano, the vicar of Tecutzilan in the Province of México, “sobre diversas dudas respecto de confesar a los indios.” While this letter is not currently available online, Ximénez indicates here that Noreña held his native parishioners responsible for “great evils” (“grandes malícías”), whereas Ximénez did not believe that they were fully aware of -- and therefore culpable for -- their errors.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1106</nid>
+    <title>Theologia indorum</title>
+    <lineas>Escolio 02 recto|Line 17|Line 21|Escolio 03 recto|Line 01|Escolio 04 recto|Line 05|Escolio 04 verso|Line 44</lineas>
+    <content><![CDATA[<p><strong>Escolios: folio 2, side 1: lines 17–21<br />
+Escolios: folio 3, side 1: line 1<br />
+Escolios: folio 4, side 1, line 5<br />
+Escolios: folio 4, side 2, line 44</strong></p>
+
+<p>Fray Domingo de Vico’s <em>Theologia indorum</em> is a lengthy theological text written in K’iche’ for the purpose of evangelizing the highland Maya. The work reads the Old and New Testaments through the lens of K’iche’ beliefs, employing K’iche’ concepts and literary structures such as poetic couplets in order to communicate Christian doctrine. Vico’s command of the K’iche’ language and deep familiarity with their beliefs has led prominent Mayanist Ruud van Akkeren to <a href="http://mayanarchives-popolwuj.osu.edu/journal/issues/MSJ-7-AkkerenVicoOctober2010.pdf">speculate</a> that he was in close contact with the authors of the <em>Popol Vuh</em> on which Ximénez based his own text, if not the one who taught them Latin characters. Van Akkeren has gone so far as to call the <em>Theologia indorum</em> a “liberal translation” of the Bible into the K’iche’ culture, not just the language.</p>
+
+<p>If Ximénez’s characterization of the work is accurate, Vico did far more than translate the Bible into K’iche’: he incorporated the Maya and other indigenous peoples into Christian salvation history. Ximénez writes, “díçe el N[u]e[stro]. P[adr]e. fr[ay]. Domíngo de Víco en el cap 101 de la segunda parte de su theología índorum a q’estos índíos desçíenden de las díez tríbus q’se perdíeron de los judíos, y q’no bolbíeron a su patría, y así conseruaron por tradíçíones todos los suçesos q’nos refíere el sagrado texto y el demonío selos fue embolbíendo en muchíssímos herrores.”</p>
+
+<p>Ximénez agreed with Vico’s interpretation that the indigenous peoples of the Americas were descended from the ten “lost tribes” of Israel, whose deportation from the Kingdom of Samaria after its conquest by Shalmaneser V of Assyria is chronicled in the Second Book of Kings. He references it throughout the <em>Escolios</em>, as well as in his <em>Historia de la provincia</em>, to explain the origin of Maya beliefs and the occasional similarity of Maya <em>historias </em>and biblical narratives. In Ximénez’s view, these moments of overlap were a matter of failed preservation of a common history.</p>
+
+<p>The theory that the indigenous peoples of the Americas were descendants of the Lost Tribes had widespread currency in the seventeenth century in particular. The most prominent writer on the subject was Portuguese publisher and rabbi Menasseh ben Israel, also known as Manoel Dias Soeiro, who put forth this theory in his 1649 book <em>Spes Israelis</em> (<em><a href="http://olivercowdery.com/texts/1650hope.htm">The Hope of Israel</a></em>). Vico’s work predates that of ben Israel, and is written from a Catholic rather than a Jewish perspective. However, they share a common urgency toward resolving the challenge presented to their existing worldviews by the unaccounted-for New World. This discourse is an example of the multilateral influence of the colonial encounter: it was not just indigenous traditions that were affected by European colonization, but European belief systems that developed in reaction to indigenous populations.</p>
+
+<p>The first volume of the <em>Theologia indorum</em> is <a href="https://www.iae.uni-bonn.de/forschung/forschungsprojekte/laufende-projekte/theologia-indorum/theologia-indorum-translation-volume-1">soon to be translated and made available digitally at George Mason University</a>. A <a href="http://pudl.princeton.edu/objects/707958935">partial manuscript</a> is currently available online through Princeton University.</p>]]></content>
+    <copia_local>2r: “díçe el Ne. Pe. fr. Domíngo de Víco en el cap 101 de la segunda parte de su theología índorum a q’estos índíos desçíenden de las díez tríbus q’se perdíeron de los judíos, y q’no bolbíeron a su patría, y así conseruaron por tradíçíones todos los suçesos q’nos refíere el sagrado texto y el demonío selos fue embolbíendo en muchíssímos herrores.” 
+
+3r: &quot;las dos partes de su tha. del Ne. Pe. fr. Domíngo de Víco&quot;</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/default.jpg" width="648" height="900" alt="" /></image>
+    <sources>Francisco Ximénez and the Popol Vuh: Text, Structure, and Ideology in the Prologue to the Second Treatise</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1108</nid>
+    <title>Junta de Valladolid</title>
+    <lineas></lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 2, side 2, lines 40–41</strong></p>
+
+<p>This is a reference to a debate between Fray Bartolomé de las Casas, O.P., and Doctor Juan Ginés de Sepúlveda, held in 1550 at the Colegio de San Gregorio in Valladolid, Spain. The debate, now widely known as la Junta de Valladolid, discussed the treatment of the indigenous peoples of the Americas. The papal bull <em>Sublimis Deus</em>, propagated by Pope Paul III in 1537, had declared indigenous people to be rational human beings with souls like any other, and it forbid their enslavement on this basis. The purpose of the Valladolid debate was not to relitigate this now settled matter, but rather to sort out the theological and legal basis for how Spanish colonization and the evangelization of the Americas should proceed.</p>
+
+<p>Sepúlveda essentially argued for the status quo, stating that the use of violence in the subjugation of indigenous peoples was legitimate according to Thomas Aquinas’s articulation of just war theory, as it was rehabilitated from early church fathers like St. Augustine of Hippo. According to Sepúlveda, the Spanish crown had both the necessary proper authority and a just end (the extirpation of idolatry and prevention of sin in the form of violent ritual practices) that Aquinas required to justify violence. In addition to his gloss of Catholic voices like Aquinas, Sepúlveda made great use of Aristotle's theory of natural slavery, or the idea that a person's capacity was signaled in his or her body. As The Philosopher wrote, the slave’s body was “strong enough to be used for essentials,” while the master's was “useless for that kind of work, but fit for the life of a citizen” (1254b27-30; 1255b10-13). By combining Aristotelian ideas of natural law and natural slavery with assessments of a person's capacity, sixteenth-century Spanish thinkers like Sepúlveda developed a discourse of "faculty psychology" to justify the enslavement of Amerindians (Pagden 1982).</p>
+
+<p>Las Casas took no issue with Aquinas’s theory, but simply replied that his third condition—the prioritization of peace—was not met. For Las Casas, the advanced civilizations of indigenous peoples indicated their rationality, and therefore violence was not necessary to effect their evangelization. Moreover, the violent practices that Sepúlveda used to justify war on indigenous peoples were no worse than the violent practices in Spain’s own past: “Pero nosotros mismos, en nuestros antecesores, fuimos muy peores, así en la irracionalidad y confusa policía como en vicios y costumbres brutales por toda la redondez desta nuestra España.” These critiques echoed those of Francisco de Vitória and the School of Salamanca, which advocated for indigenous people’s right to life and liberty based on natural law.</p>]]></content>
+    <copia_local>íllmo. Y Nmo. Sor. D. fr. Bartolome de las casas, en sus escrítos y dísputas contra el Doctor Sepulueda</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Las%20Casas%20and%20Sepulveda.jpg" width="1263" height="785" alt="" /></image>
+    <sources>Aqui Se Contiene Una Disputa, o Controuersia Entre El Obispo Do[n] Fray Bartholome De Las Casas, o Casaus ... Y El Doctor Gines De Sepulueda Coronista Del Emperador Nuestro Señor..., The fall of natural man: the American Indian and the origins of comparative ethnology, Politics. Books I and II</sources>
+    <texto_de_destino></texto_de_destino>
+    <source>Aqui Se Contiene Una Disputa, o Controuersia Entre El Obispo Do[n] Fray Bartholome De Las Casas, o Casaus ... Y El Doctor Gines De Sepulueda Coronista Del Emperador Nuestro Señor...</source>
+  </annotation>
+  <annotation>
+    <nid>1109</nid>
+    <title>Historia de Remesal</title>
+    <lineas>Escolio 02 verso|Line 41|Line 42</lineas>
+    <content><![CDATA[<p><strong>Escolios, folio 2, side 2, lines 41–42</strong></p>
+
+<p>Here, Ximénez references a 1619 history of his own province, San Vicente de Chiapa y Guatemala, by Galician priest Fray Antonio de Remesal, O.P.</p>
+
+<p>The full title of the seventeenth-century Dominican's work is: <em><a href="https://archive.org/details/historiadelaprov00reme">Historia de la Provincia de S. Vicente de Chiapa y Guatemala de la orden de ñro glorioso padre Sancto Domingo: escribense juntamente los principios de las demas provincias de esta religion de las Indias Occidentales, y lo secular de la gobernacion de Guatemala</a></em>.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/historia%20de%20la%20provincia.jpg" width="1002" height="1495" alt="" /></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1110</nid>
+    <title>Sembrar la palabra divina</title>
+    <lineas>Escolio 02 recto|Line 09|Escolio 02 verso|Line 31</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 2, side 1, line 9 (“malas semillas”)</strong></p>
+
+<p><strong>Escolios: Folio 2, side 2, line 31 (“sembrador de la palabra dívína”)</strong></p>
+
+<p>Here, Ximénez uses the language of “sowing” (<em>sembrar</em>) and “seeds” (<em>semillas</em>) as metaphors for the evangelization process. This metaphor originates in Christ’s parable of the sower, chronicled in <a href="https://www.biblegateway.com/passage/?search=Mark+4%3A1%E2%80%9320&amp;version=NRSVCE">Mark 4:1–20</a>, wherein the effectiveness of the word of God depends on the condition of the soil (or soul) in which it is planted. Néstor Quiroa notes that Fray Antonio de Remesal, the official chronicler of the Dominican Order, employed this metaphor strongly in his <em>Historia general de las Indias</em> (1615), giving the direct order “<em>Ut prius evellent de inde plantent</em>” (“to uproot beforehand, thereafter to plant”). Quiroa elaborates:</p>
+
+<blockquote>
+<p>It is important to highlight that with the axiom “to uproot beforehand, thereafter to plant,” the Dominican order affirmed its full commitment to the theoretical refutation of native religion. In other words, so that the neophytes could reach a fruitful commitment to Christianity, friars must first persuade them to detest their ancestral religion.</p>
+
+<p>Under this Dominican metaphor, indigenous people were considered the “fertile soil” in which “trees of virtue” were to be planted. However, a fruitful out- come essentially depended on successfully uprooting the “trees of vices”—the indigenous stories, both oral and written. The indigenous stories were “the weed of superstition that must be de-rooted from the indigenous hearts.” Remesal further explained that the desire to eradicate the indigenous religious practices was the main reason that “friars who dealt with the idolatrous Indians were espe- cially interested in knowing their superstitious stories, the origin of their gods, the beginning of their idolatrous rituals and of their abominable sacrifices.” Thus, the main assumption under <em>Ut prius evellant de inde plantent</em> was that the act of recording the native stories would uncover their latent “erratic nature,” very much the same process as digging up roots from a tilled plot.</p>
+</blockquote>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>The Popol Vuh and the Dominican Religious Extirpation in Highland Guatemala: Prologues and Annotations of Fr. Francisco Ximénez</sources>
+    <texto_de_destino></texto_de_destino>
+    <source>The Popol Vuh and the Dominican Religious Extirpation in Highland Guatemala: Prologues and Annotations of Fr. Francisco Ximénez</source>
+  </annotation>
+  <annotation>
+    <nid>1112</nid>
+    <title>“tan quam tabula rasa” </title>
+    <lineas>Escolio 03 recto|Line 18</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 3, side 1, line 18</strong></p>
+
+<p>“tan quam tabula rasa” is a misspelling of “tamquam tabula rasa,” “<em>like a blank slate</em>.” Ximénez would have encountered the <em>tabula rasa</em> concept in Thomist theology, which employs the <a href="https://plato.stanford.edu/entries/information/">definition</a> of Avicenna (Ibn Sīnā), a 10th century Persian physician: “The human intellect at birth is rather like a <em>tabula rasa</em>, a pure potentiality that is actualized through education and comes to know. Knowledge is attained through empirical familiarity with objects in this world from which one abstracts universal concepts.”</p>
+
+<p>Ximénez uses this concept to interrogate friars who report having catechized native people “como papagayos” (parrots) who simply repeated phrases in Spanish “sín íntelígençía alguna de lo q’auían aprendído.” He wonders what would have happened if they had catechized in Hebrew or Greek, to “awaken” Christian doctrine within their souls rather than to commit it to their memory. Afterwards, he suggests, perhaps they would be “like a blank slate,” without knowing what they had learned.</p>
+
+<p>It is worth noting that Ximénez was often sardonic in his accounts of his predecessors, whom he frequently laments as having produced a mess that he is now tasked with cleaning up. Such outbursts are especially common in his dictionaries and linguistic studies. That said, given Ximénez’s belief that native people were descendants of the Ten Lost Tribes of Israel (see <a href="http://live-multepal.pantheonsite.io/node/1106"><em>Theologia indorum</em></a>), it is entirely possible that he is being sincere here.</p>]]></content>
+    <copia_local>...saber la doctrína chrístíana como papagayos sín íntelígençía alguna de loq&#039; auían aprendído. yo quísíera, q&#039;me díxera el qetal íntento, q&#039;ubíera sacado, de q&#039; a el sela ubíeran enseñado en lengua he brea, o gríega, mas q&#039; desesperarse pa. cogerla de memoría, y despues de to - do eso, se quedara tan quam tabula rasa. sín saber lo q&#039;se auía aprendído.</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1123</nid>
+    <title>Deí ferebatur super aquas</title>
+    <lineas>Escolio 04 verso</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 4, side 2, line 3</strong> (“Gen 1. n. 2.”)<br /><strong>Escolios: Folio 4, side 2, line 4</strong> (“Deí ferebatur super aquas”)</p>
+
+<p>Here, Ximénez cites Genesis 1:2 from the Vulgate edition: <em>et spiritus Dei ferebatur super aquas</em>, “and the Spirit of God moved upon the face of the waters.”</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1124</nid>
+    <title>víñadores</title>
+    <lineas>Escolio 02 recto</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 2, side 1, lines 3–6</strong></p>
+
+<p>Ximénez uses the language of “víñadores” and “víña” to describe the relationship between Spanish pastors and indigenous parishioners. Grapes, grapevines, wine, and vineyards are common Christian metaphors for the growth of faith, particularly as fruit grown in otherwise “barren land.” This metaphor is most usually employed in reference to <a href="https://www.biblegateway.com/passage/?search=John+15%3A1%E2%80%938&amp;version=NIV">John 15:1–8</a>, which uses the image of the Church as a grapevine. It can also be seen as part of a broader metaphor of spiritual cultivation, as in the case of "<a href="http://live-multepal.pantheonsite.io/node/1110">sembrar la palabra divina</a>."</p>]]></content>
+    <copia_local>yo consídero esta mala semílla, y zizaña q&#039;el demonío ha sembrado entre ellos a la grama, en las viñas, esta yerua como todos saben esta destrucçíon de las Vídes, y no obitan fe sabíendo esto les Víñadores, contentanse con arrancar la q&#039;Ven, y no aduíerten q&#039;Va cundíendo, en lo oculto, y quando menos se píensan hallan perdída su Viña, y sín remedío, porq&#039; aunq&#039; han Vísto algunos retoños, q&#039;asoman les pareçe cosa tenua, y q&#039; no hara daño, no occurríendo con tíempo al daño, despues se haze írremedíable.</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1125</nid>
+    <title>Apóstrofe a la &quot;Religión de Domingo&quot;</title>
+    <lineas>Escolio 05 verso</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 5, side 2</strong></p>
+
+<p>The Newberry Library <a href="https://i-share.carli.illinois.edu/nby/cgi-bin/Pwebrecon.cgi?DB=local&amp;v1=1&amp;BBRecID=137083">catalog record</a> for the Ximénez manuscript describes this page as “an apostrophe praising the Dominican Order, dated Aug. 14, 1734 and signed ‘Echave’.” According to Ruud van Akkeren, “El mencionado Echave es fray Ignacio de Echave. Aparece por primera vez el 20 de julio 1732 y por última vez el 4 de diciembre 1735.”</p>
+
+<p>This text is a copy of a sermon preached in 1687 by Padre José de Aguilar, S.J. in la Ciudad de La Plata (then the capital of la Real Audiencia de Charcas; now Sucre, Bolivia).</p>
+
+<p>Echave transcribes nearly verbatim paragraphs 27 and 28 from section five of the sermon, but he eliminates the first few lines, which give context to the apostrophe:</p>
+
+<blockquote>
+<p>Muy reconocida, señor, debe estar la Compañia, mi madre, à los grandes, y continuos favores, que de V.S. ha recibido, y recibe, mas entre todos este beneficio de oy, se haze gran lugar en su reconocimiento, por lo mucho que interessa en esta vnion renovada con los hijos de Domingo.</p>
+</blockquote>
+
+<p>The "señor" to whom Aguilar expresses gratitude for his many favors done for his own order, the Society of Jesus (la Compañia de Jesús), is Don Diego Cristóbal de Mejía. Mejía had sponsored Aguilar's trip to La Plata, and had organized the gathering of Jesuits and Dominicans at which this sermon was preached.</p>
+
+<p>After thanking his benefactor, Aguilar then turns to the Dominican guests and begins his praises of their order: "Contigo hablo, ò Religion ilustre..."</p>
+
+<p>Echave eliminates this context and replaces it with the opening which we see in this manuscript: "Contigo hablo, o Itte. [ilustre] Religion de Domingo..." (<a href="https://www.google.com/search?tbm=bks&amp;q=%22religi%C3%B3n+de+domingo%22#q=%22religi%C3%B3n+de+domingo%22&amp;safe=active&amp;tbm=bks&amp;start=0">Other texts from the same period</a> address the Dominican order using the phrase “Religión de Domíngo,” though it was more common to use the official “Orden de predicadores.”)</p>
+
+<p>Moreover, Aguilar's praise is formed in rhetorical questions ("no eres vn Cielo, tachonado de mas Santos, que Estrellas del Firmamento?") while Echave edits this into declarative statements.</p>
+
+<p><em>Acknowledgment: Thanks to Joey Belleza and Kevin Gallagher for their help in deciphering this manuscript and locating its source.</em></p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Fray Francisco Ximénez: del Popol Vuh al quiché-centrismo, Sermon segundo del nombre de Maria y patrocinio de las Armas Españolas, predicado en la Ciudad de la Plata...</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1126</nid>
+    <title>Confesionario</title>
+    <lineas>Escolio 05 recto|Escolio 06 recto</lineas>
+    <content><![CDATA[<p>These are fragments of a “Confesionario en Lengua Quíche.” Ximénez included full <em>confesionarios</em> elsewhere in the manuscript.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1130</nid>
+    <title>duodernidad</title>
+    <lineas>Escolio 04 recto</lineas>
+    <content><![CDATA[<p><strong>Escolio 4 recto, lines 27–31</strong></p>
+
+<p>Ximénez employs the apparent neologism “duodernídad” to characterize the dual nature of divinity within the <em>Popol Wuj</em>. He specifically references Folio 1 recto of his <em>Empiezan las historias…</em> manuscript, in which deities are almost always mentioned in pairs: Tzaqol, Bitol; Alom, Qajolom.</p>
+
+<p>Karl Scherzer, in his 1857 edition of the Escolios, rendered this term as <em>duodeidad</em>, which suggests “two gods.” However, Ximénez seems to be playing on trinity (<em>trinidad</em>), not deity (<em>deidad</em>). In seeking parallels between K’iche’ beliefs and his own Christian theology, Ximénez was not looking for “three gods,” but rather one god with three “sugetos.” He believed that he found one god (Junajpu) with only two “sugetos”: Junajpu Wuch and Junajpu Utiw.</p>
+
+<p>It is worth recalling that <a href="http://live-multepal.pantheonsite.io/content/dualidad-y-creaci%C3%B3n">duality and balance</a> are two central aspects of K'iche' beliefs about creation.</p>]]></content>
+    <copia_local>hunahpu. Un tírador. q&#039;Díos per generatíonem tenía híjos se deue detestar, y explícar. Este díos q&#039; el demonío les dío a entender, lo haçe en el num. 1. fol 1. duodernídad. porq&#039; no nombra mas q&#039;dos sugetos. Uno llamado hunahpu Vuch. Un tírador tacuaçín. ya hun ahpu Vtíu. Un tírador lobo.</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Las Historias DEL ORIGEN DE LOS INDIOS de esta Provincia de Guatemala, traducidas de la lengua Quiché al Castellano para más comodidad de los Ministros del S. Evangelio, por el R.P.F. Francisco Ximénez. (Exactamente según el texto español); y los Escolios</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1131</nid>
+    <title>Camino verde</title>
+    <lineas>Folio 23 verso|Column A|Line 39|Line 40</lineas>
+    <content><![CDATA[<p>The first time in which we arrive at the crossroads of Xibalba ("la cruzijada"), through the eyes of Junajpu and Wuqub Junajpu, we see four paths: red, black, white, yellow. These points correspond to the cosmic order of the universe, as understood in Maya color symbolism and spiritual terms (red = east; black = west; white = north; yellow = south). The brothers take the black way, the route to the underworld. But whent the Hero Twins, Junajpu and Xbalanke, reach the crossroads in this passage, the yellow way has been replaced by the green way, or what Sam Colop (2011: note 149, p. 221) calls "the way of life" ("el camino de la vida").</p>
+
+<p>Dennis Tedlock (1996: 273) observes that Junajpu and Wuqub Junajpu "took the Black Road, whereas Junajpu an Xbalanque send a spy in that direction and later travel a road whose color is not specified. Perhaps it is the Green Road, which was not available to their fathers. In the five-part Mesoamerican directional scheme this would be the middle road, the axis mundi. In the PV, the Green Road is the only one a living human being ways to travel."</p>
+
+<p>Colop (2011: nota 149, páginas 221-222), responding to Tedlock offers a different explanation of this scene at the crucijada: "Mi criterio, es, sin embargo, que aunque se nombra aquel camino, sí tomaron el camino negro porque siguieron la ruta de xu mensajero, <em>xan</em>, y saludan a los Señores en el orden exacto que aquel animal los va picando."</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, Popol Wuj</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1133</nid>
+    <title>Nawal</title>
+    <lineas>Folio 02 recto|Column A|Line 25|Line 25|Folio 50 recto|Column A|Line 27|Line 27|Folio 51 verso|Column A|Line 34|Line 34|Folio 52 recto|Column A|Line 01|Line 10|Line 31|Line 31|Folio 54 recto|Column A|Line 05|Line 05|Column B|Line 04|Line 06</lineas>
+    <content><![CDATA[<p>It is notable that Ximénez's Spanish translation preserves the indigenous Mesoamerican term for "life-spirit," <em>nawal</em>; more accurately, at times he keeps it, at times he removes it, and at times he translates it, variously as "rey" (king), "señor" (lord), and "grandeza" (greatness). We have identified these moments in the K'iche' and Spanish columns so that readers can compare Ximénez's choices.</p>
+
+<p>Christenson (2007: note 70, page 62), observes, "Nawal also has no English equivalent. In Quiché theology, all things, both living and inanimate, have a spirit essence which they call nawal. This spirit essence is believed to give them power to act or communicate on a supernatural plane, for example, to transform their usual form into that of a powerful animal or force of nature. Father Coto ascribes this power to the devil, defining the word naual as 'the magical means whereby the devil spoke to the Quichés through their idols. Thus they would say that the life of the tree, the life of the stone, of the hill, is its naual, because they believed there was life in these objects. If a man asks his wife for something to eat or drink when there is nothing in the house, the wife would reply, <em>xa pe ri tin naualih</em>? (Do you expect me to perform miracles?)” (Coto 1983, 328, 369). Although nawal is borrowed from the Nahua language, where it means 'to transform' (Campbell 1983, 84), the Quiché interpretation of the word is derived from the root <em>na'</em>, meaning 'to feel' or 'to know.' Thus the creation took place by means of the power of the gods’ spirit essence or divine knowledge rather than by physical action."</p>
+
+<p>(AMB note: waiting on 44r transcription. 2nd to last line in Spanish column. 45r, K'iche' column, line 32, and on Spanish side.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: The Sacred Book of the Maya</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1134</nid>
+    <title>&quot;Errores&quot; of equivalence</title>
+    <lineas>Escolio 02 recto</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 2, side 1, lines 22–41</strong></p>
+
+<p>Here Ximénez recounts an incident that he also included in his <em>Historia de la provincia</em>. Because his conclusions in the <em>Historia </em>and <em>Escolios</em> differ substantially, we reproduce key lines from the <em>Historia</em> in full:</p>
+
+<blockquote>
+<p>Sucedió en aqueste Reyno poco después de conquistados, que oyendo las vidas de Cristo y de Nuestra Señora, de San Juan Bautista y de San Pablo y otros que los Padres les enseñaban, se levantó un indio mejicano Pseudo profeta que enseñaba que Huhapú era Dios y que Hununapú era el hijo de Dios Xuchinquezali (que es mejicano) y Aquiexquic Santa María, Vaxaquicab San Juan Bautista, Huntihax San Pablo, con lo cual hubo tanta conmoción entre los indios que estuvo esto para perderse porque llegaron a imaginar que nuestro Santo Evangelio nada les decía de nuevo, que eso ya se lo sabían…</p>
+</blockquote>
+
+<p>Ximénez goes on to argue that an increase of catechetical texts in K’iche’ is the solution.</p>
+
+<p>In contrast, in the <em>Escolios</em>, he expresses pessimism about his evangelization project: “se lo díga otro índío como ellos, no ay cosa mas çíerta pa[ra] ellos, pero sí se lo díçe el P[adr]e. o el español a quíenes tíenen total auersíon no ay remedío.” Moreover, he observes that sometimes indigenous people would appear to assent to Christian doctrine, “mas es por temor, q’por otro motívo alguno.”</p>
+
+<p>This is a rare moment in Ximénez’s work where he recognizes the challenge of evangelization as complicated by social and political factors, rather than exclusively theological ones. His very different assessments in the <em>Historia </em>and <em>Escolios</em> suggest how his thoughts about American missionization changed over time.</p>]]></content>
+    <copia_local>el demonío como tan sabío, alcançando por algunas congeturas la venída de el Sto. Evangelío a estas porfes, les sugíría estas mentíras embueltas en muchas Verdades catolícas de las q&#039;nos enseño el espírítu Sto. en la sagrada escríptura, confín de q&#039; oyendo los índíos lo q&#039; auían de enseñar los mínístros del Sto. Evangelío de Díos, y sus obras, de la encarnaçíon de el Verbo, de Ma. SSma. y los demas sanctos mas se arraígasen en sus herrores pensando: q&#039;aquello q&#039;seles enseñaba era lo mesmo en todo q&#039; lo q&#039;ya ellos sabían de el demonío por voca de sus saçerdotes. y así se ulo por el effecto luego, en eherror q&#039;se levanto en este Reyno de Gualta reçíen conquístado esto, q&#039;todos abrazaron luego, q&#039;hun ahpu era Díos, el q&#039;les predícaban. y hun hunahpu erat fílíus Deí. y xuchínqueꜩalí, q&#039;es la q&#039;en esta lengua llaman Xquíc era Ma. SSma. y q&#039;Vahxaquícat era S.Juo. Baptísta. y q&#039;: huntíhax era S.Pablo Apostol se pareçía a los dísparatos, q&#039;ellos ya tenían sabídos de Voca de el demonío, era façíl a el persuadír los a ellos. y como quíera q&#039;ellos sean tan íncredulos, y desconfíados delo q&#039;los Padres les díçen, de ay es: q&#039;no se q&#039;asíentan totalmente a nuestras Verdades catolícas. porq&#039; son de esa calídad los índíos, q&#039;como selo díga otro índío como ellos, no ay cosa mas çíerta pa. ellos, pero sí se lo díçe el Pe. o el español a quíenes tíenen total auersíon no ay remedío de asentír a loq&#039; seles díce, y sí haçen en la aparíençía q&#039;asíenten, mas es por temor, q&#039;por otro motívo alguno.</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Historia de la Provincia de San Vicente de Chiapa y Guatemala de la orden de predicadores</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1136</nid>
+    <title>Tun</title>
+    <lineas>Escolio 02 recto|Line 09|Escolio 02 verso|Escolio 03 recto|Line 05</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 2, side 1, line 9<br />
+Escolios: Folio 2, side 2, line 46<br />
+Escolios: Folio 3, side 1, line 5</strong></p>
+
+<p>“Tun” means "drum" in K’iche. In his K’iche’-English dictionary, Allen Christenson gives “a small drum used for dances” as a definition for “la’j tun,” indicating that drums could accompany dances (or "bayle" as Ximénez spells it).</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>K&#039;iche&#039;-English Dictionary and Guide to the Pronunciation of the K&#039;iche&#039;-Maya Alphabet</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1137</nid>
+    <title>expresa posita materia</title>
+    <lineas>Escolio 04 recto</lineas>
+    <content><![CDATA[<p><strong>Escolios: Folio 4, side 1, lines 14–20</strong></p>
+
+<p>The beginning of line 16 is unclear in the manuscript. I have transcribed it here as “exprE su posita materia,” though it can also be read as “expresa posita materia.” Karl Scherzer renders it as “expresa su posita materia,” filling in what Ximénez glossed over. We attach an image here so that readers can make their own interpretations, and share them with us.</p>
+
+<p>Néstor Quiroa, working from the original manuscript, translates this paragraph as follows:</p>
+
+<blockquote>
+<p>“Tzacol-bitol, meaning he who makes or fabricates something, expresses its <em>posita materia</em> [substance], because it is still the most adequate name utilized to explain our God. It is possible to deduce that his name was given by Satan in order to convey that he [God] is not the Creator. These names of Tzacol-bitol should be explained to the Indians and the intelligence that was assigned by Satan to this god must be detested.”</p>
+</blockquote>
+
+<p>In other words, the scholarly consensus is that Ximénez employs a simplified Thomistic method of thesis and antithesis in his argument for his evangelization tactics. He gives the antithesis first—that Tzacol-bitol is an unobjectionable name for God—and gives the best argument he has for it, which is that the name expresses God’s essence regardless of the name’s origins. He then states his thesis, which is that the name could still be a Satanic distraction away from the true Creator. A standard Thomistic disputation would then refute the antithesis and conclude by affirming the thesis, but Ximénez skips straight to the point: it is better to be safe than sorry. “[S]e deue explícar a los índíos estos nombres…y detestar la íntelígençía, q’el demonío pudo darle.”</p>]]></content>
+    <copia_local>y aunq&#039;no se deue reparar, en q&#039;le llamen, ꜩacol, bítol. que quíere deçír el q&#039;haze, o fabríca algo exprꜫ su posíta matería. pues ese es el nombre, q&#039;se le hallo mas ade - quado pa. explícar á Díos. todauía porq&#039; se puede díscurrír ser dado por - el demonío, como pa. dar a entender, q&#039;no es críador, se deue explícar a los índíos estos nombres de ꜩacol, bítol. y detestar la íntelígençía, q&#039;el demonío pudo darle.</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Captura%20de%20Tela%202017-04-25%20a%CC%80s%2018.52.54.png" width="780" height="188" alt="" /></image>
+    <sources>The Popol Vuh and the Dominican Religious Extirpation in Highland Guatemala: Prologues and Annotations of Fr. Francisco Ximénez</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1138</nid>
+    <title>Ixkik&#039; as María</title>
+    <lineas>Escolio 04 verso|Folio 15 verso|Column B|Line 37</lineas>
+    <content><![CDATA[<p><strong>Escolio 4 recto, line 25<br />
+Folio 15 verso, column B, line 37</strong></p>
+
+<p>In the <em>Escolios</em>, Ximénez connects the passage in which Ixkik’ is impregnated with Junajpu by the saliva of Jun Junajpu with Mary’s conception of Jesus by the Holy Spirit. His note in the <em>Escolios</em> includes the phrase “num.   fol.   ”, indicating that he intended to cite the page on which this scene occurs. But unlike other textual concordances in the <em>Escolios</em>, Ximénez did not fill in the numbers for this passage.</p>
+
+<p>However, on the corresponding page in <em>Empiezan las historias</em> (<em>Popol Vuh</em>), Ximénez marked “la donzella” (Ixkik’) with a dagger, corresponding to an unclear note in the left margin. He strikes out a note that begins, “Quo modo…” (<em>in this way</em>…)</p>
+
+<p>Ximénez likely intended to use this passage to support his theory of that K’iche’ beliefs were demonic perversions of the Gospel. In the <em>Escolios</em>, he proposes this theory with regard to Tz'aqol-Bitol, whom he took for a faulty imitation of the Christian God (see related annotation <em>expresa posita materia</em>). Moreover, he saw an overidentification of Christian and K'iche' beliefs as an obstacle to evangelization. He observed and lamented that conflating K'iche' deities with Christian figures could lead to general apathy regarding the need to be baptized—and this apathetic state, in his worldview, would be a victory for the devil (see <a href="http://multepal.spanitalport.virginia.edu/content/errores-equivalence">related annotation <em>"errores" of equivalence</em></a>).</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Captura%20de%20Tela%202017-04-25%20a%CC%80s%2019.26.25.png" width="932" height="250" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Captura%20de%20Tela%202017-04-25%20a%CC%80s%2019.26.34.png" width="490" height="432" alt="" /></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1139</nid>
+    <title>libro original</title>
+    <lineas>Escolio 04 verso|Line 34|Line 42|Folio 01 recto|Column A|Line 21|Column B|Line 25|Line 35</lineas>
+    <content><![CDATA[<p><strong>Folio 1 recto, column A, line 21</strong></p>
+
+<p><strong>Folio 1 recto, column B, lines 25–35</strong></p>
+
+<p><strong>Escolio 4 verso, lines 34–42</strong></p>
+
+<p>Ximénez highlights the passage in Folio 1 recto that states that the <em>Popol Wuj</em> was first written down “ya en la ley de Díos, en la cristiandad,” which is to say, sometime after European contact. However, the text states that there had been a “libro original,” but at the time of writing, it was “escondido.” In the <em>Escolios</em>, Ximénez asserts that “lo çíerto es q'tal líbro no pareçío nunca, ní se ha uisto.” He suggests that this “libro original” was not necessarily a book per se, but perhaps “pínturas, como los mexícanos, ó, por hílos, como los peruleros,” in reference to <a href="http://khipukamayuq.fas.harvard.edu/">Andean khipus</a>. He further references a “mapa…en unas mantas texídas” to which he had access in the town of San Antonio Ilotenango.</p>
+
+<p>The scholarly consensus is not far from Ximénez’s own conclusions about a precolonial <em>Popol Wuj</em>. The text mentions that “Don Po. de Robles. es el q’Reyn agora” (56r), a rule that began after 1554. As such, scholars place the first edition of the <em>Popol Wuj</em> in Latin letters between 1554 and 1558 (Christenson 2007, 28). Ximénez’s manuscript of 1701–1702 is simply the earliest surviving edition.</p>
+
+<p>For his part, Ximénez describes his transcription process in <em>Historia de la provincia</em>:</p>
+
+<blockquote>
+<p>determiné el trasuntar de verbo adverbum todas sus historias como las traduje en nuestra lengua Castellana de la lengua Quiche en que las halle escritas desde el tiempo de la conquista, que entonces (como allí dicen) las redujeron de su modo de escribir al nuestro: pero fue con todo sigilo que conservó entre ellos con tanto secreto, que ni memoria se hacía entre los ministros antiguos de tal cosa, e indagando yo aqueste punto, estando en el Curato de Santo Tomás Chichicastenango, hallé que era la Doctrina que primero mamaban con la leche y que todos ellos casi lo tienen de memoria y descubrí que de aquestos libros tenían muchos entre sí, y hallando en ellos por aquestas historias, como se verá adelante, viciados muchísimos misterios de nuestra Santa fe católica, y mucho o lo más del Testamento viejo, trabajé en sermones continuos el refutar aquestos errores.</p>
+</blockquote>]]></content>
+    <copia_local>Folio 1r/B/25–35: “Esto escriuiremos ya en la ley de Díos, en la cristiandad, lo sacaremos porq’ ya no ay líbro comun, original donde verlo. dela otra parte de el mar es venido donde se a visto; q’es dicho su ser enseñada nuestra obscuridad con la míradura dela clara vida. antigua mente avía libro original q’se escrivío antigua mente; síno q’esta escondido alq’ lo míra, y alq’ lo piensa. grande es su venida, y su ser enseñado.”
+
+Escolio 4v/34–42: “Díçe num. 2. q&#039;lo escríue en tíempo de la crístíandad, porq&#039; aunq&#039; auíalíbro en q&#039;todas estas cosas estaban escrítas, y q&#039;víno dela otra parte de el mar, y q&#039;oy no se puede leer. lo çíerto es q&#039;tal líbro no pareçío nunca, ní se ha uisto. y así nose sabe síeste modo de escríuír, era por pínturas, como los mexícanos, ó, por hílos, como los peruleros. puedese creer q&#039;era por pínturas en mantas blancas, texídas fíguras q&#039;de notaban las cosas, como, oy tíenen los de el Pueblo de S Anton ílocab en el quíche como un mapa píntadas todas sus tíerras, montes, y ríos en unas mantas texídas. yasí es factíble conservasen sus memorías, y antíguallas.”</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: The Sacred Book of the Maya, Historia de la Provincia de San Vicente de Chiapa y Guatemala de la orden de predicadores</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1140</nid>
+    <title>de el ser de Díos</title>
+    <lineas>Escolio 04 recto|Folio 01 recto|Column A|Line 01</lineas>
+    <content><![CDATA[<p><strong>Folio 1 recto, column A, line 1<br />
+Escolio 4 recto, lines 1–2</strong></p>
+
+<p>Ximénez places his heading for the first chapter of the <em>Escolios</em> (“Cap. 1. de el ser de Díos”) in the margin of the first page of the <em>Popol Vuh</em>, which introduces the principal deities involved in the K'iche' account of creation. In the <em>Escolios </em>, Ximénez examines the nature of these creator gods and the nature of divinity in the <em>Popol Vuh</em>, which he refers to as “duodernidad” (deities are placed in pairs, rather than a monotheistic trinity). He further debates the "proper" use of these deities’ names in catechizing, and ultimately supports their utter extirpation. He argued that although Tz’aqol Bitol was a linguistically accurate name for God (Framer, Shaper), it could easily be a demonic distraction from the true faith. Instead, he recommends the continued use of “Dios.”</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1141</nid>
+    <title>&quot;En tu sacro caystro son vulgares los Cisnes&quot;</title>
+    <lineas>Escolio 05 recto|Line 19|Line 21</lineas>
+    <content><![CDATA[<p><strong>Escolio 5 verso, lines 19–21</strong></p>
+
+<p>Echave edits Aguilar's original phrasing—"En tu sacro caystro son vulgares los Cisnes, que aprendieron, ò de Domingo, ò de Ferrer, el punto"—by adding Thomas Aquinas to this list of saints.</p>
+
+<p>Aguilar is referencing a description of the Achaean soldiers in Book II of <em>The Iliad</em>, which <a href="http://classics.mit.edu/Homer/iliad.2.ii.html">reads</a>: "They were like great flocks of geese, or cranes, or swans on the plain about the waters of Cayster, that wing their way hither and thither, glorying in the pride of flight, and crying as they settle till the fen is alive with their screaming."</p>]]></content>
+    <copia_local>en tu Sacro Caystro son vulgares los Cisnes qe aprendieron o de Domgo o de Thomas o de Ferrer el punto</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Sermon segundo del nombre de Maria y patrocinio de las Armas Españolas, predicado en la Ciudad de la Plata...</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1182</nid>
+    <title>Cuatro esquinas</title>
+    <lineas>Folio 01 recto|Column B|Line 37|Line 42</lineas>
+    <content><![CDATA[<p>En la creación del cielo y la tierra, Ximénez (folio 1 recto) especifica que se reparte en “cuatro esquinas”, “cuatro lados” o “cuatro partes”. Esta reiteración del número cuatro para la división del cosmos en su creación es común entre otras versiones del <em>Popol Wuj</em> que sostienen la misma división cuadrangular. Recinos (1976: 27) relata cómo el cielo y la tierra “fue formado y repartido en cuatro partes”, así como “fue medido y se trajo la cuerda de medir y fue extendida en el cielo y en la tierra, en los cuatro ángulos, en los cuatro rincones”.</p>
+
+<p>Recinos menciona al pie de página que esta interpretación se corresponde con la interpretación de Brasseur de los cuatro puntos cardinales a los cuales se asocia dicha configuración en cuatro vértices. Además añade que “es la misma idea de los cuatro <em>Bacales</em> que sostienen el cielo y los mayas” (Recinos 1976: 27).</p>
+
+<p>En la versión de Tedlock (1996: 72), la versificación muestra un mayor énfasis sobre esta idea, formulando repetidas veces la división en cuatro partes: "the fourfold siding, fourfold cornering, measuring, fourfold staking, halving the cord, stretching the cord in the sky, on the earth, the four sides, the four corners."</p>
+
+<p>Aunque Christenson ofrece una versificación similar a Tedlock, que reincide en la idea de la división cuatripartita, las traducciones anglófonas no son iguales. Ocurre un fenómeno particular que Christenson denomina “gapping” (42) por el cual el tercer verso de este cuarteto no repite la misma palabra, mientras que mantiene el mismo significado, con el objetivo de romper la monotonía a nivel sonoro, como se puede observar en los versos 66 a 69: "Its four cornerings, / Its four sidings, / Its measurings, / Its four stakings," o más bien en k'iche': "U kaj tz'ukuxik, / U kaj xukutaxik, / Retaxik, / U kaj che'xik".</p>
+
+<p>El número cuatro, por tanto, está estrechamente relacionado con la creación del cielo y la tierra en las diferentes versiones del <em>Popol Wuj</em> que aquí analizamos. Como Knapp (1998: 130)  afirma, haciendo mención a los anteriores versos de Tedlock y Xiloj, que “the number four, identified in the above quotation with the cardinal points, may be considered as the archetypal structure of the Mayan cosmos and community”. Añade que “each of the four directions was associated in the Popol Vuh with a color, a tree, birds, gods, and rituals” (1998:130). Por último, para comprender aún más el afán en la división cuatripartita que platean los dioses, Knapp reflexiona que el origen de esta numeración en la acción de los dioses puede radicar en la idea de que: "Juxtaposing a rational cosmic order with an irrational or inexplicable terrestrial condition, they unconsciously compensate for a chaotic inner state. Numbers, as ordering devices, are one of the most ancient representations of humanity's spirit and intellect (1998: 130)."</p>]]></content>
+    <copia_local>en cuatro partes, su ser señalado, su ser
+amojonado con estacas, su ser medido a
+mecates, o cuerdas, y su ser estirada la
+cuerda en el zielo, y en la tierra; q’es di –
+cho de cuatro esquinas, y cuatro lados</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/cuatro%20imagen%20para%20benjami%CC%81n.png" width="109" height="61" alt="" /></image>
+    <sources>Women, Myth, and the Feminine Principle. , Popol Vuh: Las antiguas historias del Quiché, Popol Vuh: Literal Poetic Version, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1184</nid>
+    <title>Dualidad y creación</title>
+    <lineas>Folio 01 recto|Column B|Line 17</lineas>
+    <content><![CDATA[<p>La lista de dioses que aparece al comienzo de la creación en el <em>Popol Wuj</em> ha sido un debate común, especialmente entre las diferentes versiones de la misma obra. Según Rice (2007: 205), esto se debe en parte al estilo confuso de puntuación en esta enumeración y al hecho de que se citen en pareados. El mismo autor, analizando la versión de Christenson (2003: 60-62), concluye que solamente hay tres pares de dioses en la creación: “the Framer and the Shaper; Soverign and Quetzal Serpent (the latter, Q’ukmatz, being equivalent to Quetzalcoatl/Kukulcan); and Xmucane and Xpiyacoc”.</p>
+
+<p>La representación de los dioses en pares responde, según Gossen (1986: 5-8) a un concepto clave que agrupa a la cultura mesoamericana y diversas cosmovisiones de los pueblos originarios de América: “the principle of complementary dualism”, o lo que el padre Ximénez llamará "<a href="http://live-multepal.pantheonsite.io/content/duodernidad">duodernidad</a>".</p>
+
+<p>En este caso, se da un ejemplo de complementariedad relacionado con el género, el cual que ha sido observado por parte de la crítica. Recinos (1967: 28), en relación al “Creador y el Formador, la madre y el padre de la vida” menciona que “cuando enumera personas de los dos sexos, se observará que el <em>Popol Vuh</em> galantemente menciona primero a la mujer”. Sobre esta consideración, Knapp (1998: 131) también resalta el mismo hecho y añade que “the existence of an archetypal couple in the creation motif—the "motherfather of life, of humankind"—is all the more striking because the female (Xmucane) is named first and then the male (Xpiyacoc)”.</p>
+
+<p>Las dos deidades, Xmucane y Xpiyacoc, que se complementan en esta dualidad en el género, son concebidos no solamente como los dioses creadores, sino también como los que dan vida a los seres humanos. Rice (2007: 205) recoge los otros nombres que reciben en la versión poética de Christenson (2004: 62-63), como Hunahpu Possum y Hunahpu Coyote, Creator of the Green Earth y Creator of the Blue Sky, Midwife y Patriarch, y Protector y Shelterer (62-63), así analizando cómo por un lado “Xpiyacoc, the male deity, is represented as a grandfather in the story, and his name may relate to a textile design featuring a turtle (<em>kok</em>)”. Por otro lado, “the name of the female deity and grandmother, Xmucane, may be derived from <em>muqik</em> (to bury, cover, plant in the ground) plus x-, a female or diminutive marker”. Dennis Tedlock (1996: 216-217) los nombra “Midwife, Matchmaker” y añade sobre la etimología de los nombres que Xpiyacoc se relaciona con un verbo, “to put in order”, mientras que Xmucane deriva de “to do a favor”.</p>
+
+<p>Por último, volviendo sobre el orden de aparición en cuanto a género en la narración, Knapp (1998: 127) hace una lectura que favorece a la figura de Xmucane en este orden dual, resaltando que “the <em>Popol Vuh</em> narration, although underscoring mainly a patrilineal, patriarchal, and patrilocal society, invites the feminine principle or primordial Mother to participate in the creation of humankind”. Curiosamente, como Knapp (1998: 146) menciona, no ocurre de igual manera cuando se crea a los humanos, ya que, <a href="http://live-multepal.pantheonsite.io/content/libro-original">como en el Génesis</a>, las mujeres aparecen después de los hombres.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/origen%20de%20la%20vida.jpg" width="266" height="320" alt="" /></image>
+    <sources>Popol Vuh: Literal Poetic Version, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, Women, Myth, and the Feminine Principle. , Popol Vuh: Las antiguas historias del Quiché, Symbol and meaning beyond the closed community: Essays in Mesoamerican ideas, Maya calendar origin: Monuments, mythistory, and the materialization of time</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1187</nid>
+    <title>Cuatro en espacio y tiempo</title>
+    <lineas>Folio 01 recto|Column B|Line 37|Line 42</lineas>
+    <content><![CDATA[<p>Para entender mejor el concepto de la cosmovisión en el<em> Popol Wuj</em>, Ameni compara las tradiciones espirituales y las prácticas cotidianas en las comunidades indígenas de Mesoamérica y los Andes. Concluye que “if Mesoamerica is all about time, the Andean world is all about space” (2015: 291). Comparando al libro sagrado andino, el así llamado <em>Manuscrito de Huarochirí</em>, con el <em>Popol Wuj </em>maya-quiché, Ameni comenta que “the Huarochirí peregrinations take the heroic descendants on a counterclockwise route that incorporates the peripheral villages and mountain peaks visible from Huarochirí”.</p>
+
+<p>En su comparación entre las narraciones de las dos regiones, Ameni menciona que: “one senses the profound effect exerted by the ecosphere of creation mythology. Like that implied in the Huarochirí narrative, the course of timed contemporary Maya rituals often involve routes that pass from one side of quadripartite space to the next in a counterclockwise fashion, usually from east to north to west to south, ending at center” (2015: 291-292). Para mayores informaciones en cuanto a la orientación espacial de los pueblos mesoamericanos, véanse el estudio de Amara Solari, "Circles of Creation: The Invention of Maya Cartography in Early Colonial Yucatán."</p>
+
+<p>En este sentido, la cosmovisión en relación a la creación del mundo, el tiempo y el espacio, <a href="http://live-multepal.pantheonsite.io/content/cuatro-esquinas-0">encuentran su formulación en una composición cuatripartita</a>, como así se muestra en los rituales mayas contemporáneos. Aunque en el <em>Popol Wuj</em> maya-quiché no se haga énfasis al concepto del tiempo en la creación, sí podemos observar que existe un denominador común en las diferentes versiones, coincidiendo en el concepto de las cuatro esquinas, los cuatro caminos y los puntos cardinales.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>The measure and meaning of time in Mesoamerica and the Andes, Circles of Creation: The Invention of Maya Cartography in Early Colonial Yucatán, El manuscrito de Huarochirí: libro sagrado de los Andes peruanos </sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1189</nid>
+    <title>La segunda migración </title>
+    <lineas>Folio 52 recto|Column B|Line 01|47|Folio 52 verso|Column B|Line 01|47|Folio 53 recto|Column B|Line 01|47|Folio 53 verso|Column B|Line 01|Linea 47</lineas>
+    <content><![CDATA[<p>“And then they remembered what had been said about the east”: estas son las palabras con las cuales Tedlock empieza la quinta parte de su edición. Finalmente, durante la segunda y última fase migratoria de las primeras poblaciones originarias, estas deciden seguir los consejos de sus padres al irse hacia el este, “we are going to the east, where our fathers came from” (Tedlock, 179). Aquí, fundan una ciudad llamada, en la edición de Tedlock, Thorny Place, también conocido en K'iche' como "Chi K'ix". En este lugar residen por un largo periodo de tiempo, tienen hijos y viven en paz. Sin embargo, la tribu de los Ilocs empieza a fomentar varias guerras destruyendo la serenidad de la comunidad. A causa de la guerra, varios individuos son matados, sacrificados o reducidos al cautiverio. </p>
+
+<p>Es interesante notar como en el texto del <em>Popol Vuh</em> se insiste mucho en describir la gran cantidad de hombres que componían estas tribus originarias y se pone el enfoque en la capacidad de reproducirse y de fundar nuevas ciudades expandiendo, de esta manera, su civilización. En este sentido es notable la presencia de expresiones usadas para describir las primeras ciudades fondadas. En Recinos se lee: “allí desarrollaron su poder y construyeron edificios de cal y canto bajo la cuarta generación de reyes” (144).</p>
+
+<p>Además de la atención conferida a las genealogías, descritas de manera muy precisa y detallada, es interesante enfocarse en la terminología usada. De hecho, como es posible apreciar por la precedente cita, mucho interés es otorgado a la descripción de los edificios y al material del cual están formados. En varias crónicas de la época colonial, es posible encontrar referencias a edificios de cal y canto, usualmente con el fin de evidenciar el desarrollo de una población y su poder político. Mientras que en estas la conclusión a la cual se llega, gracias a estas observaciones, es que estas poblaciones demuestran de ser “más dispuestas” a ser conquistadas, en el <em>Popol Vuh</em>, la atención hacia la calidad y el desarrollo de estas primeras civilizaciones podría sugerir la intención de subrayar la potencia de los antepasados de la población guatemalteca.</p>
+
+<p>A un periodo de paz y armonía, sigue otro de degeneración, caracterizado por guerra y sacrificios. Desde este momento, muchas ciudades necesitan edificar fortificaciones (Recinos, 145). La quinta generación de hombres se caracteriza por una gran expansión del imperio, dividido en varias tribus por el crecimiento de celos y problemas internos. Esto lleva a la formación de varias Casas Grandes (24, según Recinos), cada una controlada por un señor. Con el pasar de las generaciones, las poblaciones de diversifican, su poder y su ordenamiento político se radica y solidifica.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/cittadella%20popol%20vuh%20.jpg" width="960" height="425" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/prisioneros%20ppv.jpg" width="960" height="843" alt="" /></image>
+    <sources>Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, Popol Vuh: Las antiguas historias del Quiché</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1190</nid>
+    <title>La mezcla de idiomas </title>
+    <lineas>Folio 35 recto|Column A|Line 01|Line 47|Folio 35 verso|Column A|Line 01|Line 47</lineas>
+    <content><![CDATA[<p>Después de cumplir la primera migración hacia la ciudad de Tulán, las primeras tribus se unen por primera vez y reciben a sus dioses - los K'iche, los Tamub y los Ilokab, todos reciben como dios a Tojil - y lo mismo ocurre para los primeros hombres - Balam Quitzé con Tojil, Balam Aq'ab con Awilix, Majuk'utaj con Jaqawitz e Ik'ibalam con Nik'aqaj Taq'aj. En las ediciones de Gómez, Recinos y Tedlock se evidencia la gran cantidad de gente que acude a este lugar, “and they arrived there at Tulan, all of them, countless people arrived, walking in crowds” (Tedlock, 152).</p>
+
+<p>Durante este momento de intercambio y comunión, algo ocurre que varía irremediablemente la situación: al llegar otras poblaciones, el lenguaje se mezcla. En Recinos se lee: “y entonces llegaron todos los pueblos, los de Rabinal, los Cakchiqueles, los de Tziquinahá y las gentes que ahora se llaman Yaquis. Y ahí fue donde se alteró el lenguaje de las tribus; diferentes volviéronse sus lenguas. Ya no podían entenderse claramente entre sí después de haber llegado a Tulán” (111). Como nota Andrián Recinos, este pasaje del <em>Popol Wuj</em> es muy interesante como prueba de la comunidad de origen de la gente K'iche' y demás pueblos de Guatemala y de las tribus que se establecieron en los tiempos antiguos en diversas partes de México y Yucatán (175).</p>
+
+<p>Es interesante notar como en la versión de Gómez, la descripción de la relación entre estas primeras poblaciones y la diferenciación de sus idiomas se describe con una atención otorgada más a los sentimientos que se generan entre los diferentes representantes de estas poblaciones. Durante la primera peregrinación las varias gentes reunidas bajos el control de Balam Ki'tze' sufren grandemente el frio, por la privación del fuego. Además, el idioma original que originariamente los unía se diferencia y aumenta este estado de confusión. Balam Ki'tze' se dirige a ellos diciendo: “decidme: ¿en qué lengua habláis? ¿De dónde habéis sacado esos ruidos extraños que salen de vuestras bocas? ¿Acaso ya no sabéis el idioma que todos, por igual usábamos en la tierra de Tulán? ¿Qué habéis hecho de las palabras que antes conocíamos y nos eran familiares y gratas? ¿En qué confusión habéis caído?” (36-7).</p>
+
+<p>Como se puede apreciar, la peregrinación lleva a la diversificación de los idiomas lo cual causa confusión y divide internamente a la población originaria. La diversificación del lenguaje es el signo más fuerte de la diferenciación que ocurre entre el pueblo original, creado por los primeros hombres. La imposibilidad de comunicarse provoca división y causa la pérdida del original estado de paz y armonía. La migración se describe en Gómez como algo espantoso, desconocido. La nueva tierra encontrada es “extraña y pedregosa” (41), los animales que la pueblan son “inmundos”, el agua es “oscura” y el aire que se respira está cargada de “peste, miedo y ruido” (41). Tojil, el dios protector, se dirige a sus gentes y los invita a abandonar estas tierras hostiles y los invita a seguir adelante hasta llegar a una montaña donde podrán descansar. La referencia a una “tierra prometida” y la sugerencia a seguir una “signo especial”, así como la confusión provocada por las diferentes lenguas, tienen evidentes conexiones con las dinámicas del Antiguo Testamento, en que Moisés, después de guiar el pueblo de Israel por muchos años, a través de peligros y duras penalidades, llega finalmente a la tierra prometida por Dios. En Génesis 11:1-9 (<em>Nueva Versión Internacional</em>), se hace referencia a cómo, al principio de los tiempos, la población originaria de la tierra hablaba un único idioma. Como punición para la construcción de una torre que pretendía llegar hasta dios, este decide transformar el idioma común en una serie de varias lenguas diferentes para que las personas ya no puedan entenderse. </p>
+
+<p>En su edición del <em>Popol Vuh</em>, Dennis Tedlock titula el episodio sobre la mezcla lingüística: “And this is our root, we who are the Quitché people” (149). Tal titular parece relevante al momento de considerar el énfasis con el cual, a lo largo del libro de la creación, se subraya que las poblaciones mayas derivan de un mismo grupo original, caracterizado por varias culturas y lenguas, pero fundamentalmente unido. En esta sección del <em>Popol Vuh</em>, que corresponde en Ximénez, Tedlock, Christenson, Gómez y Recinos a la primera fase de la migración, se identifican diferentes poblaciones con diferentes idiomas y nombres, todos situados en el oeste. Al describir tales poblaciones originarias, a menudo se presenta la dificultad de describir exactamente el número y la etnia de estas gentes por la excepcional numerosidad de estas. En la edición de Tedlock se lee: “It is sufficient that we speak only of the largest tribes from among the allied tribes; we have only noted the largest” (149). Solamente las poblaciones que viven en las montañas hablan el mismo idioma, mientras que para lo demás la comunicación resulta una barrera difícil de superar, “they didn´t know where they were going. They did this for a long time, when they were there in the glasslands: black people, White people, people of many faces, people of many languages, uncertain, there at the edge of the sky” (150).</p>
+
+<p>Una vez abandonada la ciudad de Tulán, nadie ya puede comprender lo que dicen los demás, “their languages became differentiated. They could no longer understand one another clearly when they come away from Tulán” (152). Finalmente, las primeras poblaciones se dividen, cada uno rumbo direcciones diferentes, todos pobres, todos vestidos solamente con piles de animal.</p>
+
+<p>La relación entre los movimientos migratorios y la evolución lingüística de estas gentes puede apreciarse a lo largo del <em>Popol Vuh</em> como un movimiento de-unificador. Desde una situación de paz, armonía e unión, en la cual todos están acomunados por los mismos rasgos lingüísticos, se advierte una degeneración caótica, a causa de la cual las poblaciones se despiedren y los idiomas se diferencian hasta llegar a la formación de varios idiomas diferentes, sin embargo, acomunados por un matiz lingüístico común. La migración descrita en el <em>Popol Vuh</em> lleva (supuestamente) a la formación del grupo <em>quicheano</em> de lenguas, que a su vez forma parte de la familia lingüística de las lenguas <em>mayenses</em>, idioma hablado por buena parte de los miembros de la etnia quiché, originaria de Guatemala. Esta lengua es hablada ahora por un millón de hablantes en Guatemala y por 524 hablantes en México (en 2002). Es interesante notar como, de nuevo, la difusión de esta lengua a México ha sido causada por fenómenos migratorios, provocados en particular por la migración de refugiados a ese país durante el período del genocidio maya en los años ochenta. Según el censo de 2002 hay 1,270,953 personas que pertenecen a la etnia quiché. Sin embargo, SIL International menciona cifras mucho más elevadas y estima que el número total de hablantes del quiché en más que 2,000,000 (véase «XI Censo Nacional de Población y VI de Habitación (Censo 2002) - Pertenencia de grupo étnico»).</p>
+
+<p>El <em>Popol Vuh</em> enseña al lector el pasado de la civilización maya, pintando las dificultades originadas por el contacto con otras poblaciones y lenguas. En <em>La maya, lo maya, un maya</em>, Fidencio Chel subraya como los procesos de sustitución, mezcla, actualización y reforzamiento llegaron a la formación de diferentes lenguas locales, lo cual impidió la unificación lingüística en una lengua “nacional” o “oficial”. Esto lleva, según Chel, al estereotipo que considera las lenguas mayas actuales como “lenguas segundarias”, “lenguas autóctonas, cuando no dialectos” (7). La fusión de varios idiomas empujada por los procesos migratorios y por el contacto con los colonizadores españoles, provocaron una mezcla lingüística, definida por investigadores como Bárbara Pfeiler como <strong>xe’ek’ </strong>(1997) “revoltura, mezcla”; esta variedad lingüística se contrasta con la <strong>jach maya</strong>, o sea la lengua maya pura, privada de influencias de derivación castellana. Hace 30 años, con la creación de la Academia de la lengua maya de Yucatán, se busca mantener viva la pureza de la lengua maya para que superviva sin ser influenciada demasiado por el contacto con otros idiomas. Fidencio Chel intenta subrayar como las diferentes variedades lingüísticas que caracterizan la lengua maya son manifestación de su riqueza cultural y parte del reconocimiento de otros. El autor enfatiza la importancia de promover el conocimiento y el reconocimiento de estas diversidades lingüísticas al fin de fortalecer la multiculturalidad y reconocer la identidad particular de cada grupo y la riqueza cultural de la nación.</p>
+
+<p>En <em>Las lenguas mayas: historia y diversidad</em>, Suárez sostiene que en la actualidad se reconoce la existencia de 26 a 31 lenguas mayas (entendiendo por “maya” todos los miembros de esta familia y no sólo el maya peninsular), pero el número definitivo de éstas aun es un trabajo pendiente. Esta indefinición se debe a que algunos autores consideran lenguas lo que para otros solamente son variantes dialectales y, en otros casos, algunas variantes dialectales sumamente diferenciadas no se consideran lenguas distintas. De ellas sólo dos son lenguas muertas (el <em>chicomucelteco</em> y el <em>choltí</em>), las restantes se utilizan como principal medio de comunicación en numerosas comunidades contemporáneas. Por lo general, se distinguen cuatro ramas principales: la <em>rama huastecana</em>, la <em>rama yucatecana</em>, la <em>rama occidental</em> y <em>la rama oriental</em>. Suárez subraya como esta situación numérica permite desterrar la idea popular de que los mayas, después del periodo Clásico (250 a 900 d. C.), habían casi desaparecido.</p>
+
+<p>Al considerar la continuidad de algunos patrones tecnológicos presentes en la realización de antiguos materiales arqueológicos, y por medio de métodos lingüísticos glotocronológicos (basados en el estudio del cambio en el vocabulario a través del tiempo) varios estudiosos sostienen que habrían podido ser manufacturados por comunidades hablantes de una lengua maya en formación (protomaya), que través de los siglos se fue diferenciando dentro del tronco lingüístico mesoamericano.</p>
+
+<p>Entre 1,000 y 500 a.C. desde una economía prevalentemente agrícola basada en el maíz, empezó la fabricación de vasijas y otros objetos de cerámica. Es a partir de esos momentos cuando se tiene plena certeza de la identificación lingüística de esos antiguos pobladores como hablantes de maya. Sin embargo, es la escritura jeroglífica maya la más contundente de las evidencias arqueológicas para identificar dichos materiales como productos de hablantes mayas. Después del colapso del periodo Clásico, aunque no con la misma exuberancia e intensidad, la tradición se mantuvo hasta el momento del contacto con los conquistadores y colonizadores españoles. Muestra de ello son los tres códices del Posclásico (900 a 1550 d.C.) que lograron sobrevivir a la férrea destrucción emprendida contra estos documentos, en tiempos coloniales, por los portadores de la nueva religión. La mejor evidencia de que las bases fonéticas, utilizadas por los escribanos del periodo Clásico, aún continuaban en tiempos de la conquista, es el llamado "Alfabeto de Landa”, llamado de esta manera por el franciscano que durante los inicios de la segunda mitad del siglo XVI registró, en lugar de un alfabeto, un silabario que ha servido de "Piedra Roseta" para el avance del actual desciframiento y lectura de los numerosos textos jeroglíficos mayas.</p>
+
+<p>Cuando se observa un mapa de lenguas de esta área cultural, la diversidad se hace más compleja. Lo primero que salta a la vista es la gran extensión que ocupan los hablantes del maya peninsular o yucateco. Estos habitan prácticamente toda la península de Yucatán, terrenos llanos, sin ríos y carentes de accidentes topográficos significativos que impidan la comunicación. Esta homogeneidad lingüística acaso también tiene que ver con la situación geográfica de la península, rodeada por el mar en tres de sus lados, lo cual no limita, pero si dificulta el contacto lingüístico de masas, fenómeno generador, en parte, de la diversidad lingüística.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/maya%20letters%20.jpg" width="856" height="960" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/inscrizioni.jpg" width="960" height="684" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/geografia%20.jpg" width="941" height="960" alt="" /></image>
+    <sources>K&#039;iche&#039;-English Dictionary and Guide to the Pronunciation of the K&#039;iche&#039;-Maya Alphabet, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, Popol Vuh: Las antiguas historias del Quiché, Santa Biblia (Nueva Versión Internacional, edición rústica), Las Historias DEL ORIGEN DE LOS INDIOS de esta Provincia de Guatemala, traducidas de la lengua Quiché al Castellano para más comodidad de los Ministros del S. Evangelio, por el R.P.F. Francisco Ximénez. (Exactamente según el texto español); y los Escolios, La maya, lo maya, un maya: Lengua, cultura e identidad de un pueblo, Las lenguas mayas: historia y diversidad</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1191</nid>
+    <title>La primera migración </title>
+    <lineas>Folio 35 verso|Column A|Line 01|Line 47|Folio 41 recto|Column A|Line 01|Line 47|Folio 41 verso|Column A|Line 01|Line 47</lineas>
+    <content><![CDATA[<p>En 1524, los españoles, bajo el mando de Pedro de Alvarado y por orden de Cortés, invadieron el territorio situado al sur de México. Allí se encontraron con las poblaciones de los <em>quichés</em>, <em>cakchiqueles</em>, los <em>indios mames</em> y los <em>zutujiles</em>, todos eran descendentes de los mayas. Las semejanzas físicas y lingüísticas de estos pueblos indígenas de Guatemala demuestran el parentesco que las unen y apoyan teoréticamente el concepto de la unidad racial maya-quiché (Recinos, 17).</p>
+
+<p>En <em>Maya Postclassic State Formation</em> John Fox revela cómo estas primeras poblaciones mayas, entre ellas los <em>Xiu</em>, <em>Itza</em> de Yucatán, o los <em>Quiché</em> y los <em>Cakchiquel</em> de Guatemala, manifiestan tratos comunes, tanto en los restos arqueológicos (en las cerámicas y en la arquitectura), como en las historias que transmitieron, en las cuales se hacen varias referencias a ancestros comunes. A través de migraciones y contactos con gentes indígenas, estas poblaciones se mezclaron adquiriendo un matriz cultural híbrido.</p>
+
+<p>Durante sus estudios, varios arqueólogos se han preguntado si la mezcla y el desarrollo de estas primeras poblaciones y de sus idiomas hubiera ocurrido gradualmente <em>in situ</em> o rápidamente gracias a continuas migraciones. Según apunta Fox, este conflicto ideológico se basa en las comparaciones entre un “nuevo” y “antiguo” imperio maya. Diversas crónicas revelan cómo el nuevo imperio mexicano de la época postclásica fue caracterizado por varios fenómenos migratorios, mientras que el antiguo imperio de la época clásica parece distinguirse por una evolución local.</p>
+
+<p>En cuanto a las migraciones históricas y mitológicas, véanse también el estudio de Davíd Carrasco y Scott Sessions, <em>Mapa de Cuauhtinchan número 2</em>.</p>
+
+<p><img alt="http://www.dc-embassy-events.org/events/2016/6/2/mexican-american-scholar-david-carrasco-on-the-mapa-de-cuauhtinchan-numero-2" class="media-element file-default" data-delta="1" data-fid="208" data-media-element="1" src="http://live-multepal.pantheonsite.io/sites/default/files/images/mapa%20de%20cuauhtinchan%20no%202.jpeg" title="Mapa de Cuauhtinchan no. 2: Keynote lecture at SEA conference, &quot;Translation and Transmission in the Early Americas&quot; (co-organized by Ralph Bauer and Allison Bigelow)" typeof="foaf:Image" />.</p>
+
+<p>Para ofrecer una explicación de las varias posibles dinámicas ocurridas para la formación de las poblaciones y lenguas mayas, se desarrollaron, según Fox, dos métodos de análisis: un “conjunctive method” y un “comparative method”. Mientras que el primero se enfoca en el estudio arqueológico de una determinada región, el segundo se basa en un análisis interregional. Carmack (1981, citado por Fox), sostiene que los Quiché estaban organizados en “segmentary lineages”. En sus estudios fronterizos, Thompson (1970, citado por Fox) revela cómo esta organización formada por linajes segmentados favorecía la colaboración entre varios linajes en la formación de ejércitos, recurso útil en un contexto migratorio caracterizado por la competición entre varias poblaciones al fin de obtener un territorio en el cual organizarse.</p>
+
+<p>Los datos de los documentos coleccionados por Recinos, y revelados en la prefación a su obra, indican que las tribus guatemaltecas vivieron largo tiempo en la región de la <em>Laguna de Términos</em> y que, no encontrando suficiente espacio vital, la abandonaron y emprendieron una peregrinación total hacia las tierras del interior, siguiendo el curso de los grandes ríos que tienen su origen en las montañas de Guatemala: el <a href="https://es.wikipedia.org/wiki/R%C3%ADo_Usumacinta"><em>Usumacinta</em></a> y el <a href="https://es.wikipedia.org/wiki/R%C3%ADo_Grijalva"><em>Grijalva</em></a>. De esta manera, llegaron a las montañas del interior donde se establecieron y propagaron aprovechando los recursos del país (Recinos, 18). Las zonas fronterizas se quedaban, por lo general, poco pobladas. Este aspecto puede ser explicado al considerar que, mientras las montañas representaban una forma de protección natural, las zonas de confines estaban más sujetas a encuentros bélicos y, como consecuencia, representaban un lugar peligroso e instable. </p>
+
+<p>El ológrafo del Popol Vuh presente en la <em>Biblioteca de Newberry</em> no presenta divisiones de contenido o de capítulos, lo que hace difícil orientarse en el texto. Por lo general, las ediciones populares han adoptado la organización introducida por Brasseur de Bourbourg en 1861 con el fin de facilitar los estudios comparativos. Como explica el escritor guatemalteco Adrián Recinos, en el manuscrito original el texto corre sin interrupción. Para facilitar la lectura del texto, el autor decide seguir la división de Brasseur de Bourbourg en cuatro partes y cada parte en capítulos al fin de conservar un ordenamiento lógico y conforme a la materia y el significado de la obra.</p>
+
+<p>La tercera parte del <em>Popol Vuh</em> empieza con la creación de los primeros cuatro hombres reales, hechos de maíz: <em>Balam Quitzé</em>, <em>Balam Akab</em>, <em>Mahucutah</em> y <em>Iqui Balam</em>. Después de la creación de las primeras cuatro mujeres, todos los miembros del pueblo <em>yaqui</em> deciden migrar a la ciudad de <em>Tulán</em>. A este respecto, en una nota, Recinos apunta que “los Yaqui son los mexicanos, los antiguos toltecas, el pueblo Nauátl que, uniéndose a los mayas del sur fueron el origen de las naciones indígenas de Guatemala” (Recinos 110). El autor llama a los Yaquis “los sacerdotes” y “los sacrificadores” y estos mismos nombres les da en varios lugares a los jefes Quichés, como Balám-Quitzé. Estas poblaciones son muy numerosas y tienen en común el mismo idioma. En la edición se Recinos se lee “Así, pues, llegaron todos a Tulán. No era posible contar los hombres que llegaron; eran muchísimos y caminaban ordenadamente” (111).</p>
+
+<p>Según contado en el <em>Popol Vuh</em>, una vez que las primeras poblaciones reciben el dios Tohil, empieza una gran obra de poblamiento y muchas ciudades son fundadas. “Mucho tiempo estuvieron es esta otra ciudad, donde tuvieron hijas y tuvieron hijos. Allí estuvieron en gran número, y eran cuatro los montes a cada uno de los cuales le dieron el nombre de su ciudad” (Recinos, 143).</p>
+
+<p>La versión de Recinos del Popol Vuh termina de esta forma: “Y esta fue la existencia de los quichés, porque ya no puede verse el [libro Popol Vuh] que tenían antiguamente los reyes, pues ha desaparecido. Así, pues, se han acabado todos los del Quiché. Que se llama Santa Cruz” (162). Con estas palabras termina la historia de formación y desarrollo de la civilización Quiché, creada por los primeros hombres y las primeras mujeres y evolucionada a través de varias generaciones. Guerras, celos e incomprensiones lingüísticas dominaron la vida de estas primeras poblaciones, constantemente en búsqueda de un lugar donde establecerse y fundar un centro de poder político. </p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/lugares%20ppv.jpg" width="960" height="587" alt="" /></image>
+    <sources>Popol Vuh: Las antiguas historias del Quiché, Las lenguas mayas: historia y diversidad, La maya, lo maya, un maya: Lengua, cultura e identidad de un pueblo, Maya Postclassic State Formation: Segmentary Lineage Migration in Advancing Frontiers, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1192</nid>
+    <title>Naquipa</title>
+    <lineas>Folio 27 recto|Column A|Line 25|Line 25</lineas>
+    <content><![CDATA[<p>"The manuscript reads <em>qui</em> which is likely a scribal error for <em>cu</em>" (Line 4034 in Christenson's <em>Literal Poetic Translation</em>, footnote 79, page 130)</p>]]></content>
+    <copia_local>naquipa</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: Literal Poetic Version</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1193</nid>
+    <title>Ju su k&#039;u stzaj tew / Rumal kutzina[q]</title>
+    <lineas>Folio 26 recto|Column A|Line 24|Line 25</lineas>
+    <content><![CDATA[<p>Christenson (<em>Literal Poetic Translation</em>, footnote 78, page 139) notes two scribal errors in the transcription of these toponyms. We cite his observations on lines 3998-4000 of the K'iche' column of Ximénez's manuscript below:</p>
+
+<p><strong>Ju su k'u stzaj tew</strong></p>
+
+<p>"The manuscript reads ztzah. The completive aspect should be xtzah, however, Mondloch (personal communication) points out that the completive aspect prefix x- is pronounced s- when it occurs before tz, tz' or s. Thus xsaqirik is pronounced saqirik."</p>
+
+<p><strong>Rumal kutzina[q]</strong></p>
+
+<p>"The manuscript reads cutz ma, although the “m” is uncharacteristically sloppy and could be an “n.”  I agree with Edmonson that this is likely a scribal error for cutzina[c]."</p>]]></content>
+    <copia_local>Ju su k&#039;u stzaj tew / Rumal kutzina[q]</copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: Literal Poetic Version</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1206</nid>
+    <title>Ixquic y su rol de semidiosa</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>Sobre el tema de los roles de género en el <em>Popol Wuj</em> el enfoque se da principalmente en las jóvenes doncellas que participan o se ven forzadas a participar y servir en/para la sociedad altamente masculina en la que viven, Recinos (2012: 130-32, 143, 147) a la misma vez, en el texto también se nota la presencia de las doncellas que actúan por iniciativa propia e incluso en algunos casos quebrantan las reglas que les son impuestas, como en el caso de Ixquic, Recinos (2012: 58).</p>
+
+<p>En su traducción Colop aclara que, “El nombre de la doncella se compone de los siguientes términos: <em>ix</em>-es el prefijo femenino y también es diminutivo;<em> kik</em>´es 'sangre'; pero <em>ik</em>´ también quiere decir luna. D. Tedlock (1996: 260) lo traduce como 'sangre luna'. Según mi parecer, podría traducirse mejor como 'joven sangre luna' (2011: nota 103, 216)”. Entonces, la diosa Ixkik' (en la ortografía k'iche' de Colop), también escrita como Ixquic en la ortografía española de Adrián Recinos, se puede relacionar con la sangre y la creación.  Así es que Luz Cobian expone el vínculo con la germinación y fertilidad: “el inframundo del que proviene Ixquic tiene una connotación positiva, puesto que es el sub-suelo, necesario para la germinación de la semilla. En otras palabras, ese mundo interno es símbolo de vida, en el sentido en que era fuente de alimento para los maya-quiché” (1999: 62).</p>
+
+<p>Por otro lado Knapp (1998: 120) afirma, “The <em>Popol Vuh</em> narration, although underscoring mainly a patrilineal, patriarchal, and patrilocal society, invites the feminine principle or primordial Mother to participate in the creation of humankind, and endows an important figure called the Maiden with courage and a spirit of independence.” Entonces, a pesar de que las figuras femeninas desempeñan su papel en un mundo altamente patriarcal hay momentos en la narración en los que algunas figuras femeninas, como en el caso de la doncella/semidiosa Ixquic gozan de libertad y agencia.</p>
+
+<p>Siendo el tema de la concepción uno de los temas importantes del <em>Popol Wuj</em> se debe prestar especial atención a la escena de concepción de Junajpu y Xbalanke'/Ixbalanqué, quienes son dados a luz por la joven doncella Ixquic, hija del Señor Kuchuma Kik' ambos habitantes de Xibalbá, el inframundo de la narración populviana. Ixkik' queda preñada por medio de un chisguete de la saliva de Jun Junajpu que le cae cuando ella extiende su mano. Esto ocurré después de que Ixkik' escucha a su padre hablar del árbol de jícaras donde fue colgada la cabeza de Jun Junahpu después de ser derrotado por los señores de Xibalbá. Ixkik' muestra curiosidad y desobediencia en este episodio.</p>
+
+<p>Según Luz Cobián esta curiosidad y deseo por parte de Ixquic también se puede leer <a href="http://live-multepal.pantheonsite.io/content/ixkik-mar%C3%ADa">en paralelo al elemento cristiano del fruto prohibido del jardín del Edén</a> y el árbol bíblico del bien y el mal (1999: 63). Antes de ir al árbol Ixkik' dice, “¿Por qué no he de ir a ver ese árbol que cuentan? exclamó la joven…¡Ah!, exclamó, ¿qué frutos son los que produce este árbol? ¿No es admirable ver cómo se ha cubierto de frutos? ¿Me he morir, me perderé si corto uno de ellos?, dijo la doncella” (Recinos 2012: 58). Mientras que en la versión de Colop se lee así, “¡Ah! ¿Qué clase de fruto será éste? ¿Será dulce el fruto de este árbol? No he de morir, no he de desaparecer si corto uno de sus frutos, dijo la doncella” (2011: 53). Al leer atentamente ambas traducciones se nota que en la versión de Recinos la joven se cuestiona si ir o no al árbol mientras que en la versión de Colop se ve más bien como una afirmación a sí misma de que no le pasará nada si visita el árbol y prueba sus frutos.</p>
+
+<p>Después de extender la mano la joven recibe un chisguete de saliva e inmediatamente Junajpu le explica que, “En mi saliva y mi baba te he dado mi descendencia (dijo la voz en el árbol)” (Recinos 2012:58-59). Cuando el padre le nota el embarazo y la cuestiona ella le dice, “No tengo hijo, padre mío no ha habido hombre a quien haya conocido, contestó ella” (Colop, 2011:56). En la nota 107 que explica ésta línea de Ixquic, Colop aclara que la oración dice “literalmente, “…a quien conozca su cara”, lo cual es cierto (2011: 216)”. Sobre este tema Luz Cobián explica que dentro del contexto de la cultura maya “conocer la cara” es equivalente a haber tenido relaciones sexuales (1999: 65).</p>
+
+<p>Sobre el valor de Ixkik' y su posición como semidiosa Luz Cobián aclara que, “Sus hijos—el Sol y la Luna—son también dos deidades  que se complementan y constituyen un todo armonioso; juntos representa no sólo el día y la noche sino también el calor y el agua que ayudan a la germinación. Como su nombre lo indica, Ixquic, representa la sangre que da vida y alimento al pueblo maya-quiché. Contrariamente a lo que sucede a Chimalmat, Ixquic no termina en sí misma puesto que se proyecta  como fuente de vida no sólo a través de sus acciones y su voz—evidentes en la narrativa—sino también a través de sus hijos” (1995: 78-79). Desde esta perspectiva Ixquic es tanto dadora de vida de sus hijos Xbalanke'/Ixbalanqué y Junajpu (dos dioses importantes) como también dadora o proveedora de vida de los alimentos (el maíz) para el pueblo maya-quiché. </p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Screenshot%202017-05-07%2011.49.39.png" width="498" height="346" alt="" /></image>
+    <sources>Popol Wuj, Popol Vuh, Génesis y evolución de la figura femenina en el Popol Vuh, Women, Myth, and the Feminine Principle. , El papel de la mujer en la historia maya-quiché, según el Popol Vuh</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1207</nid>
+    <title>Ixbalanqué: ¿Dios o Diosa?</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>Tanto en las traducciones de Recinos como Tedlock y Sam Colop se asume que los hijos de Ixquic son ambos masculinos, pues tal es la tradición iconográfica de los "dos muchachos" o "héroes gemélos".</p>
+
+<p>Sin embargo Dora Luz Cobián, apoyada por el estudio de Rafael Girard, asevera que Ixbalanqué es un personaje femenino, que se puede asociar con la luna. Sobre esto la estudiosa dice que, “Girard la asocia con la luna nueva. La interpretación de Girard tiene más sentido—según nuestro criterio—porque, aunque cuando <em>balanqué</em> significa 'tigre', el prefijo <em>Ix</em> es connotación de género femenino o diminutivo; por lo tanto sería acertado interpretar el nombre de <em>Ixbalanqué</em> como 'tigresa'. Su papel es de 'salir de noche y cuidar el sembrado', y en ese sentido es similar al tigre cuya actividad se realiza una vez que llega la noche” (Luz Cobián 1995: 79).</p>
+
+<p>Para seguir en este orden de ideas y la ambivalencia y complejidad a partir de los prefijos, en su estudio de los determinantes rígidos en la lengua maya Itzaj Ximena Lois ofrece la siguiente explicación: “Among Mayanists, these elements are usually called 'gender prefixes' (masculine and feminine respectively) or 'agentive prefixes'. Marking 'gender', <em>aj/ix</em> are found preceding personal names in Itzaj, e.g. aj-Jwan ‘John’ ix-Mariiyaj, ‘Mary’. As 'agentive' markers, <em>aj/ix</em> occur in the NOMEN ACTORIS such as <em>aj-ka</em><em>’an-s-aj</em> ‘teacher’ , <em>ix-k’ay</em> ‘female singer’, where they may also convey gender” (1998: 224-225).</p>
+
+<p>Más adelante la autora explica los señalados "gender prefixes" -<em>aj</em> e -<em>ix</em> como determinantes rígidos. A la misma vez sus usos son variables, lo cual complica la resolución del problema planteado arriba. Por ejemplo, <em>ix </em>funciona en diversos momentos y contextos como un marcador relativo para los nombres de las constelaciones, los nombres de sustancias, y para sustantivos modificados (1998: 225-226).</p>
+
+<p>Posteriormente Lois también habla de la división sexual del trabajo y las herramientas masculinas y las herramientas femeninas, así es que observa “<em>aj</em> is attached to tools related to agriculture and woodcraft, whereas <em>ix</em> is attached to tools related to household and village activities, including fishing, the maintenance of utensils, and maintenance of the home fires” (1998: 244). Cabe notar que hay ciertos espacios en los que la división del trabajo está marcada por el sexo y por lo tanto se puede hacer una lectura de roles de género para entender mejor las normas culturales en la sociedad maya. No obstante, estas divisiones pertenecen al mundo maya y dependen de sus propias matizaciones de género; los paradigmas occidentales no necesariamente corresponden con los sistemas de género de las comunidades indígenas.</p>
+
+<p>Amber O’Connor ofrece otra explicación sobre la división laboral de géneros y los espacios privados y públicos de las mujeres en el mundo maya de Yucatán. En su artículo la autora explica que,</p>
+
+<blockquote>
+<p>According to Visser (1991), the 'place' of the woman’s work defines her participation in society, work within the home implying a retreat from the public realm of man. I do not believe the Maya women with whom I worked see this as a retreat so much as a realm of their duty, separate, but of equal importance to that of Maya men. Their home is where women maintain their relationships with gods by performing their rituals, just as men perform theirs in their place of labor, the fields outside of the village. I do however, support Visser’s claim that the 'place' of work is important in defining one’s role in society. Specifically, with the Maya of the Yucatan, the realm in which one’s labor is performed identifies their gender (Burns 1983, Hendon 2002, Robin 2006). Not only does the space in which labor is performed identify gender in Maya foodways, but the type of cooking methods and the cooking vessels used do as well. Joyce et al. (1993: 261) observes the ceramic dishes and cloth bundles held by women in monumental art represented an 'end point of sequences of production which transformed raw materials into culturally defined forms.' She goes on to state that men’s work provides 'raw' materials whereas women’s work transforms these materials into culturally viable objects (ibid.) (2010: 493)</p>
+</blockquote>
+
+<p>Un referencia textual a esta división laboral en el <em>Popol Wuj</em> se nota cuando la abuela de Junajpu e Xbalanke/Ixbalanqué manda a Ixquic a conseguir una red de maíz y ésta, preocupada y temerosa, invoca a las diosas del maíz “<em>Ixtoh, Ixcanil, Ixcacau</em>” (Recinos 2012: 63) para que le ayuden y es así como logra cumplir con el mandado de la abuela. Sin embargo, en páginas posteriores los nietos, Hunahpú e Ixbalanqué asumen su rol de trabajo en la milpa. “Vamos a sembrar la milpa, abuela y madre nuestra, dijeron. No os aflijáis; aquí estamos nosotros, vuestros nietos, nosotros los que estamos en lugar de nuestros hermanos, dijeron Hunahpú e Ixbalanqué. En seguida tomaron sus hachas, sus piochas y sus azadas de palo y se fueron, llevando cada uno su cerbatana al hombro. Al salir de su casa, salir de su casa le encargaron a su abuela que les llevara su comida” (Recinos 2012: 70). Se añade aquí otra dimensión o capa a la ya complicada identidad de Ixbalanqué, con lo cual se puede concluir que su identidad no queda del todo clara y por lo tanto no se puede decir si es una figura masculina o femenina ya que por un lado su nombre lo marca como una figura femenina (como se explica en la sección temática del nombre en este proyecto) pero sus acciones se alinean más bien a la identidad masculina de los dioses.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>El papel de la mujer en la historia maya-quiché, según el Popol Vuh, Gender Markers as &quot;Rigid Determiners&quot; of the Itzaj Maya World, Pre-Columbian FoodwaysMaya Foodways: A Reflection of Gender and Ideology, Popol Vuh</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1208</nid>
+    <title>Las flores en Xibalbá</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>Cuando los hermanos son invitados a Xibalbá, una de las pruebas a las que son sometidos por los señores del inframundo es la de recoger jícaras o recipientes de flores. En la versión de Recinos los hermanos deben llevar, “un ramo de chipilín colorado, un ramo de chipilín blanco, un ramo de chipilín amarillo y un ramo de <em>Carinimac</em> dijeron los de Xibalbá” (Recinos 2012: 84-85).</p>
+
+<p>Mientras que en el texto de Sam Colop se da la siguiente traducción,</p>
+
+<p>“un recipiente de pétalos rojos, / un recipiente de pétalos blancos, / un recipiente de pétalos amarillos, / un recipiente de [pétalos] grandes, dijeron los de Xibalba” (2011: 87).</p>
+
+<p>Sobre esta parte del texto Colop explica que, “Estos versos que conforman un cuarteto, han sido traducidos como 'ramos' o 'manojos' de flores e incluso, el cuarto verso como 'un ramo de grandes peces', según la retraducción del francés al español por Miguel Ángel Asturias y J.M. González de Mendoza de la versión de Georges Raynaud (1927: 56)."</p>
+
+<p>Añade el destacado traductor que "En la copia de Ximénez se dice <em>muchij,</em> <em>muchit</em>, derivado de <em>muchu</em>, 'desmenuzar'; no a <em>much',</em> 'chipilín', como regularmente ha sido traducido. Por aparte, nótese que los pétalos  de flores están asociados a los cuatro colores del cosmos maya: rojo, blanco, amarillo. El color negro sería el siguiente, es sustituido por 'grandes'. Esto sucede porque en tercetos y cuartetos, uno de los versos rompe el paradigma para dar fluidez a la narración. En este caso, el cuarto verso cambia con lo que sería esperado: 'pétalos negros'. Lo de 'grandes peces' deriva de que el texto K'iche' dice <em>K'ari nima'q</em>, lo que fue tomado como <em>kar nima'q</em> que literalmente podría equivaler a 'peces grandes'; pero de todas maneras es agramatical porque en K'iche' el adjetivo antecede al sustantivo, o sea, tendría que decir: <em>nima'q kar</em>” (2011: nota 161, 223). Dennis Tedlock traduce el fragmento del K'iche' al inglés en una manera parecida: “One bowl of red petals, one bowl of white petals, one bowl of yellow petals, and one bowl of whole ones, said the Xibalbans” (1996: 121).</p>
+
+<p>De las tres versiones se nota la variedad de posibilidades y la imprecisión en ellas, es por eso que las investigadoras Susan D. Gillespie y Ana Lucrecia de MacVean en su estudio sobre las flores en el <em>Popol Wuj</em>, arguyen que las flores en el texto no son precisamente "chipilín" y ofrecen una nueva posibilidad. Escriben: “Esta nueva interpretación se puede asumir así: una vasija de pétalos rojos desmenuzados (o amontonados), una vasija de blancos, una de amarillos y una de grandes” (13).</p>
+
+<p>Entonces, las estudiosas proponen que las flores a las que hace referencia el texto son plantas o flores que se usaban en conjunto para dar sabor al chocolate. Proponen que las flores en realidad se refieren a las siguientes plantas: Cordoncillo, del género <em>Piper: </em>una planta con espigas blanquecinas o amarillentas, sirven de remedio casero y crece en tierra caliente; la planta llamada orejuela (<em>Cymbopetalum penduliflorum</em>, Anonaceae) que en quiché se llama <em>muc </em>y se agrega a las bebidas tradicionales en Guatemala como el pinol y el chocolate; el <em>canac</em> o <em>Chiranthodendron pentadactylon</em>, árbol de la familia del cacao y es color rojo y por último la vainilla (<em>Vanilla planifolia</em>) de la familia de las orquídeas que los aztecas llamaban <em>tlilxochitl</em> o 'flor negra' (2002: 14). Las autoras concluyen que las flores a las que hace referencia el <em>Popol Wuj</em> son probablemente de un área cálida pero que no son exactamente "chipilín" como la mayoría de los traductores lo ha indicado en sus versiones.</p>
+
+<p>Las investigadoras concluyen que, “Se sabe por la historia en su contexto etnoecológico que las flores usadas en este pasaje del <em>Popol Vuh</em> provienen de árboles. También se conoce que las flores, que eran recursos importantes, usualmente crecían juntas o se usaban conjuntamente y constituían grupos etnotaxonómicos (ver Breedlove y Laughlin, 200 para ejemplos). Es muy probable que las flores que crecían en la huerta de Xibalbá formaran uno de estos grupos. El que los zonzopos cortaran las flores también nos indica que el hábitat probable es el de la tierra caliente. A pesar de que no podemos estar seguros de que las flores pedidas por los Señores sean las que comúnmente se usen para dar sabor al chocolate, se puede observar el traslape entre las descripciones cortas del <em>Popol Vuh</em> y las características naturales de éstas” (2002: 15-16). Para mayores informaciones en cuanto al chocolate mesoamericano en la época colonial, y sus importantes vínculos con la lógica y la práctica del imperio español, véanse Marcy Norton, <em>Sacred Gifts, Profane Pleasures</em> (2008).</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Screenshot%202017-05-04%2015.31.54.png" width="335" height="220" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Screenshot%202017-05-04%2015.32.19.png" width="171" height="232" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Screenshot%202017-05-04%2015.32.30.png" width="246" height="193" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Screenshot%202017-05-04%2015.32.50.png" width="370" height="223" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Screenshot%202017-05-04%2015.32.58.png" width="420" height="264" alt="" />, <img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/Screenshot%202017-05-04%2015.33.07.png" width="368" height="299" alt="" /></image>
+    <sources>Popol Vuh, Popol Wuj, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, Las flores en el Popol Vuh, Sacred gifts, profane pleasures : a history of tobacco and chocolate in the Atlantic world</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1209</nid>
+    <title>Las doncellas como tentación</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>En él cuarto capítulo del PV de la versión de Sam Colop hay una escena en la que Ixtaj e Ixpuch’, dos doncellas hermosas y un tanto sumisas, son enviadas al río por los hombres del pueblo para tentar a Tojil, a Awilix y a Jaqawitz con el fin de vencerlos. Sobre los nombres de las doncellas Colop explica que “En <em>El Título de Totonicapán</em> (Carmack y Mondloch, 1983: 180), se proporciona un tercer nombre: <em>Q’uibatsunjá</em>. De hecho estos nombres quieren decir<em>: ixtaj</em>, “niña”, en kaqchikel; <em>ixpuch’</em>, “tierna” en k’iche’ como cuando una fruta todavía no está madura. El marcador femenino en ambos casos es <em>ix</em>-. Ahora bien, con respecto al tercer nombre de estas jovencitas, comparto parcialmente el criterio de Recinos (1953: 209); aunque en lugar de traducir “la bien arreglada o acicalada” soy del criterio de traducirlo literalmente. Esto es: “ramilletes de agua”, análogo a <em>batz’un kotz’i’j</em>, “ramillete de flores”; es decir, en los tres nombres se está expresando: niñez, inmadurez y frescura” (Colop: nota 275, 240).</p>
+
+<p>Según la explicación de Recinos los nombres de las muchachas pasarían a denotar lo siguiente, "<em>Ixtán</em> es muchacha en cakchiquel. <em>Ichpoch</em> significa muchacha también en náhuatl, según Brasseur. El <em>Título de los Señores de Totonicapán</em> agrega una tercera joven a quien llama <em>Quibatzunah</em> (la bien arreglada o acicalada). Es más lógico creer que la misión que despacharon las tribus se compusiera de tres sirenas, puesto que los dioses a quienes se trataba de seducir eran también tres" (2012: nota 4, 177). Entonces, se nota una variación en la traducción de Colop y Recinos con relación a la presencia y el significado del nombre de la tercera doncella. Mientras que para Colop la tercera doncella sirve como una manera de expresar la “niñez, inmadurez y frescura” por medio de las características de cada una de las doncellas, en el caso de Recinos la información proveería una explicación lógica sobre la cantidad de personas involucradas en este episodio.</p>
+
+<p>Cuando los Señores del pueblo mandan a las doncellas a tentar a los de Tojil les advierten que, “Si ellos desean poseerlas de veras, entréguense a ellos. Y si ustedes no quieren entregarse, las mataremos, entonces (Colop 2011: 153)”. Sin embargo, las doncellas fracasan y también desobedecen el cometido al que habían sido enviadas ya que no son poseídas y además confiesan la verdad sobre el plan de los Señores del pueblo y por eso vuelven con lienzos preparados por los de Tojil para probar que hablaron con ellos.  “Era como la prueba de la transgresión [de las deidades] para los Señores. Fueron extendidos, entonces, los lienzos por parte de las doncellas. Uno, lleno de jaguares, Otro lleno de águilas y el otro, con enjambres de abejorros, de avispas, lo pintado en los lienzos” (Colop 2011: 156).  Al final, es por medio de los lienzos que los Señores de los pueblos son vencidos.</p>
+
+<p>Sin embargo, cabe aclarar que los Señores buscaban algo en concreto al enviar a las doncellas a tentar a los de Tojil. “Lo que ellos querían era que los de Tojil hubieran poseído a Ixtaj e Ixpuch’. Que ellos se hubieran vuelto fornicantes, en el corazón de los pueblos: ellas habrían sido su tentación. Pero no se logró esa derrota porque Balam Ki’tze’, Balam Aq’ab y Majuk’utaj eran hombres prodigiosos” (Colop 2011: 157).</p>
+
+<p>En relación a esto Colop explica que, “Esa línea forma un verso paralelo con la línea anterior donde se encuentra inserto el verso paralelo que indentifica a Ixta e Ixpuch’, y se sigue hablando de los de Tojil. No de las doncellas como la gran mayoría de traductores han leído. Se está hablando de las deidades como “fornicantes”. Esta línea es traducida también por Burgess y Xec (1955: 236) como: “y hubieran llegado a ser fornicarios”. Es decir, los dioses, el objetivo a derrotar por los pueblos. De aquí, pues, que ha sido un grave error de traducción a partir de Ximénez, hablar de lo que deseaban los pueblos es que ellas se convirtieran en “rameras”, porque se está hablando de Tojil, Awilix y Jaqawitz. Edmonson (1971: 201) en pie de página dice sobre esta línea que Ximénez, “refiere esto a las jovencitas, pero es seguro que los gobernantes quichés eran los que debían ser seducidos a manifestar una indecente y mágica sexualidad peligrosa”. Por aparte, en el diccionario de Basseta aparece <em>woloqotilaj ixoq</em> como “ramera” y <em>joxol ixoq</em> como “puta”. Esta segunda acepción ha de haber llevado a confusión para atribuirles a las doncellas, una actividad pensada para hacer caer a las deidades” (2011: nota 282, página 242).</p>
+
+<p>Por otro lado, Luz Cobián asegura que el papel de las doncellas es el de servir  como instrumento de manipulación del enemigo por medio de la prostitución, aunque la autora explica que esta es una prostitución forzada y por lo tanto las mujeres en el PV, según ella, cumplen un tipo de labor en el cual ellas desempeñan el rol de “ayudantes forzadas”. Más adelante la autora explica que, “La implicación última aquí es que el tener relaciones sexuales con una mujer es un modo de debilitarse, de hacerse vulnerable. En efecto, según Recinos, esta es una creencia de los maya-quiché” (1999: 102-103). </p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh, Popol Wuj, Génesis y evolución de la figura femenina en el Popol Vuh</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1216</nid>
+    <title>Maíz and Creation</title>
+    <lineas>Folio 03 recto|Column B|Line 32|Line 39</lineas>
+    <content><![CDATA[<p>The discourse regarding possible parallels between Mayan and Christian accounts of creation have long been a part of <em>Popol Wuj </em>scholarship. As <a href="http://live-multepal.pantheonsite.io/tema/hombresdemaiz">the root of Maya community life</a>, and <a href="http://live-multepal.pantheonsite.io/node/1110">a root metaphor of the Christian faith</a>, agriculture has become a key site of debate among scholars. Below we gloss some of the major threads of these polemics, and provide sources for additional reading.</p>
+
+<p>The annual first planting of maize fields was quickly incorporated into Catholic rituals in the region soon after the arrival of the Spanish. As Allen J. Christenson notes, there were a number of clear reasons that would have made this syncretism possible: the first planting celebrates rebirth and renewal, is observed through ritual fasting and abstinence, and coincides with the beginning of the rain season in early spring. Thus, the tradition has long been combined with the celebration of the Catholic Holy Week (2016:87). In spite of the potential parallels between the two traditions, it must be remembered that the story of creation in the <em>Popol Wuj </em>is intimately tied to the planting cycles of maize.</p>
+
+<p>In his translation of the <em>Popol Wuj, </em>Christenson points out that many of the words used in describing creation are also related to agriculture and cycles of planting; moreover, the creators’ initial staking out of the earth and sky into four divisions is itself directly related to the planting of corn:</p>
+
+<p>“the Chortí-Maya of Guatemala considered both the squared maize field and the shamanic altars on which traditionalist Maya priests conduct their divination rituals to be the world in miniature…By laying out the maize field, or setting up a ritual table, the Maya transform secular models into sacred space. With regard to the maize field, this charges the ground with power of creation to bear new life” (2003: 65).</p>
+
+<p>For his part, Nathan C. Henne suggests that each translator -- faced with the impossible task of finding equivalencies in languages like English, Spanish, and K'iche' -- creates a vision of creation that is not necessarily contained within the linguistic structures of the source text.</p>
+
+<p>And yet, some patterns of daily life and material facts of Mesoamerican ecological systems may explain the translators' choices. For example, the space of the milpa is, by necessity, one of cyclical regrowth. As individual fields are typically productive for two years, Maya farmers abandon them for new sections of land; after a period of anywhere between 4 to 20 years, depending on the location, the farmer will then return to the original field and begin planting again (Coe 2005: 19). Moreover, there is an inherent system of balance between the crops that are planted in the milpa that also reflects a necessary nutritional balance in the Maya diet. That is, beans are interplanted among maize in the milpa not only because they provide the necessary amino acids that are missing from maize, but also because they dramatically improve the fertility of nitrogen-deficient soils (Morehart 7). </p>
+
+<p>It is also worth noting here the emphasis that the Creators place on the importance of perfecting humans prior to the approaching sowing season: “hagamos sustenador nuestro, y mantenedor nuestro” (Ximenez, Folio 3 Recto). Thus, the will to create humans was predicated not only on the need for a being capable of invoking the names of the gods, but also for the purpose of providing and sustaining the divine rulers. Creation was subsequently determined by the divinatory ceremony of casting tz’ite beans and grains of maize, which are then interpreted by the counting of days on the K’iche’ calendar (Christenson 2003: 79).</p>
+
+<p>Moreover, as Michael D. Coe observes with regards to the relationship between maize cultivation and the myth of the Hero Twins, “[t]owards the end of the dry season, by planting the seed in the hole made with his digging stick, the Maya farmer symbolically sent it to Xibalba, to its temporary death. Thanks to the intervention of the Maize God’s twin sons, the maize was reborn and rose again to the surface as a young sprout, to be nourished by the coming of the rains” (66). Tedlock makes a clear distinction in his translation that the corn planted by the Hero Twins is green, roasting ears rather than dried kernels; furthermore, the “planting” that will take place is in the attic of the home (1996:271).</p>
+
+<p>Of green maize, which was often boiled or roasted in its husk, Sophie D. Coe notes that the appearance of the crop at this point in development “was often greeted with religious ceremonies of thanks and rejoicing” (13). Thus, there is a deep and persistent exchange between the spiritual and natural world in K’iche’ culture -- one whose traces remain despite levels of Spanish colonial mediation.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/5226.jpeg" width="1200" height="342" alt="" /></image>
+    <sources>Popol Vuh: The Sacred Book of the Maya, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, The Burden of the Ancients: Maya Ceremonies of World Renewal From the Pre-Columbian Period to the Present, America&#039;s First Cuisines, Food, Fire and Fragrance: A Paleoethnobotanical Perspective on Classic Maya Cave Rituals, The Maya, Untranslation: The Popol Wuj and Comparative Methodology, Kerr Collections: Maya Vase Database and Portfolio Series</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1217</nid>
+    <title>Hombres de maíz: cíclos de creación</title>
+    <lineas>Folio 03 recto|Column B|Line 02|Line 25|Folio 33 recto|Column B|Line 01|Line 30</lineas>
+    <content><![CDATA[<p>The materiality of the failed forms of humans, particularly in comparison with the description of the successful formation of humans much later in the text, is worth mentioning here in relation to the above reference to their eventual roles as providers and sustainers. One of the early attempts at creating humans results in a creature whose body “desbarataba, y estaba blando, y apelmazado, y desmadexado, y se desmoronaba, y se humedezía … aunq’ hablaba, no tenía entendimiento, sino q’se rebenía en el agua, no era fuerte” (Ximénez Folio 3 Verso).</p>
+
+<p>In contrast, the first successful humans, created from yellow and white maize that Xmucane grinds nine times, are distinct in their “gordura y grosura,” as well as their innate ability to communicate intelligently (Ximénez Folio 33 Recto). As the Formers and Shapers discuss limiting the powers of their new creations, the debate returns to the initial goal of creating humans prior to the coming dawn, which Christenson interprets as “if they do not multiply or are increased, when will the first planting be?” (2003: 200).</p>
+
+<p>Thus, just as the Formers and Shapers are concerned with creating beings that are capable of cultivating the land, the physical descriptions that distinguish the successful forms of humans from their earlier, failed predecessors could also be read as a reference to the perfection of processing maize for consumption. Dry, rigid, and unrefined, the earlier attempts at creation are weak and fall apart in water.</p>
+
+<p>In contrast, the newly created humans are formed from water and finely-ground maize, and “able to walk and hold things with their hands” (Christenson 2003: 197). Tedlock renders this passage as “[f]ood was used, along with the water she rinsed her hands with, for the creation of grease; it became human fat when it was worked by the Bearer, Begetter, [and] Sovereign Plumed Serpent” (146). As Sophie D. Coe explains, the technical process itself is critical to the formation of workable dough: “[u]unparched, unpopped dry maize would have been next to impossible to reduce to flour or meal by pounding. Softening it up with lime soaking and boiling was a much easier way to make it into a manageable dough, as well as a more nutritious one” (147).</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/5761.jpeg" width="1200" height="293" alt="" /></image>
+    <sources>Maize for the Gods: Unearthing the 9,000-Year History of Corn, Food, Fire and Fragrance: A Paleoethnobotanical Perspective on Classic Maya Cave Rituals, The Burden of the Ancients: Maya Ceremonies of World Renewal From the Pre-Columbian Period to the Present, America&#039;s First Cuisines, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, Popol Vuh: The Sacred Book of the Maya, Traditional Maize Storage Methods of Mayan Farmers in Yucatán, Mexico: Implications for Seed Selection and Crop Diversity, The Elements of Maya Diets: Alkaline Earth Baselines and Paleodietary Reconstruction in the Pasión Region, Los orígenes tecnológicos de la cal, Kerr Collections: Maya Vase Database and Portfolio Series</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1262</nid>
+    <title>Francisco Marroquín and Q&#039;umarkaj</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>In a marginal gloss, Ximénez clarifies that <a href="http://live-multepal.pantheonsite.io/node/1060">Francisco Marroquín</a> is the “S<sup>or</sup> obispo” referenced in the text, and the official who blessed Q’umarkaj (or Utatlán). Adrián Recinos notes was the most important city in Central America at the time of the Spanish conquest (178).</p>
+
+<p>While the authors of the <em>Popol Wuj </em>point to the subsequent abandonment of the city, it is worth comparing one of Recinos’ notes with an episode highlighted by Saenz de Santa María. During the course of Marroquín’s previously mentioned travels throughout Guatemala, the bishop visited the cities of Utatlán and Tecpán, and as Saenz de Santa María notes: "En Tecpán admiró Marroquín la bella piedra de obsidiana que había sido fetiche de reyes y pueblo cakchiquel. Había ocupado puesto de honor en la antigua ciudad y se hallaba ahora en soledad, al menos oficial. Marroquín no lo pensó dos veces, consagró aquella piedra y la colocó solemnemente en el altar mayor de la iglesia del nuevo pueblo, y allí sirvió de ara durante muchos años" (43).</p>
+
+<p>Although Marroquín’s presence in Guatemala is reduced to a single note in the margin by Ximénez, the interaction between the bishop and the local indigenous communities is emblematic of the disruptive elements at play in the hybridizing forces of colonialism. The material, spiritual, and cultural appropriation of indigenousness, such as the episode mentioned above, are in line with Recinos’ note regarding the architecture of the empire, as "Las casas o templos de los dioses del Quiché fueron destruidas después del abandono de la ciudad. La piedra y otros materiales extraídos de las ruinas de Utatlán sirvieron para construir los edificios de Santa Cruz, la vecina ciudad fundada por los españoles. Apenas quedan, entre las ruinas de la antigua capital quiché, los restos del sacrificatorio o templo de Tohil” (179).  </p>
+
+<p>Although Marroquín’s presence in Guatemala is reduced to a single note in the margin by Ximénez, the interaction between the bishop and the local indigenous communities is emblematic of the disruptive elements at play in the hybridizing forces of colonialism. The material, spiritual, and cultural appropriation of indigenousness, such as the episode mentioned above, are in line with Recinos’ note regarding the architecture of the empire, as</p>
+
+<p>"Las casas o templos de los dioses del Quiché fueron destruidas después del abandono de la ciudad. La piedra y otros materiales extraídos de las ruinas de Utatlán sirvieron para construir los edificios de Santa Cruz, la vecina ciudad fundada por los españoles. Apenas quedan, entre las ruinas de la antigua capital quiché, los restos del sacrificatorio o templo de Tohil” (179).</p>
+
+<p>Alongside such destructive practices, <a href="http://historyhub.ie/ellendooley">other missionaries used material culture, religious painting, and colonial architecture as sites of accommodation</a>. Their work remains in objects like atrium crosses that replaced figures of Christ's passion with obsidian mirrors (pictured above), diverse built environments studied by Jaime Lara, and feathered objects that circulated throughout the Atlantic world (Russo et al.)</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/cruz%20de%20obsidiana%20ciudad%20hidalgo%20michoaca%CC%81n.jpg" width="773" height="524" alt="" /></image>
+    <sources>Popol Vuh: Las antiguas historias del Quiché, El licenciado don Francisco Marroquín, Images take flight: feather art in Mexico and Europe, 1400-1700, City, temple, stage : eschatological architecture and liturgical theatrics in New Spain</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1288</nid>
+    <title>Introduction: Justice, Punishment, and the Word</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>An ancient text of unexpired validity, the <em>Popol Vuh</em>, most commonly known as the Mayan Book of Creation or the Book of Council, offers the reader myriad lines of inquiry.  Whether it be its linguistic abstraction and frequent untranslatability or its interrelatedness with other Mesoamerican myths of creation, each one of its components works within a wide arrange of stories, times, and spaces to project the <em>cosmovisión</em> of the Quiche people past and present.  Such a layered composition of meaning lends itself to and yet complicates the work of digital humanists in creating a digital edition of this wondrous text.  That said, the accompanying sections are an attempt to approach a set of themes of great import to the creation of the world in the <em>Popol Vuh</em>: justice and punishment.</p>
+
+<p>More specifically these themes deal with the ways and manners in which misdoers of divine laws receive their just deserts.  In fact, almost every ‘adventure’ of the twin brothers, Hunahpú and Ixbalanqué, is linked to a retributive act of sorts: the fall of Vucub-Caquix and his sons, Zipacna and Cabracán; the transformation of Hunbatz and Hunchouén into monkeys; and the defeat of the Lords of Xibalbá [Note: 1].  In keeping with the work of Nahum Megged in <em>Los héroes gemelos del Popol Vuh</em>: <em>Anatomía de un mito indígena</em> (1979), in the accompanying sections, these acts of retribution are referred to as the “three magic war” (45).  Given the role of the twin brothers as agents of justice, it seems more than befitting to investigate the kinds of acts and behaviors that, in the text, are deemed to be a transgression and the means by which punishment is delivered.  The aim is to discover how the concept of retributive justice fits within the general <em>cosmovisión</em> of the <em>Popol Vuh</em>.</p>
+
+<p>Before passing on to these wars, a few general considerations are needed.  During the formation of the world, there is a series of punishments carried out by the <em>Creador y Formador</em>.  In the attempt to create the being that will provide the divine world with its <em>sustento</em>, the gods fashion a series of imperfect beings: those of mud, those of wood, for example; all of whom are eventually destroyed.  With respect to these beings, Megged notes that while they are not in themselves guilty of their imperfections, they are still punished for having been created imperfect (<em>Los héroes gemelos</em> 19).  That is, their punishment derives from the consequences of their imperfection rather than from an inherent responsibility towards this very imperfection.  This, in turn, reveals two principal elements: first that their imperfection is not a punishable element, but rather their failure to over come it; second, and even more imperative, that their failure keeps them from delivering the nourishment the gods require.  Nourishment is constituted by the word, and ultimately, by the ability to praise the gods with heart and mind.  The narrator emphasizes it during the second creation and subsequent destruction: “But they [the men of wood] were not capable of understanding and did not speak before their Framer and their Shaper, their makers and their creators” (Christenson 85).</p>
+
+<p>The punishment brought about by the magic wars is a consequence of the unwillingness of the transgressors to accept the divine order, one whose existence is contingent on the word.  Megged explains it in the following manner: "El amanecer cuyo advenir ya no depende de ellos desde que lo pensaron y lo nombraron, se acerca, y el hombre aún no aparece.  Al haber amanecer sin hombre, desaparecerán los dioses que dependen del ser capaz de creer y de orar.  Los formadores tienen sólo cabida en la oscuridad; mientras a la luz, símbolo de cultura y concientización, podrán existir sólo los seres aceptados por la conciencia del hombre" (<em>Los héroes gemelos</em> 34).  Hence, the ability to believe and to pray is founded on the power of the word, since it is in words that one believes and with words that one prays.  To some extent, the above evokes a philosophical position similar to that of Descartes’ <em>cogito</em>—albeit far from having any direct implications with Western philosophy—in that it places the word at the center of existence, be that of one’s one or of another.  The word creates, or at least dictates the continuing existence of something or someone.</p>
+
+<p>The word is also the battleground of the three magic wars.  All of the figures punished in these wars use the word to deceive, to feed their pride, and, most importantly, to usurp a place that does not belong to them: the divine.  And yet, the word turns out to be the weapon of choice.  Hunanpú and Ixbalanqué utilize the power of the word to deceive their enemies, i.e. the transgressors of the divine order, to redirect praise to those who rightly deserve it.  In other words, each one of the magic wars exemplifies the power of the word to acquire for oneself an undeserved praise, but also the power of the word to bring about justice, both of which are symbolized by the duality of light and darkness that frames the <em>cosmovisión</em> of the <em>Popol Vuh</em>.  According to Megged: "es necesaria la existencia del ser humano, el ser civilizado, capaz de pensar y expresarse, cuando la civilización está simbolizada por la aparición de los astros que fijan la luz y las normas del tiempo.  De otra manera, el Corazón del Cielo desaparecerá.  No así Xibalbá, cuya existencia de tinieblas quedará con o sin el hombre, pues para el inframundo no hay lugar para la luz" (<em>Los héroes gemelos</em> 107).  Megged relates existence specifically to the underworld, but this relationship applies to the other magic wars insofar as they all take place before the break of day and insofar as all the figures involved defy the norms of light and time.  Had the twin heroes not been able to exemplify justice, the <em>Popol Vuh</em> could not have been considered the Book of Council.</p>
+
+<p>Punishment is thus necessary for the world of civilization to exist.  If Hunanpú and Ixbalanqué represent light and the norms of civilization, it is more than fitting that they act as the agents of justice.  They utilize the power of the word to deliver the punishment deserved by those who transgress the norms of what is to become the civilized world.  The world of man cannot exist if the world of the gods is unable to defeat the ills that hinder creation, that prevent the word from materializing existence.</p>
+
+<div>
+<div>
+<p>Note 1: The transcription and spelling of the names of all these figures varies from one translation to another.  In the accompanying sections, I will utilize those offered by Adrián Recinos in his translation of the <em>Popol Vuh</em> (1947) for two reasons: first because Recinos’ translation was my very first encounter with the text; second because as a native speaker of Spanish, I feel more comfortable with Recinos’ Hispanicized version.</p>
+
+<p>                                     Fuentes Bibliográficas</p>
+
+<p>Cameron, Douglas M.  “Monsters, Messengers, and Mediators in the Popol Vuh: Tricking and the Maya Discourse of Resistance.”  <em>MACLAS Latin American Essays,</em> vo. 4, 1990,    pp.23-34.</p>
+
+<p>Christenson, Allen J.  <em>Popol Vuh: The Sacred Book of the Maya</em>.  University of Oklahoma Press, 2007</p>
+
+<p>Megged, Nahum.  <em>El universo del Popol Vuh: Análisis histórico, psicológico y filosófico del mito quiché</em>.  Editorial Diana: 1991.</p>
+
+<p>--.  <em>Los héroes gemelos del Popol Vuh</em>: <em>Anatomía de un mito indígena</em>.  Jose de Pineda Ibarra, 1979.</p>
+
+<p>Girard, Rafael.  <em>El Popol-Vuh, fuente histórica: El Popol-Vuh como fundamento de la historia maya-quiché</em>.  Ministerio de Educación Pública, 1952.</p>
+
+<p>Preuss, Mary H. “Un bosquejo de la violencia en la literatura Maya-Yucateca.” <em>Scripta Ethnologica</em>, vol. 26, 2004, pp. 66-76.</p>
+
+<p>---.  “Un análisis de cuentos orales maya-yucatecos: Un poco del pasado, el presente y un bosquejo del futuro.” <em>Mitológicas</em>, vol. 29, 2011, pp. 9-17.</p>
+
+<p>Recinos, Adrián, translator.  <em>Popol Vuh: Las antiguas historias del Quiché</em>.  Fondo de Cultura Económica, 2000.</p>
+
+<p>Rivera Dorado, Miguel.  <em>La risa de Ixmukané: Una incursión en la mitología maya</em>.  Miraguano, 2014.</p>
+
+<p>Rodriguez, Alfonso.  “El Engaño: Motivo estructurador en el Popol Vuh.”  <em>Cuadernos Hispanoamericanos</em>, vol. 226, no. 5, 1979</p>
+
+<p>Tedlock, Dennis.  <em>Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings</em>.  Simon &amp; Schuster, 1996.</p>
+
+<p>  </p>
+</div>
+</div>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1290</nid>
+    <title>Concluding Remarks: Punishment, Justice, and the Cosmovisión</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>Through each one of these wars, the twin brothers exemplify a world in which, as the Spanish saying goes, <em>todo cae por su propio peso</em>: he whose vanity stems from his beauty and riches is turned ugly and poor; he whose arrogance rests on his power to create mountains is transformed into stone; he who prides himself on his ability to make collapse mountains is buried under them; those whose artistic ability inflates their ego are turned into monkeys; and finally, those who mock and ridicule others are mocked and ridiculed.  The cycles of transgression and punishment help craft the <em>cosmovisión</em> of the <em>Popol Vuh</em> as one ruled by a deep sense of equilibrium, for what is done in offense is always met with the same severity, and the means by which transgressions are committed are the same by which they are punished.  Transgressions, however, are fundamental to the text.  In the words of Miguel Rivera Dorado: "Todo acto creador debe partir de dos condiciones preliminares: El imperio general del caos, o inexistencia del orden que manifiestan a nuestros ojos las cosas y los nombres de las cosas, y la unión de los contrarios, que en los mitos de origen suele traducirse en la agregación del cielo a la tierra" (175). Chaos is needed insofar as it shows what justice should look like, what the order of the world should be.  In this sense, all chaos is to be a temporary stage—one that cannot be permitted to last since to do so would contravene the equilibrium of the world.  As Mary Preuss states “no fue aceptado mentir, vanagloriarse, desobedecer a los dioses, u ofenderlos sin recibir castigo.” (“Un bosquejo” 73).</p>
+
+<p>In the end, to deliver a well-deserved punishment is to institute a system of justice that elevates culture.  Each one of the three magic wars, as cycles of transgression and punishment, helps project the image of the brothers as heroes of civilization.  Their apotheosis as the sun and the moon symbolizes the elevation of culture, the attainment of civilization.  In this respect, Rivera Dorado argues that the central theme of the <em>Popol Vuh</em>, and by extension of the three magic wars, is “la catábasis, el descenso al infierno, el paso del sol por el inframundo, y su ascensión final, la anábasis, triunfante sobre las fuerzas de la muerte, a la inmensidad del cielo” (103).   Furthermore, in a world were time is cyclical, the three magic wars along with the descent and ascent of the twins found a cyclical sense of justice, where each and every act of transgression is met its proper retribution, and where justice is also a mode of resurrection.</p>
+
+<p>Furthermore, the delivery of punishment symbolizes a progression from primitivism into civilization, and each one of the three magic wars constitutes a landmark in that progression.  To pass from a state of primitivism into one of civilization implicates not only a change in the way a collectivity evolves into a society, it also involves an evolution in the way punishment is delivered and in the ethical conceptions that stem from it.  Whereas the more primitive forms of life and transgression are met with more immediate modes of justice, the more developed transgressions are met with more elaborate retributions.  In contrast to Vucub-Caquix, Zipacna, and Cabracán, for example, who suffer physical punishments, the Lords of Xibalbá are killed, but only after the twins have overcome each and every obstacle of theirs with ingenuity, beating them at their own game.</p>
+
+<p>On a primary level, the progression into civilization that is fulfilled by the three magic wars is linked to the correct modes of life, of farming vs. gathering.  In relation to this first magic war, for example, Rafael Girard notes the following: "Encontramos en el Popol-Vuh, un cuadro patético de esa época dominada por el espectro del hambre, cuando el hombre sólo se preocupaba por la obtención del diario sustento, vagando por los montes o las orillas de los ríos, carecía de ideas animistas y no tenia tiempo para cultivar su espíritu.  No existían médicos por entonces, ni hechiceros, profesiones inseparables del shamanismo, el régimen social era individualista, la familia reducida—dos hijos que viven con sus padres, pero trabajan por cuenta propia son dados como arquetipos de la familia primitiva—.  El Popol-Vuh informa sobre la manera de preparar los alimentos, y el modo de transportar piezas de cacería, hace hincapié en el materialismo y la vida precaria de la época y especifica que el tipo de alimentación consistía en carnes y frutos silvestres.  No se conocía tampoco en aquel tiempo el arco y la flecha ni la cerbatana” (89). Preuss coincides with this observation.  According to her: “La religión clásica maya estaba basada sobre una estructura muy ordenada del universo, que penetró no solo las creencias sino también la planificación de las ciudades, el diseño de los templos, las casas y la milpas; las ceremonias, los ritos y la literatura, tal como se advierte si consideramos el <em>Popol Vuh</em> y los libros de <em>Chilam Balam</em>.” (“Un análisis” 12).  </p>
+
+<p>On a second level, the three magic wars conduct a progression toward civilization that is determined by the mind vs. the body.  Even though the twin brothers make use of magic and violence to deliver punishment, their strategies are always guided by their intelligence, and it is through the power of the word, of deception, that they bring about justice.  In spite of the physical forms of punishment that are delivered to Vucub-Caquix and his sons, Zipacna and Cabracán, and later to the Lords of Xibalbá, the weapons that the twin heroes use are, above all, intellectual weapons.  Hunanpú and Ixbalanqué are astute, nimble-minded.  They demonstrate, especially in their descent to the underworld, that justice is a matter of intelligence not simply of violence or physical force.  It must be said that Hunanpú and Ixbalanqué are viewed as benevolent deities.  In spite of the combative nature of the three magic wars, the twin heroes demonstrate that violence is not gratuitous; it is used with a specific purpose and only when absolutely necessary.  In fact, the use of violence subsides with each successive war.  Violence is progressively replaced, abandoned, more or less, as a lower order of life, as the cosmos is turned into a civilized society.  In fact, the three magic wars show one of the many ways in which trickery can be integrated into what Douglas Cameron calls a “discourse of resistance” (26), where the twin heroes utilize their intelligence to break through the patterns of deception used by their enemies to punish their individualism.  With Vucub-Caquix, the twins had acted as mere envoys of justice.  In Xibalbá they learn to overcome challenges.  This is all to say that punishment is not merely something that is to be delivered and that will it is to be successful simply because it constitutes an act of justice.  It implies that even for a just punishment to succeed, it must be delivered with utmost intelligence, witht the power of the word.</p>
+
+<p>                                      Fuentes Bibliográficas</p>
+
+<p>Cameron, Douglas M.  “Monsters, Messengers, and Mediators in the Popol Vuh: Tricking and the Maya Discourse of Resistance.”  <em>MACLAS Latin American Essays,</em> vo. 4, 1990,    pp.23-34.</p>
+
+<p>Christenson, Allen J.  <em>Popol Vuh: The Sacred Book of the Maya</em>.  University of Oklahoma Press, 2007</p>
+
+<p>Megged, Nahum.  <em>El universo del Popol Vuh: Análisis histórico, psicológico y filosófico del mito quiché</em>.  Editorial Diana: 1991.</p>
+
+<p>--.  <em>Los héroes gemelos del Popol Vuh</em>: <em>Anatomía de un mito indígena</em>.  Jose de Pineda Ibarra, 1979.</p>
+
+<p>Girard, Rafael.  <em>El Popol-Vuh, fuente histórica: El Popol-Vuh como fundamento de la historia maya-quiché</em>.  Ministerio de Educación Pública, 1952.</p>
+
+<p>Preuss, Mary H. “Un bosquejo de la violencia en la literatura Maya-Yucateca.” <em>Scripta Ethnologica</em>, vol. 26, 2004, pp. 66-76.</p>
+
+<p>---.  “Un análisis de cuentos orales maya-yucatecos: Un poco del pasado, el presente y un bosquejo del futuro.” <em>Mitológicas</em>, vol. 29, 2011, pp. 9-17.</p>
+
+<p>Recinos, Adrián, translator.  <em>Popol Vuh: Las antiguas historias del Quiché</em>.  Fondo de Cultura Económica, 2000.</p>
+
+<p>Rivera Dorado, Miguel.  <em>La risa de Ixmukané: Una incursión en la mitología maya</em>.  Miraguano, 2014.</p>
+
+<p>Rodriguez, Alfonso.  “El Engaño: Motivo estructurador en el Popol Vuh.”  <em>Cuadernos Hispanoamericanos</em>, vol. 226, no. 5, 1979</p>
+
+<p>Tedlock, Dennis.  <em>Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings</em>.  Simon &amp; Schuster, 1996.</p>
+
+<p> </p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1291</nid>
+    <title>Tulan/ Tulanzu (Siete Cuevas, Siete Quebradas)</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>Balam Quitze, Balam Acab, Mahucutah, and Iqui Balam arrived to the City of Tulan Zuyva, and the names of the city were, "Seven Caves and Seven Canyons" (Christenson, 2007 ,197).  Christenson annotated different possible meanings of Tulan, "In the Quiché language, tulan  is a 'palace, or manor-house' (Basseta), while tolan  is a city or house that has been abandoned, perhaps referring to theruins of once great cities that dot the region and that belong to the legendary ancestors of the Maya people" (Christenson, 2007, 197). </p>
+
+<div>On the other hand, Recinos points that "Tulán-Zuiva, la Cueva de Tulán, Vucub-Pec, Siete Cuevas, y Vucub-Ziván, Siete Barrancas, son los nombres quichés del sitio [conocido como] Chicomoztoc" (Recinos, 2012, 175).</div>
+
+<div> </div>
+
+<div>Fuentes Bibliográficas</div>
+
+<div> </div>
+
+<div>Christenson, Allen J.  <em>Popol Vuh: The Sacred Book of the Maya</em>.  University of Oklahoma Press, 2007.</div>
+
+<div>
+<p><a href="http://multepal.spanitalport.virginia.edu/biblio?f%5Bauthor%5D=31">Recinos, Adrián</a>. <a href="http://multepal.spanitalport.virginia.edu/content/popol-vuh"><strong><em>Popol Vuh</em></strong></a>. 36.ª ed. México, D.F.: Fondo de Cultura Económica, 2012. Print.</p>
+
+<p> </p>
+</div>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/tohil%20temple.jpg" width="536" height="696" alt="" /></image>
+    <sources></sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1294</nid>
+    <title>Maiz</title>
+    <lineas></lineas>
+    <content><![CDATA[<p>In this scene, Balam K'itze', Balam Aq'ab, Majuk'utaj, and Iki'balam are on a mountain with their wives, Kaqapaloja', Chomija', Tz'ununija', and Kak'ixaja', starving and eating no more than a corn-based beverage. This is <a href="http://live-multepal.pantheonsite.io/content/hombres-de-ma%C3%ADz-c%C3%ADclos-de-creaci%C3%B3n">one of many scenes</a> in which the authors of the <em>Popol Wuj</em> show how corn is a gift from the Gods to the Mesoamerican people.</p>
+
+<p>The sacred nature of corn is embedded in the name of the drink itself; as Christenson (2007: 208) notes, "<em>Uk' </em>is any kind of drink other than water. In this case the text specifies that it is a drink made from maize, or in other words, an atole. Maize atole is the principal drink offered on ceremonial occasions in contemporary highland Maya society (Bunzel 1952, 45, 233-234; B. Tedlock 1982, 65-66). At Santiago Atitlán, this ceremonial atole is called <em>maatz'</em>. Unlike the usual type of maize drink which is made from watered-down corn dough, <em>maatz'</em> is made from grain that has been toasted and then ground fine before it is mixed with two handfuls of ash and placed in a boiling pot of water."</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image><img class="img-responsive" src="http://live-multepal.pantheonsite.io/sites/default/files/maiz%201.jpg" width="350" height="225" alt="" /></image>
+    <sources>Popol Vuh: The Sacred Book of the Maya</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1295</nid>
+    <title>The First Magic War: Wuqub Kak&#039;ix, Sipakna, and Kabraqan</title>
+    <lineas>Folio 05 verso|Column B|Line 10|Folio 12 recto|Column B|Line 14</lineas>
+    <content><![CDATA[<p>The first magic war begins with the family of Wuqub Kak'ix, which according to Nahum Megged and Rafael Girard, represents the “horizonte primitivo” (<em>Los héroes gemelos</em> 59).  They bespeak ignorance through and through.  That is why, in the words of Girard, “El gigante [Vucub-Caquix] ignoraba la manera de curarse y por esto gritaba de dolor, ofreciendo, un cuadro patético en el que se quiso destacar la ignorancia de los primitivos en el campo de la medicina, en contraste con los conocimiento de una época mas avanzada” (<em>El Popol-Vuh, fuente histórica</em> 79). </p>
+
+<p>This primitivism is also revealed in Sipakna’s and Kabraqan's wish to occupy the place of their father and be praised.  If, as it has been suggested by Megged, the family of Wuqub Kak'ix is a universal theme of the war against primitive beings (<em>Los héroes gemelos</em> 59), the giants’ size embodies both their arrogance and their ignorance.  The pride of Wuqub Kak'ix derives from this desire to usurp the place of a sun deity: “I am great.  I dwell above the heads of the people who have been framed and shaped.  I am their sun.  I am also their light.  And I am also their moon” (Christenson 92).  In declaring himself sun and moon, he assumes for himself a civilizational role; by revealing Wuqub Kak'ix's pride in such physical objects (sun, moon, precious stones), and his desire to usurp the true place of the Hero Twins, the <em>Popol Wuj </em>shows offers an important lesson about material goods and things that matter. Or, as Megged puts it: "La lucha contra le guacamayo y su muerte es un extraordinario proceso de desacralización y destrucción de una estatua deica, de un teozoo, donde el totem y el símbolo del dios forman una unidad.  Los gemelos quieren acabar con las riquezas que confieren poderío al dios contrincante; por ello necesitan acabar con su cuerpo compuesto de piedras verdes, metales preciosos, esmeraldas y alhajas" (<em>Los héroes gemelos</em> 68).</p>
+
+<p>In this way, the punishment of Wuqub Kak'ix consists of what Megged calls a “castración ritual” (<em>Los héroes gemelos</em> 71) since he is to be disposed of every element from which he draws his pride; castration, in other words, is the means of desacralization.  Although the war against Wuqub Kak'ix begins and ends with a violent attack against his body, the power of the word is needed in order to deceive him and castrate him.  Megged notes that  “Si en los textos yucatecos es el dios solar el que lucha contra la usurpación y su caída, […] en el <em>Popol Vuh</em>, esta figura es la usurpadora, no noble y plebeya que trató de engrandecerse con títulos deicos que no le corresponden, siendo un reflejo celestial de una situación social” (<em>Los héroes gemelos</em> 73).  Justice and punishment then is linked to a process of desacralization meant to dispose of the any and all manifestations of primitivism.  </p>
+
+<p>In sum, Wuqub Kak'ix, Sipakna and Kabraqan are representations of individualism, a concept that appears as unacceptable in the <em>Popol Wuj</em>.  The episode of the 400 young men is of utmost significance to its <em>cosmovisión</em> because it depicts two conflicting concepts.  Girard explains it in the following manner: “Tal episodio muestra un vivido cuadro del antagonismo entre dos conceptos sociales: el colectivismo, personificado en los 400 muchachos que trabajan al unisón y el individualismo encarnado en la figura de Zipacná que ‘actúa solo’” (81).  This, Girard argues, is significant because it exemplifies the particularly Maya concept of work, since working was considered a collective activity, not an individual one.  Thus, the cycles of transgression and punishment are not just meant to establish equilibrium; they also elucidate the meaning of other elements of the <em>cosmovisión</em> of the <em>Popol Wuj</em>.  Individualism cannot be cherished in a world where collectivism is to take precedence.  Hence, any form that goes against the established rule has to be punished. Punishment then is first about establishing the patterns that are to rule life, and second about making accountable those who do not follow them.</p>
+
+<p>Something to note, however, is that even those who have been wronged and avenged by the Hero Twins are not exempt from a punishment of their own.  Sipakna is turned to stone for his arrogance, for killing the 400 young men, and and for violating the law of collectivity.  The 400 young men are punished for their indulgence in alcohol.  Their excess has consequences: it leaves them unconscious and unable to fight and discern the intentions of Sipakna.  The difference between them and Sipakna, however, is that whereas the giant is blinded by an inherent pride, the 400 young men are blinded by a substance that is foreign to them.  In addition, the 400 young men cannot be punished by Junanpu and Xbalanke'/Ixbalanqué because in spite of their ethical prolapse, they represent the path towards civilization.  Their collectivism elucidates the manner in which work is to be done and the fact that they work to build something that is communal.</p>
+
+<p>Additionally, in contrast to the 400 young men, Sipakna and his brother “evocan el tiempo en que el hombre primitivo dependía de un sistema económico parasitario” (Girard 84).  They are gatherers not farmers.  As Cabracán demonstrates,  punishment derives not only from a concerted pride, but also from the baseness of materialism.   He is concerned with bodily satisfactions, whereas Junanpu and Xbalanke'/Ixbalanqué represent the elevation of man, of the mind, or as Girard explains it “el materialismo grosero de los primitivos que contrasta con el elevado espiritualismo de la cultura maya” (87).</p>
+
+<p>In conclusion, the <em>Popol Wuj </em>shows consistently, and in a variety of ways, how Wuqub Kak'ix, Sipakna and Kabraqan embody the destructive qualities of the primitive world.  That is why, in the words of Megged: “La idea del asesinato es llevarlo a las bases mismas de la construcción, al mundo inferior, desde el cual brotan las voces de las individualidades que pugnan por exteriorizarse” (<em>El universo</em> 92).  The figures of this war represent the individualism, the ignorance, and the materialism of a previous era, which needs to be punished through both physical violence and the power of the word.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>Popol Vuh: The Sacred Book of the Maya, Popol Vuh: Las antiguas historias del Quiché, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings, “Monsters, Messengers, and Mediators in the Popol Vuh: Tricking and the Maya Discourse of Resistance.” , El universo del Popol Vuh: Análisis histórico, psicológico y filosófico del mito quiché, Los héroes gemelos del Popol Vuh: Anatomía de un mito indígena, El Popol-Vuh, fuente histórica: El Popol-Vuh como fundamento de la historia maya-quiché, “Un bosquejo de la violencia en la literatura Maya-Yucateca.”, “Un análisis de cuentos orales maya-yucatecos: Un poco del pasado, el presente y un bosquejo del futuro.”, La risa de Ixmukané: Una incursión en la mitología maya., “El Engaño: Motivo estructurador en el Popol Vuh.”</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1296</nid>
+    <title>The Second Magic War: Jun Batz&#039; and Jun Chowen</title>
+    <lineas>Folio 18 recto|Column B|Line 08|Folio 19 verso|Column B|Line 41</lineas>
+    <content><![CDATA[<p>To fully understand Jun Batz' and Jun Chowen, we must know what it means to be an artisan. In general, Mayanists agree that "artisan knowledge" must be defined on its own terms. Rafael Girard argues in particular that artisans, or artists who transform raw matter into a higher order of culture, represent a key stage in the development of a civilization. </p>
+
+<p>Yet, the <em>Popol Wuj </em>suggests a deeper meaning: to have been given patronage over the arts also constitutes a life that falls under a desirable order, since all arts are an imitation of reality.  The transformation of Jun Batz' and Jun Chowen from human forms into monkeys is indicative of this complex interplay between art and life. As Miguel Rivera Dorado explains: “Los monos están tan cerca de los hombres auténticos que han producido el miedo, el terror, de la más profunda otredad, la que se sitúa fuera de la especie sin ubicarse claramente en la naturaleza, entre los animales” (61).</p>
+
+<p>In other words, the punishment of the artisan brothers originates in their exclusive focus on the arts. In doing so, Jun Batz' and Jun Chowen resort to the individualism and idleness of the primitive order of <a href="http://live-multepal.pantheonsite.io/content/first-magic-war-wuqub-kakix-sipakna-and-kabraqan">the first magic war</a>.  Their interest lies solely in their individual satisfaction, rather than in a collaborative effort, even though they do everything together. Their idleness, envy, cruelty, and arrogance merits them due punishment.</p>
+
+<p>In contrast to Wuqub Kak'ix, Sipakna and Kabraqan, whose arrogance is tied to their physical attributes, Jun Batz' and Jun Chowen pride themselves on the false wisdom from having been the first born to Jun Junajpu and Wuqub Junajpu, from having inherited the knowledge of the arts from their fathers, and lastly from the envy they harbor towards Junajpu and Xbalanke/Ixbalanqué.  On this regard, Girard states that “La discordia entere hermanos o primos, que traerá fatales consecuencias para los mayores, es uno de los vicios que se anatematizan en este episodio, porque la perfecta armonía fraternal debe regir las relaciones entre hermanos y primos dentro de la familia maya-quiché” (138).  Yet, the punishment of Jun Batz' and Jun Chowen is in the end, similar to that of the figures of the first magic war: it follows the <em>lex talionis</em>, where punishment corresponds in kinds and degree to the injury received.</p>
+
+<p>Their transformation is in tune with the progression towards civilization.  As Girard puts it, “Hun Bátz y Hun Chouén personifican la cultura de la tercera Edad, son grandes sabios, pero desde el punto de vista de la ética maya, adolecen de muchos vicios, los cuales son puestos en relieve en el curso la narración; por esto sufrían un castigo ejemplar” (137). </p>
+
+<p>In this way, especially <a href="http://live-multepal.pantheonsite.io/content/first-magic-war-wuqub-kakix-sipakna-and-kabraqan">when compared with the first magic war</a>, this second magic war also marks an evolution in the type of punishment received by the transgressors.  The punishment received by Wuqub Kak'ix, Sipakna and Kabraqan is both violent and corporeal.  In spite of the ingenuity involved in their punishment, and particularly in the use of words, messages, and speech acts to deceive them and lead them to their demise, they are either torn apart, buried alive, or poisoned.  In other words, “la gente de la tercera Edad, aunque bárbara en concepto de los maya-quichés, no lo es tanto como los hombres de la época precedente; esto es de gran interés para seguir el proceso evolutivo de las concepciones morales, a través de la historia maya” (Girard 137).  Death is no longer the only form of punishment, or even the principal principal means of doing so.  Rather, by turning their idleness into servitude, the use of labor marks a transition into what is supposed to constitute a higher order of life.</p>
+
+<p>Additionally, just as Wuqub Kak'ix tried to usurp the place of the twin heroes as sun and moon, so do Jun Batz' and Jun Chowen.  According to Rivera Dorado, <em>Ba’ats</em> means howling monkey,which symbolizes the moon, and <em>chowén </em>means spider monkey, which symbolizes the sun.  They aim to take a place that does not belong.  Because these are “figuras y sucesos de un mundo en construcción” (Rivera Dorado 64), the cycles of transgression and punishment serve to carry creation into completion, marking thus the transition into civilization.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>“Monsters, Messengers, and Mediators in the Popol Vuh: Tricking and the Maya Discourse of Resistance.” , Popol Vuh: The Sacred Book of the Maya, El universo del Popol Vuh: Análisis histórico, psicológico y filosófico del mito quiché, Los héroes gemelos del Popol Vuh: Anatomía de un mito indígena, “Un bosquejo de la violencia en la literatura Maya-Yucateca.”, “Un análisis de cuentos orales maya-yucatecos: Un poco del pasado, el presente y un bosquejo del futuro.”, Popol Vuh: Las antiguas historias del Quiché, La risa de Ixmukané: Una incursión en la mitología maya., “El Engaño: Motivo estructurador en el Popol Vuh.”, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+  <annotation>
+    <nid>1297</nid>
+    <title>The Third Magic War: The Lords of Xibalbá </title>
+    <lineas>Folio 23 verso|Column B|Line 10|Folio 32 verso|Column B|Line 24</lineas>
+    <content><![CDATA[<p>In the series of the <a href="http://live-multepal.pantheonsite.io/content/first-magic-war-wuqub-kakix-sipakna-and-kabraqan">first</a>, <a href="http://live-multepal.pantheonsite.io/content/second-magic-war-jun-batz-and-jun-chowen">second</a>, and third magic war, the third and ultimate magic war is the clearest manifestation of the power of the word.  Junajpu and Xbalanke/Ixbalanqué use their intelligence to communicate with the natural world, achieve a common end, bring about the punishment of transgressors, and maintain the equilibrium of life -- the ultimate goal of Mesoamerican cosmology. Or, as Nahum Megged puts it: “Ellos [Hunahpú and Ixbalanqué] darán lugar al amanecer que coincidirá con el nacimiento del hombre civilizado.  Por ello, antes de su apoteosis tiene que librar al mundo del inframundo” (101). </p>
+
+<p>In other words, the work of the twin brothers is to make possible the birth of light; in order to do so, the cycles of transgression and punishment that have thus far dominated Xibalbá must come to an end. Punishment allows the twin heroes to demonstrate their intelligence, to utilize the power of the word to deliver punishment, giving way to the light of day. The end of Xibalbá, as the end of human sacrifice, marks the final transition form a world of the body to a world of the mind; it constitutes the final step in the transformation of a collectivity into a society.</p>
+
+<p>The war against the Lords of Xibalbá symbolizes the battle between light and darkness, of civilization against primitivism. According to Rafael Girard: “El héroe civilizador fija las pautas de conducta del ser ético que debe actuar siempre conforme al deber.  Durante toda su existencia exalta, con su ejemplo o con sentencias, la ética como mas alta expresión de la vida humana, tratando de formar el tipo ideal de hombre maya-quiche” (186). In this way, the cycles of transgression and punishment lead to the transformation of being -- one that is defined by the dichotomy of darkness and light dichotomy that frames the entire text. In this new order, collectivity must prevail.</p>
+
+<p>The pride and the personal satisfaction of the Lords of Xibalbá contrasts with the humility and sense of collectivity represented by the twin brothers.  For Girard: “La sentencia anterior constituye un verdadero tratado de ética maya-quiche, una exposición de las cualidades que deben caracterizar al hombre verdadero o sea civilizado, en contraposición con los vicios de la época de barbarie que Hunahpú repudia enérgicamente. Ésta será en adelante la Ley, el compendio de valores morales que dan significado a la vida.” (245).  Furthermore, the act of usurpation by the Lords of Xibalbá derives from their desire to strip the twin heroes of their instruments of play.  In doing so, they strip them symbolically of their divinity.  Alfonso Rodríguez points out that “despojar a los muchachos de sus instrumentos de juego significa despojarlos de su privilegiada condición de dioses, o por lo menos hacerlos caer en deshonra” (197). That is the major transgression committed by the Lords of Xibalbá, and that is why they are punished.  Usurpation, i.e. the theft of divinity, is intolerable in the <em>cosmovisión</em> proposed by the <em>Popol Wuj</em>.</p>
+
+<p>As Douglas Cameron argues, “The older set of twins fail to pass the tests of Xibalba because they are lead to accept the representational aspects of language as equaling the truth about social life and as a result respond directly to the implied reality of words, never suspecting the problematic contexts for words used by the Lords of Xibalba.  They persist in understanding words literally.” (27).  The acts of justice of the twin heroes are embedded within what he calls a “discourse of resistance” (26), where the patterns of deception are turned against the transgressors. </p>
+
+<p>The descent into the underworld serves as a test of resistance and intelligence, embedding spiritual trials in movement through space and time. In Xibalbá, trickery is part of the cycles of transgression and punishment, and even though those who are endowed with the means to bring upon justice, must also beware the possibility of being tricked. The descent into the underworld is the last stage in the path towards civilization and unsurprisingly is the most difficult because it is here where the twin heroes are challenged.</p>
+
+<p>Whereas the other two  groups -- Wuqub Kak'ix, Sipakna and Kabraqan, on the one hand, and Jun Batz' and Jun Chowen, on the other -- are proud but lacking in intelligence, the Lords of Xibalbá are proud but smart. In this sense, they are more evolved figures; their use of trickery serves as an index of such "progress," such that the battle with the Lords of Xibalbá is, above all, an intellectual battle. </p>
+
+<p>In the end, Junajpu and Xbalanke/Ixbalanqué know that they have won the battle when the Lords of Xibalbá are sacrificed at their own request -- that is, when the hero twins trick the Lords into asking for their own undoing. At that point, the Lords of Xibalbá have failed the test of intelligence, and their punishment is finally completed.</p>]]></content>
+    <copia_local></copia_local>
+    <elemento_de_destino></elemento_de_destino>
+    <image></image>
+    <sources>“Monsters, Messengers, and Mediators in the Popol Vuh: Tricking and the Maya Discourse of Resistance.” , Popol Vuh: The Sacred Book of the Maya, El universo del Popol Vuh: Análisis histórico, psicológico y filosófico del mito quiché, Los héroes gemelos del Popol Vuh: Anatomía de un mito indígena, El Popol-Vuh, fuente histórica: El Popol-Vuh como fundamento de la historia maya-quiché, “Un bosquejo de la violencia en la literatura Maya-Yucateca.”, “Un análisis de cuentos orales maya-yucatecos: Un poco del pasado, el presente y un bosquejo del futuro.”, Popol Vuh: Las antiguas historias del Quiché, La risa de Ixmukané: Una incursión en la mitología maya., “El Engaño: Motivo estructurador en el Popol Vuh.”, Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings</sources>
+    <texto_de_destino></texto_de_destino>
+    <source></source>
+  </annotation>
+</annotations>

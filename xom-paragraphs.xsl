@@ -6,8 +6,8 @@
 
     <xsl:variable name="themes_ajax_root">http://live-multepal.pantheonsite.io/node/</xsl:variable>
 
-    <xsl:param name="fileName" select="'multepal/topics.xml'" />
-    <xsl:param name="topics" select="document($fileName)" />
+    <xsl:param name="topicsFile" select="'multepal/topics.xml'" />
+    <xsl:param name="topics" select="document($topicsFile)" />
     
     <!-- Not sure if this is doing anything -->
     <xsl:strip-space elements="p" /> 
@@ -142,6 +142,9 @@
         <div class="topic-entry" id="topic-{key}">
             <h2 class="topic-title"><xsl:value-of select="title" /></h2>
             <a href="{$themes_ajax_root}{nid}" class="topic-link btn btn-primary btn-sm" target="_blank">See full record</a>
+            <div class="topic-type">
+                <xsl:value-of select="type"/>
+            </div>
             <div class="topic-description">
                 <xsl:apply-templates select="description" />
             </div>

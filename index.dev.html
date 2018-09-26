@@ -19,10 +19,16 @@
       background-repeat: repeat, repeat;
       background-color: white;
       background-position: center;
+      border-bottom: 1px solid lightgray;
     }
 
     .jumbotron .lead {
+      font-family: sans-serif;;
       font-weight: bold;
+      margin: 0;
+    }
+    .jumbotron {
+      padding: 2rem;
       /* background-color: rgba(10, 10, 10, .25);
       padding: 1rem; */
     }
@@ -72,7 +78,7 @@
       <div class="jumbotron">
         <div class="container">
           <h1 class="display-3">Digital Editions of the <i>Popol Wuj</i></h1>
-          <p class="lead">A collection of digital critical editions of the K'iche' Mayan book of creation produced by the 
+          <p class="lead">A collection of digital critical editions of the K'iche' Mayan book of creation,<br/>produced by the 
           Multepal Project at the University of Virginia. 
           </p>
           <!--
@@ -84,25 +90,29 @@
       <div class="container">
         <div class="row">
           <div class="col">
-            <p class="lead">Each edition represents the text from a particular editorial or critical perspective.</p>
+            <p class="lead">This collection of editions derive from a common source, a TEI-encoded version of the <i>Popol Wuj</i> developed by the
+            Multepal team based on digital facsimiles provided by the Newberry Library and hosted on the Ohio State University on-line
+            editon of Popol Wuj, and a transcribed version of the text 
+            Each edition represents the text from a particular editorial or critical perspective.</p>
           </div>
         </div>
         <!-- Example row of columns -->
         <div class="row">
           <div class="col-md-4">
-            <h2>Paragraphs</h2>
+            <h2>Paragraphs and Topics</h2>
             <p>This edition presents the TEI-encoded version of the text prepared by the Multepal team with line breaks removed, manuscript page breaks represented as milestones, and inferred paragraph breaks added. It is intended to represent the text in so-called logical form, that is, as a discursive structure independent of its documentary vehicle. This has two advantages. First, it presents the text as it was meant to be read. Second, it allows for the natural representation of annotatiohns of the text that cross line and page boundaries. Other editions of the text will emphasize its material structure. The edition contains highlighted segments of the text that correspond to topics on the Multepal database; these are links that launch pop-up menus describing the topic, along with a link back to the Multepal database for more information.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">View edition &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="xom-paragraphs.html" role="button">View edition &raquo;</a></p>
           </div>
           <div class="col-md-4">
-            <h2>Breaks</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-secondary" href="#" role="button">View edition &raquo;</a></p>
+            <h2>Original Breaks</h2>
+            <p>This edition presents the TEI-
+            </p>
+            <p><a class="btn btn-secondary" href="xom-breaks.html" role="button">View edition &raquo;</a></p>
           </div>
           <div class="col-md-4">
             <h2>TEI Source</h2>
             <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <p><a class="btn btn-secondary" href="#" role="button">View edition &raquo;</a></p>
+            <p><a class="btn btn-secondary" href="xom-all-flat-mod-pnums.xml" role="button">View edition &raquo;</a></p>
           </div>
         </div>
 
