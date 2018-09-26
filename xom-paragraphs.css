@@ -119,7 +119,7 @@ div.spa.quc p .note {
     font-size: 80%;
 }
 
-#topic-list {
+#topic-list, #annotation-list {
     display:  none;
 }
 

@@ -9,6 +9,9 @@
     <xsl:param name="topicsFile" select="'multepal/topics.xml'" />
     <xsl:param name="topics" select="document($topicsFile)" />
     
+    <xsl:param name="annotationsFile" select="'multepal/annotations-mod.xml'" />
+    <xsl:param name="annotations" select="document($annotationsFile)" />
+
     <!-- Not sure if this is doing anything -->
     <xsl:strip-space elements="p" /> 
 
@@ -58,6 +61,10 @@
             <xsl:apply-templates select="$topics/topics/topic"/>
         </div>
 
+        <div class="container" id="annotation-list">
+            <xsl:apply-templates select="$annotations/annotations/annotation"/>
+        </div>
+        
         <div class="container text-center mt-3" id="footer">
                 <a class="btn btn-primary btn-sm" href="index.html">Return Home</a>
         </div>
@@ -85,9 +92,10 @@
     </xsl:template>
 
     <xsl:template match="tei:lb[@n]">
-        <span class="lb" data-n="{@n}">
-            <!-- <xsl:value-of select="@n"/> -->
-        </span>
+        <xsl:variable name="line_id" select="@id"/>
+        <xsl:for-each select="$annotations//annotation-map/item[@line_id = $line_id]">
+            <a href="#annotation-{@nid}"><sup>&#8224;</sup></a>
+        </xsl:for-each>
     </xsl:template>
 
     <xsl:template match="tei:lb">
@@ -146,7 +154,17 @@
                 <xsl:value-of select="type"/>
             </div>
             <div class="topic-description">
-                <xsl:apply-templates select="description" />
+                <xsl:apply-templates select="description" disable-output-escaping="yes"/>
+            </div>
+        </div>
+    </xsl:template>
+
+    <xsl:template match="annotation">
+        <div class="annotation-entry" id="annotation-{@nid}">
+            <h2 class="annotation-title"><xsl:value-of select="title" /></h2>
+            <a href="{$themes_ajax_root}{@nid}" class="annotation-link btn btn-primary btn-sm" target="_blank">See full record</a>
+            <div class="annotation-content">
+                <xsl:apply-templates select="content" />
             </div>
         </div>
     </xsl:template>
