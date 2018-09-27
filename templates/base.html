@@ -3,6 +3,7 @@
 <head>
     <title>{{site_title}} | {{page_title}}</title>
     <meta charset="UTF-8">
+    <meta http-equiv="cache-control" content="no-store" />
     <!-- STTYLES -->
     {% block styles %}{% for style in styles %}
     <link rel="stylesheet" type="text/css" href="{{style.href}}" integrity="{{style.integrity}}" crossorigin="{{style.crossorigin}}">
