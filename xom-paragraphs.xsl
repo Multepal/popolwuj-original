@@ -94,15 +94,18 @@
     <xsl:template match="tei:lb[@n]">
         <xsl:variable name="line_id" select="@id"/>
         <xsl:for-each select="$annotations//annotation-map/item[@line_id = $line_id]">
-            <a href="#annotation-{@nid}"><sup>&#8224;</sup></a>
+            <a class="lb" href="#" data-nid="{@nid}" data-toggle="modal" data-target="#topic-box">
+                <sup class="annotation-icon">&#8224;</sup>
+            </a>
         </xsl:for-each>
     </xsl:template>
 
+    <!--
     <xsl:template match="tei:lb">
         <span class="lb" data-n="">
-            <!-- <xsl:value-of select="@n"/> -->
         </span>
     </xsl:template>
+    -->
 
     <xsl:template match="tei:pc">
         <span class="pc">-</span>

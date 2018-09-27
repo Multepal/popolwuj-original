@@ -127,6 +127,10 @@ div.spa.quc p .note {
     max-height: 100px;  
 }
 
+.annotation-icon {
+    color: green;
+    font-size: 14pt;
+}
 /* PREVIOUS VERSION */
 
 /*
