@@ -16,6 +16,7 @@ for note in root.findall('annotation'):
     lines = note.find('lineas').text
     sources = note.find('sources').text
     title = note.find('title').text
+    author = note.find('author').text
     if lines == None:
         continue
 
@@ -24,7 +25,8 @@ for note in root.findall('annotation'):
         'sources': sources,
         'title': title,
         'lines_raw': lines,
-        'lines': {}
+        'lines': {},
+        'author': author
     }
 
     F = C = L = ''
@@ -90,6 +92,7 @@ for nid in data:
     doc.append("\t\t</lines>")
     doc.append("\t\t<content>{}</content>".format(data[nid]['content']))
     doc.append("\t\t<sources>{}</sources>".format(data[nid]['sources']))
+    doc.append("\t\t<author>{}</author>".format(data[nid]['author']))
     doc.append('\t</annotation>')
 
 doc.append("\t<annotation-map>")

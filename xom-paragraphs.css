@@ -129,7 +129,11 @@ div.spa.quc p .note {
 
 .annotation-icon {
     color: green;
-    font-size: 14pt;
+    /* font-size: 24pt; */
+}
+
+.annotation-author {
+    float: right;
 }
 /* PREVIOUS VERSION */
 

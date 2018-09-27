@@ -24,8 +24,7 @@
         <!-- Header; may include a menu at some point -->
         <div class="container" id="header">
             <h1 class="text-center">
-                <i>Popol Wuj</i><br/>
-                <small>Paragraphs and Topics Edition</small>
+                <i>Popol Wuj</i><br/><small>Paragraphs and Topics Edition</small>
             </h1>
         </div>
 
@@ -94,8 +93,8 @@
     <xsl:template match="tei:lb[@n]">
         <xsl:variable name="line_id" select="@id"/>
         <xsl:for-each select="$annotations//annotation-map/item[@line_id = $line_id]">
-            <a class="lb" href="#" data-nid="{@nid}" data-toggle="modal" data-target="#topic-box">
-                <sup class="annotation-icon">&#8224;</sup>
+            <a class="lb" href="#"  title="Annotation for line {@line_id}" data-source-line-id="{$line_id}" data-nid="{@nid}" data-toggle="modal" data-target="#topic-box">
+                <sup class="annotation-icon">&#8853;</sup> <!-- 9998 8224 -->
             </a>
         </xsl:for-each>
     </xsl:template>
@@ -168,6 +167,7 @@
             <a href="{$themes_ajax_root}{@nid}" class="annotation-link btn btn-primary btn-sm" target="_blank">See full record</a>
             <div class="annotation-content">
                 <xsl:apply-templates select="content" />
+                <div class="annotation-author"><xsl:value-of select="author"/></div>
             </div>
         </div>
     </xsl:template>
