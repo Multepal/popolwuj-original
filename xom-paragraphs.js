@@ -25,7 +25,7 @@ $(document).ready(function()
         link = $(note + ' .annotation-link').attr('href')
         $('#topic-box .modal-title').html('Annotación: ' + title)
         $('#topic-box .modal-body').html(body)
-        $('#topic-box .modal-body').prepend('<div class="source-line-id alert alert-success">Source line: '+line_id_label+'</div>')
+        $('#topic-box .modal-body').prepend('<div class="source-line-id alert alert-success">&#8853; '+line_id_label+'</div>')
         $('#topic-box .multepal-link').attr('href', link) 
         $('#topic-box').trigger('focus')
     });
