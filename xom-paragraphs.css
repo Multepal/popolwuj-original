@@ -6,7 +6,7 @@ h1, h2, h3 {
 
 div.col {
     overflow: scroll;
-    height: 6.5in;
+    height: 100%;
 }
 
 p {
@@ -119,6 +119,11 @@ div.spa.quc p .note {
     font-size: 80%;
 }
 
+.hi.underline {
+    font-weight: normal;
+    text-decoration: underline;
+}
+
 #topic-list, #annotation-list {
     display:  none;
 }
@@ -135,6 +140,17 @@ div.spa.quc p .note {
 .annotation-author {
     float: right;
 }
+
+.footer {
+    display: block;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+    background-color: #f5f5f5;
+  }
 /* PREVIOUS VERSION */
 
 /*

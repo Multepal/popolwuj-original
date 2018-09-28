@@ -64,9 +64,11 @@
             <xsl:apply-templates select="$annotations/annotations/annotation"/>
         </div>
         
-        <div class="container text-center mt-3" id="footer">
+        <footer class="footer">
+            <div class="container text-center mt-3" id="footer">
                 <a class="btn btn-primary btn-sm" href="index.html">Return Home</a>
-        </div>
+            </div>
+        </footer>
 
         <xsl:text disable-output-escaping='yes'>{% endblock %}</xsl:text>
     

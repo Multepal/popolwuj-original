@@ -10,9 +10,9 @@ else:
 print('src_file:', src_file)
 
 subs = [
-    ('ꜩ', 'tz'),
-    ('Ꜩ', 'TZ'),
-    ('ꜫ', "q'")
+    #('ꜩ', 'tz'),
+    #('Ꜩ', 'TZ'),
+    #('ꜫ', "q'")
 ]
 
 bigline = ''
