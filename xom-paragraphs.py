@@ -34,7 +34,8 @@ with open(src_file, 'r') as xom:
     
 
 with open(src_file, 'w') as xom:
-    bigline = re.sub(r'<(p) ', '\n<' + '\g<1> ', bigline)
+    #bigline = re.sub(r'<(p|div) ', '\n<' + r'\g<1> ', bigline)
+    bigline = re.sub(r'<(p|div) ', r'\n<\g<1> ', bigline)
     xom.write(bigline)
 
 print("Done with", src_file)

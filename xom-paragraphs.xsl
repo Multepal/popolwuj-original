@@ -33,9 +33,15 @@
             <div class="row">
                 <xsl:apply-templates select="//tei:text//tei:body"/>
             </div>
+            <div class="row text-center mt-3 footer">
+                <div class="col"  id="footer">
+                    <a class="btn btn-primary btn-sm" href="index.html">Return Home</a>
+                </div>
+            </div>
         </div>
 
         <!-- Model box for displaying topic info when segment is selected -->
+        <div class="container">
         <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="Téma">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
@@ -55,6 +61,7 @@
                 </div>
             </div>
         </div>
+        </div>
 
         <div class="container" id="topic-list">
             <xsl:apply-templates select="$topics/topics/topic"/>
@@ -64,12 +71,6 @@
             <xsl:apply-templates select="$annotations/annotations/annotation"/>
         </div>
         
-        <footer class="footer">
-            <div class="container text-center mt-3" id="footer">
-                <a class="btn btn-primary btn-sm" href="index.html">Return Home</a>
-            </div>
-        </footer>
-
         <xsl:text disable-output-escaping='yes'>{% endblock %}</xsl:text>
     
     </xsl:template>
