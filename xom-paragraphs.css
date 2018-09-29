@@ -64,8 +64,13 @@ div.spa p {
     max-width: 1.5in;
     padding: .5rem 0;
     color: charcoal;
+    /*
     border-top: 1px solid gray;
     border-bottom: 1px solid gray;
+    */
+    background-color: beige;
+    padding:.5rem;
+    border-radius: 3px;
 }
 
 div.col.quc .note {
@@ -146,7 +151,7 @@ div.spa.quc p .note {
 
 .annotation-icon {
     color: green;
-    /* font-size: 24pt; */
+    font-size: 14pt;
 }
 
 .annotation-author {
