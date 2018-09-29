@@ -22,45 +22,46 @@
         <xsl:text disable-output-escaping='yes'>{% block content %}</xsl:text>
 
         <!-- Header; may include a menu at some point -->
-        <div class="container" id="header">
-            <h1 class="text-center">
-                <i>Popol Wuj</i><br/><small>Paragraphs and Topics Edition</small>
-            </h1>
-        </div>
+        <nav class="navbar navbar-expand-sm bg-light">
+            <h1><i><a href="index.html">Popol Wuj</a></i> / Paragraphs and Topics Edition</h1>
+        </nav>
 
         <!-- Main text viewing area -->
         <div class="container-fluid" id="content">
+
             <div class="row">
                 <xsl:apply-templates select="//tei:text//tei:body"/>
             </div>
+
             <div class="row text-center mt-3 footer">
                 <div class="col"  id="footer">
-                    <a class="btn btn-primary btn-sm" href="index.html">Return Home</a>
+                    <!-- <a class="btn btn-primary btn-sm" href="index.html">Return Home</a> -->
                 </div>
             </div>
+
         </div>
 
         <!-- Model box for displaying topic info when segment is selected -->
-        <div class="container">
-        <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="Téma">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h3 class="modal-title">Topic Entry</h3>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">&#215;</span>
-                        </button>
-                    </div>
-                    <div class="modal-body">
-                        <p>Modal body text goes here.</p>
-                    </div>
-                    <div class="modal-footer">
-                        <a class="multepal-link btn btn-primary" href="#" target="_blank">See full record</a>
-                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <div class="container" id="data">
+            <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="Téma">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h3 class="modal-title">Topic Entry</h3>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&#215;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <p>Modal body text goes here.</p>
+                        </div>
+                        <div class="modal-footer">
+                            <a class="multepal-link btn btn-primary" href="#" target="_blank">See full record</a>
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </div>
 
         <div class="container" id="topic-list">

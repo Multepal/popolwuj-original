@@ -2,8 +2,9 @@
 $(document).ready(function()
 {
 
-    $('.rs').click(function() {
-        topic = '#topic-' + $(this).data('ana')
+    $('.rs[data-ana]').click(function() {
+        ana = $(this).data('ana')
+        topic = '#topic-' + ana
         src_str = $(this).html()
         title = $(topic + ' .topic-title').html()
         type = $(topic + ' .topic-type').html()
@@ -14,6 +15,7 @@ $(document).ready(function()
         $('#topic-box .modal-body').prepend('<div class="source-string alert alert-success">Source: <b>'+src_str+'</b></div>')
         $('#topic-box .multepal-link').attr('href', link) 
         $('#topic-box').trigger('focus')
+        $('.rs[data-ana="'+ana+'"]').css('color', 'green')
     });
 
     $('.lb').click(function() {
