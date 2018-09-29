@@ -14,8 +14,7 @@
     {% block content %}{% endblock %}
 
     <!-- SCRIPTS -->
-    {% block scripts %}{% for script in scripts %}
-    <script src="{{script.src}}" integrity="{{script.integrity}}" crossorigin="{{script.crossorigin}}"></script>
+    {% block scripts %}{% for script in scripts %}<script src="{{script.src}}" integrity="{{script.integrity}}" crossorigin="{{script.crossorigin}}"></script>
     {% endfor %}{% endblock %}
 </body>    
 </html>
