@@ -103,5 +103,5 @@ doc.append("\t</annotation-map>")
 
 doc.append("</annotations>")
 
-with open("annotations-mod.xml", 'w') as out:
+with open("annotations.xml", 'w') as out:
     out.write('\n'.join(doc))

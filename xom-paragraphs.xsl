@@ -9,7 +9,7 @@
     <xsl:param name="topicsFile" select="'multepal/topics.xml'" />
     <xsl:param name="topics" select="document($topicsFile)" />
     
-    <xsl:param name="annotationsFile" select="'multepal/annotations-mod.xml'" />
+    <xsl:param name="annotationsFile" select="'multepal/annotations.xml'" />
     <xsl:param name="annotations" select="document($annotationsFile)" />
 
     <!-- Not sure if this is doing anything -->
