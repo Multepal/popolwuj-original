@@ -116,6 +116,16 @@ div.spa.quc p .note {
 }
 */
 
+.col.quc a.lb sup {
+    float:left;
+    margin-left: -1in;
+}
+
+.col.spa a.lb sup {
+    float:right;
+    margin-left: -1in;
+}
+
 .pc {
     display: none;
 }

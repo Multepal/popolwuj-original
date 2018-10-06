@@ -2,7 +2,7 @@
 <xsl:stylesheet version="1.0" 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
     xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
-    <xsl:output method="html" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+    <xsl:output method="html" omit-xml-declaration="yes" encoding="UTF-8" indent="no" />
 
     <xsl:variable name="themes_ajax_root">http://live-multepal.pantheonsite.io/node/</xsl:variable>
 
@@ -23,7 +23,10 @@
 
         <!-- Header; may include a menu at some point -->
         <nav class="navbar navbar-expand-sm bg-light">
-            <h1><i><a href="index.html">Popol Wuj</a></i> / Paragraphs and Topics Edition</h1>
+            <h1><i><a href="index.html">Popol Wuj</a></i>
+            <span>&#160;</span>
+            <span>Paragraphs and Topics Version</span>
+            </h1>
         </nav>
 
         <!-- Main text viewing area -->
@@ -94,24 +97,28 @@
         <p data-pos="{position()}"><xsl:apply-templates /></p>
     </xsl:template>
 
-    <xsl:template match="tei:lb[@n]">
+    <xsl:template match="tei:lb">
         <xsl:variable name="line_id" select="@id"/>
         <xsl:for-each select="$annotations//annotation-map/item[@line_id = $line_id]">
             <a class="lb" href="#"  title="Annotation for line {@line_id}" data-source-line-id="{$line_id}" data-nid="{@nid}" data-toggle="modal" data-target="#topic-box">
-                <sup class="annotation-icon">&#8853;</sup> <!-- 9998 8224 -->
+                <sup class="annotation-icon">&#8853;</sup>
             </a>
         </xsl:for-each>
+        <xsl:text>__LB__</xsl:text>
+        <!-- DOES NOT WORK AS EXPECTED
+        <xsl:choose>
+            <xsl:when test="preceding-sibling::tei:pc[1]">
+                <xsl:text>__PC__//</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:text>__LB__</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose> 
+        -->
     </xsl:template>
-
-    <!--
-    <xsl:template match="tei:lb">
-        <span class="lb" data-n="">
-        </span>
-    </xsl:template>
-    -->
 
     <xsl:template match="tei:pc">
-        <span class="pc">-</span>
+        <xsl:text>__PC__</xsl:text>
     </xsl:template>
 
     <xsl:template match="tei:pb">
