@@ -32,6 +32,12 @@ $(document).ready(function()
         $('#topic-box').trigger('focus')
     });
 
+    $('#sidebar a.index').click(function() {
+        target = $(this).data('target')
+        window.location.href = '#quc-' + target
+        window.location.href = '#spa-' + target
+    });
+
     function parse_line_id(line_id = '') {
         line_id = line_id.replace(/-/g, '')
             .replace(/xom/, '')
@@ -42,4 +48,5 @@ $(document).ready(function()
         return line_id
     }
 
+    
 });

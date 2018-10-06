@@ -30,18 +30,35 @@
         </nav>
 
         <!-- Main text viewing area -->
-        <div class="container-fluid" id="content">
-
-            <div class="row">
-                <xsl:apply-templates select="//tei:text//tei:body"/>
+        <div class="wrapper">
+            <div id="sidebar">
+                <h3><small>idx</small></h3>
+                <ul class="list-unstyled">
+                <xsl:for-each select="descendant::tei:div[@type='column']//tei:pb">
+                    <li>
+                        <a class="index" href="#">
+                            <xsl:attribute name="data-target">
+                                <xsl:value-of select="@xml:id"/>  
+                            </xsl:attribute>
+                            <xsl:value-of select="@xml:id"/>
+                        </a>    
+                    </li>
+                </xsl:for-each>
+                </ul>
             </div>
+            <div class="container-fluid" id="content">
 
-            <div class="row text-center mt-3 footer">
-                <div class="col"  id="footer">
-                    <!-- <a class="btn btn-primary btn-sm" href="index.html">Return Home</a> -->
+                <div class="row">
+                    <xsl:apply-templates select="//tei:text//tei:body"/>
                 </div>
-            </div>
 
+                <div class="row text-center mt-3 footer">
+                    <div class="col" id="footer">
+                        <!-- <a class="btn btn-primary btn-sm" href="index.html">Return Home</a> -->
+                    </div>
+                </div>
+
+            </div>
         </div>
 
         <!-- Model box for displaying topic info when segment is selected -->
@@ -122,7 +139,8 @@
     </xsl:template>
 
     <xsl:template match="tei:pb">
-        <span class="pb badge badge-secondary" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
+        <xsl:variable name="col" select="ancestor::tei:div[@type='column']/@xml:lang"/>
+        <span id="{$col}-{@xml:id}{@corresp}" class="pb badge badge-secondary" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
             <xsl:value-of select="@xml:id"/>
             <xsl:value-of select="@corresp"/>
         </span>
