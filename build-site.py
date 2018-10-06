@@ -39,7 +39,7 @@ docmap = {
         'assets':'index'
     },
     'xom-paragraphs.html': {
-        'page_title': 'Paragraphs Edition',
+        'page_title': 'Paragraphs Version',
         'assets': 'paragraphs'
     }
 }

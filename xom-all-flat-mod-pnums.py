@@ -3,7 +3,7 @@
 import re
 
 COL = re.compile(r'<div xml:lang="(\w+)" type="column">')
-PB = re.compile(r'<pb xml:id="([^"]+)"/>')
+PB = re.compile(r'<pb (xml:id|corresp)="([^"]+)"/>')
 LB = re.compile(r'<lb n="(\d+)"/>(.*)')
 
 file = "./xom-all-flat-mod-pnums.xml"
@@ -18,7 +18,7 @@ with open(file, 'r') as xml:
             newdoc.append(line)
         elif PB.match(line):
             m = PB.match(line)
-            P = m[1]
+            P = m[2]
             newdoc.append(line)
         elif LB.match(line):
             m = LB.match(line)

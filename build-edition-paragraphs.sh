@@ -1,5 +1,8 @@
 #! /usr/bin/env bash
 
+echo "Add line ids to TEI source ..."
+./xom-all-flat-mod-pnums.py;
+
 echo "Applying XSLT to paragraphs ..."
 xsltproc xom-paragraphs.xsl xom-all-flat-mod-pnums-lbids.xml > ./templates/xom-paragraphs.html;
 
