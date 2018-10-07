@@ -32,7 +32,7 @@ $(document).ready(function()
         $('#topic-box').trigger('focus')
     });
 
-    $('#sidebar a.index').click(function() {
+    $('#sidebar a.folio-index-item').click(function() {
         target = $(this).data('target')
         window.location.href = '#quc-' + target
         window.location.href = '#spa-' + target

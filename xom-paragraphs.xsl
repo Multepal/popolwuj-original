@@ -34,13 +34,13 @@
             <div id="sidebar">
                 <h3><small>idx</small></h3>
                 <ul class="list-unstyled">
-                <xsl:for-each select="descendant::tei:div[@type='column']//tei:pb">
+                <xsl:for-each select="descendant::tei:div[@type='column'][@xml:lang='quc']//tei:pb">
+                    <xsl:variable name="folio" select="number(substring(@xml:id, 6, 2))" />
+                    <xsl:variable name="side" select="substring(@xml:id, 10, 1)" />
+                    <xsl:variable name="sidex" select="translate($side, '12', 'rv')" />
                     <li>
-                        <a class="index" href="#">
-                            <xsl:attribute name="data-target">
-                                <xsl:value-of select="@xml:id"/>  
-                            </xsl:attribute>
-                            <xsl:value-of select="@xml:id"/>
+                        <a class="folio-index-item" href="#" data-target="{@xml:id}">
+                            <xsl:value-of select="concat($folio,$sidex)"/>
                         </a>    
                     </li>
                 </xsl:for-each>
@@ -140,9 +140,14 @@
 
     <xsl:template match="tei:pb">
         <xsl:variable name="col" select="ancestor::tei:div[@type='column']/@xml:lang"/>
-        <span id="{$col}-{@xml:id}{@corresp}" class="pb badge badge-secondary" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
-            <xsl:value-of select="@xml:id"/>
-            <xsl:value-of select="@corresp"/>
+        <xsl:variable name="v0" select="concat(@xml:id, @corresp)"/>
+        <xsl:variable name="folio" select="number(substring($v0, 6, 2))" />
+        <xsl:variable name="side" select="substring($v0, 10, 1)" />
+        <xsl:variable name="sidex" select="translate($side, '12', 'rv')" />
+        <span id="{$col}-{@xml:id}{@corresp}" class="pb _badge _badge-secondary" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
+            <xsl:text>&#8212; </xsl:text>
+            <xsl:value-of select="concat($folio,$sidex)"/>
+            <xsl:text> &#8212;</xsl:text>
         </span>
     </xsl:template>
     
