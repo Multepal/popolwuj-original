@@ -10,18 +10,20 @@ else:
 print('src_file:', src_file)
 
 subs = [
-    #('ꜩ', 'tz'),
-    #('Ꜩ', 'TZ'),
-    #('ꜫ', "q'")
+    ('ꜩ', 'tz'),
+    ('Ꜩ', 'TZ'),
+    ('ꜫ', "q'")
 ]
 
 bigline = ''
 with open(src_file, 'r') as xom:
+    
     bigline = ''.join([line.strip() for line in xom.readlines()])
     bigline = re.sub(r'\s+', ' ', bigline)
     bigline = re.sub(r'- ', '', bigline)
-    for sub in subs:
-         bigline = re.sub(sub[0], sub[1], bigline)
+    
+    # for sub in subs:
+    #      bigline = re.sub(sub[0], sub[1], bigline)
 
     # THIS IS WHERE YOU CAN ADD THE SEMANTIC MARKUP
 
@@ -40,8 +42,8 @@ with open(src_file, 'r') as xom:
     bigline = re.sub('__LB__', ' ', bigline)
     
 with open(src_file, 'w') as xom:
-    #bigline = re.sub(r'<(p|div) ', '\n<' + r'\g<1> ', bigline)
-    #bigline = re.sub(r'<(p|div) ', r'\n<\g<1> ', bigline)
+    bigline = re.sub(r'<(p|div) ', '\n<' + r'\g<1> ', bigline)
+    bigline = re.sub(r'<(p|div) ', r'\n<\g<1> ', bigline)
     xom.write(bigline)
 
 print("Done with", src_file)

@@ -6,7 +6,7 @@
 }
 
 #sidebar {
-    width: 72px;
+    width: 64px;
     padding: .5rem;
     position: fixed;
     top: 0;
@@ -42,7 +42,7 @@ h2 {
 }
 
 div.col {
-    height: 20in; /* Won't scroll unless given an actual length, i.e. % does nto nwork */
+    height: 8in; /* Won't scroll unless given an actual length, i.e. % does nto nwork */
     overflow: scroll;
 }
 
@@ -59,22 +59,16 @@ p {
     font-family: sans-serif;
     padding: .25rem .5rem;
     margin: .5rem;
+    background-color: #7386D5;
 }
 
 div.quc .pb {
     float: left;
-    
-}
-
-div.quc p .pb {
     margin-left: -1in;
 }
 
 div.spa .pb {
     float: right;
-}
-
-div.spa p .pb {
     margin-right: -1in;
 }
 

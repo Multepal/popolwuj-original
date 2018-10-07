@@ -48,5 +48,4 @@ $(document).ready(function()
         return line_id
     }
 
-    
 });
