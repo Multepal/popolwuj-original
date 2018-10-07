@@ -4495,8 +4495,8 @@ cap.
 <lb n="45" />hib rumal qui naual tohil xe
 <lb n="46" />qha curi tohil aulix hacavitz
 </p>
-<pb xml:id="xom-f44-s2"/>
 <p>
+<pb xml:id="xom-f44-s2"/>
 <lb n="1"/>ta xeqhau chic chiquech ri xtah
 <lb n="2"/>xpuch quibi re e caib capohib
 <lb n="3"/>vtz chibec retal catzihivvq chi<pc> –</pc>
@@ -5909,8 +5909,8 @@ cap.
 </p>
 </div>
 <div xml:lang="spa" type="column">
-<pb corresp="xom-f01-s1"/>
 <p>        
+<pb corresp="xom-f01-s1"/>
 <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
 <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
 </p>
@@ -6064,9 +6064,9 @@ cap.
 <lb />
 <lb />
 </p>
+<p>
 <pb corresp="xom-f02-s2"/>
 <lb/>
-<p>
 <lb n="1"/><hi rend="large">Y</hi> despues discurrieron los animales de el mon<corr><pc> –</pc></corr>
 <lb n="2"/>te guardianes suyos de los montes todos, sus crí<pc> –</pc>
 <lb n="3"/>aturas de el monte, el venado, el paxaro, el
@@ -8294,7 +8294,7 @@ perhaps priests not deities?</note>
 <lb/>
 <lb/>
 <lb/>
-<lb />
+<lb/>
 <pb corresp="xom-f24-s2"/>
 <note  place="margin-right" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">24</hi></num>
@@ -10158,7 +10158,8 @@ perhaps priests not deities?</note>
 <lb n="31"/>y aquí empíeza suser hurtados los
 <lb n="32"/>hombres de los pueblos por <rs ana="BALAM_KITZE">balam quíꜩe</rs>
 <lb n="33"/><rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs>, y <rs ana="IKIBALAM">íquíbalam</rs>.
-</p><p>
+</p>
+<p>
 <lb n="34"/>y luego fue el ser matado el pueblo, <abbr>q’</abbr>los
 <lb n="35"/>tomaron estos, y solo por vna o dos partes
 <lb n="36"/>andaban quando los tomaban, y luego
@@ -10210,12 +10211,12 @@ perhaps priests not deities?</note>
 <lb n="34"/>lam quíꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs>,
 <lb n="35"/>y <rs ana="IKIBALAM">íquíbalam</rs>. y entonçes consultaron
 <lb n="36"/>los pueblos para <abbr>q’</abbr>fuesen muertos.
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
 </p>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
 <p>
 <lb n="37"/>y lo prímero quísíeron consultar, los
 <lb n="38"/>pueblos el ganar al <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílix</rs>, y <rs ana="JAQAWITZ">ha<pc> –</pc>
@@ -10285,9 +10286,9 @@ perhaps priests not deities?</note>
 <lb n="9" />eron embíadas al río adonde se ba<pc> –</pc>
 <lb n="10" />ñaba el tohíl auílíx cahauítz. y esto
 <lb n="11" />fue lo q’díscurríeron los pueblos.
+<lb />
+<lb />
 </p>
-<lb />
-<lb />
 <p>
 <lb n="12" />y luego se fueron a componer, y a
 <lb n="13" />aderezar, y çíertamente q’estaban
@@ -10318,12 +10319,12 @@ perhaps priests not deities?</note>
 <lb n="38" />rían los pueblos, q’fornicasen las don
 <lb n="39" />çellas con los naguales de tohíl díxe<pc> –</pc>
 <lb n="40" />ron tohíl, auílix, hacauítz.
+<lb />
+<lb />
+<lb />
 </p>
-<lb />
-<lb />
-<lb />
-<pb corresp="xom-f44-s2"/>
 <p>
+<pb corresp="xom-f44-s2"/>
 <lb n="1" />y díxeron otra ves a xtah y xpuch
 <lb n="2" />q’así se llamaban las donçellas: esta
 <lb n="3" />bíen, íraseñal de nuestra palabra
@@ -10613,8 +10614,8 @@ perhaps priests not deities?</note>
 <lb n="" />síeron matar. y agora diremos del
 <lb n="" />fin y muerte de balam quítze, balam
 <lb n="" />acab, mahucutah, y iquíbalam.
-</p>
 <lb />
+</p>
 <p>
 <lb n="" />y auíendo ya conocido que se morían
 <lb n="" />les avisaron asus híjos y no estaban
@@ -11037,8 +11038,8 @@ perhaps priests not deities?</note>
 <lb n="45"/>y solo tenían vna casa grande los dos
 <lb n="46"/><choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice>
 </p>
-<pb corresp="xom-f51-s2"/>
 <p>
+<pb corresp="xom-f51-s2"/>
 <lb n="1"/>y así se ajusttaron los veínte, y quatro<pc> –</pc>
 <lb n="2"/><choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y las veínte, y quatro casas gran<pc> –</pc>
 <lb n="3"/>des, quando se engrandecío la glo<pc> –</pc>
@@ -11344,8 +11345,7 @@ perhaps priests not deities?</note>
 <p>
 <lb n="42"/>O tu hermosura de su día; tu <rs ana="UKUX_KAJ">huracan</rs>, tu
 <lb n="43"/><rs ana="UKUX_KAJ_UKUX_ULEW">corazón de el çíelo, y tíerra</rs>, tu dador de
-<lb n="44"/>nuestra gloría, y tu tambíen dador de<pc> –</pc>
-
+<lb n="44"/>nuestra gloría, y tu tambíen dador de
 <pb corresp="xom-f54-s2"/>
 <lb n="1"/>nuestros híjos, e híjas, muebe, y buelbe ha
 <lb n="2"/>çía aca tu gloría, y dad <abbr>q’</abbr>víuan, y se
@@ -11444,44 +11444,58 @@ perhaps priests not deities?</note>
 <p>
 <lb n="39"/><rs ana="BALAM_KITZE"><hi rend="large">B</hi>alamquítze</rs>. elprímero, ytronco de
 <lb n="40"/>losde <rs ana="KAWEQ">cauíquíb</rs>
-</p><p>
+</p>
+<p>
 <lb n="41"/><hi rend="large">C</hi>ocauíb; segunda generaçíon de <rs ana="BALAM_KITZE">balamq’tze</rs>
-</p><p>
+</p>
+<p>
 <lb n="42"/><hi rend="large">B</hi>alamconache. la terçera generaçíon
 <lb/>
-</p><p>
+</p>
+<p>
 <lb n="43"/><hi rend="large">C</hi>otuhaztayub. quarta generaçíon
-</p><p>
+</p>
+<p>
 <lb n="44"/><hi rend="large">C</hi>ucumatz cotuha el prímero de los portento<pc> –</pc>
 <pb corresp="xom-f55-s2"/>
 <lb n="1"/>sos. quínta generaçíon
-</p><p>
+</p>
+<p>
 <lb n="2"/><hi rend="large">T</hi>epepul ztayul. sexta generaçíon
-</p><p>
+</p>
+<p>
 <lb n="3"/><hi rend="large">Q</hi>uícab, cauízímah. septíma generaçíon
-</p><p>
+</p>
+<p>
 <lb n="4"/><abbr>q’</abbr>tambíen fue portentoso.
-</p><p>
+</p>
+<p>
 <lb n="5"/><hi rend="large">T</hi>epepul xtayub. octaua generaçíon.
-</p><p>
+</p>
+<p>
 <lb n="6"/><hi rend="large">T</hi>ecum tepepul. nona generaçíon.
-</p><p>
+</p>
+<p>
 <lb n="7"/><rs ana="WAJXAQIB_KAM"><hi rend="large">V</hi>ahxaquí caam</rs> y <rs ana="KIKAB">quícab</rs>. deçíma gene<pc> –</pc>
 <lb n="8"/>raçíon de los Reyes.
-</p><p>
+</p>
+<p>
 <lb n="9"/><hi rend="large">V</hi>ucub noh. y cuuatepech. undeçíma
 <lb n="10"/>generaçíon de los Reyes.
-</p><p>
+</p>
+<p>
 <lb n="11"/><rs ana="OXIB_KEJ"><hi rend="large">O</hi>xibqueh</rs>, <rs ana="BELEJEB_TZI">beleheb <abbr>q’</abbr>í</rs>. duodeçíma
 <lb n="12"/>generaçíon de los Reyes.y estos reyna<pc> –</pc>
 <lb n="13"/>ban qo. víno <rs ana="DONADIU">Aluarado</rs>. y fueron ahor<pc> –</pc>
 <lb n="14"/>cados por los españoles.
-</p><p>
+</p>
+<p>
 <lb n="15"/><rs ana="TEKUM_TRECEAVA"><hi rend="large">T</hi>ecum</rs>, <rs ana="TEPEPUL_TRECEAVA">tepepul</rs>. <abbr>q’</abbr>tríbutaron a los espa<pc> –</pc>
 <lb n="16"/>ñoles. y estos fueron la terçía deçíma
 <lb n="17"/>generaçíon de los Reyes.
 <lb/>
-</p><p>
+</p>
+<p>
 <lb n="18"/><rs ana="DON_JUAN_DE_ROJAS"><hi rend="large"><abbr>D.</abbr></hi> <abbr>Ju<hi rend="superscript">o.</hi></abbr> de Roxas</rs>, <rs ana="DON_JUAN_CORTÉS"><abbr>D.</abbr> <abbr>Ju<hi rend="superscript">o.</hi></abbr> cortes</rs>. la quarta
 <lb n="19"/>deçíma generaçíon de los Reyes. y fue<pc> –</pc>
 <lb n="20"/>ron híjos de tecum, Tepepul.
@@ -11494,31 +11508,41 @@ perhaps priests not deities?</note>
 <lb n="27"/><rs ana="SAQIK">chínamítales</rs> de <rs ana="KAWEQ">cauíquíb</rs>, y nueue ca<pc> –</pc>
 <lb n="28"/>sas grandes. y este es el nombre de<pc> –</pc>
 <lb n="29"/>cada vno de los <abbr>SS<hi rend="superscript">es.</hi></abbr> de las casas grandes.
-</p><p>
+</p>
+<p>
 <lb n="30"/><hi rend="large">A</hi>hau ahpop. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande
 <lb n="31"/><abbr>q’</abbr>se llamaba, cuha.
-</p><p>
+</p>
+<p>
 <lb n="32"/><hi rend="large">A</hi>hau ahpop camha. y su casa se llamaba
 <lb n="33"/><abbr>q’</abbr>íquínaha.
-</p><p>
+</p>
+<p>
 <lb n="34"/><rs ana="NIM_CHOKOJ_KAWEQ"><hi rend="large">N</hi>ím choch cauec</rs>. vna casa grande.
-</p><p>
+</p>
+<p>
 <lb n="35"/><hi rend="large">A</hi>hau ahtohíl. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
-</p><p>
+</p>
+<p>
 <lb n="36"/><hi rend="large">A</hi>hau ah cucumatz. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
-</p><p>
+</p>
+<p>
 <lb n="37"/><hi rend="large">P</hi>opolvínac chítuí. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
-</p><p>
+</p>
+<p>
 <lb n="38"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet quehnay</rs>. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
-</p><p>
+</p>
+<p>
 <lb n="39"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ"><hi rend="large">P</hi>opolvínac pahom. tzalatz</rs> xcuxeba. <abbr>S<hi rend="superscript">or.</hi></abbr>
 <lb n="40"/>de vna casa grande.
-</p><p>
+</p>
+<p>
 <lb n="41"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu yaquí</rs>. <abbr>S<hi rend="superscript">or.</hi></abbr> de vna casa grande.
 <lb n="42"/>y estos son los nueue <rs ana="SAQIK">chínamítales</rs> de
 <lb n="43"/><rs ana="KAWEQ">cauíquíb</rs>, y tenían muchos vasallos a su
 <lb n="44"/>quenta.
-</p><p>
+</p>
+<p>
 <lb n="45"/>y aquí se ponen los de <rs ana="NIJAIB">níhaíbab</rs>, <abbr>q’</abbr>tenían
 <lb n="46"/>nueue casas y prímero díremos la de<corr><pc> –</pc></corr>
 <pb corresp="xom-f56-s1"/>
@@ -11527,22 +11551,30 @@ perhaps priests not deities?</note>
 </note>
 <lb n="1"/>çendençía del Reyno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue vno en tro
 <lb n="2"/>co, antes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vbíese luz, y sol.
-</p><p>
+</p>
+<p>
 <lb n="3"/><rs ana="BALAM_AQAB"><hi rend="large">B</hi>alam acab</rs>. el primer abuelo, y pa<pc> –</pc>
 <lb n="4"/>dre.
-</p><p>
+</p>
+<p>
 <lb n="5"/><rs ana="KOAKUL">Coacul</rs> <rs ana="KOAKUTEK">coacutac</rs> . segunda generaçíon.
-</p><p>
+</p>
+<p>
 <lb n="6"/><rs ana="KOCHAJUJ">cochahuh</rs> <rs ana="KOTZIBAJA">coꜩíbaha</rs>. tercera generaçíon.
-</p><p>
+</p>
+<p>
 <lb n="7"/><rs ana="BELEJEB_KEJ"><hi rend="large">B</hi>eleheb quih</rs>, la quarta generaçíon.
-</p><p>
+</p>
+<p>
 <lb n="8"/><rs ana="KOTUJA">Cotuha</rs> la quínta generaçíon.
-</p><p>
+</p>
+<p>
 <lb n="9"/><rs ana="BATZA">Baꜩa</rs>. la sexta generaçíon.
-</p><p>
+</p>
+<p>
 <lb n="10"/><rs ana="ISTAYUL_NIJAIB">ztayul</rs> la septíma generaçíon de Reyes.
-</p><p>
+</p>
+<p>
 <lb n="11"/><rs ana="KOTUJA_OCTAVO">Cotuha</rs>. la octaua generaçíon del Rey<pc> –</pc>
 <lb n="12"/>no.
 <lb n="13"/><rs ana="BELEJEB_KEJ_NOVENO">Beleheb quíh</rs>. la nona generaçíon.
@@ -11582,10 +11614,10 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb n="43"/><rs ana="KOAJAW">Coahau</rs>. de la segunda generaçíon
 <lb n="44"/><rs ana="QAQ_LAQAM">Caelacan</rs>. <num>3</num>
 <lb n="45"/><rs ana="KOKOSOM">Cocozom</rs> . <num>4</num> .
-</p>
 <lb />
-<pb corresp="xom-f56-s2"/>
+</p>
 <p>
+<pb corresp="xom-f56-s2"/>
 <lb n="1"/><rs ana="KOMAJKUN">comah cun</rs>. <num>5</num>
 <lb n="2"/><rs ana="WUQUB_AJ">Vucub ah</rs>. <num>6</num>
 <lb n="3"/><rs ana="KOKAMEL">Cocamel</rs>. <num>7.</num>
@@ -11624,18 +11656,18 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb n="33"/>se ha perdído. y aquí seacabo todo lo<pc> –</pc>
 <lb n="34"/>tocante al quiche, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama<rs ana="SANTA_CRUZ"> <choice><abbr type="superscript">Sta</abbr><expan instant="false">Santa</expan></choice>
 <lb n="35"/>Cruz.</rs>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
 </p>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
-<lb/>
 </div>
 </body>
 </text>
