@@ -62,13 +62,14 @@
             </div>
         </div>
 
-        <!-- Model box for displaying topic info when segment is selected -->
+        <!-- Model box for displaying topic or annotation info -->
         <div class="container" id="data">
-            <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="Téma">
+            <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="">
                 <div class="modal-dialog" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h3 class="modal-title">Topic Entry</h3>
+                            <div class="modal-type">Type</div>
+                            <h3 class="modal-title">Entry</h3>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&#215;</span>
                             </button>
@@ -119,7 +120,7 @@
         <xsl:variable name="line_id" select="@id"/>
         <xsl:for-each select="$annotations//annotation-map/item[@line_id = $line_id]">
             <a class="lb" href="#"  title="Annotation for line {@line_id}" data-source-line-id="{$line_id}" data-nid="{@nid}" data-toggle="modal" data-target="#topic-box">
-                <sup class="annotation-icon">&#8853;</sup>
+                <sup class="annotation-icon">&#9998;</sup> <!-- Target 8853 -->
             </a>
         </xsl:for-each>
         <xsl:text>__LB__</xsl:text>

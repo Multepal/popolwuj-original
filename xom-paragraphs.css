@@ -55,6 +55,11 @@ p {
     font-family: serif;
 }
 
+.modal-type {
+    padding: 10px;
+}
+
+
 .pb {
     font-family: sans-serif;
     font-size: 80%;
@@ -99,29 +104,22 @@ div.spa p {
     border-radius: 3px;
 }
 
-div.col.quc .note {
+div.col.quc p .note {
     float: left;
     padding-right: .5rem;
     margin-right: .5rem;
-}
-
-div.col.quc p .note {
     margin-left: -1in;
 }
 
-div.col.spa .note {
+div.col.spa p .note {
     float: right;
     padding-left: .5rem;
     margin-left: .5rem;
-}
-
-div.spa.quc p .note {
     margin-right: -1in;
 }
 
 .note.editor {
     display: none;
-    /* background-color: beige; */
 }
 
 .pnum {
@@ -149,7 +147,7 @@ div.spa.quc p .note {
 
 .col.spa a.lb sup {
     float:right;
-    margin-left: -1in;
+    margin-right: -1in;
 }
 
 .pc {
@@ -187,7 +185,7 @@ div.spa.quc p .note {
 
 .annotation-icon {
     color: green;
-    font-size: 14pt;
+    font-size: 18pt;
 }
 
 .annotation-author {
