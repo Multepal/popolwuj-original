@@ -141,12 +141,12 @@
 
     <xsl:template match="tei:pb">
         <xsl:variable name="col" select="ancestor::tei:div[@type='column']/@xml:lang"/>
-        <xsl:variable name="pbid" select="concat(@xml:id, @corresp)"/>
+        <xsl:variable name="pbid" select="concat(@xml:id, @corresp)"/> <!-- Could use a choose here -->
         <xsl:variable name="folio" select="number(substring($pbid, 6, 2))" />
         <xsl:variable name="side" select="substring($pbid, 10, 1)" />
         <xsl:variable name="sidex" select="translate($side, '12', 'rv')" />
-        <a id="{$col}-{@xml:id}{@corresp}" 
-            class="pb folio-index-item" data-side="{$pbid}" 
+        <a id="{$col}-{$pbid}" 
+            class="pb folio-index-item" 
             href="#"
             data-target="{$pbid}"
             title="Folio {$folio}, side {$side} ({$sidex}) begins here">
