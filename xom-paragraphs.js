@@ -15,7 +15,7 @@ $(document).ready(function()
         $('#topic-box .modal-body').prepend('<div class="source-string alert alert-success">Source: <b>'+src_str+'</b></div>')
         $('#topic-box .multepal-link').attr('href', link) 
         $('#topic-box').trigger('focus')
-        $('.rs[data-ana="'+ana+'"]').css('color', 'green')
+        $('.rs[data-ana="' + ana + '"]').css('color', 'green')
     });
 
     $('.lb').click(function() {
@@ -32,7 +32,7 @@ $(document).ready(function()
         $('#topic-box').trigger('focus')
     });
 
-    $('#sidebar a.folio-index-item').click(function() {
+    $('a.folio-index-item').click(function() {
         target = $(this).data('target')
         window.location.href = '#quc-' + target
         window.location.href = '#spa-' + target

@@ -23,9 +23,10 @@
 
         <!-- Header; may include a menu at some point -->
         <nav class="navbar navbar-expand-sm bg-light">
-            <h1><i><a href="index.html">Popol Wuj</a></i>
-            <span>&#160;</span>
-            <span>Paragraphs and Topics Version</span>
+            <h1>
+                <i><a href="index.html">Popol Wuj</a></i>
+                <span> : </span>
+                <span>Paragraphs and Topics Version</span>
             </h1>
         </nav>
 
@@ -39,7 +40,7 @@
                     <xsl:variable name="side" select="substring(@xml:id, 10, 1)" />
                     <xsl:variable name="sidex" select="translate($side, '12', 'rv')" />
                     <li>
-                        <a class="folio-index-item" href="#" data-target="{@xml:id}">
+                        <a class="folio-index-item" href="#" data-target="{@xml:id}" title="Align both columns to Folio {$folio}, side {$side} ({$sidex})">
                             <xsl:value-of select="concat($folio,$sidex)"/>
                         </a>    
                     </li>
@@ -140,15 +141,19 @@
 
     <xsl:template match="tei:pb">
         <xsl:variable name="col" select="ancestor::tei:div[@type='column']/@xml:lang"/>
-        <xsl:variable name="v0" select="concat(@xml:id, @corresp)"/>
-        <xsl:variable name="folio" select="number(substring($v0, 6, 2))" />
-        <xsl:variable name="side" select="substring($v0, 10, 1)" />
+        <xsl:variable name="pbid" select="concat(@xml:id, @corresp)"/>
+        <xsl:variable name="folio" select="number(substring($pbid, 6, 2))" />
+        <xsl:variable name="side" select="substring($pbid, 10, 1)" />
         <xsl:variable name="sidex" select="translate($side, '12', 'rv')" />
-        <span id="{$col}-{@xml:id}{@corresp}" class="pb _badge _badge-secondary" data-side="{@xml:id}{@corresp}" title="{@xml:id}{@corresp}">
+        <a id="{$col}-{@xml:id}{@corresp}" 
+            class="pb folio-index-item" data-side="{$pbid}" 
+            href="#"
+            data-target="{$pbid}"
+            title="Folio {$folio}, side {$side} ({$sidex}) begins here">
             <xsl:text>&#8212; </xsl:text>
             <xsl:value-of select="concat($folio,$sidex)"/>
             <xsl:text> &#8212;</xsl:text>
-        </span>
+        </a>
     </xsl:template>
     
     <xsl:template match="tei:note">
