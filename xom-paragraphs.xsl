@@ -117,9 +117,29 @@
     </xsl:template>
 
     <xsl:template match="tei:lb">
-        <xsl:variable name="line_id" select="@id"/>
+        <xsl:variable name="line_id" select="@id" />
+        <xsl:variable name="folio" select="number(substring(@id, 6, 2))" />
+        <xsl:variable name="side" select="substring(@id, 10, 1)" />
+        <xsl:variable name="sidex" select="translate($side, '12', 'rv')" />
+        <xsl:variable name="lang" select="substring(@id, 12, 3)" />
+        <xsl:variable name="lang_name">
+            <xsl:choose>
+                <xsl:when test="$lang = 'quc'">
+                    <xsl:text>K'iche'</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:text>Castellano</xsl:text>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <xsl:variable name="line" select="substring(@id, 16, 2)" />
         <xsl:for-each select="$annotations//annotation-map/item[@line_id = $line_id]">
-            <a class="lb" href="#"  title="Annotation for line {@line_id}" data-source-line-id="{$line_id}" data-nid="{@nid}" data-toggle="modal" data-target="#topic-box">
+            <a class="lb" href="#"  
+            title="Annotation for Folio {$folio}{$sidex}, column {$lang_name}, line {$line}" 
+            data-source-line-id="{$line_id}" 
+            data-nid="{@nid}" 
+            data-toggle="modal" 
+            data-target="#topic-box">
                 <sup class="annotation-icon">&#9998;</sup> <!-- Target 8853 -->
             </a>
         </xsl:for-each>
