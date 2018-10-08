@@ -32,7 +32,7 @@ for export in exports.keys():
 import re
 import xml.etree.ElementTree as ET
 
-file = base_path + "multepal/annotations.xml"
+file = base_path + "multepal/annotations.xml" # THIS IS IN THE CONFIG
 tree = ET.parse(file)
 root = tree.getroot()
 
