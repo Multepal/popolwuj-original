@@ -18,8 +18,8 @@
     <!-- Root node: Insert containing page elements -->
     <xsl:template match="/">
 
-        <xsl:text disable-output-escaping='yes'>{% extends "base.html" %}</xsl:text>
-        <xsl:text disable-output-escaping='yes'>{% block content %}</xsl:text>
+        <xsl:text>{% extends "base.html" %}</xsl:text>
+        <xsl:text>{% block content %}</xsl:text>
 
         <!-- Header; may include a menu at some point -->
         <nav class="navbar navbar-expand-sm bg-light">
@@ -48,17 +48,17 @@
                 </ul>
             </div>
             <div class="container-fluid" id="content">
-
                 <div class="row">
-                    <xsl:apply-templates select="//tei:text//tei:body"/>
+                    <xsl:apply-templates select="//tei:text//tei:body"/>                    
                 </div>
-
+                <div class="row">
+                    <xsl:text>*   *   *</xsl:text>
+                </div>
                 <div class="row text-center mt-3 footer">
                     <div class="col" id="footer">
                         <!-- <a class="btn btn-primary btn-sm" href="index.html">Return Home</a> -->
                     </div>
                 </div>
-
             </div>
         </div>
 
@@ -94,7 +94,7 @@
             <xsl:apply-templates select="$annotations/annotations/annotation"/>
         </div>
         
-        <xsl:text disable-output-escaping='yes'>{% endblock %}</xsl:text>
+        <xsl:text>{% endblock %}</xsl:text>
     
     </xsl:template>
 
@@ -143,14 +143,16 @@
                 <sup class="annotation-icon">&#9998;</sup> <!-- Target 8853 -->
             </a>
         </xsl:for-each>
+
         <xsl:text>__LB__</xsl:text>
+
         <!-- DOES NOT WORK AS EXPECTED
         <xsl:choose>
             <xsl:when test="preceding-sibling::tei:pc[1]">
-                <xsl:text>__PC__//</xsl:text>
+                <xsl:text></xsl:text>
             </xsl:when>
             <xsl:otherwise>
-                <xsl:text>__LB__</xsl:text>
+                <xsl:text> </xsl:text>
             </xsl:otherwise>
         </xsl:choose> 
         -->
@@ -216,7 +218,7 @@
                 <xsl:value-of select="type"/>
             </div>
             <div class="topic-description">
-                <xsl:apply-templates select="description" disable-output-escaping="yes"/>
+                <xsl:apply-templates select="description"/>
             </div>
         </div>
     </xsl:template>
