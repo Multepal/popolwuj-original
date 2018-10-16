@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0"?>
 <xsl:stylesheet version="1.0" 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
-    xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
+    xmlns:tei="http://www.tei-c.org/ns/1.0" 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    exclude-result-prefixes="tei">
     <xsl:output method="html" omit-xml-declaration="yes" encoding="UTF-8" indent="no" />
 
     <xsl:variable name="themes_ajax_root">http://live-multepal.pantheonsite.io/node/</xsl:variable>
@@ -12,8 +14,17 @@
     <xsl:param name="annotationsFile" select="'multepal/annotations.xml'" />
     <xsl:param name="annotations" select="document($annotationsFile)" />
 
+    <xsl:variable name="langname" as="map(xs:string, xs:string)"> 
+        <xsl:map>
+            <xsl:map-entry key="'quc'" select='"Kiche"'/> 
+            <xsl:map-entry key="'spa'" select="'Castellano'"/> 
+        </xsl:map>
+    </xsl:variable>
+
     <!-- Not sure if this is doing anything -->
+    <!--
     <xsl:strip-space elements="p" /> 
+    -->
 
     <!-- Root node: Insert containing page elements -->
     <xsl:template match="/">
@@ -62,7 +73,7 @@
             </div>
         </div>
 
-        <!-- Model box for displaying topic or annotation info -->
+        <!-- Modal box for displaying topic or annotation info -->
         <div class="container" id="data">
             <div class="modal" tabindex="-1" role="dialog" id="topic-box" title="">
                 <div class="modal-dialog" role="document">
@@ -98,24 +109,26 @@
     
     </xsl:template>
 
-    <xsl:template match="tei:div[@xml:lang='quc']">
-        <div class="col quc" xml:lang="quc">    
-            <h2 class="text-center">Lado K'iche'</h2>
+    <!-- Handle columns -->
+    <xsl:template match="tei:div[@type='column']">
+        <xsl:variable name="column_label">
+            <xsl:choose>
+                <xsl:when test="@xml:lang = 'quc'">K'iche'</xsl:when>
+                <xsl:otherwise>Castellano</xsl:otherwise>
+            </xsl:choose>
+        </xsl:variable>
+        <div class="col {@xml:lang}" xml:lang="{@xml:lang}" title="Lado {$column_label}">    
+            <h2 class="text-center">Lado <xsl:value-of select="$column_label"/></h2>
             <xsl:apply-templates />
         </div>
     </xsl:template>
 
-    <xsl:template match="tei:div[@xml:lang='spa']">
-        <div class="col spa" xml:lan="spa">    
-            <h2 class="text-center">Lado Castellano</h2>
-            <xsl:apply-templates />
-        </div>
-    </xsl:template>
-
+    <!-- Handle paragraphs -->
     <xsl:template match="tei:p">
         <p data-pos="{position()}"><xsl:apply-templates /></p>
     </xsl:template>
 
+    <!-- Handle line breaks -->
     <xsl:template match="tei:lb">
         <xsl:variable name="line_id" select="@id" />
         <xsl:variable name="folio" select="number(substring(@id, 6, 2))" />
