@@ -13,11 +13,10 @@
     
     <xsl:param name="annotationsFile" select="'multepal/annotations.xml'" />
     <xsl:param name="annotations" select="document($annotationsFile)" />
-
     <xsl:variable name="langname" as="map(xs:string, xs:string)"> 
         <xsl:map>
-            <xsl:map-entry key="'quc'" select='"Kiche"'/> 
-            <xsl:map-entry key="'spa'" select="'Castellano'"/> 
+            <xsl:map-entry key="'quc'" select="'K&quot;iche&quot;'" />
+            <xsl:map-entry key="'spa'" select="'Castellano'" /> 
         </xsl:map>
     </xsl:variable>
 
@@ -135,6 +134,8 @@
         <xsl:variable name="side" select="substring(@id, 10, 1)" />
         <xsl:variable name="sidex" select="translate($side, '12', 'rv')" />
         <xsl:variable name="lang" select="substring(@id, 12, 3)" />
+        <xsl:variable name="lang_name" select="$langname($lang)" />
+        <!--
         <xsl:variable name="lang_name">
             <xsl:choose>
                 <xsl:when test="$lang = 'quc'">
@@ -145,6 +146,7 @@
                 </xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
+        -->
         <xsl:variable name="line" select="substring(@id, 16, 2)" />
         <xsl:for-each select="$annotations//annotation-map/item[@line_id = $line_id]">
             <a class="lb" href="#"  
