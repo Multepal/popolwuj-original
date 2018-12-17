@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">06</att>
+                    <att xml:id="side-number">2</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 06, Side 2. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/>
+            	<lb n="2"/>
+            	<lb n="3"/>
+            	<lb n="4"/>
+            	<lb n="5"/>
+            	<lb n="6"/>
+            	<lb n="7"/>
+            	<lb n="8"/>
+            	<lb n="9"/>
+            	<lb n="10"/>
+            	<lb n="11"/>
+            	<lb n="12"/>
+            	<lb n="13"/>
+            	<lb n="14"/>
+            	<lb n="15"/>
+            	<lb n="16"/>
+            	<lb n="17"/>
+            	<lb n="18"/>
+            	<lb n="19"/>
+            	<lb n="20"/>
+            	<lb n="21"/>
+            	<lb n="22"/>
+            	<lb n="23"/>
+            	<lb n="24"/>
+            	<lb n="25"/>
+            	<lb n="26"/>
+            	<lb n="27"/>
+            	<lb n="28"/>
+            	<lb n="29"/>
+            	<lb n="30"/>
+            	<lb n="31"/>
+            	<lb n="32"/>
+            	<lb n="33"/>
+            	<lb n="34"/>
+            	<lb n="35"/>
+            	<lb n="36"/>
+            	<lb n="37"/>
+            	<lb n="38"/>
+            	<lb n="39"/>
+            	<lb n="40"/>
+            	<lb n="41"/>
+            	<lb n="42"/>
+            	<lb n="43"/>
+            	<lb n="44"/>
+            	<lb n="45"/>
+            	<lb n="46"/>
+            	<lb n="47"/>
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">04</att>
+                    <att xml:id="side-number">2</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 04, Side 2. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/><abbr>q'</abbr>fue dado por mano de el ídolo <rs ana="TOJIL">tohíl</rs>. como se díçe <bibl>num. fol.</bibl> dan le tambíen tí -
+            	<lb n="2"/>tulo, de corazon de la laguna, y del mar díçíendo <rs ana="CORAZÓN_DEL_LAGO">Vqux cho</rs>, <rs ana="CORAZÓN_DEL_MAR">vqux palo</rs>. en
+            	<lb n="3"/><abbr>q'</abbr>pareze <abbr>q'</abbr>el demonío tíro a confundír el texto Sagrado, <abbr>q'</abbr>díçe: <hi rend="underline">et spírítus</hi> 
+            		<note place="margin-left"><bibl>Gen. <num>1</num>.n. <lb/><num>2</num>.</bibl></note>
+            	<lb n="4"/><foreign xml:lang="la"><hi rend="underline">Deí ferebatur super aquas</hi></foreign>. y mírando juntamente a confundír la terçe -
+            	<lb n="5"/>ra persona de la <abbr>SS<hi rend="superscript">ma</hi>.</abbr> Trínídad. queríendo <abbr>q'</abbr>sea Uno mesmo el espírítu
+            	<lb n="6"/>de Díos, y las demas personas. y así el no dío mas <abbr>q'</abbr>dos personas. llamanle
+            	<lb n="7"/>tambíen <rs ana="LOS_DE_LA_SUPERFICIE_PLANA">ahraxulac</rs>. <rs ana="LOS_DE_LA_BÓVEDA_AZUL">ahraxazel</rs>. el de la Verde hícara, y el de el Verde ca -
+            	<lb n="8"/>gete, o plato. esto es propríamente de grandeza <abbr>porq'</abbr> estos modos de hablar
+            	<lb n="9"/>con el <foreign xml:lang="quc">rax</foreign>. sígnífícan cosa hermosa. y era peculíar de los <abbr>SS<hi rend="superscript">es</hi>.</abbr> y Reyes el
+            	<lb n="10"/>Víar de estos su menesteres sobresalíentes en belleza a todos los demas
+            	<lb n="11"/>como se Vee en todas las naçíones. pero fue herror íntolerable <abbr>q'</abbr>quíso ín
+            	<lb n="12"/>troduçír Satanas de <abbr>q'</abbr>Díos comía como los demas hombres, y así le conçede
+            	<lb n="13"/>platos, y demas menesteres de casa.
+            </p>
+            <p>
+            	<lb n="14" rend="indent"/><hi rend="large">T</hi>ambíen íntroducen en estos quentos a<rs ana="XPIYAKOK">un Víejo llamado xpíyacoc</rs>. ya
+            	<lb n="15"/><rs ana="IXMUKANE">Una Víeja llamada: xmucane</rs>. de <abbr>q'</abbr>trae orígen <abbr>elq'</abbr>el día deo y en todas sus
+            	<lb n="16"/>cosas sean los víejos consultados, y mas en cosas por venír. los tíenen como
+            	<lb n="17"/>oraculos. y mas en los naçímíentos delos níños, ellas son las <abbr>q'</abbr>asísten, y les
+            	<lb n="18"/>díçen lo <abbr>q'</abbr>han de hazer. <abbr>q'</abbr>no permítan sacar fuego de la casa donde ay crí -
+            	<lb n="19"/>atura reçíen naçída hasta tíempo determínado. por <abbr>q'</abbr>díçen <abbr>q'</abbr>quemaran
+            	<lb n="20"/>las casas ensíendo grandes. y en muchos pueblos no sacan las críaturas de
+            	<lb n="21"/>las casas: <abbr>porq'</abbr>díçen no se buelban andaríegas, y se hulgan de el pueblo. y
+            	<lb n="22"/>en otros pueblos, queman copal, y ençíenden candela, por superstíçíones
+            	<lb n="23"/>partículares <abbr>q'</abbr>tíenen. y obseruan en muchos pueblos luego <abbr>q'</abbr>naçe la crí -
+            	<lb n="24"/>atura elleuarla ante Uno <abbr>q'</abbr>llaman el Vachínel, ó adeuíno, quíen obser -
+            	<lb n="25"/>uando el día desu naçímíento díze lo<abbr>q'</abbr>hadeser en adelante, y la ínclí -
+            	<lb n="26"/>naçíon <abbr>q'</abbr>tendra, y para corregír algunas malas propríedades <abbr>q'</abbr> díçen
+            	<lb n="27"/>tendran, les hazen sacar sangre de alguna parte de el cuerpo. con<abbr>q'</abbr>dí -
+            	<lb n="28"/>çen se corrígen aquellas malas ínclínaçíones. y esto lo Ven en vn líbro
+            	<lb n="29"/><abbr>q'</abbr>tíenen como pronostíco. desde eltíempo desu gentílídad, donde tí -
+            	<lb n="30"/>enen todos los meses, y sígnos correspondíentes a cada día. <abbr>q'</abbr>uno de ellos
+            	<lb n="31"/>tengo en mí poder. y cada sígno, o <abbr>S<hi rend="superscript">or</hi>.</abbr> de aquel día es uno de los demoní -
+            	<lb n="32"/>os <abbr>q'</abbr>fíngen en sus hístorías. y todas estas cosas las consultan a uíejos emba -
+            	<lb n="33"/>ídores, y mentírosos. y gechíçeros <abbr>q'</abbr>ay entre ellos aun hasta oy.
+            </p>
+            <p>
+            	<lb n="34" rend="indent"/><hi rend="large">D</hi>íçe <bibl>num. <num>2</num>.</bibl> <abbr>q'</abbr>lo escríue en tíempo de la crístíandad, <abbr>porq'</abbr> <abbr>aunq'</abbr> auía
+            	<lb n="35"/>líbro en <abbr>q'</abbr>todas estas cosas estaban escrítas, y <abbr>q'</abbr>víno dela otra parte de el
+            	<lb n="36"/>mar, y <abbr>q'</abbr>oy no se puede leer. lo çíerto es <abbr>q'</abbr>tal líbro no pareçío nunca, ní
+            	<lb n="37"/>se ha uisto. y así nose sabe síeste modo de escríuír, era por pínturas, como los
+            	<lb n="38"/>mexícanos, ó, por hílos, como los peruleros. puedese creer <abbr>q'</abbr>era por píntu -
+            	<lb n="39"/>ras en mantas blancas, texídas fíguras <abbr>q'</abbr>de notaban las cosas, como, oy
+            	<lb n="40"/>tíenen los de el Pueblo de <rs ana="SAN_ANTON_ILOCAB"><abbr>S</abbr> Anton ílocab</rs> en el quíche como un mapa
+            	<lb n="41"/>píntadas todas sus tíerras, montes, y ríos en unas mantas texídas. yasí
+            	<lb n="42"/>es factíble conservasen sus memorías, y antíguallas. y tambíen se puede
+            	<lb n="43"/>díscurrír <abbr>q'</abbr> conseruaron algo de el líbro de el <bibl>genesís</bibl>, dado <abbr>q'</abbr>desçendí -
+            	<lb n="44"/>esen de las díez tríbus <abbr>q'</abbr>en tíempo de <rs ana="SALMANASAR">Salmanasar</rs>, se perdíeron, y del lí -
+            	<lb n="45"/>bro del <bibl>exodo</bibl>. <abbr>porq'</abbr> lo mas <abbr>q'</abbr>tratan estas hístorías como seíra víendo, alude
+            	<lb n="46"/>todo alo<abbr>q'</abbr> la sagrada escrítura quenta en díchos líbros. y algo, <abbr>aunq'</abbr> poco
+            	<lb n="47"/>de lo <abbr>q'</abbr> otros líbros contíenen. de las cosas de los hebreos. y de la Redempçíon del
+            </p>
+        </body>
+    </text>
+</TEI>
