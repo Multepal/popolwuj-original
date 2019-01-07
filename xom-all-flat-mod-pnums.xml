@@ -1613,14 +1613,14 @@ cap.
 <lb n="37"/>hel ahauab <rs ana="JUN_KAME">hun came</rs> <rs ana="WUQUB_KAME">vvcub
 <lb n="38"/>came</rs> ruc ri <rs ana="KUCHUMA_KIK">cuchumaquic</rs> are
 <lb n="39"/>ri numeal qochi ral ixahauab
-<lb n="40"/>xa vhoxbal xqha curi cuchuma
-<lb n="41"/>quic ta xoponic cuq ahauab vꜩ<pc> –</pc>
+<lb n="40"/>xa vhoxbal xqha curi <rs ana="KUCHUMA_KIK">cuchuma
+<lb n="41"/>quic</rs> ta xoponic cuq ahauab vꜩ<pc> –</pc>
 <lb n="42"/>bala chacoto vchi ri tama cubÿh
 <lb n="43"/>chipuz cut chinaht chibe puzu vi
 <lb n="44"/>vꜩbala alac ahauab xqha cut. ca
-<lb n="45"/>te cut xuꜩonoh chirech vmeal a
+<lb n="45"/>te cut xuꜩonoh chirech <rs ana="IXKIK">vmeal</rs> a
 <lb n="46"/>pa ahchoce ri aval co chapam
-<lb n="47"/>at nu meal? xqha cut mahabi
+<lb n="47"/>at <rs ana="IXKIK">nu meal</rs>? xqha cut mahabi
 <pb xml:id="xom-f16-s2"/>
 <note place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">16</hi></num>
@@ -1657,7 +1657,7 @@ cap.
 <lb n="30"/>macu xachichih vinac chicamic ca<pc> –</pc>
 <lb n="31"/>te qui ꜩih ivech ri qui ꜩih hoxol
 <lb n="32"/>cate naipu rech <rs ana="JUN_KAME">hun came</rs>, <rs ana="VUKUB_KAME">vvcub
-<lb n="33"/>came</rs>, xa quic, xa holomax rech
+<lb n="33"/>came</rs>, xa <rs ana="KIK'">quic</rs>, xa holomax rech
 <lb n="34"/>ta chuxoc are chicut chuvach.
 <lb n="35"/>maui are ri qux chicat chuvach
 <lb n="36"/>ta chuxoc. chicoho ri vvach che
@@ -1665,15 +1665,15 @@ cap.
 <lb n="38"/>ri che xelic xcul pazel cate puch
 <lb n="39"/>xuvon rib coloquic xuxic vque
 <lb n="40"/>xel vqux ta iiꜩ chicul vvaal.
-<lb n="41"/>cac che queheri quic v vaal che
+<lb n="41"/>cac che queheri <rs ana="KIK'">quic</rs> v vaal che
 <lb n="42"/>xelic vquexel v quiquel taxu
-<lb n="43"/>colo chila ri quic chupan ri v va
-<lb n="44"/>al ƐaƐche quehe curi quic rih
+<lb n="43"/>colo chila ri <rs ana="KIK'">quic</rs> chupan ri v va
+<lb n="44"/>al ƐaƐche quehe curi <rs ana="KIK'">quic</rs> rih
 <lb n="45"/>xuxic ƐaƐ luhluh chic colom chi
 <lb n="46"/>pazel ta xcop cut ri che rumal
 <lb n="47"/>capoh. chuh ƐaƐche chuqhaxic.
 <pb xml:id="xom-f17-s1"/>
-<lb n="1"/>are curi quic xubinaah rumal quic
+<lb n="1"/>are curi <rs ana="KIK'">quic</rs> xubinaah rumal <rs ana="KIK'">quic</rs>
 <lb n="2"/>holomax chuchaxic. chila cut quix
 <lb n="3"/>locox vi chuvach vleu qo ivech chu<pc> –</pc>
 <lb n="4"/>xic xqha cut chique ri tucur vꜩba<pc> –</pc>
@@ -1689,9 +1689,9 @@ cap.
 <lb n="13"/><note place="margin" anchored="true"><num rend="large">x</num></note>e qo pazel. uꜩbala vila cut xqha
 <lb n="14"/>curi <rs ana="JUN_KAME">hun came</rs> ta xuchuieh cu a
 <lb n="15"/>can oc eaturur rih chicomah eae
-<lb n="16"/>luhluh rih chiquic vꜩ chiluu v
+<lb n="16"/>luhluh rih <rs ana="KIK'">chiquic</rs> vꜩ chiluu v
 <lb n="17"/>vach eae chiya chuvi eae xqha cut
-<lb n="18"/>hun came. cate puch xquichaquih
+<lb n="18"/><rs ana="JUN_KAME">hun came</rs>. cate puch xquichaquih
 <lb n="19"/>chuvi eae coc cut xquina <rs ana="XIBALBA">xibalba</rs>
 <lb n="20"/>xequiz yacatah vloc conohel xe
 <lb n="21"/>chique chuvi quiꜩih chi quz xqui<pc> –</pc>
