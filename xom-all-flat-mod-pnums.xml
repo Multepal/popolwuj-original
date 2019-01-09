@@ -603,43 +603,43 @@ cap.
 <lb n="31"/>ronohel vinac. maui are
 <lb n="32"/>chivinaquir vi ꜫaꜫal ri xa
 <lb n="33"/>puvac ta chuxoc xeqha ri
-<lb n="34"/>qaholab huhun chi vb qui<pc> –</pc>
+<lb n="34"/><rs ana="DOS_MUCHACHOS">qaholab</rs> huhun chi vb qui<pc> –</pc>
 <lb n="35"/>telen qui cabichal are cu<pc> –</pc>
-<lb n="36"/>ri vvcub caquix e caib v qa<pc> –</pc>
-<lb n="37"/>hol are nabe al ri zipac<pc> –</pc>
-<lb n="38"/>na, vcab al chicut ri cab<pc> –</pc>
-<lb n="39"/>racan chimalmat cut vbi
+<lb n="36"/>ri <rs ana="WUQUB_KAKIX">vvcub caquix</rs> e caib v qa<pc> –</pc>
+<lb n="37"/>hol are nabe al ri <rs ana="SIPAKNA">zipac<pc> –</pc>
+<lb n="38"/>na</rs>, vcab al chicut ri <rs ana="KABRAQAN">cab<pc> –</pc>
+<lb n="39"/>racan</rs> <rs ana="CHIMALMAT">chimalmat</rs> cut vbi
 <lb n="40"/>qui chuch rixoquil ri v<pc> –</pc>
-<lb n="41"/>vcub caquix are curi zi<pc> –</pc>
-<lb n="42"/>pacna are chirechaah ri
+<lb n="41"/><rs ana="WUQUB_KAKIX">vcub caquix</rs> are curi <rs ana="SIPAKNA">zi<pc> –</pc>
+<lb n="42"/>pacna</rs> are chirechaah ri
 <lb n="43"/>nimac huiub. ri <rs ana="VOLCAN_DE_FUEGO" type="toponym">chicac</rs> <rs type="toponym" ana="VOLCAN_DE_ACATENANGO">hun
-<lb n="44"/>ahpu</rs> <rs ana="PEKUL" type="toponym">pe cul</rs> <rs ana="YA_XKANUL" type="toponym">ya xcanul</rs> <rs ana="MAKAMOB" type="toponym">ma<pc> –</pc>
-<lb n="45"/>camob</rs> huliznab chuchaxic
+<lb n="44"/>ahpu</rs> <rs ana="PEKUL" type="toponym">pe cul</rs> <rs ana="YAXKANUL" type="toponym">ya xcanul</rs> <rs ana="MAKAMOB" type="toponym">ma<pc> –</pc>
+<lb n="45"/>camob</rs> <rs ana="JULISNAB">huliznab</rs> chuchaxic
 <lb n="46"/>vbi huiub xqolic ta chi za<pc> –</pc>
 <lb n="47"/>quiric xa hun aꜫab chi vi-                                        
 <pb xml:id="xom-f06-s2"/>                
  <note resp="editor">The number 6 in the margin is in a different hand and ink (pencil?) </note>
-<lb n="1"/>naquiric rumal ri zipacna
+<lb n="1"/>naquiric rumal ri <rs ana="SIPAKNA">zipacna</rs>
 <note place="left-margin" anchored="true"><num rend="large">6</num></note>
-<lb n="2"/>are ri chicuri cabracan chi<pc> –</pc>
+<lb n="2"/>are ri chicuri <rs ana="KABRAQAN">cabracan</rs> chi<pc> –</pc>
 <lb n="3"/>zilab huiub rumal chi ne
 <lb n="4"/>bouic chuti huiub, nima
 <lb n="5"/>huyub rumal, xaui quehe
 <lb n="6"/>nimarizabal quib xquiba<pc> –</pc>
-<lb n="7"/>no vqahol vvcub caquix
-<lb n="8"/>ixva, in quih xqha vucub
-<lb n="9"/>caquix inva, in banol vleu
-<lb n="10"/>xqha ri zipacna, in chicut
+<lb n="7"/>no vqahol <rs ana="WUQUB_KAKIX">vvcub caquix</rs>
+<lb n="8"/>ixva, in quih xqha <rs ana="WUQUB_KAKIX">vucub
+<lb n="9"/>caquix</rs> inva, in banol vleu
+<lb n="10"/>xqha ri <rs ana="SIPAKNA">zipacna</rs>, in chicut
 <lb n="11"/>quiyou cah chinvlih rono<pc> –</pc>
-<lb n="12"/>hel vleu xqhari <corr instant="false">cabracan</corr>
-<lb n="13"/>xavi vqahol vvcub caquix
+<lb n="12"/>hel vleu xqhari <corr instant="false"><rs ana="KABRAQAN">cabracan</rs></corr>
+<lb n="13"/>xavi vqahol <rs ana="WUQUB_KAKIX">vvcub caquix</rs>
 <lb n="14"/>xaui chiri xquicam vi qui<pc> –</pc>
 <lb n="15"/>nimal chirih qui cahau are
-<lb n="16"/>cut iꜩel xquil vi qaholab,
+<lb n="16"/>cut iꜩel xquil vi <rs ana="DOS_MUCHACHOS">qaholab</rs>,
 <lb n="17"/>maha chibantahoc canabe
 <lb n="18"/>chuch canabe cahau quehe
 <lb n="19"/>cut xnohix vi qui camic qui
-<lb n="20"/>zachic cumal qaholab.
+<lb n="20"/>zachic cumal <rs ana="DOS_MUCHACHOS">qaholab</rs>.
 </p>
 <p>
 <lb n="21" rend="indent"/><hi rend="large">V</hi>ae cute v vbaxic vvcub
