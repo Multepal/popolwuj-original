@@ -2454,7 +2454,7 @@ cap.
 <lb n="40"/><rs ana="PATAN">patan</rs> chirech naquila mi xitio
 <lb n="41"/>vic xqha chic ta xti chic vcah<pc> –</pc>
 <lb n="42"/>lahuh culel ahi naquila mixitiovic
-<lb n="43"/>xqha chic quic ri xcac
+<lb n="43"/>xqha chic <rs ana="KIK_RIXKAQ">quic ri xcac</rs>
 <lb n="44"/>xqha <rs ana="KIK_RE">quic re</rs> chirech que he
 <lb n="45"/>cut vbixic quibi ri xquibÿh
 <lb n="46"/>conohel chiquibil quib xqui
@@ -2477,15 +2477,15 @@ cap.
 <lb n="12"/>xqha huntac chiinel maui are
 <lb n="13"/>ahau ri xa poy ahamche ri xe
 <lb n="14"/>qha ta xeoponic cate cut ta xeca<pc> –</pc>
-<lb n="15"/>lainic calata hun came, calata
-<lb n="16"/>vvcub came, calata xiquiritap
-<lb n="17"/>calata cuchumaquic. calata a
-<lb n="18"/>hal puh, calata ahalcana, cala
-<lb n="19"/>ta <rs ana="CHAMIYABAQ">chamia baca</rs>, calata chamia
-<lb n="20"/>holom, calata cala xic, cala
-<lb n="21"/>ta <rs ana="PATAN">patan</rs>, calata quic re, calata
-<lb n="22"/>vquic <del rend="overstrike" instant="false" status="unremarkable">xic</del> rixcac. xeqha taxeopo<pc> –</pc>
-<lb n="23"/>nic ronohel xquiz cut <rs ana="pájaro">vvach</rs>
+<lb n="15"/>lainic calata <rs ana="JUN_KAME">hun came</rs>, calata
+<lb n="16"/><rs ana="WUQUB_KAME">vvcub came</rs>, calata <rs ana="XIKIRI_PAT">xiquiritap</rs>
+<lb n="17"/>calata <rs ana="KUCHUMA_KIK">cuchumaquic</rs>. calata <rs ana="AJAL_PUJ">a
+<lb n="18"/>hal puh</rs>, calata <rs ana="AJAL_QANA">ahalcana</rs>, cala
+<lb n="19"/>ta <rs ana="CHAMIYABAQ">chamia baca</rs>, calata <rs ana="CHAMIYAJOLOM">chamia
+<lb n="20"/>holom</rs>, calata cala <rs ana="XIKIRI_PAT">xic</rs>, cala
+<lb n="21"/>ta <rs ana="PATAN">patan</rs>, calata <rs ana="KIK_RE">quic re</rs>, calata
+<lb n="22"/><rs ana="KIK_RIXKAQ">vquic <del rend="overstrike" instant="false" status="unremarkable">xic</del> rixcac</rs>. xeqha taxeopo<pc> –</pc>
+<lb n="23"/>nic ronohel xquiz cut vvach
 <lb n="24"/>xquibÿh vbi ronohel mahabi
 <lb n="25"/>hun xquizach vbi are ta xaha<pc> –</pc>
 <lb n="26"/>uax chi que ch mata xcanai vbi
