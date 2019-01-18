@@ -2336,7 +2336,7 @@ cap.
 <lb n="31"/>quil v varachac chi acan xutih
 <lb n="32"/>chicut xa que he chuch<del rend="overstrike" instant="false" status="unremarkable">u</del> <corr instant="false">a</corr>b vchi
 <lb n="33"/>cate puch xquirech vchi ri xp<pc> –</pc>
-<lb n="34"/>ec xrech cumal qaholab xqui<pc> –</pc>
+<lb n="34"/>ec xrech cumal <rs ana="DOS_MUCHACHOS">qaholab</rs> xqui<pc> –</pc>
 <lb n="35"/>zucuh pu chi xa cu nacal ri uq
 <lb n="36"/>chuvare xpec xapuchi qo vi
 <lb n="37"/>mana xubico xaquehe xabic
@@ -2345,8 +2345,8 @@ cap.
 <lb n="41"/>yao ruq maui qhanic xa v
 <lb n="42"/>chac cumaꜩ xuxic. caꜩihonoc
 <lb n="43"/>xuqhax chicut ri uq ta xubÿh
-<lb n="44"/>cu vꜩih caqha ri ivatit ixqa<pc> –</pc>
-<lb n="45"/>holab he ataca xultacolque
+<lb n="44"/>cu vꜩih caqha ri <rs ana="IXMUKANE">ivatit</rs> <rs ana="DOS_MUCHACHOS">ixqa<pc> –</pc>
+<lb n="45"/>holab</rs> he ataca xultacolque
 <lb n="46"/>cape chi <rs ana="XIBALBA">xibalba</rs> vzamahel 
 <lb n="47"/><rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcubcame</rs> vvcu<pc> –</pc>
 <lb n="48"/>bix quevlic varal cohchaah<pc> –</pc>
@@ -2363,7 +2363,7 @@ cap.
 <lb n="7"/>maquiꜩih xeqha cut <rs ana="DOS_MUCHACHOS">qaholab</rs>
 <lb n="8"/>chiquiqux ta xquitao huzu xe<pc> –</pc>
 <lb n="9"/>petic xeopon cut ruq <rs ana="IXMUKANE">catit</rs> xa
-<lb n="10"/>e pixabai chire catit xebec.
+<lb n="10"/>e pixabai chire <rs ana="IXMUKANE">catit</rs> xebec.
 </p>
 <p> 
 <lb n="11" rend="indent"/>ho na <rs ana="IXMUKANE">ixcatit</rs> xaohpixabay
@@ -2599,7 +2599,7 @@ cap.
 <lb n="32"/>vꜩbala acaba chicut cohcha<pc> –</pc>
 <lb n="33"/>ahic xeqha cut ta xepixaban
 <lb n="34"/>quib cate chicut ta xeoc chi
-<lb n="35"/><rs ana="DOS_MUCHACHOS">qaholab</rs> pachaim ha vcabti<pc> –</pc>
+<lb n="35"/><rs ana="DOS_MUCHACHOS">qaholab</rs> pa<rs ana="CASA_DE_LOS_CHAYES">chaim ha</rs> vcabti<pc> –</pc>
 <lb n="36"/>hobal are ta cut xa<pc> –</pc>
 <lb n="37"/>hauaxchic xecatacoxtah ru<pc> –</pc>
 <lb n="38"/>mal cha chanim tah chiqui<pc> –</pc>
@@ -2610,7 +2610,7 @@ cap.
 <lb n="43"/>cop xeqha chire cha macu
 <lb n="44"/>xezilab chic, xa hun cah chi<pc> –</pc>
 <lb n="45"/>vi cha ronohel are cut e qo
-<lb n="46"/>chichiri pachaim ha chacab ta
+<lb n="46"/>chichiri pa<rs ana="CASA_DE_LOS_CHAYES">chaim ha</rs> chacab ta
 <lb n="47"/>xquiziquih ronoh el zanic. chai
 <pb xml:id="xom-f26-s1"/>
 <note place="margin-left" type="pagination" anchored="true">
@@ -2802,7 +2802,7 @@ cap.
 <lb n="26"/>ca v xambe canahoc ri ꜩiz coc
 <lb n="27"/>xbe vcama cubalcatih chuꜩam
 <lb n="28"/>capetic are cut xoc <rs ana="PAJARO">halvac</rs> hi<pc> –</pc>
-<lb n="29"/>bal vholom hunahpu libahchi
+<lb n="29"/>bal vholom <rs ana="JUNAJPU">hunahpu</rs> libahchi
 <lb n="30"/>xcotox vbaca v <rs ana="PAJARO">vac</rs> ꜩaꜩ chi ahna<pc> –</pc>
 <lb n="31"/>oh chicah xpevi arev quxcah
 <lb n="32"/>huracan xulcoloc xuluculoc chi<pc> –</pc>
@@ -8166,7 +8166,7 @@ perhaps priests not deities?</note>
 <lb n="13"/>ge, y luego probro, a bomítar, y no vo<pc> –</pc>
 <lb n="24"/>mito; sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> como baba se le puso <rs ana="WOK">la</rs> a.
 <lb n="25"/>y probaba, a bomítar, y no podia, y loquí<pc> –</pc>
-<lb n="26"/>vsíeron aporrear, los muchachos, y le díxe<pc> –</pc>
+<lb n="26"/>vsíeron aporrear, <rs ana="DOS_MUCHACHOS">los muchachos</rs>, y le díxe<pc> –</pc>
 <lb n="27"/>ron: soís un mentíroso engañador, y le
 <lb n="28"/>díeron con el píe enlas nalgas, y probo<pc> –</pc>
 <lb n="29"/>otra vez, y no mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> baba haçía en la vo<pc> –</pc>
@@ -8365,7 +8365,7 @@ perhaps priests not deities?</note>
 <lb n="13"/>cara, y díuersa son sus costumbres. esto
 <lb n="14"/>deçían entre sí mesmos. y entonçes en<pc> –</pc>
 <lb n="15"/>bíaronlos todos los Señores a llamar, ea va<pc> –</pc>
-<lb n="16"/>mos a jugar ala pelota, mancebos. y lespre<pc> –</pc>
+<lb n="16"/>mos a jugar ala pelota, <rs ana="DOS_MUCHACHOS">mancebos</rs>. y lespre<pc> –</pc>
 <lb n="17"/>guntaron <rs ana="JUN_KAME">hun came</rs>, y <rs ana="WUQUB_KAME">vucub came</rs>, de
 <lb n="18"/>adonde aueís venído? deçildo man<pc> –</pc>
 <lb n="19"/>çebos. y <rs ana="DOS_MUCHACHOS">díxeron</rs> nosabemos: de
@@ -8571,7 +8571,7 @@ perhaps priests not deities?</note>
 <lb/>
 </p>
 <p>
-<lb n="14"/>y luego otra vez en <rs ana="CASA_DE_MURCIELAGOS">la casa de los mu<pc> –</pc>
+<lb n="14"/>y luego otra vez en <rs ana="CASA_DE_MURCIÉLAGOS">la casa de los mu<pc> –</pc>
 <lb n="15"/>rçíelagos</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no auía mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> murçíe<pc> –</pc>
 <lb n="16"/>lagos dentro, vna casa de murçíe<pc> –</pc>
 <lb n="17"/>lagos tomadores grandes brutos, así
@@ -8633,7 +8633,7 @@ perhaps priests not deities?</note>
 <lb n="27"/>le labraron los ojos, y muchíssímos
 <lb n="28"/>sabíos víníeron de el çíelo, víno
 <lb n="29"/><rs ana="UKUX_KAJ">el corazon de el çíelo</rs>, y víno <rs ana="HURACAN">huracan</rs>.
-<lb n="30"/>a<rs ana="CASA_DE_MURCIELAGOS">la casa de los murçíelagos</rs> víníe<pc> –</pc>
+<lb n="30"/>a<rs ana="CASA_DE_MURCIÉLAGOS">la casa de los murçíelagos</rs> víníe<pc> –</pc>
 <lb n="31"/>ron, no así nomas se acabo su cara
 <lb n="33"/>estubo muy Buena, y salío muy her<pc> –</pc>
 <lb n="34"/>mosa, y así mesmo hablo. y quando
