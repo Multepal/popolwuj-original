@@ -695,7 +695,7 @@ cap.
 <note place="margin-left border-left border-right" anchored="true"><del rend="strikeout" instant="false" status="unremarkable">u cab <unclear instant="false">pé</unclear> <rs ana="JUNAJPU">hun<lb/>hunahpu</rs></del></note>
 <lb n="20"/>iaba chuvi eae ta cul qui ca<pc> –</pc>
 <lb n="21"/>ma chic quiꜩih chi e qaxtoq
-<lb n="22"/>xqha ri <rs ana="WUQUB_KAKIX">vvcub caquix, ta xu 
+<lb n="22"/>xqha ri <rs ana="WUQUB_KAKIX">vvcub caquix</rs>, ta xu 
 <lb n="23"/>xequeba veab ri <rs ana="JUNAJPU">hunahpu</rs>. 
 <lb n="24"/>qui naohinic chic ri <rs ana="JUNAJPU">huhun 
 <lb n="25"/>ahpu</rs>, <rs ana="XBALAMKE">xbalanq’</rs> ta xquibih 
@@ -706,7 +706,7 @@ cap.
 <lb n="30"/>cuquila chic chirihitac vi<pc> –</pc>
 <lb n="31"/>nac. <rs ana="SAQI_NIM_AQ_SIS">zaqui nim ac</rs> vbi ma<pc> –</pc>
 <lb n="32"/>ma <rs ana="SAQI_NIM_AQ_SIS">zaqui nima ꜩiz</rs> cut vbi 
-<lb n="33"/>atit xeqha curi <rs ana="DOS_MUCHACHOS">qaholab 
+<lb n="33"/>atit xeqha curi <rs ana="DOS_MUCHACHOS">qaholab</rs> 
 <lb n="34"/>chique ri atit mama quix<pc> –</pc>
 <lb n="35"/>cachbilahtah chibe ta cama 
 <lb n="36"/>caeab ruq <rs ana="WUQUB_KAKIX">vucub caquix</rs>
@@ -1189,7 +1189,7 @@ cap.
 <lb n="20"/>bi qui cahau ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalan
 <lb n="21"/>que</rs> <del rend="scribble" instant="false" status="unremarkable">p</del>xcacamuh chuvi xapu xca<pc> –</pc>
 <lb n="22"/>camuh vbixic vꜩihoxic puch qui
-<lb n="23"/>qaholaxic ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanq’
+<lb n="23"/>qaholaxic ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanq’</rs>
 <lb n="24"/>xa nicah xchicabÿh, xa chacab v
 <lb n="25"/>bixic quicahau.
 </p>
@@ -1304,7 +1304,7 @@ cap.
 </p>
 <p>
 <lb n="36" rend="indent" /><hi>C</hi>ate cut qui petic zamahel ru
-<lb n="37"/>mal <rs "JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> quix
+<lb n="37"/>mal <rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> quix
 <lb n="38"/>bec ixrah popachih he i taca ri
 <lb n="39"/><rs ana="JUN_JUNAJPU">hun hunahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs>
 <lb n="40"/>quixqha ta quixopon cuq quepe
@@ -1323,9 +1323,9 @@ cap.
 <lb n="4"/>qui zamahel ri tucur, <rs ana="TECOLOTE_FLECHA">chabi tucur</rs>,
 <lb n="5"/><rs ana="TECOLOTE_DE_UNA_PIERNA">huracan tucur</rs>, <rs ana="TECOLOTE_GUACAMAYA">caquix tucur</rs>, <rs ana="TECOLOTE_CABEZA">ho<pc> –</pc>
 <lb n="6"/>lom tucur</rs> quevqhaxic vzama<pc> –</pc>
-<lb n="7"/>hel <<rs ana="XIBALBA">xibalba</rs> are ri <rs ana="TECOLOTE_FLECHA">qhabi tucur</rs> que<pc> –</pc>
+<lb n="7"/>hel <rs ana="XIBALBA">xibalba</rs> are ri <rs ana="TECOLOTE_FLECHA">qhabi tucur</rs> que<pc> –</pc>
 <lb n="8"/>heri qhab. xa copquic, are curi <rs ana="TECOLOTE_DE_UNA_PIERNA">hu<pc> –</pc>
-<lb n="9"/>racan tucur<rs> xa hun racan qo v
+<lb n="9"/>racan tucur</rs> xa hun racan qo v
 <lb n="10"/>xic. are curi <rs ana="TECOLOTE_GUACAMAYA">caquix tucur</rs> eae
 <lb n="11"/>rih qo v xic, are chi naipuch ri
 <lb n="12"/><rs ana="TECOLOTE_CABEZA">holom tucur</rs> xa vtuquel vholom
@@ -1580,7 +1580,7 @@ cap.
 <lb n="6"/>vtiohil vꜩ vi vvach. are cut ta
 <lb n="7"/>chicamic chuxibih chirib vinac
 <lb n="8"/>rumal vbaquil. quehe cut xa
-<lb n="9"/><rs ana="DOS_MUCHACHOS">vqahol</rs/> quehe ri vchub vcaxah
+<lb n="9"/><rs ana="DOS_MUCHACHOS">vqahol</rs> quehe ri vchub vcaxah
 <lb n="10"/>vqoheic ve <rs ana="DOS_MUCHACHOS">vqahol</rs> ahau ve puch
 <lb n="11"/><rs ana="DOS_MUCHACHOS">vqahol</rs> naol, ahuchan xma chi<pc> –</pc>
 <lb n="12"/>zach vi chibec chiꜩacatahic ma<pc> –</pc>
@@ -1857,7 +1857,7 @@ cap.
 <lb n="22"/>tob ca <abbr>q<hi rend="subscript">'</hi></abbr>iquin chuvi che xqha
 <lb n="23"/>cut macu habi chacan chui che
 <lb n="24"/>chiquech <rs ana="IXMUKANE">ixcatit</rs> chicah ta pu
-<lb n="25"/>ri </rs ana="HERMANOS_ARTESANOS">caꜩ</rs> quebe ta cuq chibe ta qui
+<lb n="25"/>ri <rs ana="HERMANOS_ARTESANOS">caꜩ</rs> quebe ta cuq chibe ta qui
 <note resp="editor">Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"?</note>
 <lb n="26"/>cazah vloc ri <abbr>q<hi rend="subscript">'</hi> </abbr>iquin xeqha cut
 <lb n="27"/>vꜩbala cohbe iuvq zaquiric xe
@@ -2341,7 +2341,7 @@ cap.
 <lb n="36"/>chuvare xpec xapuchi qo vi
 <lb n="37"/>mana xubico xaquehe xabic
 <lb n="38"/>quehe cut xchacatah vi rixpec
-<lb n="39"/>maui calah vvach</rs> recha xqui<pc> –</pc>
+<lb n="39"/>maui calah vvach recha xqui<pc> –</pc>
 <lb n="41"/>yao ruq maui qhanic xa v
 <lb n="42"/>chac cumaꜩ xuxic. caꜩihonoc
 <lb n="43"/>xuqhax chicut ri uq ta xubÿh
@@ -2677,7 +2677,7 @@ cap.
 <lb n="8"/>qha cut cate puch xhix quichi
 <lb n="9"/>quitohbal quichahin chicle<pc> –</pc>
 <lb n="10"/>caxic <expan instant="false">que</expan>he cut quichacatahic
-<lb n="11"/><rs ana="JUN_KAME">hun came</rs> <rs ana"WUQUB_KAME">vvcub came</rs> cu<pc> –</pc>
+<lb n="11"/><rs ana="JUN_KAME">hun came</rs> <rs ana="WUQUB_KAME">vvcub came</rs> cu<pc> –</pc>
 <lb n="12"/>mal que
 <lb n="13"/>v xe ribanoh ri. ta xquicam ri
 <lb n="14"/>qui chi herebaca quichi <rs ana="XPURPUWEQ">purpuec</rs>
@@ -2905,7 +2905,7 @@ cap.
 <lb n="26"/>nel queheri e ilol are qui bi
 <lb n="27"/>va <rs ana="XULU">xulu</rs><rs ana="PAKAM">pacam</rs> e etamanel
 <lb n="28"/>v ve cohꜩonoxic chive cumal
-<lb n="29"/><rs ana="SEÑORES_DE_XIBALBA">rahaual</rs> xibalba</rs> rumal ri ca
+<lb n="29"/><rs ana="SEÑORES_DE_XIBALBA">rahaual xibalba</rs> rumal ri ca
 <lb n="30"/>camic quinaoh caquinuc ru
 <lb n="31"/>mal ri maui mi xohcamic, ma
 <lb n="32"/>pu mi xohchacatahic mixcaza<pc> –</pc>
@@ -3518,14 +3518,14 @@ cap.
 <lb n="15"/>vmam vcahau beleheb nim ha chi<pc> –</pc>
 <lb n="16"/><rs ana="NIJAIB">nimhaibab</rs>. <rs ana="MAJUKUTAJ">mahutah</rs> vmam v
 <lb n="17"/>cahau cahib nim ha chi <rs ana="AJAW_KICHE">ahau qui<pc> –</pc>
-<lb n="18"/>che oxchob chinamit chi vqoheic
+<lb n="18"/>che</rs> oxchob chinamit chi vqoheic
 <lb n="19"/>mavi zachel vbi vmam vcahau
 <lb n="20"/>are pocol quirol chila relebal
 <lb n="21"/>quih xavi xere xpevi <rs ana="TAMUB">tamub</rs> <rs ana="ILOKAB">ilo<pc> –</pc>
 <lb n="22"/>cab</rs> ruq oxlahuh vca amac. oxla<pc> –</pc>
 <lb n="23"/>hun tecpan ruq<rs ana="RABINALEB" type="toponym">rabinaleb</rs>, <rs ana="KAQCHIKELEB">caechi<pc> –</pc>
 <lb n="24"/>queleb</rs>, <rs ana="AJTZIKINAJA">ah q,inquina ha</rs>, ruq puch
-<lb n="25"/><rs ana="SAQAJIB">zacahib</rs>, ruq naipuch <rs ana="LAKAMIB">lamaquib,
+<lb n="25"/><rs ana="SAQAJIB">zacahib</rs>, ruq naipuch <rs ana="LAKAMIB">lamaquib</rs>,
 <lb n="26"/><rs ana="KUMATZ">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhal ha</rs> <rs ana="UCHABAJA">vchabaha</rs>, <rs ana="AJCHUMILAJA">ah chu<pc> –</pc>
 <lb n="27"/>mila ha</rs> ruq <rs ana="AJKIBAJA">ahquibaha</rs>, <rs ana="AJBATENAJA">ah batenaba</rs>
 <lb n="28"/><rs ana="AKUL_WINAQ">acul vinac</rs> <rs ana="BALAMIJA">balamiha</rs> <rs ana="KANCHAJELEB">canchahe leb</rs><pc> –</pc>
@@ -7166,14 +7166,14 @@ perhaps priests not deities?</note>
 <lb />
 <pb corresp="xom-f13-s2"/>
 <note resp="editor">Note moved from end of line 5 to allow for hyphen to be removed </note>
-<note place="margin-right" anchored="true"><del rend="scribble" instant="false" status="unremarkable">yun<rs ana="TECOLOTE_CABEZA">tecolo<add place="below" instant="false" status="unremarkable">tecabeza</rs>.</add>–</del></note>
+<note place="margin-right" anchored="true"><del rend="scribble" instant="false" status="unremarkable">yun<rs ana="TECOLOTE_CABEZA">tecolo<add place="below" instant="false" status="unremarkable">tecabeza.</add>–</del></note></rs>
 <lb n="1"/>traigan tambien el vle, o pelota dezildes q’lo
 <lb n="2"/>dízen <rs ana="SEÑORES_DE_XIBALBA">los SSes</rs> así les fue dicho alos mensage<pc> –</pc>
 <lb n="3"/>ros, y los mensageros eran, vn tecolote, y
 <lb n="4"/>vna <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>, vn<rs ana="TECOLOTE_DE_UNA_PIERNA">tecolote de vna pier<pc> –</pc>
-<lb n="5"/>na</RS>, y vna <rs ana="GUACAMAYA_TECOLOTE">guacamaya tecolote</rs> .yestos e<pc> –</pc>
-<lb n="6"/>ran los nombres de los mensageros de <rs anael in<pc> –</pc>
-<lb n="7"/>fierno. este q’se llamaba <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>,
+<lb n="5"/>na</rs>, y vna <rs ana="GUACAMAYA_TECOLOTE">guacamaya tecolote</rs> .yestos e<pc> –</pc>
+<lb n="6"/>ran los nombres de los mensageros de <rs ana="XIBALBA">el in<pc> –</pc>
+<lb n="7"/>fierno</rs>. este q’se llamaba <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>,
 <lb n="8"/>era como vna flecha. y esta alerta. elq’se
 <lb n="9"/>llamaba <rs ana="TECOLOTE_DE_UNA_PIERNA">de vna píerna</rs>, solo vna tenía, y te
 <lb n="10"/>nía alas. elq’ se llamaba: <rs ana="TECOLOTE_GUACAMAYA">guacamaya te
@@ -7182,7 +7182,7 @@ perhaps priests not deities?</note>
 <lb n="13"/>nía mas q’la cabeza, no tenía pies, síno solo
 <lb n="14"/>alas. estos cuatro mensageros eran se<pc> –</pc>
 <lb n="15"/>ñores prinzípales. Luego víníeron al
-<lb n="16"/>mensage desde <rs ana="XIBALBA">el ínfíerno<</rs>, y en un íns<pc> –</pc>
+<lb n="16"/>mensage desde <rs ana="XIBALBA">el ínfíerno</rs>, y en un íns<pc> –</pc>
 <lb n="17"/>tante llegaron derechos al atrío a do es<pc> –</pc>
 <lb n="18"/>taban jugando ala pelota <rs ana="JUN_JUNAJPU">hunhunahpu</rs>
 <lb n="19"/>y <rs ana="WUQUB_JUNAJPU">vvcub hunahpu</rs>, y el atrio se llamaba
@@ -7253,7 +7253,7 @@ perhaps priests not deities?</note>
 <lb n="34"/>a este fue el prímero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> saludaron
 <lb n="35"/>y le dixeron: este es buena hora el
 <lb n="36"/><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> <rs ana="JUN_KAME">hun came</rs>, este muy bíen el <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice>
-<lb n="37"/><rs ana="WUQUB_KAME"<>vvcub came</rs>, pero no les respondíe<pc> –</pc>
+<lb n="37"/><rs ana="WUQUB_KAME">vvcub came</rs>, pero no les respondíe<pc> –</pc>
 <lb n="38"/>ron. y luego empezaron <rs ana="SEÑORES_DE_XIBALBA">los <choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> de
 <lb n="39"/>el infierno</rs> a hazer gran ruído ríendo<pc> –</pc>
 <lb n="40"/>se. y otravez bolbíeron a hazer ruído
@@ -8312,11 +8312,11 @@ perhaps priests not deities?</note>
 <lb n="11"/>ron ea saludad aese <abbr type="superscription">Sor.</abbr> y no era <abbr type="superscription">Sor.</abbr>síno
 <lb n="12"/>vna estatua para engalñarlos, y díxe
 <lb n="13"/>ron ese solo es estatua. y saludandolos a
-<lb n="14"/>los demas díxeron <abbr type="superscription"><rs ana="JUN_KAME">Sor.</abbr> came</rs>, <abbr type="superscription"><rs ana="WUQUB_KAME">Sor.</abbr> vucub
-<lb n="15"/>came</rs>, <abbr type="superscription">Sor.</abbr>, <abbr type="superscription"><rs ana="KUCHUMA_KIK">Sor.</abbr> cuchumaquíc</rs>,
-<lb n="16"/><abbr type="superscription">Sor.</abbr><rs ana="AJAL_PUJ">ahal puh</rs>, <abbr type="superscription">Sor.</abbr><rs ana="AJAL_QANA">ahal cana</rs>, <abbr type="superscription">Sor.</abbr> &gt; <rs ana="CHAMIYABAQ">chamía
-<lb n="17"/>baca</rs>, <abbr type="superscription">Sor.</abbr><rs ana="CHAMIYAJOLOM">chamía holom</rs>, <abbr type="superscription">Sor.</abbr> xíc, <abbr type="superscription">Sor.</abbr><rs ana="PATAN">pa<pc> –</pc>
-<lb n="18"/>tan</rs>, <abbr type="superscription"><rs ana="KIK_RE">Sor.</abbr> quíc re</rs>, <abbr type="superscription"><rs ana="KIK_RIXKAQ">Sor.</abbr> quic rí eae</rs>. esto di<pc> –</pc>
+<lb n="14"/>los demas díxeron <rs ana="JUN_KAME"><abbr type="superscription">Sor.</abbr> came</rs>, <rs ana="WUQUB_KAME"><abbr type="superscription">Sor.</abbr> vucub
+<lb n="15"/>came</rs>, <abbr type="superscription">Sor.</abbr>, <rs ana="KUCHUMA_KIK"><abbr type="superscription">Sor.</abbr> cuchumaquíc</rs>,
+<lb n="16"/><rs ana="AJAL_PUJ"><abbr type="superscription">Sor.</abbr>ahal puh</rs>, <rs ana="AJAL_QANA"><abbr type="superscription">Sor.</abbr>ahal cana</rs>, <rs ana="CHAMIYABAQ"><abbr type="superscription">Sor.</abbr> &gt; chamía
+<lb n="17"/>baca</rs>, <rs ana="CHAMIYAJOLOM"><abbr type="superscription">Sor.</abbr>chamía holom</rs>, <abbr type="superscription">Sor.</abbr> xíc, <abbr type="superscription">Sor.</abbr><rs ana="PATAN">pa<pc> –</pc>
+<lb n="18"/>tan</rs>, <rs ana="KIK_RE"><abbr type="superscription">Sor.</abbr> quíc re</rs>, <rs ana="KIK_RIXKAQ"><abbr type="superscription">Sor.</abbr> quic rí eae</rs>. esto di<pc> –</pc>
 <lb n="19"/>xeron quando llegaron a todos les ma<pc> –</pc>
 <lb n="20"/>manífestaron sus caras, y díxeron sus
 <lb n="21"/>nombres de todos, y de nonguno perdí<pc> –</pc>
@@ -8425,7 +8425,7 @@ perhaps priests not deities?</note>
 <lb n="22"/>rezones alegres quando los pusíeron
 <lb n="23"/>en las navajas para ser vençídos los
 <lb n="24"/>dos <rs ana="DOS_MUCHACHOS">los gémelos divinos</rs>. y estaban alegres <rs ana="SEÑORES_DE_XIBALBA">los
-<lb n="25"/>de el ínfíerno<rs> quando pensaron <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="25"/>de el ínfíerno</rs> quando pensaron <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="26"/>ya los auían vençído. Buena cosa he<pc> –</pc>
 <lb n="27"/>mos hecho deçían <rs ana="SEÑORES_DE_XIBALBA">los de el ínfíer
 <lb n="28"/>no</rs>, adonde han de ír a tomar agora
