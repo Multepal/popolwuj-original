@@ -5408,17 +5408,17 @@ cap.
 <lb n="34"/>chicut qui quxlal cumal ahauab
 <lb n="35"/>tachul qui ya quicanab qui tele<pc> –</pc>
 <lb n="36"/>che ronohel catecut ta xcuch
-<lb n="37"/>naoh cumal ahauab ahpop ahpop<pc> –</pc>
-<lb n="38"/>camha ealel ahꜩic vinac taxel
+<lb n="37"/>naoh cumal ahauab <rs ana="AJPOP">ahpop</rs> ahpop<pc> –</pc>
+<lb n="38"/>camha <rs ana="QALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> taxel
 <lb n="39"/>cunaoh xa cachapa quinabe chi<pc> –</pc>
 <lb n="40"/>qohe ta que calem vachin el chi<pc> –</pc>
-<lb n="41"/>namit choc vi inahpop in ahpop<pc> –</pc>
+<lb n="41"/>namit choc vi in<rs ana="AJPOP">ahpop</rs> in ahpop<pc> –</pc>
 <lb n="42"/>camha ahpop chire caleh ve choc
-<lb n="43"/>chicu aue at ahau ealel ealel
+<lb n="43"/>chicu aue at <rs ana="AJAW_QALEL">ahau ealel</rs> ealel
 <lb n="44"/>ri calem xchuxic xeqhacut ro<pc> –</pc>
 <lb n="45"/>nohel ahauab taxcam quinaoh
-<lb n="46"/>xavi cu quehe xubano <rs ana="TAMUB">tamub</rs>, i
-<lb n="47"/>locab hunam vach ox chob chi
+<lb n="46"/>xavi cu quehe xubano <rs ana="TAMUB">tamub</rs>, <rs ana="ILOKAB">i
+<lb n="47"/>locab</rs> hunam vach ox chob chi
 <pb xml:id="xom-f53-s2"/>
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">53</hi></num>
@@ -5455,11 +5455,11 @@ cap.
 <lb n="26"/>cu quehe xubano <rs ana="TAMUB">tamub</rs><rs ana="ILOKAB">ilocab</rs>
 <lb n="27"/>xuqhapo xucobizah puch vnabe
 <lb n="28"/>ral vqahol qopa huhun chi huyub.
-<lb n="29"/>are cut, vxenahic ealel ahpop ré
+<lb n="29"/>are cut, vxenahic <rs ana="QALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> ré
 <lb n="30"/>ealem pahuhun chi huyub vacamic.
-<lb n="31"/>quehe relic ri ta xeelic chirih ah
-<lb n="32"/>pop ahpop camha chirih puchca<pc> –</pc>
-<lb n="33"/>lel ahꜩicvinac xelvi
+<lb n="31"/>quehe relic ri ta xeelic chirih <rs ana="AJPOP">ah
+<lb n="32"/>pop</rs> ahpop camha chirih puchca<pc> –</pc>
+<lb n="33"/>lel <rs ana="AJTZIK_WINAQ">ahꜩicvinac</rs> xelvi
 </p>
 <p>
 <lb n="34" rend="indent"/><hi rend="large">A</hi>recut xchicabÿhchic vbiro
