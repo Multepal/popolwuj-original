@@ -5661,7 +5661,7 @@ cap.
 <lb n="8" rend="hanging" />hule ahavab
 </p>
 <p>
-<lb n="9"/><hi rend="large">V</hi>ucub noh cauatepech chic vhu<pc> –</pc>
+<lb n="9"/><rs ana="WUQUB_NOJ"><hi rend="large">V</hi>ucub noh</rs> <rs ana="KUWATEPECH">cauatepech</rs> chic vhu<pc> –</pc>
 <lb n="10"/>lahu taz ahauab
 </p>
 <p>                
@@ -5679,15 +5679,15 @@ cap.
 <p>
 <lb n="19"/><rs ana="DON_JUAN_DE_ROJAS"><hi rend="large">D</hi>on Ju<hi rend="superscript">o.</hi> de Rojas</rs> <rs ana="DON_JUAN_CORTÉS">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
 <lb n="20"/>cablahu le ahauab eqahola<pc> –</pc>
-<lb n="21"/>xel rumal tecum tepepul
+<lb n="21"/>xel rumal <rs ana="TEKUM">tecum</rs> <rs ana="TEPEPUL">tepepul</rs>
 </p>
 <p>
 <lb n="22"/><hi rend="large">A</hi>recut vleel vtazel ahauarem
-<lb n="23"/>ri ahau ahpop ahpop camba chu<pc> –</pc>
-<lb n="24"/>vach caviquib quiche are chi xchi<pc> –</pc>
+<lb n="23"/>ri ahau <rs ana="AJPOP">ahpop</rs> ahpop camba chu<pc> –</pc>
+<lb n="24"/>vach <rs ana="KAWEQ">caviquib</rs> quiche are chi xchi<pc> –</pc>
 <lb n="25"/>cabÿh chic re chinamit. Va chicute
 <lb n="26"/>nimha rech huhun chiahauab chi<pc> –</pc>
-<lb n="27"/>rihahpop ahpopcamha are vbi<pc> –</pc>
+<lb n="27"/>rih<rs ana="AJPOP">ahpop</rs> ahpopcamha are vbi<pc> –</pc>
 <lb n="28"/>naam ri beleheb <rs ana="SAQIK">chinamit</rs> <rs ana="KAWEQ">chica<pc> –</pc>
 <lb n="29"/>uiquib</rs> beleheb vnimha va tac
 <lb n="30"/>vbi e rahaual huhun chi nimha.
