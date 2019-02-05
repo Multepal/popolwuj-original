@@ -3658,7 +3658,7 @@ cap.
 <lb n="2"/>cut xhalcatih v qhabal ri a<pc> –</pc>
 <lb n="3"/>mac halahoh qui qhabal xuxic
 <lb n="4"/>maui calah chic xquitao chi qui<pc> –</pc>
-<lb n="5"/>bilquib ta xepetic chitulan chi<pc> –</pc>
+<lb n="5"/>bilquib ta xepetic chi<rs ana="TULÁN">tulan</rs> chi<pc> –</pc>
 <lb n="6"/>ri cut xquipaxih vi quib qo
 <lb n="7"/>xbechila relebal quih, ꜩaꜩ cu
 <lb n="8"/>ri xpe varal. xa cuha mahꜩu<pc> –</pc>
@@ -3738,7 +3738,7 @@ cap.
 <lb n="31"/>balam</rs> xqha curi vzamahel xibal
 <lb n="32"/>ba: quiꜩih chi are icabavil ri a
 <lb n="33"/>re iꜩucun, are pu vquexvach na
-<lb n="34"/>tabal re <rs ana="TZAQOL">ꜩacol<?>s> t ive <rs ana="BITOL">bitol</rs> pu
+<lb n="34"/>tabal re <rs ana="TZAQOL">ꜩacol<rs> t ive <rs ana="BITOL">bitol</rs> pu
 <lb n="35"/>ive mi ia cu qui eae riamac ca<pc> –</pc>
 <lb n="36"/>na chiquiyao chire <rs ana="TOJIL">tohil</rs> mi vah
 <lb n="37"/>abah chiquiya3 chive chi ꜩonoh
@@ -3898,7 +3898,7 @@ cap.
 <lb n="40"/>queleb</rs>. <rs ana="KAQCHIKELEB">eaechequeleb</rs> vbi xuxic
 <lb n="41"/>ruc chic <rs ana="RABINALEB">rabinaleb</rs> are chicu
 <lb n="42"/>vbi xuxic maui zachinac vaca<pc> –</pc>
-<lb n="43"/>mic are chicuri <rs ana="AJTZIKINA_JA">ah q,iquina ha</rs>
+<lb n="43"/>mic are chicuri <rs ana="AJTZIKINAJA">ah q,iquina ha</rs>
 <lb n="44"/>vbi vacamic are cu qui bi ri x<pc> –</pc>
 <lb n="45"/>quibÿh quichiquibil quib. chiri
 <lb n="46"/>na xe poponvi xa chicoyobehna
@@ -3999,7 +3999,7 @@ cap.
 <lb n="43"/>viri <rs ana="ILOKAB">ilocab</rs> chiri xqohevi v ca<pc> –</pc>
 <lb n="44"/>bavil <rs ana="ILOKAB">ilocab</rs> xa coc vxol hu<pc> –</pc>
 <lb n="45"/>yub xavi chiri ronohel <rs ana="RABINALEB">rabi<pc> –</pc>
-<lb n="46"/>naleb</rs> <rs ana="KAQCHIKELEB">eaechequeleb</rs> <rs ana="AJTZIKINA_JA">ah q,i<pc> –</pc>
+<lb n="46"/>naleb</rs> <rs ana="KAQCHIKELEB">eaechequeleb</rs> <rs ana="AJTZIKINAJA">ah q,i<pc> –</pc>
 <lb n="47"/>quinaha</rs> ronohel chuti amac
 <pb xml:id="xom-f39-s2"/>
 <lb n="1"/>nima amac xa hun xtacatob vi
@@ -9562,7 +9562,7 @@ perhaps priests not deities?</note>
 <lb n="29"/>ꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs>, y <rs ana="IKIBALAM">íquí<pc> –</pc>
 <lb n="30"/>balam</rs>, y díxo el mensagero deel ín<pc> –</pc>
 <lb n="31"/>fíerno, y díxo: este es deuerdad vues<pc> –</pc>
-<lb n="32"/>tro <rs ana="XIBALBA">ídolo</rs>, y este el q’os sustenta, y este
+<lb n="32"/>tro ídolo, y este el q’os sustenta, y este
 <lb n="33"/>es el substituto, y trueque, remembr<pc> –</pc>
 <lb n="34"/>ança de vuestro <rs ana="TZAQOL">críador</rs>, y <rs ana="BITOL">formador</rs>.
 <lb n="35"/>no deís su fuego a los pueblos, hasta
@@ -9635,7 +9635,7 @@ perhaps priests not deities?</note>
 <lb n="4"/>çíuíeron su fuego, y luego se calen<pc> –</pc>
 <lb n="5"/>taron, y otra tríbu, o parçíalidad, hur<pc> –</pc>
 <lb n="6"/>to el fuego en el humo, estos eran los de
-<lb n="7"/><rs ana="CASA_DE_MURCIELAGOS">la casa de murçíelagos</rs>, y su ydolo se
+<lb n="7"/><rs ana="CASA_DE_MURCIÉLAGOS">la casa de murçíelagos</rs>, y su ydolo se
 <lb n="8"/>llamaba chamalcan: de los <rs ana="KAQCHIKELEB">eaechíque<pc> –</pc>
 <lb n="9"/>les</rs>, y era semejanza de vn murçíela<pc> –</pc>
 <lb n="10"/>go quando paso por el humo, y pasando
@@ -9699,15 +9699,15 @@ perhaps priests not deities?</note>
 <lb n="20"/>amaneçer q víníeron de el orí<pc> –</pc>
 <lb n="21"/>ente, y vnas eran sus caras cuando pasa<pc> –</pc>
 <lb n="22"/>ron de alla, y auía gran dístancía
-<lb n="23"/>nos es dícho agora.
+<lb n="23"/>nos es dícho <rs ana="NIM_XOL">agora</rs>.
 </p>
 <p>
 <lb n="24"/>y llegando a vn çerro allí se jun<pc> –</pc>
 <lb n="25"/>taron todos los quiches con los pu<pc> –</pc>
 <lb n="26"/>eblos, y allí se juntaron a consejo to<pc> –</pc>
 <lb n="27"/>dos, y luego se auísaron vnos a otros.
-<lb n="28"/>y se llama agora el çerro de el man<pc> –</pc>
-<lb n="29"/>daro, ó auíso. y juntos allí se engran
+<lb n="28"/>y se llama agora <rs ana="CHI_PIXAB">el çerro de el man<pc> –</pc>
+<lb n="29"/>daro</rs>, ó auíso. y juntos allí se engran
 <lb n="30"/>deçíeron a alabaron, yo soy, yo soy
 <lb n="31"/>el <rs ana="AJAW_KICHE">quiche</rs>, y tu tu <rs ana="TAMUB">tamub</rs> así sera tu
 <lb n="32"/>nombre, le fue dícho a los de <rs ana="TAMUB">tamub</rs>.
@@ -9749,8 +9749,8 @@ perhaps priests not deities?</note>
 <lb n="18"/>q’díuídíendose pasaron pa. aca.
 <lb n="19"/>y estaban muy aflíxídos por falta de
 <lb n="20"/>comída. y solo vn trago de bebída be<pc> –</pc>
-<lb n="21"/>bían, y vn maís., y se estaban sobre el
-<lb n="22"/>çerro de el mandato, ó auíso. lleua<pc> –</pc>
+<lb n="21"/>bían, y vn maís., y se estaban sobre <rs ana="CHI_PIXAB">el
+<lb n="22"/>çerro de el mandato</rs>, ó auíso. lleua<pc> –</pc>
 <lb n="23"/>ban al <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílix</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs>. y contí<pc> –</pc>
 <lb n="24"/>nuamente ayunaban el <rs ana="BALAM_KITZE">balam quíꜩe</rs>
 <lb n="25"/><rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs>, y <rs ana="IKIBALAM">íquíbalam</rs>.
@@ -9762,8 +9762,8 @@ perhaps priests not deities?</note>
 <lb n="31"/>balam</rs> con su mugger <rs ana="KAKIXAJA">caquíxha</rs>. y estos
 <lb n="32"/>eran ayunadores en la obscurídad, y
 <lb n="33"/>la noche. y tenían gran trísteza qo. esta
-<lb n="34"/>ban sobre el monte q’se llamaba del
-<lb n="35"/>mandato, ó preçepto, y agora les díxo
+<lb n="34"/>ban sobre el monte q’se llamaba <rs ana="CHI_PIXAB">del
+<lb n="35"/>mandato</rs>, ó preçepto, y agora les díxo
 <lb n="36"/>el ídolo
 </p>
 <p>
@@ -9787,7 +9787,7 @@ perhaps priests not deities?</note>
 <lb n="6"/>vna barranca q’se llama. <rs ana="BARRANCO_ESCONDIDO">barranca
 <lb n="7"/>de el escondídízo</rs>. por nosotros. en vna
 <lb n="8"/>gran barranca en la montaña q’ago<pc> –</pc>
-<lb n="9"/>ra sellama: en <rs ana="AWILIX">auílís</rs>, y allí sequedo.
+<lb n="9"/>ra sellama: <rs ana="LUGAR_DE_AWILIX">en auílís</rs>, y allí sequedo.
 <lb n="10"/>y quedo en la barranca por <rs ana="BALAM_AQAB">balamacab</rs>
 <lb n="11"/>y en ringlera los dexaron el prímero
 <lb n="12"/>q’quedo fue <rs ana="JAQAWITZ">hacauíꜩ</rs>. sobre vn río
