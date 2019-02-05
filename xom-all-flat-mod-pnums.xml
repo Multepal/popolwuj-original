@@ -4578,9 +4578,9 @@ cap.
 <lb n="29"/>hoxol chec xevxic chuqux amac
 <lb n="30"/>tacchibal ta quexuxic, ma qu
 <lb n="31"/>xbanatahic qui chacatahic
-<lb n="32"/>rumal e naual vinac ri balam
-<lb n="33"/>quiꜩe balam acab mahucu<pc> –</pc>
-<lb n="34"/>tah. ta xenaohin chicut ronohel
+<lb n="32"/>rumal e naual vinac ri <rs ana="BALAM_KITZE">balam
+<lb n="33"/>quiꜩe</rs> <rs ana="BALAM_AQAB">balam acab</rs> <rs ana="MAJUKUTAJ">mahucu<pc> –</pc>
+<lb n="34"/>tah</rs>. ta xenaohin chicut ronohel
 <lb n="35"/>amac naquipa que cuchah qui<pc> –</pc>
 <lb n="36"/>ꜩih nim qui qoheic ta chuxoc xe<pc> –</pc>
 <lb n="37"/>qhacut ta xquicuch chic qui<pc> –</pc>
@@ -4592,11 +4592,11 @@ cap.
 <lb n="43"/>naoh xa xuvic rib ronohel a<pc> –</pc>
 <lb n="44"/>mac ꜩaꜩ chica mizanel ta xe
 <lb n="45"/>molotahic ronohel amac eca<pc> –</pc>
-<lb n="46"/>mizanel arecut e qo ri balam
-<lb n="47"/>quiꜩe balam acab mahucutah
+<lb n="46"/>mizanel arecut e qo ri <rs ana="BALAM_KITZE">balam
+<lb n="47"/>quiꜩe</rs> <rs ana="BALAM_AQAB">balam acab</rs> <rs ana="MAJUKUTAJ">mahucutah</rs>
 <pb xml:id="xom-f45-s2"/>
-<lb n="1"/>iquibalam are e qo chuvi huyub
-<lb n="2"/>hacaviꜩ vbi huyub eqovi xqo<pc> –</pc>
+<lb n="1"/><rs ana="IKIBALAM">iquibalam</rs> are e qo chuvi huyub
+<lb n="2"/><rs ana="LUGAR_DE_JAQAWITZ">hacaviꜩ</rs> vbi huyub eqovi xqo<pc> –</pc>
 <lb n="3"/>lo cut quiqahol chiri chuvi
 <lb n="4"/>huyub maui eta quia vinac ma<pc> –</pc>
 <lb n="5"/>na quehe ta qui quial ri vquial
