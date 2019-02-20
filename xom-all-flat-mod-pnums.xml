@@ -4795,9 +4795,9 @@ cap.
 <pb xml:id="xom-f47-s2"/>
 <lb n="1"/>polou tah ta xcanah qui ꜩih chire
 <lb n="2"/>qui qahol are quibi qui qahol va
-<lb n="3"/>ecaib xuqaholah balam quiꜩe
-<lb n="4"/>qocaib vbi nabe al qocavib chic
-<lb n="5"/>vbi vcab al vqahol balam quiꜩe
+<lb n="3"/>ecaib xuqaholah <rs ana="BALAM_KITZE">balam quiꜩe</rs>
+<lb n="4"/><rs ana="KOKAIB">qocaib</rs> vbi nabe al qocavib chic
+<lb n="5"/>vbi vcab al vqahol <rs ana="BALAM_KITZE">balam quiꜩe</rs>
 <lb n="6"/>vmam vqahau caviquib. e chi vi
 <lb n="7"/>cu caib chic xuqaholah balam
 <lb n="8"/>acab are qui bi va qoacul, vbi
