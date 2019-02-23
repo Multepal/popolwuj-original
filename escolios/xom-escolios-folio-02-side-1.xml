@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">02</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 02, Side 1. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/><abbr>q'</abbr>entre ellos tíene sembrados, desde el tíempo dela gentílídad. yo consídero esta
+            	<lb n="2"/>mala semílla, y zizaña <abbr>q'</abbr>el demonío ha sembrado entre ellos a la grama, en las
+            	<lb n="3"/>viñas, esta yerua como todos saben esta destrucçíon de las Vídes, y no obitan
+            	<lb n="4"/>fe sabíendo esto les Víñadores, contentanse con arrancar la <abbr>q'</abbr>Ven, y no aduíer -
+            	<lb n="5"/>ten <abbr>q'</abbr>Va cundíendo, en lo oculto, y quando menos se píensan hallan perdída
+            	<lb n="6"/>su Viña, y sín remedío, <abbr>porq'</abbr> <abbr>aunq'</abbr> han Vísto algunos retoños, <abbr>q'</abbr>asoman les 
+            	<lb n="7"/>pareçe cosa tenua, y <abbr>q'</abbr> no hara daño, no occurríendo con tíempo al daño, despues
+            	<lb n="8"/>se haze írremedíable. así mesmo entíendo suçede con estos índíos, y sus herrores
+            	<lb n="9"/>con esta mala semílla, y zizaña <abbr>q'</abbr>eldemonío dexo sembrados entre ellos de estas
+            	<lb n="10"/>hístorías de su orígen. <abbr>q'</abbr>oyendo cada día, y Víendo por sus ojos todos los retoños
+            	<lb n="11"/>assomar delas superítíçíones <abbr>q'</abbr>tíenen, los mas lotoman a casa de quentos, y rísa.
+            	<lb n="12"/>sin reparar en el orígen y raíz de <abbr>ado</abbr> proceden, para procurar al remedío
+            	<lb n="13"/>con tíempo. es nuestro Díos, muy zelador de su honrra, y culto, y no permíte
+            	<lb n="14"/>compañía en sus adoraçíones, y así <abbr>aunq'</abbr> nos parezca cosa de poca monta
+            	<lb n="15"/>es cosa de mucho pero en el díuíno acatamíento.
+            </p>
+            <p>
+            	<lb n="16" rend="indent"/>Yo me he llegado a persuadír víendo nuestras verdades catolícas embueltas en
+            	<lb n="17"/>estos desatínos, lo Uno alo<abbr>q'</abbr> <del rend="strikethrough">n</del>díçe el <abbr>N<hi rend="superscript">e.</hi></abbr> <abbr>P<hi rend="superscript">e</hi>.</abbr> <abbr>fr.</abbr> Domíngo de Víco en el cap. <num>101</num>. 
+            	<lb n="18"/>de la segunda parte de su <foreign xml:lang="la">theología índorum</foreign> a<abbr>q'</abbr> estos índíos desçíenden
+            	<lb n="19"/>de las díez tríbus <abbr>q'</abbr>se perdíeron de los judíos, y <abbr>q'</abbr>no bolbíeron a su patría, y así
+            	<lb n="20"/>conseruaron por tradíçíones todos los suçesos <abbr>q'</abbr>nos refíere el sagrado texto
+            	<lb n="21"/>y el demonío selos fue embolbíendo en muchíssímos herrores. y lo otro, a<abbr>q'</abbr>deno
+            	<lb n="22"/>ser así <abbr>q'</abbr>desçíenden de aquellas díez tríbus. el demonío como tan sabío, al
+            	<lb n="23"/>cançando por algunas congeturas la venída de el <abbr>S<hi rend="superscript">to</hi>.</abbr> Evangelío a estas por -
+            	<lb n="24"/>fes, les sugíría estas mentíras embueltas en muchas Verdades catolícas de las
+            	<lb n="25"/><abbr>q'</abbr>nos enseño el espírítu <abbr>S<hi rend="superscript">to</hi>.</abbr> en la sagrada escríptura, confín de <abbr>q'</abbr> oyendo los
+            	<lb n="26"/>índíos lo <abbr>q'</abbr> auían de enseñar los mínístros del <abbr>S<hi rend="superscript">to</hi>.</abbr> Evangelío de Díos, y sus
+            	<lb n="27"/>obras, de la encarnaçíon de el Verbo, de <abbr>M<hi rend="superscript">a</hi>.</abbr> <abbr>SS<hi rend="superscript">ma</hi>.</abbr> y los demas sanctos mas
+            	<lb n="28"/>se arraígasen en sus herrores pensando: <abbr>q'</abbr>aquello <abbr>q'</abbr>seles enseñaba era lo mes -
+            	<lb n="29"/>mo en todo <abbr>q'</abbr> lo <abbr>q'</abbr>ya ellos sabían de el demonío por voca de sus saçerdotes. y así
+            	<lb n="30"/>se ulo por el effecto luego, en eherror <abbr>q'</abbr>se levanto en este Reyno de <abbr>Gualt<hi rend="superscript">a</hi></abbr> reçí -
+            	<lb n="31"/>en conquístado esto, <abbr>q'</abbr>todos abrazaron luego, <abbr>q'</abbr><rs ana="JUNAJPU">hun ahpu</rs> era Díos, el <abbr>q'</abbr>les pre 
+            	<lb n="32"/>dícaban. y <rs ana="JUN_JUNAJPU">hun hunahpu</rs> <foreign xml:lang="la">erat fílíus Deí</foreign>. y xuchínqueꜩalí, <abbr>q'</abbr>es la <abbr>q'</abbr>en esta len
+            	<lb n="33"/>gua llaman <rs ana="IXKIK">Xquíc</rs> era <abbr>M<hi rend="superscript">a</hi>.</abbr> <abbr>SS<hi rend="superscript">ma</hi>.</abbr> y <abbr>q'</abbr><rs ana="WAJXAQIB_KAM">Vahxaquícat</rs> era <abbr>S.</abbr><abbr>Ju<hi rend="superscript">o</hi>.</abbr> Baptísta. y <abbr>q'</abbr>: hun -
+            	<lb n="34"/>tíhax era <abbr>S.</abbr>Pablo Apostol se pareçía a los dísparatos, <abbr>q'</abbr>ellos ya tenían 
+            	<lb n="35"/>sabídos de Voca de el demonío, era façíl a el persuadír los a ellos. y como quíera
+            	<lb n="36"/><abbr>q'</abbr>ellos sean tan íncredulos, y desconfíados delo <abbr>q'</abbr>los Padres le<add place="above">s</add> díçen, de ay es: <abbr>q'</abbr>no -
+            	<lb n="37"/>se <abbr>q'</abbr>asíentan totalmente a nuestras Verdades catolícas. <abbr>porq'</abbr> son de esa calídad 
+            	<lb n="38"/>los índíos, <abbr>q'</abbr>como selo díga otro índío como ellos, no ay cosa mas çíerta <abbr>p<hi rend="superscript">a</hi>.</abbr> ellos, pero 
+            	<lb n="39"/>sí se lo díçe el <abbr>P<hi rend="superscript">e</hi>.</abbr> o el español a quíenes tíenen total auersíon no ay remedío de
+            	<lb n="40"/>asentír a lo<abbr>q'</abbr> seles díce, y sí haçen en la aparíençía <abbr>q'</abbr>asíenten, mas es por temor,
+            	<lb n="41"/><abbr>q'</abbr>por otro motívo alguno. en esta matería, son defectuossímos, nuestros híjos los ín
+            	<lb n="42"/>díos, y siempre estan con dos corazones tocante alo<abbr>q'</abbr>seles díçe; Veraslos con mucho 
+            	<lb n="43"/>cuídado acudír a la yglesía mas en días <abbr>q'</abbr>ellos celebran, <abbr>q'</abbr>en los días de pre -
+            	<lb n="44"/>çepto, y es el caso <abbr>q'</abbr>les llena mucho mas <abbr>q'</abbr>la devoçíon la concurrençía <abbr>q'</abbr>en
+            	<lb n="45"/>tonçes ay de atambores, y trompetas, y ruído de campanas, <abbr>porq'</abbr> son ínclína
+            	<lb n="46"/>díssímos a la bulla, y sî ay tun, ó bayle en <abbr>q'</abbr>se representa alguna bobería
+            <!-- add annotation to "tun": tun means drum. In Christenson's dictionary, certain dances are associated with drums (ctrl+F "tun").-->
+            </p>
+        </body>
+    </text>
+</TEI>

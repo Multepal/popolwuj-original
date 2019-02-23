@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <topics>
   <topic>
+    <title> Tz&#039;oloj Che&#039;</title>
+    <type>toponymo</type>
+    <nid>1349</nid>
+    <key>TZOLOJ_CHE</key>
+    <ximenez_spa>momostenango</ximenez_spa>
+    <ximenez_quc> tzolohche</ximenez_quc>
+    <description><p>"This is the K’iche’ name for the town in Totonicapán known today by its Spanish-Nahuatl name, Santa María Chiquimula (Carmack 1981:307; Edmonson 1965:28). It was the pre-Conquest political<br />
+center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack 1981:307, 2001:224, 231–33). Although Contreras (2008:109) describes Amak Tam as the precursor settlement to Santa María Chiquimula, Amak Tam and Santa María Chiquimula are more than 20 km distant from each other on the map, and Tz’oloj Che’ is indicated as occupying a third location distinct from those of the other two towns (see Contreras 2008:fig. 36). Fox (1978:126–31, map 7) offers a brief description of the archaeology of the region." (Matsumoto 2017:176 n 87)</p></description>
+  </topic>
+  <topic>
     <title>Achaq&#039; Iboy</title>
     <type>persona</type>
     <nid>871</nid>
@@ -1901,7 +1911,9 @@ y su reino no tendrá fin.</p>
     <ximenez_quc>cavinal</ximenez_quc>
     <description><p>One of the four divisions of the citadel of Chi K'ix.</p>
 
-<p>Colop (página 189, nota 316) dice, "es propiamente el nombre de aquel sitio arqueológico [donde probablemente ubicaba Chi K'ix] y puede leerse como <em>ka- </em>'dos' y <em>winal </em>cognado yukateko del k'iche' <em>winaq</em> 'persona', equivale a '2 cuentas de 20,' es decir, 'cuarenta.'"</p></description>
+<p>Colop (página 189, nota 316) dice, "es propiamente el nombre de aquel sitio arqueológico [donde probablemente ubicaba Chi K'ix] y puede leerse como <em>ka- </em>'dos' y <em>winal </em>cognado yukateko del k'iche' <em>winaq</em> 'persona', equivale a '2 cuentas de 20,' es decir, 'cuarenta.'"</p>
+
+<p>"The archaeological ruins of Kawinal, also known as Pueblo Viejo Cubulco, straddle the Blanco River near Cubulco in the Department of Baja Verapaz (Fox 1978:243–50, see fig. 41; see van Akkeren 2003). The community was dominated by the Kaweq K’iche’ (van Akkeren 2003:118). Edmonson (1965:106) proposes ‘relatives’ as a possible etymology (compare K’iche’ winaqil ‘family; lineage member; humanity’, e.g., Coto 1983 [1656]:229, 413), whereas van Akkeren (2003:118) suggests that the toponym is derived from Yucatec ‘forty place’ (compare K’iche’ kawinaq ‘forty’)" (Matsumoto 2017:216 n 257).</p></description>
   </topic>
   <topic>
     <title>Kawisimaj</title>
@@ -2412,6 +2424,17 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <description>Description forthcoming.</description>
   </topic>
   <topic>
+    <title>palow</title>
+    <type>lugar</type>
+    <nid>1342</nid>
+    <key>palow</key>
+    <english_name>&lt;ul&gt;&lt;li&gt;sea&lt;/li&gt;
+&lt;/ul&gt;</english_name>
+    <ximenez_spa>mar</ximenez_spa>
+    <ximenez_quc>palo</ximenez_quc>
+    <description><p>placeholder (Maxwell and Hill 2006: 35-39)</p></description>
+  </topic>
+  <topic>
     <title>Patan</title>
     <type>deidad</type>
     <nid>682</nid>
@@ -2903,7 +2926,26 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <key>SEÑORES_DE_XIBALBA</key>
     <ximenez_spa> SSres delínfierno</ximenez_spa>
     <ximenez_quc>conohel rahaual xibalba </ximenez_quc>
-    <description>Description forthcoming.</description>
+    <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/kerr%201670.jpg?itok=q2klGJlk" width="100" height="31" alt="The Young Corn God and Hero Twins sit on cushions fashioned out of jaguars in the House of Flames, one of the sites of torture in Xibalba." title="Young Corn God, Twins sit on jaguar cushions in the House of Flames in Xibalba. Kerr Database #K1670. Available: http://research.mayavase.com/kerrmaya_hires.php?vase=1670" /></image>
+    <description><p>The lords of Xibalba are a group of deities. Within the group, each deity is paired with another lord, both having a specific combined way of killing or torturing humans. In turn, the pairs are ruled by two main deities: <em>Wuqub’ Kame</em> and <em>Jun Kame</em>. Tedlock (1996: 136) and Christenson (2003: 162-63) maintain the parallelism of the naming of the lords of Xibalba in a critical scene in which a mosquito, named Xan, bites all the lords on the Black Road. In this comical scene, the mosquito helps the hero twins uncover the hidden lords of Xibalba by stinging them, causing them to cry out in pain, and forcing another lord to call the stung one by name. This scene demonstrates the pairing of each of the lords of Xibalba: <em>Jun Kame </em>(One Death) and <em>Vuqub’ Kame </em>(Seven Death); <em>Xikiripat</em> (Flying Scab) and <em>Kuchuma Kik’</em> (Gathered Blood); <em>Ajal Puj</em> (Pus Demon) and <em>Ajal Q’ana</em> (Jaundice Demon); <em>Ch’amiya Baq</em> (Bone Staff) and <em>Ch’amiya Jolom</em> (Skull Staff); <em>Xik</em> (Wing) and <em>Patan</em> (Packstrap); <em>Kik’ Re</em> (Bloody Teeth) and <em>Kik’ Rixk’aq</em> (Bloody Claws).</p>
+
+<p>             Christenson adds that there “is a definite hierarchy among the lords of Xibalba, exemplified by the order in which they are seated on the palace bench” (2003: 162). He extends this hierarchy in comparison to “traditional Maya confraternity houses…where, on ceremonial occasions, elders sit in the order of their authority” (ibid). Following this logic, <em>Jun Kame</em> seems to be the most authoritative lord. Interestingly, despite this noted hierarchy, the lords always speak in one voice. For instance, before the lords initially summon the hero twins to Xibalba, they speak in this way: “rahaual xibalba apa china chiri mixutiquiba chic eꜩanem pacavi mapu quequixbic quenicnot vl oc”/ los SSes.Señores deel ín fíernoœesto díxeron: quíenes son estos q’que otra vez empezaron a jugar sobre nosotros, y no nos tíenen respecto” (22v).</p>
+
+<p>             Another cultural connection made by Christenson is the parallel between the “duties” of the lords of Xibalba in the <em>Popol Vuh </em>as well as in contemporary K’iche’ communities, who “believe that illness is caused by various underworld lords” (2003: 117). Ruth Bunzel, an American anthropologist in the mid-20<sup>th</sup> century, wrote about the concept of illness in the K’iche’ town of Chichicastenango as a single lord, writing, “If there is sickness in the house, no matter what, one burns incense each day for the Lord of Sickness” (1952: 145). She too interestingly writes of the lords of Xibalba as a single person. She talks about the treatment for certain diseases and the K’iche’ words associated with them, such as “bloody dysentery (<em>kiq</em>);” (ibid: 144). This K’iche’ word has a significant attachment to the lords of Xibalba, with <em>kiq</em> most likely being related to <em>kik’</em>, or blood, an extremely relevant bodily fluid in most of the lords’ manners of killing men.</p>
+
+<p>            Given the continued importance of these traditions, it is important to note the literal and cultural change of the lords of Xibalba within the text. Christenson’s translation shows that <em>Ajal Mes</em> (Sweepings Demon) and <em>Ajal toq’ob</em> (Stabbings Demon) are replaced with <em>Kik’ Re</em> (Bloody Teeth) and <em>Kik’ Rixk’aq</em> (Bloody Claws) (2003: 116, 162-3). Despite this change, however, it is evident that the concept of blood, even if implicit, is present in the name of the changing lords (Colop 2008: 101, nota 53; Recinos 1953: 149 nota de pie de página No. 176), marking continuity in these changes.</p>
+
+<p>            As these examples suggest, the lords of Xibalba are represented as shifting, dynamic spiritual figures within the text – figures who continue to inform contemporary and interconnected ideas of health, medicine, the body, and the spirit.</p>
+
+<p>Los Señores de Xibalba son una colección de seres divinos, quienes existen para matar a los hombres de varias maneras. Cada uno viene acompañado de otro Señor para que sus técnicas de tortura sean complementadas. Los dos Señores principales son <em>Wuqub’ Kame </em>y <em>Jun Kame</em>. En esta escena cómica, el mosquito <em>Xan </em>pica cada señor, haciéndolo gritar de dolor, y cuyo grito hace el señor a su lado nombrar el señor picado y preguntar porque grita. Este momento muestra la existencia dualista de los señores: <em>Jun Kame </em>y <em>Vuqub’ Kame</em>; <em>Xikiripat</em> y <em>Kuchuma Kik’</em>; <em>Ajal Puj</em> y <em>Ajal Q’ana</em>; <em>Ch’amiya Baq </em>y <em>Ch’amiya Jolom</em>; <em>Xik</em> y <em>Patan</em>; <em>Kik’ Re</em> y <em>Kik’ Rixk’aq</em>.</p>
+
+<p>            El historiador Christenson explica que de esta forma se nota una jerarquía clara entre los señores de Xibalba, la cual se muestra en el orden que observan cuando están sentados en el banco del palacio (2003: 162-63). El extiende esta jerarquía hacía las casas tradicionales de las comunidades mayas en las cuales ocasiones los señores y ancianos se sentarían de acuerdo con su autoridad durante sus ceremonias importantes. Aplicando esta lógica, <em>Jun Kame</em> parece ser el señor en la posición más alta. Esta autoridad es interesante tomando en cuenta que los señores siempre hablan con una voz, usando “nosotros” o “nos.” Por ejemplo, antes de que los señores inviten los hermanos a Xibalba, hablan de tal manera: “rahaual xibalba apa china chiri mixutiquiba chic eꜩanem pacavi mapu quequixbic quenicnot vl oc”/ los SSes.Señores deel ín fíernoœesto díxeron: quíenes son estos q’que otra vez empezaron a jugar sobre nosotros, y no nos tíenen respecto” (22v).</p>
+
+<p>            El historiador Roberto Romero Sandoval agrega que la idea que los señores de Xibalba son responsables por las “enfermedades se conserva entre los mayas yucatecos coloniales, quienes piensan que el dios de la muerte es la culpable de enviar y expandir las enfermedades,” y también que “los tojolab’ales actuales creen que el dios del inframundo es el que concede a los brujos una tercer alma con la cual pueden hacer daño” (2012: 9). Entonces parece que la relación entre los seres divinos y las enfermedades ha sido una parte integral de la cultura maya desde hace muchos siglos, y cuya presencia expandió y todavía sigue en las comunidades de hoy.</p>
+
+<p>            Dada la conexión contemporánea frente a la importancia de estas tradiciones, es necesario notar el cambiamiento literal y cultural de los señores de Xibalba dentro del mismo texto. Según apunta el destacado lingüista K’iche’ Sam Colop (2008: 101, nota 53), “Nótese aquí que los nombres de los Señores de Xibalba no son exactamente iguales con anterioridad. <em>Ajal Mes</em> y <em>Ajal toq’ob</em> son substituidos por <em>Kik’ Re,</em> “dientes sangrantes”, y <em>Kik’ Rixk’aq,</em> “garras sangrantes”. Colop cita a Adrián Recinos (1953: 149 nota de pie de página No. 176) quien dice: ‘Es verdad que entre uno y otro episodios media una generación y esos cambios son naturales…En la composición de todos estos nombres entra muy bien a propósito la palabra quic (sangre).”</p>
+
+<p>            Estos ejemplos muestran que los señores de Xibalba son representados como personajes en movimiento, es decir, dinámicos y espirituales, dentro del texto – personajes quienes continúan a afectar ideas contemporáneas y conectadas sobre la salud, la medicina, el cuerpo, y el espirito.</p></description>
   </topic>
   <topic>
     <title>Serpiente Emplumada</title>
@@ -3094,7 +3136,9 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
 
 <p>Christenson (2007: notes 19-20, pages 52-53) breaks the terms <em>Tepew </em>and <em>Q'ukumatz</em> into two entities, noting, "<em>Tepew</em> (Sovereign) is one of several words in the <em>Popol Vuh</em> that were borrowed from the central Mexican group of languages, Nahua, variants of which were spoken by both the epi-Toltec and Aztec nations. This word is the Quiché form of the Nahua tepeuh, meaning 'conqueror' or 'majesty' (Campbell 1970, 4). Coto and Basseta record that in the Colonial era, the Quichés recognized the word as referring to 'majesty, dignity, lordship, power.' Tedlock and Recinos translate the word as 'sovereign,' which I prefer to the more descriptive 'majesty' used by Edmonson."</p>
 
-<p>In the note for <em>Q'ukumatz</em>, he remarks: "The male quetzal’s tail feathers were highly prized by Maya royalty for their beauty and size, often reaching three feet in length. The unique coloration of the bird carried profound religious significance for the Maya. Its predominant blue/green feathers represented sky and vegetation, both symbols of life. Its red breast represented fire, the force that quickens life. Kumatz is a general term for “snake” or “serpent.” The serpent was a common Maya symbol for regeneration or rebirth because of its tendency to periodically shed its skin to reveal a newer and brighter one. The combination of an avian lord of the skies with a serpentine lord of the earth and underworld gave this god power over all levels of the Maya universe. He is undoubtedly related to the well-known god Quetzalcoatl (Nahua for “Quetzal Serpent) worshiped by the Aztecs of Central Mexico."Citing: Lyle Campbell, Nahua Loan Words in Quichean Languages, <cite>Chicago Linguistic Society </cite>(1971) 6: 3-13.</p></description>
+<p>In the note for <em>Q'ukumatz</em>, he remarks: "The male quetzal’s tail feathers were highly prized by Maya royalty for their beauty and size, often reaching three feet in length. The unique coloration of the bird carried profound religious significance for the Maya. Its predominant blue/green feathers represented sky and vegetation, both symbols of life. Its red breast represented fire, the force that quickens life. Kumatz is a general term for “snake” or “serpent.” The serpent was a common Maya symbol for regeneration or rebirth because of its tendency to periodically shed its skin to reveal a newer and brighter one. The combination of an avian lord of the skies with a serpentine lord of the earth and underworld gave this god power over all levels of the Maya universe. He is undoubtedly related to the well-known god Quetzalcoatl (Nahua for “Quetzal Serpent) worshiped by the Aztecs of Central Mexico."Citing: Lyle Campbell, Nahua Loan Words in Quichean Languages, <cite>Chicago Linguistic Society </cite>(1971) 6: 3-13.</p>
+
+<p>Interestingly, Mayan phonetic accommodations of sounds from Nahuatl, seen here in the yoking together of the deity names, emerges within a long history of graphic writing systems and cultural contact. According to Tedlock (1996: 23), "The writing in Post-classic books, as compared with Classic writing, shows an increased reliance on phonetic signs, including the use of distinctly Mayan signs to spell out words borrowed from Nahua."</p></description>
   </topic>
   <topic>
     <title>Tinamit Quiché</title>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">03</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 03, Side 1. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/>líca mas<abbr>q'</abbr>las dos partes de su <abbr>th<hi rend="superscript">a</hi>.</abbr> deel <abbr>N<hi rend="superscript">e</hi>.</abbr> <abbr>P<hi rend="superscript">e</hi>.</abbr> <abbr>fr.</abbr> Domíngo de Víco, y el catezísmo
+            	<lb n="2"/><abbr>q'</abbr>como no han pasado de manuscríptos, es muy raro el<abbr>q'</abbr>se halla, y tengo por expe
+            	<lb n="3"/>ríençía <abbr>q'</abbr>los índíos <abbr>q'</abbr> han tenído dícha de leerlos han reçíuído mucho bíen en sus al -
+            	<lb n="4"/>mas, <abbr>q'</abbr>sí se vbíeran ímpreso díchos líbros muchos, o todos ubíuran gozado de este
+            	<lb n="5"/>bíen; y hasído tal la desgraçía de estos pobres, <abbr>q'</abbr>auíendo consultado tantos díspa -
+            	<lb n="6"/>rates a la Magestad, sus mínístros, y otros <abbr>q'</abbr>no lo son, no ha auído quíen esto lo tome
+            	<lb n="7"/>en voca, <abbr>q'</abbr>no dudo de supíedad, y deseo, deel bíen de su Vasallos, y mas de
+            	<lb n="8"/>estos, <abbr>q'</abbr>tíene asu cargo como menores, <abbr>q'</abbr>no dudara gastar lo neçesarío en esta
+            	<lb n="9"/>obra, para <abbr>q'</abbr>todos gozasen de este bíen. esto era lo <abbr>q'</abbr> auían de consultar, y no <abbr>q'</abbr>apren
+            	<lb n="10"/>díeren la doctrína chrístíana en lengua castellana, como lo han consultado, <abbr>q'</abbr>
+            	<lb n="11"/>no dudo afírmar, <abbr>q'</abbr>el <abbr>q'</abbr>tal consulto fue algun mínístro <abbr>q'</abbr>el demonío tomo <abbr>p<hi rend="superscript">a</hi></abbr>
+            	<lb n="12"/>acabar de horrar de estos pobres la poca notíçía, <abbr>q'</abbr>tíenen de nuestra <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee  
+            	<lb n="13"/><abbr>porq'</abbr> que otra cosa se síguíera. desto mas: <abbr>q'</abbr> despues de íngentíssímo trabaxo, esto -
+            	<lb n="14"/>es dado <abbr>q'</abbr>se llegase a conseguír, saber la doctrína chrístíana como papagayos
+            	<lb n="15"/>sín íntelígençía alguna de lo<abbr>q'</abbr> auían aprendído. yo quísíera, <abbr>q'</abbr>me díxera el
+            	<lb n="16"/><abbr>q<hi rend="superscript">e</hi></abbr>tal íntento, <abbr>q'</abbr>ubíera sacado, de <abbr>q'</abbr> a el sela ubíeran enseñado en lengua he
+            	<lb n="17"/>brea, o gríega, mas <abbr>q'</abbr> desesperarse <abbr>p<hi rend="superscript">a</hi>.</abbr> cogerla de memoría, y despues de to -
+            	<lb n="18"/>do eso, se quedara <foreign xml:lang="la">tan quam tabula rasa</foreign>. sín saber lo <abbr>q'</abbr>se auía aprendído. procu -
+            	<lb n="19"/>ren los <abbr>q'</abbr>tratan de admínístraçíones saber la lengua de su partído <abbr>q'</abbr>seramos
+            	<lb n="20"/>façíl <abbr>q'</abbr>un hombre capaz, y docto, y <abbr>q'</abbr>sabe su oblígaçíon la aprenda, pues no
+            	<lb n="21"/>tíene otra cosa <abbr>q'</abbr>hazer fuera de su admínístraçíon, <abbr>q'</abbr>no querer reduçír a todos
+            	<lb n="22"/>los índíos, <abbr>q'</abbr>apenas tíenen tíempo para buscar su Vída, y sobretodo su rustí -
+            	<lb n="23"/>çídad, y <abbr>q'</abbr>tampoco pueden dedícar del todo asus híjos ala enseñanza, <abbr>porq'</abbr>
+            	<lb n="24"/>son sus píes, y manos, <abbr>p<hi rend="superscript">a</hi>.</abbr> ayudarlos desde <abbr>q'</abbr>empíezan á andar parabuscar
+            	<lb n="25"/>lo <abbr>q'</abbr>han menester. yno andar entretenídos enfundar haçíendas deganado
+            	<lb n="26"/>y cacaguatales, con grande molestía de los índíos, y menos cabo de su pobre -
+            	<lb n="27"/>za, cosa tan Vedada, y justamente por su <abbr>Mag.</abbr> en sus leyes de índías. <abbr>q'</abbr>con
+            	<lb n="28"/>eso tendran tíempo para todo. y les sobrara, y cumplíendo como deuen, y de
+            	<lb n="29"/>fíende de el <abbr>íll<hi rend="superscript">mo</hi>.</abbr> <abbr>S<hi rend="superscript">or</hi>.</abbr> Montenegro en su Parrocho de índíos, no dudo, <abbr>q'</abbr>ten
+            	<lb n="30"/>dran gran premío, desu Díuína <abbr>Mag.</abbr>
+            </p>
+            <p>
+            	<lb n="31" rend="indent"/><hi rend="large">N</hi>ímenos anadíe, haga fuerza eluertantos desafínos como en su gentílídad su -
+            	<lb n="32"/>bíeron, y <abbr>q'</abbr>todauía conseruen algunos, o los mas de ellos, <abbr>porq'</abbr> síbíen ello bíen se
+            	<lb n="33"/>míra mucho mayores los tuvíeron nuestros antepasados, y oy en día no faltan
+            	<lb n="34"/>síendo gente mas capaz, y doctrínada, y cada día estamos víendo míl lastímas de
+            	<lb n="35"/>los <abbr>q'</abbr>apostatan de la fee, pasandose al Judaísmo, a la secta de Mahoma, de lutero,
+            	<lb n="36"/>y de caluíno. y mas comunmente las hechíçeras, <abbr>q'</abbr>tan contínuada mente castí -
+            	<lb n="37"/>ga la <abbr>S<hi rend="superscript">ta</hi>.</abbr> ínquísíçíon, y tambíen vemos cada día los muchos abonos, y superstíçío -
+            	<lb n="38"/>nes, <abbr>q'</abbr>se vian no solo entre gente rustíca; pero aun entre gente mas capaz
+            	<lb n="39"/>y docta. y esto en donde la fee catholíca se halla mas floreçíente. pues <abbr>q'</abbr>mucho
+            	<lb n="40"/><abbr>q'</abbr>mucho de todo esto se halle en la gente tan rústica, tan poco doctrínada, y tã tíer -
+            	<lb n="41"/>na en la fee, <abbr>q'</abbr>aun no ha doçíentos años, <abbr>q'</abbr>la conoçen. pues aun todauía suele a -
+            	<lb n="42"/>uer quíenes oyeron desus antepasados, los herrores <abbr>q'</abbr>tuuíeron en su gentílídad
+            	<lb n="43"/>y <abbr>q'</abbr>les oyeron contar la felíçídad humana, hasu modo tenían, antes <abbr>q'</abbr>entrase
+            	<lb n="44"/>el domínío delos españoles, pues como gente tan rustíca, no reparan en el
+            	<lb n="45"/>bíen <abbr>q'</abbr>se les ha seguído, de entrar en el gremío de <abbr>N.</abbr> <abbr>S<hi rend="superscript">ta</hi>.</abbr> <abbr>M<hi rend="superscript">e</hi>.</abbr> yglesía, síno <abbr>q'</abbr>
+            	<lb n="46"/>tan solamente haçen memoría delos maltratos, <abbr>q'</abbr>suelen tener con gente de
+            	<lb n="47"/>mal alma, causando en sus malostratos, míl desesperaçíones en estos mísserables,
+            </p>
+        </body>
+    </text>
+</TEI>

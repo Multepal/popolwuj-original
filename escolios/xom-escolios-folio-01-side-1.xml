@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">01</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 01, Side 1. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        <titlePage>
+        	<docTitle>
+                <lb n="1" rend="center"/><hi rend="large"><hi rend="bold"><titlePart type="main">E<add rend="superscript">S</add>COLÍOS ALAS HÍS</hi></hi>
+                <lb n="2" rend="center"/><hi rend="large">TORÍAS DEEL ORÍGEN DE LOS ÍNDÍOS</hi></titlePart>
+                <lb n="3" rend="center"/><hi rend="large"><byline>ESCOLÍADAS POR</hi>
+                <lb n="4" rend="center"/><hi rend="large">EL</hi>
+                <lb n="5" rend="center"/><hi rend="large"><hi rend="bold"><docAuthor>R.P.F.FRANZÍSCO XI -</hi></hi>
+                <lb n="6" rend="center"/><hi rend="large"><hi rend="bold">MENEZ</docAuthor></hi></hi>
+                <lb n="7" rend="center"/><hi rend="large">CVRA DOCTRÍNERO POR EL REALPATRO -</hi>
+                <lb n="8" rend="center"/><hi rend="large">NATO DEL PVEBLO DE <abbr>S<hi rend="superscript">TO.</hi></abbr> THOMAS CHÍ -</hi>
+                <lb n="9" rend="center"/><hi rend="large">CHÍCASTENANGO DEL SAGRADO OR -</hi>
+                <lb n="10" rend="center"/><hi rend="large">DEN DE PRÆDÍCADORES</byline> <titlePart type="sub">PARA MA -</hi>
+                <lb n="11" rend="center"/><hi rend="large">YOR NOTÍCÍA ALOS MÍNÍSTROS</hi>
+                <lb n="12" rend="center"/><hi rend="large">DE LAS COS. DE LOS ÍNDÍOS</titlePart></hi>
+            </docTitle>
+            <head rend="center"><hi rend="large">PROLOGO.</hi></head>
+            	<p>
+            	<lb n="1"/><hi rend="strong">C</hi>osa es cíerta, y auerígua da entre to dos los <abbr>q'</abbr>conocen ín díos, <abbr>q'es</abbr> la -
+            	<lb n="2"/>gente más írre gular ensus cosas, <abbr>q'</abbr>se ha descubíerto en toda la redondez 
+            	<lb n="3"/>de la tíerra, y así muchos hombres de buen talento, ça da día <unclear>seuen de salínados</unclear>
+            	<lb n="4"/>con sus cosas, pues quando les pareze <abbr>q'</abbr>ya estan al cabo de el conoçímíento de quí - 
+            	<lb n="5"/>enes son los índíos, sehallan tan en los príncípíos de su conoçímíento, y compre -
+            	<lb n="6"/>hensíon, <abbr>q'</abbr>todo lo <abbr>q'</abbr>han adquíro con su estudío, y cuída do para mejor po derlos
+            	<lb n="7"/>gouernar noles sírue, ya enlos casos, <abbr>q'</abbr>de nuevo se offreçen. muchos ha auído
+            	<lb n="8"/><abbr>q'</abbr>han querído dar aentender el conoçímíento de elíndío en sus escrítos, de
+            	<lb n="9"/>hístorías, y sumas, y otros escrítos; pero píenso <abbr>q'</abbr>les ha sucedído lo<abbr>q'</abbr>a mí, me
+            	<lb n="10"/>sucedera entodos mís escrítos, <abbr>q'</abbr><abbr>aunq'</abbr> he procurado dar a entender lo <abbr>qu'</abbr>ellos
+            	<lb n="11"/>son, alca bo píenso <abbr>q'</abbr>no aure dícho nada. el Doctor <abbr>P<hi rend="superscript">o</hi>.</abbr> Apíano cosmografo 
+            	<lb n="12"/>de el emperador carlos quínto de marcando la ísla española, los quiere
+            	<lb n="13"/>dar acononocer al mundo dícíendo: <abbr>q'</abbr>son gente: índando líberalíssímí, ín
+            	<lb n="14"/>accípíendo cupídíssímí en el dar muy líberales, en el recíbír muy codícíosos, y <abbr>q'</abbr>
+            	<lb n="15"/>consumen todo Un día dando bueltas a un palo. algo díxo en esto, declaro en
+            	<lb n="16"/>parte la natural ínclínaçíon de el índío, <abbr>q'</abbr>a ya quíen sea mas lí -
+            	<lb n="17"/>beral en dar, pues quíen abra <abbr>q'</abbr>no este todo poseído de Díos <abbr>q'</abbr>teníendo solo, Un me -
+            	</p>
+         </titlePage>
+        </body>
+    </text>
+</TEI>

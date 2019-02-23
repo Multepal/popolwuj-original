@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">02</att>
+                    <att xml:id="side-number">2</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 02, Side 2. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/>o alguna antíguaíla delas suyas, y de su gentílídad lo<abbr>q'</abbr> yo dígo, y me lo
+            	<lb n="2"/>aconsejo así un Relígíoso docto, y de exemplar vída, <abbr>q'</abbr>auía gastado mu
+            	<lb n="3"/>chos <abbr>aS.</abbr> admínístrando índíos <abbr>q'</abbr> murío ya decrepíto llamado el <abbr>R.</abbr> <abbr>P<hi rend="superscript">e</hi></abbr> 
+            	<lb n="4"/><abbr>fr</abbr>-<abbr>Ju<hi rend="superscript">o</hi></abbr>-de <abbr>S.</abbr> Joseph demí sagrado hauíto, es <abbr>q'</abbr>estos ínstrumentos de <abbr>q'</abbr> vian 
+            	<lb n="5"/>como es eltun, y la caxa grande <abbr>q'</abbr>llaman cohom. ó, nímacohom. tíenen
+            	<lb n="6"/>pacto con el demonío, en díchos ínstrumentos, y segun son ellos de fune -
+            	<lb n="7"/>bres solo el demonío puede ser el autor de tales ínstrumentos; y<abbr>aunq'</abbr>
+            	<lb n="8"/>los <abbr>P<hi rend="superscript">es</hi></abbr>. antíguos les díeron çíertas hístorías de <abbr>S<hi rend="superscript">tos</hi>.</abbr> en su lengua <abbr>q'</abbr> cantasen
+            	<lb n="9"/>altun, en lugar delas <abbr>q'</abbr>ellos cantaban de su gentílídad, no obstante, yo en -
+            	<lb n="10"/>tíendo <abbr>q'</abbr>eso cantan en lo publíco y donde el <abbr>P<hi rend="superscript">e</hi>.</abbr> los oye; y <abbr>q'</abbr>alla en secreto ha -
+            	<lb n="11"/>çen muy líndas memorías desu gentílídad. de estas cosas, y otras muchíssí -
+            	<lb n="12"/>mas <abbr>q'</abbr>han llegado amí notíçía, íntento el formar estos escolíos, a esta su hís -
+            	<lb n="13"/>toría de ellos anotando lo <abbr>q'</abbr> es hístoría antígua, y çítando ala hístoría, <abbr>q'</abbr> que -
+            	<lb n="14"/>da antes puesta. y anotando lo <abbr>q</abbr><hi rend="superscript">y</hi> toca en punto de nuestra <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee catholíca <abbr>p<hi rend="superscript">a</hi></abbr>
+            	<lb n="15"/><abbr>q'</abbr>mas comodídad tenga el <abbr>q'</abbr> se quísíere approuechar de este mítrabaxo. ad -
+            	<lb n="16"/>uírtíendo, aquí, y teníendo por cosa çíerta, <abbr>q'</abbr> el díadeo y estan en los mes -
+            	<lb n="17"/>mos herrores, y dísparates, y <abbr>aunq'</abbr> parece <abbr>q'</abbr>no es mas <abbr>q'</abbr>tal, ó, qual çentella
+            	<lb n="18"/>de aquel fuego, es mucho elínçendío <abbr>q'</abbr>ay entre ellos. y <abbr>aunq'</abbr> ala verdad pa -
+            	<lb n="19"/>reçera a muchos matería ímposíble arrancar esta zízaña, del todo, no hara
+            	<lb n="20"/>poco seruíçío a Díos en procurar arrancar la concontínuo desuelo, y predíca -
+            	<lb n="21"/>çíon, y enseñanza contínua, <abbr>q'</abbr>por nuestra quenta corre solo el desmontar, y plan -
+            	<lb n="22"/>' tar, y regar esta sementora dela yglesía, con el ríego de la enseñanza, y
+            	<lb n="23"/>por quenta de Díos el íncremento de estas plantas. <abbr>q'</abbr> <abbr>aunq'</abbr>no coja fruto al
+            	<lb n="24"/>guno desu trabaxo, le asseguro muchas coronas de gloría, como lo le faltaran
+            	<lb n="25"/>al Apostol Santíago, en cuya vígílía esto escríuo, muchas coronas de gloría
+            	<lb n="26"/>aun no auíendo podído conuertír ala fee Verdadera mas <abbr>q'</abbr>así ete españoles
+            	<lb n="27"/>por su sumo trauajo y desuelo, en su <abbr>off<hi rend="superscript">o</hi>.</abbr> de Apostol. <abbr>porq'</abbr>esde tan superíor ca -
+            	<lb n="28"/>lídad el grano de el <abbr>S<hi rend="superscript">to</hi>.</abbr>Evangelío, <abbr>q'</abbr>dado caso, <abbr>q'</abbr>todo el cayga sobre pí -
+            	<lb n="29"/>edras duras, nunca al sembrador le faltan colmadíssímos frutos desu semen -
+            	<lb n="30"/>tera, lo <abbr>q'</abbr> no tíene otra sementera alguna; <abbr>q'</abbr>sí se píerde todo se píerde, y mas
+            	<lb n="31"/>píerde el<abbr>q'</abbr> síendo sembrador de la palabra dívína, se mete asembrador, de
+            	<lb n="32"/>el grano terreno. yra anotando mí cortedad todo lo<abbr>q'</abbr> alcançare, tocante
+            	<lb n="33"/>a aquesta hístoría, y dando notíçía de muchas cosas de los índíos, no con anímo
+            	<lb n="34"/>de <abbr>q'</abbr>vean su barbarídad, y bestíalídad, síno de mo beracompasión de <abbr>q'</abbr>se píer -
+            	<lb n="35"/>dan estos <abbr>q'</abbr>son redímídos con la preçíosa sangre de <abbr>Xpt<hi rend="superscript">o</hi>.</abbr> <abbr>V<hi rend="superscript">a</hi>.</abbr> <abbr>N<hi rend="superscript">a</hi>.</abbr> lleuando an
+            	<lb n="36"/>te todas cosas sabído <abbr>q'</abbr>las causas prínçípales de no oluídar en el todo estos
+            	<lb n="37"/>dísparates, y auer sentadoles tan mal la fee, fue por auerse plantado en
+            	<lb n="38"/>estas partes de la ley de Díos con tantos escandalos, muertes, robos, estruendos
+            	<lb n="39"/>y alborotos, y auíendo la reçíuído de míedo de la muerte <abbr>q'</abbr>te mían como lo
+            	<lb n="40"/>nota muy bíen el <abbr>íll<hi rend="superscript">mo</hi>.</abbr> y <abbr>N<hi rend="superscript">mo</hi>.</abbr> <abbr>S<hi rend="superscript">or</hi>.</abbr> <abbr>D.</abbr> <abbr>fr.</abbr> Bartolome de las casas, en sus escrítos
+            	<lb n="41"/>y dísputas contra el Doctor Sepulueda, y el <abbr>M.R.P.</abbr> Remesal en su hístoría,
+            	<lb n="42"/>por mas <abbr>q'</abbr>çíertos hístoríadores modernos lo quíeran sepultar. y despues de
+            	<lb n="43"/>tan mal plantada la fee hasído peor regada, pues <abbr>aunq'</abbr> algunos mínístros ze -
+            	<lb n="44"/>losos han procurado arrímar el hombro, luego descaeze con la muerte, o ausen -
+            	<lb n="45"/>çía detales mínístros, <abbr>q'</abbr>cuídaban de dar buen ríego a estas plantas; y tambíen
+            	<lb n="46"/><abbr>porq'</abbr> notíenen endonde aprender saltín aquellos <abbr>q'</abbr>saben leer para <abbr>q'</abbr>deellos 
+            	<lb n="47"/>se dífundíera alos demas por falta de líbros en su ydíoma <abbr>q'</abbr>fruten de la fee catho -
+            </p>
+        </body>
+    </text>
+</TEI>

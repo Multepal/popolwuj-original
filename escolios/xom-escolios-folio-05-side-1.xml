@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">05</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 05, Side 1. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/>genero humano. como se íra víendo por toda esta obra.
+            </p>
+            	<lb />
+            <p>
+            	<lb n="2" rend="center"/><label><hi rend="large">Sermon de <abbr>S<hi rend="superscript">ta</hi>.</abbr> Barbara</hi></label>
+            </p>
+            	<lb />
+            <p>
+            	<lb n="3" rend="center"/><label><hi rend="large"><hi rend="bold">Confecíonarío en Lengua Quíche</hi></hi></label>
+            </p>
+            	<lb />
+            <p>
+            	<lb n="4" rend="indent"/>Catxucloc.
+            		<note place="margin-left">hincate.</note>
+            	<lb n="5" rend="indent"/>chacruzih. auach
+            		<note place="margin-left">Persínate</note>
+            	<lb n="6" rend="indent"/>Chatunuba: acab.
+            		<note place="margin-left">Junta las manos:</note>
+            	<lb n="7" rend="indent"/>chazucuba avib.
+            	<lb n="8" rend="indent"/>Ma. acozoba. avib
+            	<lb n="9" rend="indent"/>xharuhil. ga. abanon. con
+            	<lb n="10" rend="indent"/>pesar. <hi rend="underline">Vel</hi>. abanon<unclear>o</unclear>a com
+            	<lb n="11" rend="indent"/>períon.
+            </p>
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+            	<lb />
+        </body>
+    </text>
+</TEI>
