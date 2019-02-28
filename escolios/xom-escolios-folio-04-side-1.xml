@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">04</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 04, Side 1. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1" rend="center" type="chapter-heading"/>CAP.			<num>1</num>
+            	<lb n="2" rend="center" type="chapter-subheading"/>De el ser de Díos:
+            	<lb n="3"/>Como quíera, <abbr>q'</abbr>ayasído lanotíçía <abbr>q'</abbr>estos índíos tuuíeron en tíempo de su gentí - 
+            	<lb n="4"/>lídad detodos los místeríos, y cosas <abbr>q'</abbr>tocan en sus hístorías, de <abbr>N<hi rend="superscript">a</hi>.</abbr> <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee cato -
+            	<lb n="5"/>líca, oya deçendíendo de el Pueblo hebreo, o ya mínístrandoselas eldemo -
+            	<lb n="6"/>nío, claramente lo <abbr>q'</abbr> consta es <abbr>q'</abbr>toda esta hystoría, y notíçías paso por el ar -
+            	<lb n="7"/>caduz enbenenado de Satanas, quíen ímbídíoso de nuestra dícha, deser
+            	<lb n="8"/>los hombres capazes de el gran bíen que perdío, por su soberbía, no dexa con
+            	<lb n="9"/>tínuamente de armar lazos para <abbr>q'</abbr>los hombres se píerdan. ycomo el prí -
+            	<lb n="10"/>mero, y <abbr>q'</abbr>se ha como fundamento de nuestra saluaçíon la creençía de Díos
+            	<lb n="11"/>y de el místerío ínacçesíble de la <abbr>S<hi rend="superscript">ma</hi>.</abbr> Trínídad, hízo el prímer tíro, aes -
+            	<lb n="12"/>te admírable místerío confundíendolo, en <abbr>q'</abbr>tíro a dañar a estos pobres, y
+            	<lb n="13"/>auengarse deelmesmo .Díos. haçíendolo ya poderoso, y dependíente de  
+            	<lb n="14"/><rs ana="IXMUKANE">Una Víeja llamada .xmucane.</rs> <abbr>q'</abbr>quíere deçír entíerro, ó fosa. y <abbr>aunq'</abbr>no 
+            	<lb n="15"/>se deue reparar, en <abbr>q'</abbr>le llamen, <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bítol</rs>. que quíere deçír el <abbr>q'</abbr>haze, o fabríca
+            	<lb n="16"/>algo <unclear reason="orthography">exprꜫ</unclear> su <foreign xml:lang="la">posíta matería</foreign>. pues ese es el nombre, <abbr>q'</abbr>se le hallo mas ade -
+            	<lb n="17"/>quado <abbr>p<hi rend="superscript">a</hi>.</abbr> explícar á Díos. todauía <abbr>porq'</abbr> se puede díscurrír ser dado por -
+            	<lb n="18"/>el demonío, como <abbr>p<hi rend="superscript">a</hi>.</abbr> dar a entender, <abbr>q'</abbr>no es críador, se deue explícar
+            	<lb n="19"/>a los índíos estos nombres de <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bítol</rs>. y detestar la íntelígençía, <abbr>q'</abbr>el
+            	<lb n="20"/>demonío pudo darle. llamanle <rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaholom</rs>. el<abbr>q'</abbr>tíene híjos. y por quan
+            	<lb n="21"/>to esto se díze propríamente de el hombre, y los anímales <abbr>q'</abbr> <foreign xml:lang="la">per generatí -
+            	<lb n="22"/>onem</foreign>, se multíplícan, tambíen seles deue explícar. no ser nosotros híjos de
+            	<lb n="23"/>Díos en mesma forma, <abbr>q'</abbr>losomos de nuestros <abbr>P<hi rend="superscript">es</hi>.</abbr> ellos es çíerto <abbr>q'</abbr>son modos
+            	<lb n="24"/>de explícar el ser, y el poder de Díos. pero por quanto, pudo el demo -
+            	<lb n="25"/>nío darles a entender, como <foreign xml:lang="la">de facto</foreign> consta <bibl>num.	fol.	</bibl><abbr>q'</abbr> <rs ana="JUN_JUNAJPU">hunhunahpu</rs>
+            	<lb n="26"/>a quíen tuuíeron por Díos, con la salíua conçíuío, en <rs ana="IXKIK">la donçella xquíc</rs>. san
+            	<lb n="27"/>gre. híja de <rs ana="KUCHUMA_KIK">cuchumaquíc</rs>. sangre junta. á <rs ana="JUNAJPU">hunahpu</rs>. Un tírador. <abbr>q'</abbr>Díos
+            	<lb n="28"/><foreign xml:lang="la">per generatíonem</foreign> tenía híjos se deue detestar, y explícar. Este díos <abbr>q'</abbr>
+            	<lb n="29"/>el demonío les dío a entender, lo haçe en el <bibl>num. <num>1</num>. fol <num>1</num>.</bibl> duodernídad.
+            	<lb n="30"/><abbr>porq'</abbr> no nombra mas <abbr>q'</abbr>dos sugetos. Uno llamado <rs ana="JUNAJPU_WUCH">hunahpu Vuch</rs>. Un tíra -
+            	<lb n="31"/>dor tacuaçín. ya <rs ana ="JUNAJPU_UTIW">hun ahpu Vtíu</rs>. Un tírador lobo. como Satanas es tan a
+            	<lb n="32"/>mígo de remedar las cosas de Díos, y como a Su <abbr>Mag.</abbr> se le dan varíos renom -
+            	<lb n="33"/>bres, ya de anímales, ya de otras cosas para <abbr>q'</abbr> nuestra cortedad pueda al
+            	<lb n="34"/>canzar algun rayo desu grandeza, como llamandose leon por la fortaleza
+            	<lb n="35"/>de este anímal, y cordero <abbr>q'</abbr>se llamo <abbr>xpt<hi rend="superscript">o</hi>.</abbr> <abbr>V<hi rend="superscript">a</hi>.</abbr> <abbr>N<hi rend="superscript">a</hi>.</abbr> por la mansedumbre. así mes
+            	<lb n="36"/>mo Satanas tomando las metaphoras de Varíos anímales les llamo a estos dos
+            	<lb n="37"/>díoses, <rs ana="JUNAJPU_WUCH">Vuch</rs> y <rs ana ="JUNAJPU_UTIW">Vtíu</rs>. tacuazín, y lobo. por su astuçía. y tambíen lellama. zíz. dí -
+            	<lb n="38"/>çíendo: <rs ana="SAQI_NIM_AQ_SIS">zaquí nímazíz</rs>. grandemente agudo pízote. y tambíen como a díos se -
+            	<lb n="39"/>le dan muchos epítectos de grande, de sabío, y otras cosas le dan el nombre
+            	<lb n="40"/>de <rs ana="TEPEW">tepeu</rs>. este sígnífíca las babas. y en su gentílídad era grandeza de los <abbr>SS<hi rend="superscript">es</hi>.</abbr>
+            	<lb n="41"/>eltenerlas, <abbr>porq'</abbr> era señal de mas poder para cohabítar con muchas mage -
+            	<lb n="42"/>res de adonde se suelen contraer, cosa <abbr>q'</abbr>la gente ordínaría no podía. yde
+            	<lb n="43"/>ay se tomo por grandeza, y magestad el nombre de <rs ana="TEPEW">tepeu</rs>. tambíen lella -
+            	<lb n="44"/>man: <rs ana="TEPEW_QUKUMATZ">cucumaꜩ</rs>. este nombre puede ser sígnífícar culebra fuerte. y tambíen
+            	<lb n="45"/><rs ana="SERPIENTE_EMPLUMADA">el emplumado</rs>. con plumas verdes. cosa de mucha grandeza, en su gentílí -
+            	<lb n="46"/>dad, y <abbr>q'</abbr>oy vian en sus valles. tambíen le llaman. <rs ana="KAQ">ꜫaꜫ</rs>. fuego. por el respecto <abbr>q'</abbr>se
+            	<lb n="47"/>haçe tener este elemento. y tambíen por cosa de grandísíma estíma<abbr>p<hi rend="superscript">a</hi>.</abbr> ellos, y
+            </p>
+        </body>
+    </text>
+</TEI>

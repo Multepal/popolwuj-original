@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">06</att>
+                    <att xml:id="side-number">1</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 06, Side 1. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1" rend="center"/> +
+            	<lb n="2"/>Auetam pa Díos
+            		<note place="margin-left"><abbr>P.</abbr>=</note>
+            	<lb n="3"/>harupa Dios cha cux
+            	<lb n="4"/>pachín xbanou cah vleu íƈ chumíl, rohonel ílom, mavi ílom?
+            	<lb n="5"/>pacha Vcoheic Díos ñ ã. maquehe ucoheu vinaƈ?
+            	<lb n="6"/>Copa uxenabal, vepu Utíqueríbal D. ma chiquís machicam <unclear reason="rip">?s</unclear>
+            		<note place="below-right"><unclear>ox</unclear> Dios</note>
+            	<lb n="7"/>Copa utíohíl Díos Copa Uquiquel ve pu ubaquíl Díos ma ƈahabou
+            	<lb n="8" rend="indent"/>vió Díos, ma carabiniƈ, ma ƈa chaquíh uchi, maƈanum om
+            	<lb n="9"/>Harupa rohonel Vab vuxlab D harupa puih. ronohel ruꜩíl u rahbol
+            	<lb n="10" rend="indent"/>pachín xbanou nabe cachuch cacahau adan eva. quibi
+            	<lb n="11"/>Pacha vioher<hi rend="superscript">e</hi>i adan. eba. ta xe vína quirixax vumal Díos?
+            	<lb n="12"/>Apa xpeui rohonel caxcol, vaíl, chícacuí oh ronohel xe cabul vínaꜫ
+            	<lb n="13"/>harupa Vpersona íl Díos
+            	<lb n="14"/>pa naquípa ubi nave persona?
+            	<lb n="15"/>Naquipa Vnbi Vcam persona:
+            	<lb n="16"/>Naquípa Vbi Vox persona?
+            	<lb n="17"/>Apachínaí chíque persona xtíohilabiƈ. Chupan <abbr>S<hi rend="superscript">ta</hi></abbr> María
+            	<lb n="18"/>Pazurumal xul Vtíohilah, ƈa tiohil, Vcahol Díos chupan <abbr>S<hi rend="superscript">ta</hi></abbr> <abbr>M<hi rend="superscript">a</hi>.</abbr>?
+            	<lb n="19"/>Xucanah pa uDíos íl, ta xtíchalibíc, chupan<abbr>S<hi rend="superscript">ta</hi></abbr> <abbr>M<hi rend="superscript">a</hi>.</abbr>
+            	<lb n="20"/>Ma quíꜩih, capoh <abbr>S<hi rend="superscript">ta</hi></abbr> María ta xala<corr>nic</corr> cahaval xpto
+            	<lb n="21"/>Pazu rumal, xcan cahoval xpho chuach cruz
+            	<lb n="22" rend="indent"/>xcampa u Díos íl, ta xcam ƈahaval xpw
+            	<lb n="23" rend="indent"/>pa xbevi cahaval xpto, ta xcam chuach cruz
+            	<lb n="24" rend="indent"/>Camínaꜫ pa cahaval xpto vacamiƈ?
+            	<lb n="25" rend="indent"/>apa covi cohaval xpto vacamíc?
+            	<lb n="26" rend="indent"/>Copa chía ulo cahaval xpto?
+            	<lb n="27" rend="indent"/>eri Camínaꜫ, chiquicam chipá qui tiohil?
+            	<lb n="28"/>Pazu rimal que castah chic?
+            	<lb n="29" rend="indent"/>pazu ri uquexal xichuía Díos chiqueh uꜩilah Vínac?
+            	<lb n="30"/>ecuriahmaꜫ, pazu vquixal, qunbanóh chiya chiqueh rumal Dios?
+            	<lb n="31"/>Maquipa chabano macucatbe chi <rs ana="XIBALBA">xibalba</rs> xatacatacam chídh
+            	<lb n="32"/>Ve Cut xat macuniƈ, xachínac chíoe uho Díos pa vi pazu xchatan chizach
+            		<add place="below-right">vi amac</add>
+            	<lb n="33"/><hi rend="strikethrough">pazu xchatanpa</hi>
+            	<lb n="34"/>Pazu xchatan ta ca zucuba alux tacabanpuh comfecion
+            	<lb n="35"/>Ve at xatelequíƈ vepu xat oyovariƈ xat cacaríc, chirih a Vaꜩ. achaꜫ. vepi
+            	<lb n="36"/>xa cut uvach. ue navi puch xaqui xhizoh, pazu xchatan, chizach Ui<unclear reason="tape">amor</unclear>
+            	<lb n="37"/><unclear reason="tape">al:</unclear>
+            	<lb n="38"/>
+            	<lb n="39"/>
+            	<lb n="40"/>
+            	<lb n="41"/>
+            	<lb n="42"/>
+            	<lb n="43"/>
+            	<lb n="44"/>
+            	<lb n="45"/>
+            	<lb n="46"/>
+            	<lb n="47"/>
+            </p>
+        </body>
+    </text>
+</TEI>

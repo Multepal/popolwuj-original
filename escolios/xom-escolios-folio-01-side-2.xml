@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">01</att>
+                    <att xml:id="side-number">2</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 01, Side 2. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n = "1" />dío real, sín esperanza deotro <abbr>q'</abbr>este en extrema neçesídad aun de el sustento ne -
+            	<lb n = "2" />çesarío <abbr>q'</abbr>lo de con mas líberalídad <abbr>q'</abbr>elíndío lo da y en sus festejos y funçíones
+            	<lb n = "3" />se ue <abbr>q'</abbr>níteníendo apenas <abbr>p<hi rend="superscript">a</hi></abbr>. elsustento los çelebra con bastantes gartos, y
+            	<lb n = "4" />con tantos como otro <abbr>q<hi rend="superscript">e</hi></abbr>se halle descansado, y con bastante posíble los çelebra, em -
+            	<lb n = "5" />peñandose, y entrampandose, para poder haçer estas sus çelebraçíones de
+            	<lb n = "6" />bautísmos, y casamíentos. níay gente mas codíçíosa, y desdíchada, pues combí -
+            	<lb n = "7" />dandose ellos Unos a otros ensus fíestas, y des de Un pueblo, a otro en sus festíuída -
+            	<lb n = "8" />des, selehade corresponder con lo mesmo numero, y espeçíe <abbr>q'</abbr>el dío al otro <abbr>q<hi rend="superscript">do</hi></abbr>
+            	<lb n = "9" />fue su combídado. y solo Un plantano menos, <abbr>q'</abbr> sele corresponda, es matería de
+            	<lb n = "10" />tanto sentímíento, <abbr>q'</abbr>por aquello solo se acaba la amístad, y correspond<corr>en</corr>çía de
+            	<lb n = "11" />muchos años. para esto <abbr>q'</abbr>díxo Apíano fue Un rasgo solo, del conoçímí -
+            	<lb n = "12" />ento de los índios. así me pareçe <abbr>q'</abbr>el mas açer rado moda para dar a
+            	<lb n = "13" />conocer quíenes son los índíos, y su mayor comprehensíon, lo <abbr>q'</abbr> muchos hombres
+            	<lb n = "14" />de buen talento han dícho, <abbr>q'</abbr> para dífínír los índíos con dífíníçíon adequada
+            	<lb n = "15" />es defíníendolos por contradíctorías. <abbr>porq'</abbr> es gente <abbr>q'</abbr>todo es extremos, y todos
+            	<lb n = "16" />contraríos, y opuestos. al mesmo motodo de lo <abbr>q'</abbr>díxo Apíano. y prosíguíendo a
+            	<lb n = "17" />quello dígo. <abbr>q'</abbr>es gente: en eltrabaxo fortíssímos, en notrabaxar, perezosísí -
+            	<lb n = "18" />mos, en comer Voraçíssímos, en no comer parcíssímos. en sus bíen es ríquíssímos,
+            	<lb n = "19" />y suma mente pobríssímos. y así de to das las demas cosas suyas, y todo esto tan
+            	<lb n = "20" />general, <abbr>q'</abbr>lo mesmo es Uno <abbr>q'</abbr>otro, el ríco, y el pobre, el <abbr>q'</abbr>es cazíque, ó prínçípal
+            	<lb n = "21" />como el mazegual. todos son íguales, y tan aníñados Unos como otros. y así
+            	<lb n = "22" />díxo bíen el<abbr>q'</abbr>los llamo: níños, con barbas. y ala Verdad ellos son como mucha -
+            	<lb n = "23" />chos en todo. como <abbr>S.</abbr> Pablo deçía de sí de su hedad pueríl, así estos todo escosa de
+            	<lb n = "24" />muchachos por lo qual no son sus malíçías de tanto peso como lo son las de otros hom -
+            	<lb n = "25" />bres de otras naçíones, y aun <abbr>q'</abbr>algunos dígan como díze <abbr>N.</abbr> <abbr>P<hi rend="superscript">e.</hi></abbr> Noreña en su
+            	<lb n = "26" />carta <abbr>q'</abbr>alcançan grandes malícías, de <corr><abbr>q'</abbr></corr>no ay duda, dígo <abbr>q'</abbr>como Díos <abbr>N. S<hi rend="superscript">or</hi>.</abbr>
+            	<lb n = "27" />suplío en los brutos con elínstínto natural lo <abbr>q'</abbr>les faltaba de talento para su
+            	<lb n = "28" />conseruaçíon, así en estos, les suplío de ínstínto <abbr>q'</abbr>mas se puede llamar así su sa -
+            	<lb n = "29" />ber <abbr>q'</abbr>entendímíento, <abbr>loq'</abbr>de este les faltaba para su conseruaçíon, <abbr>porq'</abbr> de no ya
+            	<lb n = "30" />me parece <abbr>q'</abbr>Ubíeran acabado con ellos todos los <abbr>q'</abbr>tíran a su destrucçíon, y aca -
+            	<lb n = "31" />ba míento Valíendose de su míssería para fener atreuímíento alo<abbr>q'</abbr> no se atre -
+            	<lb n = "32" />uíeran no dígo yo a otros superíores suyos pero ní a otros su íguales. haçíendo -
+            	<lb n = "33" />se todos con estos míssarables sabíos, los ígnorantes, Valientes, los floxos, poderosos
+            	<lb n = "34" />los <abbr>q'</abbr> nada pueden, <abbr>h'</abbr>randole alcodíllo como agente desvalída. pues no y negro
+            	<lb n = "35" />esclauo <abbr>q'</abbr>no se les atreua, y <abbr>q'</abbr>no los maltrate.
+            </p>
+            <p>
+            	<lb n = "36" rend = "indent" />Yo bíen entíendo, <abbr>q'</abbr> todas estas hístorías son quentos de muchachos, <abbr>q'</abbr>nítíenen
+            	<lb n = "37" />píes ní cabeza; pero <abbr>aunq'</abbr>este es el juíçío <abbr>q'</abbr>nosotros hemos de haçer de ellas
+            	<lb n = "38" />por lo <abbr>q'</abbr>a nosotros toca, no se deuen así juzgar respecto de ellos <abbr>q'</abbr>como proporçí -
+            	<lb n = "39" />onados asus talentos, son tan verdades estas para ellos, como <abbr>p<hi rend="superscript">a</hi>.</abbr> nosotros los cha -
+            	<lb n = "40" />tolícos las Verdades euangelícas. ní Vale Verlas contradícçíones <abbr>q'</abbr>en sí embu -
+            	<lb n = "41" />elben, <abbr>q'</abbr>con la cortedad de su talento no reparan en esto. y aquí se conoçe la malí -
+            	<lb n = "42" />çía de la bestía ínfernal, como les sugírío mentíras tan adequadas asus talentos <abbr>p<hi rend="superscript">a</hi></abbr>
+            	<lb n = "43" />mas tenerlos embaucados, y como quíera <abbr>q'</abbr>no solamente en estas hístorías se
+            	<lb n = "44" />hallen solo estas mentíras, o químeras, síno tambíen nuestras Verdades chatolí -
+            	<lb n = "45" />cas, y <abbr>q'</abbr>tíene, y cree nuestra <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee chatolíca, reveladas por el espírítu <abbr>S<hi rend="superscript">to</hi>.</abbr> en la
+            	<lb n = "46" />sagrada escrítura, deay es, <abbr>q'</abbr>no se deue haçer tampoco caso de estas hístorías
+            	<lb n = "47" />respecto de la mucha tierra <abbr>q'</abbr>el demonío gana entre esta gente; con estos herrores
+            </p>
+        </body>
+    </text>
+</TEI>

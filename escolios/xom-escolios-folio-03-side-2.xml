@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE TEI SYSTEM  "http://www.tei-c.org/release/xml/tei/custom/schema/dtd/tei_lite.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arte de las tres lenguas kakchiquel, quiché y tzutuhil, 
+                v.2 Popol vuh; and Escolios a la historia de el origen de los Indios.</title>
+                <author>Ximénez, Francisco</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Newberry Library</publisher>
+                <pubPlace>Chicago, Illinois, USA</pubPlace>
+            </publicationStmt>
+            <notesStmt>
+                <note>
+                    <att xml:id="folio-number">03</att>
+                    <att xml:id="side-number">2</att>
+                </note>
+            </notesStmt>
+            <sourceDesc>
+                <p>An encoded transcription of the Newberry Library's VAULT Ayer MS 1515, volume 2, Escolios Folio 03, Side 2. 
+                Based on the facsimiles provided by online edition of the Popol Wuj hosted by The Ohio State University Libraries at 
+                https://library.osu.edu/projects/popolwujs.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="quc">K'iche'</language>
+                <language ident="spa">Spanish</language>
+            </langUsage>
+            <creation>
+                <date>Spring 2017</date>
+                <name>Catherine L. Addington</name>
+            </creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+        	<p>
+            	<lb n="1"/>y <abbr>q'</abbr>blasfemen el<abbr>S<hi rend="superscript">to</hi>.</abbr> nombre de Díos, y su <abbr>S<hi rend="superscript">ta</hi>.</abbr> fee catolíca ensus aduersídades
+            	<lb n="2"/>y trabaxas ܅ y síello bíen se míra elconçíerto <abbr>q'</abbr>su elentener en sus republícas du -
+            	<lb n="3"/>do <abbr>q'</abbr>aya naçíon alguna mas conçertada. pues entre ellos jamas se pueda
+            	<lb n="4"/>deuda sín pagar, ní culpa sín castígar, <abbr>q'</abbr> merío yo de el conçíerto <abbr>q'</abbr>se pondera
+            	<lb n="5"/>de las auejas ensus republícas, teníendo repartídos entre sí todos los cargos, y
+            	<lb n="6"/>se quíos de todo el comun, ayudandose unos a otros, con tal su gezíon a los <abbr>q'</abbr> tí -
+            	<lb n="7"/>enen nombrados por cabezas de sus calpules, y parçíalidades, <abbr>q'</abbr>apenas
+            	<lb n="8"/>se hallara índío <abbr>q'</abbr>entre ellos no obedezca a su cabeza de calpul, en lo <abbr>q'</abbr>sele
+            	<lb n="9"/>en carga, y sí tal caso seda todos se conjuran contra el a <abbr>q'</abbr>sea castígado.
+            	<lb n="10"/>no dado <abbr>q'</abbr>tíenen muchas cosas vítuperables, mas tambíen tíenen otras
+            	<lb n="11"/>muy lo ables, y <abbr>q'</abbr>ojala se hallaran entre otras naçíones. todo quanto yo
+            	<lb n="12"/>alcanzare escríuíre en estos escolíos, para dar la mayor notíçía <abbr>q'</abbr>
+            	<lb n="13"/>pudíere desta gente, a los veníderos, y <abbr>q'</abbr>no ígnoren sus cosas. suponíen
+            	<lb n="14"/>do como su põgo <abbr>q'</abbr>muchas nose saben, por el secreto tan grande <abbr>q'</abbr>entre
+            	<lb n="15"/>sí guardan, de míedo el <abbr>P<hi rend="superscript">e</hi>.</abbr> o de el español. y espeçíalmente, de
+            	<lb n="16"/>sus juntas, <abbr>q'</abbr>ellos suelen tener entresí. y mas sí son cosa de ydolatría esas
+            	<lb n="17"/>es tal el secreto <abbr>q'</abbr>guardan <abbr>q'</abbr>ní el muchacho mas tonto, ay remedío, <abbr>q'</abbr>se
+            	<lb n="18"/>descuíde en manífestarlo, y sola por congeturas, se suele rastrear
+            	<lb n="19"/>algo.
+            </p>
+            <figure>
+            	<graphic url="http://i.imgur.com/pwKbFFg.png" rend="center"/>
+            	<figDesc>Watermark. See Carlos M. López, The <hi rend="italic">Popol Wuj</hi> in <hi rend="italic">Ayer MS 1515</hi> Is a Holograph by Father Ximénez," <hi rend="italic">Latin American Indian Literatures Journal</hi>.</figDesc>
+            </figure>
+        </body>
+    </text>
+</TEI>
