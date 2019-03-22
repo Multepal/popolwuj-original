@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <topics>
   <topic>
+    <title> Ch&#039;abi Q&#039;aq&#039;</title>
+    <type>topónimo</type>
+    <nid>1443</nid>
+    <key>CHABI_QAQ</key>
+    <ximenez_spa>chabícac</ximenez_spa>
+    <ximenez_quc>cabicac</ximenez_quc>
+    <description><p>Ch'abi Q'aq' is listed, together with Chi Junajpu', as one of the many communities conquered by Don Francisco Iskin Nija'ib', as recorded in <em>Utitulo rajawarem ajaw Don Francisco Iskin Nija’ib’. </em> Matsumoto (2017:189 n 136) notes that "Edmonson (1965:19) defines <em>Ajch’ab’iq’aq’, Chi Junajpu</em> as a compound toponym referring to a single settlement (compare Ghabicoh Junahpu in Alvarez Arévalo 1987:40), but Recinos (1957:72n16) identifies it as a reference to the two volcanoes now known as Fuego and Agua, both in the Department of Sacatepéquez. Carmack (2001:233, 239) also describes both <em>Chab’iq’aq’</em> ‘fire arrows’ (or <em>Tz’apiq’aq’</em> ‘closed fire’) and <em>Chwi Junajpu</em> as Nima K’iche’ calpuls. Tedlock (1996:189) translates these designations as 'Meteor, Hunahpu Place.'"</p></description>
+  </topic>
+  <topic>
     <title> Tz&#039;oloj Che&#039;</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1349</nid>
     <key>TZOLOJ_CHE</key>
     <ximenez_spa>momostenango</ximenez_spa>
@@ -297,7 +306,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Amaq&#039; Tam</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>755</nid>
     <key>AMAQ_TAM</key>
     <ximenez_spa>amactan</ximenez_spa>
@@ -308,7 +317,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Amaq&#039; Uq&#039;in k&#039;at</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>756</nid>
     <key>AMAQ_UQIN_KAT</key>
     <ximenez_spa>--</ximenez_spa>
@@ -343,7 +352,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Arenas arrancadas</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1163</nid>
     <key>ARENAS_ARRANCADAS</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Piled Up Sand&lt;/li&gt;
@@ -369,7 +378,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>B&#039;ate</title>
     <type>objeto</type>
     <nid>1232</nid>
-    <key>B'ATE</key>
+    <key>BATE</key>
     <english_name>&lt;ul&gt;&lt;li&gt;yoke&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa></ximenez_spa>
@@ -379,7 +388,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 
 <p>However, iconographic evidence provides other clues. Justin Kerr's database includes <a href="http://research.mayavase.com/kerrmaya_hires.php?vase=2842">an early Classic era vessel that represents the divine ballplayers</a>; their yokes form the widest part of the object itself:</p>
 
-<p><img alt="Kerr #2842" class="media-element file-default" data-delta="1" data-fid="217" data-media-element="1" height="429" src="http://live-multepal.pantheonsite.io/sites/default/files/images/2842.jpeg" title="Kerr #2842: &quot;Early Classic, with yoke as part of the vessel and ballplayers.&quot; http://research.mayavase.com/kerrmaya_hires.php?vase=2842" typeof="foaf:Image" width="350" /></p>
+<p><img alt="Kerr #2842" data-delta="1" data-fid="217" data-media-element="1" height="429" title="Kerr #2842: &quot;Early Classic, with yoke as part of the vessel and ballplayers.&quot; http://research.mayavase.com/kerrmaya_hires.php?vase=2842" typeof="foaf:Image" width="350" class="media-element file-default" src="http://live-multepal.pantheonsite.io/sites/default/files/images/2842.jpeg" /></p>
 
 <p>(Kerr #2842)</p></description>
   </topic>
@@ -421,7 +430,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>barranco agitado</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>734</nid>
     <key>BARRANCO_AGITADO</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Trembling Canyon&lt;/li&gt;
@@ -437,7 +446,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>barranco escondido</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>829</nid>
     <key>BARRANCO_ESCONDIDO</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Hidden Canyon&lt;/li&gt;
@@ -448,7 +457,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>barranco ruidoso</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>735</nid>
     <key>BARRANCO_RUIDOSO</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Murmuring Canyon&lt;/li&gt;
@@ -528,7 +537,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>camino amarillo</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>739</nid>
     <key>CAMINO_AMARILLO</key>
     <ximenez_spa>amarillo</ximenez_spa>
@@ -548,7 +557,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>camino blanco</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>738</nid>
     <key>CAMINO_BLANCO</key>
     <ximenez_spa> zaqui</ximenez_spa>
@@ -572,7 +581,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>camino negro</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>737</nid>
     <key>CAMINO_NEGRO</key>
     <ximenez_spa> queca be</ximenez_spa>
@@ -596,7 +605,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>camino rojo</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>736</nid>
     <key>CAMINO_ROJO</key>
     <alternate_names>&lt;ul&gt;&lt;li&gt;ꜫaꜫ&lt;/li&gt;
@@ -626,7 +635,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>camino verde</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>747</nid>
     <key>CAMINO_VERDE</key>
     <ximenez_spa>verde</ximenez_spa>
@@ -658,7 +667,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Casa de Hielo</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>741</nid>
     <key>CASA_DE_HIELO</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Shivering House&lt;/li&gt;
@@ -669,7 +678,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Casa de Jaguares</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>742</nid>
     <key>CASA_DE_JAGUARES</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Jaguar House&lt;/li&gt;
@@ -682,7 +691,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Casa de los Chayes</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>744</nid>
     <key>CASA_DE_LOS_CHAYES</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Blade House&lt;/li&gt;
@@ -694,7 +703,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Casa de Murciélagos</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>743</nid>
     <key>CASA_DE_MURCIÉLAGOS</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Bat House&lt;/li&gt;
@@ -705,7 +714,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Casa Oscura</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>740</nid>
     <key>CASA_OSCURA</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Darkness House&lt;/li&gt;
@@ -716,7 +725,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Ch&#039;ab&#039;iq&#039;aq&#039;</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1354</nid>
     <key>CHABI_QAQ</key>
     <ximenez_spa>chabícac</ximenez_spa>
@@ -770,13 +779,15 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <key>CHIPI_KAQULJA</key>
     <ximenez_spa>chípa caculha</ximenez_spa>
     <ximenez_quc>chípa caculha</ximenez_quc>
-    <description>Description forthcoming.</description>
+    <description><p><em>Ch'ipi Kaqulja </em>is one of the manifestations of the god Heart of Sky [<em>Uk'u'x Kaj</em>]. Christenson (2007: 70, note 63) notes that "<em>Ch'i'p</em> refers to the youngest member of the family or the smallest member of a group." Tedlock (1996: 224, note 65) adds the meaning of "newborn," and that <em>Ch'ipi Kaqulja </em>along with <em>Raxa Kaqulja </em>allude not only to "shafts of lightning but to fulgurites, glassy stones formed by lightning in sandy soil."</p>
+
+<p><em>Ch'ipi Kaqulja </em>es una de las manifestaciones del dios <em>Uk'u'x Kaj</em>. El lingüista Adrián Recinos (1976: 31, nota 4) traduce su nombre como "rayo pequeño." El lingüista Sam Colop (2007: 26-27, nota 21) explica que "<em>Ch'ip </em>se dice 'al ultimo' de las hijas o hijos.... <em>Ch'ipa Kaqulja </em>(más adelante se escribe <em>ch'ipi</em>), literalmente 'Rayo más joven', fuerza en potencia".</p></description>
   </topic>
   <topic>
     <title>Cha&#039;j</title>
     <type>objeto</type>
     <nid>1231</nid>
-    <key>CHA'J</key>
+    <key>CHAJ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;ball&lt;/li&gt;
 &lt;li&gt;ballgame&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -849,7 +860,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Chi Chaq&#039;</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1173</nid>
     <key>CHI_CHAQ</key>
     <ximenez_spa>chíchat</ximenez_spa>
@@ -860,7 +871,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Chi K&#039;ix</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1172</nid>
     <key>CHI_KIX</key>
     <ximenez_spa>quix</ximenez_spa>
@@ -873,7 +884,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>Chi Pixab</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>753</nid>
     <key>CHI_PIXAB</key>
     <ximenez_spa> çerro de el mandaro</ximenez_spa>
@@ -915,6 +926,15 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <ximenez_spa></ximenez_spa>
     <ximenez_quc>chipicaculha</ximenez_quc>
     <description>Description forthcoming.</description>
+  </topic>
+  <topic>
+    <title>Chitemaj</title>
+    <type>topónimo</type>
+    <nid>1442</nid>
+    <key>CHITEMAJ</key>
+    <ximenez_spa>chítemah</ximenez_spa>
+    <ximenez_quc> chi temah</ximenez_quc>
+    <description><p>(Chi) Temaj also appears in front of <em>Wajxaqlajuj </em>in a list of communities conquered by Don Francisco Iskin Nija'ib' as recorded in <em>Utitulo rajawarem ajaw Don Francisco Iskin Nija’ib’. </em> In this context, Matsumoto (2017:188 n 128) notes that "Basseta (2005:497) defines tem as “beam, plant, and seat” and Temah as ‘tomar assiento’ (to take a seat), and Coto (1983 [1656]:304) notes that the phrase tin tzal temah is “composed of tzalan, something tilted, and tem, which is a beam” (compare “Plank Place” in Tedlock 1996:189). According to Edmonson (1965:121), Chi Temaj was a “tributary” to the K’iche’, whereas Carmack (2001:233–36) identifies it as a Nima K’iche’ calpul."</p></description>
   </topic>
   <topic>
     <title>Chomija&#039;</title>
@@ -1061,7 +1081,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
   </topic>
   <topic>
     <title>el baño de Tojil</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>834</nid>
     <key>EL_BAÑO_DE_TOJIL</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Bath of Tohil&lt;/li&gt;
@@ -1142,33 +1162,33 @@ y que habló por los profetas.</p>
     <key>GUARDIANES_DE_COMIDA</key>
     <ximenez_spa>al q’que guarda el bastímento</ximenez_spa>
     <ximenez_quc>chahal echa</ximenez_quc>
-    <description><p>     Lady Blood [<em>Ixkik’</em>] (brackets inserted to provide modern naming according to K’iche’ linguist Sam Colop) is the daughter of the lord of Xibalba Gathered Blood [<em>Kuchuma Kik’</em>]. She becomes impregnated by the skull of One Junajpu [<em>Jun Junajpu</em>] in the ballcourt where he and his brother Seven Junajpu [<em>Wuqub’ Junajpu</em>] lost to the Lords of Xibalba. As a result of this pregnancy, she escapes Xibalba to avoid facing sacrifice by the Lords. She arrives at the house of the Grandmother [<em>Ixmukane</em>] and because she bears the children of One Junajpu, the Grandmother’s son, she says, “he venido Sa.Señora Me.Madre q'que soy su nuera, ysu híja pequeña / mi xinulic lal chichu in alibla in puch alcual la lal chichu” [I’ve come Madame, my mother. I am your daughter-in-law, and your child] (17r). The Grandmother initially rejects Lady Blood, claiming that she is not her daughter-in-law, that her pregnancy “es de forniçío eso q’que tíenes en tu víentre / xa ahoxbal ri qo chapam at qaxtoq” [is a result of fornication, what you have in your womb] (17v). However, The Grandmother eventually listens and sends Lady Blood on a test to a netful of maize from the field. Lady Blood goes to the maizefield and finds only a single ear of maize in the field, sending her into despair. She thus calls “upon the guardians of the food: ‘Come, arise. Come, stand up Lady of the Day Toh [<em>Ixtoj</em>], and Lady of the Day Canil [<em>Ixq’anil</em>], Lady Cacao [Ixkakaw] and Lady of the Day Tzi [<em>Ixtz’i’</em>], you are the guardians of the food of One Batz [<em>Jun B’atz’</em>] and One Chouen [<em>Jun Chuwen</em>]’” (Christenson 2003: 137). This caused the maize to multiple plentifully, becoming so large that the animals help Lady Blood carry the overflowing netful of maize back to the house of the Grandmother. The Grandmother is skeptical of the netful and goes to inspect the maizefield, but upon return she says, “This is but a sign that you are in truth my daughter-in-law. I will surely watch your deeds, for they that are to be my grandchildren are enchanted already’” (ibid: 139).</p>
+    <description><p>Lady Blood [<em>Ixkik’</em>] (brackets inserted to provide modern naming according to K’iche’ linguist Sam Colop) is the daughter of the lord of Xibalba Gathered Blood [<em>Kuchuma Kik’</em>]. She becomes impregnated by the skull of One Junajpu [<em>Jun Junajpu</em>] in the ballcourt where he and his brother Seven Junajpu [<em>Wuqub’ Junajpu</em>] lost to the Lords of Xibalba. As a result of this pregnancy, she escapes Xibalba to avoid facing sacrifice by the Lords. She arrives at the house of the Grandmother [<em>Ixmukane</em>] and because she bears the children of One Junajpu, the Grandmother’s son, she says, “he venido Sa.Señora Me.Madre q'que soy su nuera, ysu híja pequeña / mi xinulic lal chichu in alibla in puch alcual la lal chichu” [I’ve come Madame, my mother. I am your daughter-in-law, and your child] (17r). The Grandmother initially rejects Lady Blood, claiming that she is not her daughter-in-law, that her pregnancy “es de forniçío eso q’que tíenes en tu víentre / xa ahoxbal ri qo chapam at qaxtoq” [is a result of fornication, what you have in your womb] (17v). However, The Grandmother eventually listens and sends Lady Blood on a test to a netful of maize from the field. Lady Blood goes to the maizefield and finds only a single ear of maize in the field, sending her into despair. She thus calls “upon the guardians of the food: ‘Come, arise. Come, stand up Lady of the Day Toh [<em>Ixtoj</em>], and Lady of the Day Canil [<em>Ixq’anil</em>], Lady Cacao [Ixkakaw] and Lady of the Day Tzi [<em>Ixtz’i’</em>], you are the guardians of the food of One Batz [<em>Jun B’atz’</em>] and One Chouen [<em>Jun Chuwen</em>]’” (Christenson 2003: 137). This caused the maize to multiple plentifully, becoming so large that the animals help Lady Blood carry the overflowing netful of maize back to the house of the Grandmother. The Grandmother is skeptical of the netful and goes to inspect the maizefield, but upon return she says, “This is but a sign that you are in truth my daughter-in-law. I will surely watch your deeds, for they that are to be my grandchildren are enchanted already’” (ibid: 139).</p>
 
-<p>            According to Christenson (2007: 138, note 311), the Mayan goddesses that Lady Blood invokes for help in the growth of maize are “female manifestations of the three days in the traditional highland Maya calendar – <em>Toj, Q’anil</em>, and <em>Tz’i’</em>…Modern <em>aj q’ij </em>priets invoke the days of the calendar in their prayers and ceremonies as lords and attribute them to specific power to bless or punish. Thus they conceive of the days as living beings with personalities and specific spheres of influence.”</p>
+<p>According to Christenson (2007: 138, note 311), the Mayan goddesses that Lady Blood invokes for help in the growth of maize are “female manifestations of the three days in the traditional highland Maya calendar – <em>Toj, Q’anil</em>, and <em>Tz’i’</em>…Modern <em>aj q’ij </em>priets invoke the days of the calendar in their prayers and ceremonies as lords and attribute them to specific power to bless or punish. Thus they conceive of the days as living beings with personalities and specific spheres of influence.”</p>
 
-<p><em>            Toj </em>means “‘tribute or payment.’ Metaphorically it may also be ‘punishment or illness’ caused by sin” (ibid: 138, note 311). According to the Chol Q’ij from the National Museum of the American Indian, the day <em>Toj </em>“comes from the word ‘offering,’ ‘fine,’ and ‘payment.’ It also comes from ‘help,’ ‘socialize,’ and ‘understand.’ People ask for strength to avoid mistakes and for the end of their sufferings…. People ask for dark things to come out into the light” (“The Meaning of the Days…”). Anthropologist Ruth Bunzel (1952: 282) notes that this day “Symbolizes the suffering which is caused by sin. ‘This is a bad day, a day of sickness. On the day <em>t’oj</em> one burns incense in the house for the Lord of Sickness. <em>T’oj </em>is also a day for calling sickness to punish an enemy.” In connection to Lady Blood, the invocation of this day serves to ask forgiveness for her sins and perhaps as a way of repayment for the possibility of being taken in by Xmucane, for when Lady Blood calls herself a “debtor,” she uses <em>k’asb’ol</em>, and “the term refers to a person who is indebted to someone else, either financially or socially” (Christenson 2003: 137, note 310).</p>
+<p><em>Toj </em>means “‘tribute or payment.’ Metaphorically it may also be ‘punishment or illness’ caused by sin” (ibid: 138, note 311). According to the Chol Q’ij from the National Museum of the American Indian, the day <em>Toj </em>“comes from the word ‘offering,’ ‘fine,’ and ‘payment.’ It also comes from ‘help,’ ‘socialize,’ and ‘understand.’ People ask for strength to avoid mistakes and for the end of their sufferings…. People ask for dark things to come out into the light” (“The Meaning of the Days…”). Anthropologist Ruth Bunzel (1952: 282) notes that this day “Symbolizes the suffering which is caused by sin. ‘This is a bad day, a day of sickness. On the day <em>t’oj</em> one burns incense in the house for the Lord of Sickness. <em>T’oj </em>is also a day for calling sickness to punish an enemy.” In connection to Lady Blood, the invocation of this day serves to ask forgiveness for her sins and perhaps as a way of repayment for the possibility of being taken in by Xmucane, for when Lady Blood calls herself a “debtor,” she uses <em>k’asb’ol</em>, and “the term refers to a person who is indebted to someone else, either financially or socially” (Christenson 2003: 137, note 310).</p>
 
-<p><em>            Q’anil </em>refers “to the yellow of ripe maize, and is sometimes used as a metaphor for the fruitfulness of the earth in general” (Christenson 2007: 138, note 312). Bunzel (1952: 282) writes that “it is obligatory for all people to give thanks for their food and for their land on the day 8 <em>qanil</em>. And each year one does this, until one dies.” According to the Chol Q’ij, the day “comes from the word ‘seed’ and ‘yellow.’ It means the color of gold and of cane, and the third color of the Sun, it is the symbol of the four seasons of the year. It also symbolizes humans, animals, and plants” (“The Meaning of the Days…”). The invocation of this day simultaneously ensures the harvest of the maizefield for Lady Blood while also giving thanks for the food and the land.</p>
+<p><em>Q’anil </em>refers “to the yellow of ripe maize, and is sometimes used as a metaphor for the fruitfulness of the earth in general” (Christenson 2007: 138, note 312). Bunzel (1952: 282) writes that “it is obligatory for all people to give thanks for their food and for their land on the day 8 <em>qanil</em>. And each year one does this, until one dies.” According to the Chol Q’ij, the day “comes from the word ‘seed’ and ‘yellow.’ It means the color of gold and of cane, and the third color of the Sun, it is the symbol of the four seasons of the year. It also symbolizes humans, animals, and plants” (“The Meaning of the Days…”). The invocation of this day simultaneously ensures the harvest of the maizefield for Lady Blood while also giving thanks for the food and the land.</p>
 
-<p>            The day <em>tz’i’, </em>or “dog,” “is a metaphor for shamelessness” (Christenson 2007: 139, note 314). According to Bunzel (1952: 283), the day “symbolizes sin, especially sexual impurity…’a bad day, the worst of all. The day of shameless and beastly actions (especially sexual)…. There are no ceremonies for this day, because it is evil. But if one wishes to ask for forgiveness for one’s evil acts, one asks it on the next day (9 <em>bats</em>).” The Chol Q’ij says this day “represents the five senses of human beings. On this day, people ask to prevent and keep away poverty, misfortune, and bad habits. It is the nawal of material and spiritual justice. People can ask to judge the good and the bad, and to be free of criticism and rumors” (“The Meaning of the Days…”). This day is relevant based on the opinions the Lords of Xibalba, especially Gathered Blood, have that Lady Blood is a “fornicator,” especially when she denies this despite being pregnant. As Christenson (2007: 139, note 315) points out, “it is not a coincidence that the day immediately following <em>Q’anil</em>, <em>Toj</em>, and <em>Tz’i’</em>, is <em>B’atz’</em> in the traditional calendar,” and that this order is observed in the <em>Popol Wuj</em>.</p>
+<p>The day <em>tz’i’, </em>or “dog,” “is a metaphor for shamelessness” (Christenson 2007: 139, note 314). According to Bunzel (1952: 283), the day “symbolizes sin, especially sexual impurity…’a bad day, the worst of all. The day of shameless and beastly actions (especially sexual)…. There are no ceremonies for this day, because it is evil. But if one wishes to ask for forgiveness for one’s evil acts, one asks it on the next day (9 <em>bats</em>).” The Chol Q’ij says this day “represents the five senses of human beings. On this day, people ask to prevent and keep away poverty, misfortune, and bad habits. It is the nawal of material and spiritual justice. People can ask to judge the good and the bad, and to be free of criticism and rumors” (“The Meaning of the Days…”). This day is relevant based on the opinions the Lords of Xibalba, especially Gathered Blood, have that Lady Blood is a “fornicator,” especially when she denies this despite being pregnant. As Christenson (2007: 139, note 315) points out, “it is not a coincidence that the day immediately following <em>Q’anil</em>, <em>Toj</em>, and <em>Tz’i’</em>, is <em>B’atz’</em> in the traditional calendar,” and that this order is observed in the <em>Popol Wuj</em>.</p>
 
-<p>            Although <em>kakaw </em>is not a day on the calendar, its invocation is related to cacao’s monetary value in Precolumbian societies: “So precious was the bean of the cacao that it was used as the most common form of currency in purchasing goods and services” (ibid: 138, note 313). Christenson references a personal communication with anthropologist Ruud van Akkeren, who says “one of the prime areas of cacao cultivation in the region is Tiquisate/Nahualate on the Pacific coast. This is also the area of the Toj and Q’anil lineages.  Several highland Maya documents mention the taking of women as captives from these lineages” (ibid). Other scholars suggest that the monetary value of the cacao pods could be connected to the day <em>Toj</em>’s relation to repayments of debts (Tedlock 1996: 265).</p>
+<p>Although <em>kakaw </em>is not a day on the calendar, its invocation is related to cacao’s monetary value in Precolumbian societies: “So precious was the bean of the cacao that it was used as the most common form of currency in purchasing goods and services” (ibid: 138, note 313). Christenson references a personal communication with anthropologist Ruud van Akkeren, who says “one of the prime areas of cacao cultivation in the region is Tiquisate/Nahualate on the Pacific coast. This is also the area of the Toj and Q’anil lineages.  Several highland Maya documents mention the taking of women as captives from these lineages” (ibid). Other scholars suggest that the monetary value of the cacao pods could be connected to the day <em>Toj</em>’s relation to repayments of debts (Tedlock 1996: 265).</p>
 
-<p>            The invocation of these days to help Lady Blood in the filling of the net of maize for The Grandmother represent importance of time, the calendar, and seasons in the <em>Popol Wuj</em> and how these ideas and times manifest as deities. As Christenson states (2003: 136, note 304), “In Mayan theology, the net is a significant symbol for the divine order of the universe. Its fixed pattern represents the regularity of the seasons in the fabric of time. Thus Maya goddesses are often depicted weaving on a cosmic loom.” In analyzing the function of time in the <em>Popol Wuj</em>, we are able to better understand the development and change of the K’iche’ belief framework, whose <em>Chol Q’ij</em> remains just as relevant today as it was in the text.</p>
+<p>The invocation of these days to help Lady Blood in the filling of the net of maize for The Grandmother represent importance of time, the calendar, and seasons in the <em>Popol Wuj</em> and how these ideas and times manifest as deities. As Christenson states (2003: 136, note 304), “In Mayan theology, the net is a significant symbol for the divine order of the universe. Its fixed pattern represents the regularity of the seasons in the fabric of time. Thus Maya goddesses are often depicted weaving on a cosmic loom.” In analyzing the function of time in the <em>Popol Wuj</em>, we are able to better understand the development and change of the K’iche’ belief framework, whose <em>Chol Q’ij</em> remains just as relevant today as it was in the text.</p>
 
-<p><strong>            </strong><em>Ixkik’</em>, o “joven sangre luna” según el lingüista Sam Colop, es la hija de un Señor de Xibalba llamado <em>Kuchuma Kik’</em>. <em>Ixkik’</em> se embaraza a causa de la calavera de <em>Jun Junajpu </em>en el asiento del árbol en Pusbal Chaaj (15v) donde él y su hermano, <em>Wuqub Junajpu</em>, fueron vencidos por los Señores de Xibalba. Como consecuencia de este embarazo, <em>Ixkik’</em> escapa de Xibalba para evitar el castigo de los Señores de Xibalba, los cuales la quieren sacrificar. Llega a la casa de La Abuela, <em>Ixmucane</em>, y, sabiendo que llevaba en el vientre los hijos de <em>Jun Junajpu</em>, le dice, “he venido Sa.Señora Me.Madre q'que soy su nuera, ysu híja pequeña / mi xinulic lal chichu in alibla in puch alcual la lal chichu” (17r). La Abuela no la cree, diciendo que “es de forniçío eso q’que tíenes en tu víentre / xa ahoxbal ri qo chapam at qaxtoq” (17v) Al final La Abuela la pone a prueba, haciendo que <em>Ixkik’</em> vaya a cosechar maíz con una red grande. Cuando llega a la milpa, solo hay “una mata con su espiga,” lo cual la causa “angustia el corazón de la muchacha” (ibid.). Entonces <em>Ixkik’ </em>invoca a tres diosas: “¡<em>Ixtoh, Ixcanil, Ixcacau, </em>vosotras las que concéis el maíz; y tú Chahal, guardián de la comida de Hunbatz [<em>Jun B’atz’</em>] y Hunchouén [<em>Jun Chuwen</em>]!” (ibid.: 77). Con esta ayuda divina, llevaba tanto maíz en la red que “los animales del campo iban cargando la red” (ibid.). La Abuela percibe esta abundancia como mentira y va a la milpa para investigar. No obstante, cuando regresa le dice a <em>Ixkik’</em>, “Esta es prueba suficiente de que realmente eres mi nuera. Veré ahora tus obras, aquellos que llevas (en el vientre) y que también son sabios” (ibid.: 77).</p>
+<p><em>Ixkik’</em>, o “joven sangre luna” según el lingüista Sam Colop, es la hija de un Señor de Xibalba llamado <em>Kuchuma Kik’</em>. <em>Ixkik’</em> se embaraza a causa de la calavera de <em>Jun Junajpu </em>en el asiento del árbol en Pusbal Chaaj (15v) donde él y su hermano, <em>Wuqub Junajpu</em>, fueron vencidos por los Señores de Xibalba. Como consecuencia de este embarazo, <em>Ixkik’</em> escapa de Xibalba para evitar el castigo de los Señores de Xibalba, los cuales la quieren sacrificar. Llega a la casa de La Abuela, <em>Ixmucane</em>, y, sabiendo que llevaba en el vientre los hijos de <em>Jun Junajpu</em>, le dice, “he venido Sa.Señora Me.Madre q'que soy su nuera, ysu híja pequeña / mi xinulic lal chichu in alibla in puch alcual la lal chichu” (17r). La Abuela no la cree, diciendo que “es de forniçío eso q’que tíenes en tu víentre / xa ahoxbal ri qo chapam at qaxtoq” (17v) Al final La Abuela la pone a prueba, haciendo que <em>Ixkik’</em> vaya a cosechar maíz con una red grande. Cuando llega a la milpa, solo hay “una mata con su espiga,” lo cual la causa “angustia el corazón de la muchacha” (ibid.). Entonces <em>Ixkik’ </em>invoca a tres diosas: “¡<em>Ixtoh, Ixcanil, Ixcacau, </em>vosotras las que concéis el maíz; y tú Chahal, guardián de la comida de Hunbatz [<em>Jun B’atz’</em>] y Hunchouén [<em>Jun Chuwen</em>]!” (ibid.: 77). Con esta ayuda divina, llevaba tanto maíz en la red que “los animales del campo iban cargando la red” (ibid.). La Abuela percibe esta abundancia como mentira y va a la milpa para investigar. No obstante, cuando regresa le dice a <em>Ixkik’</em>, “Esta es prueba suficiente de que realmente eres mi nuera. Veré ahora tus obras, aquellos que llevas (en el vientre) y que también son sabios” (ibid.: 77).</p>
 
-<p>            Esta escena pone en relieve la importancia de las tres diosas, Ixtoj, Ixq’anil e Ixtziya’, el <em>Popol Wuj</em>. El lingüista y escritor K’iche’ Sam Colop describe estas diosas de manera más precisa: “Estos son nombres de deidades femeninas que cuidan la siembra de maíz, y cuyos nombres se derivan del calendario; aunque en orden invertido” (2008: 79).</p>
+<p>Esta escena pone en relieve la importancia de las tres diosas, Ixtoj, Ixq’anil e Ixtziya’, el <em>Popol Wuj</em>. El lingüista y escritor K’iche’ Sam Colop describe estas diosas de manera más precisa: “Estos son nombres de deidades femeninas que cuidan la siembra de maíz, y cuyos nombres se derivan del calendario; aunque en orden invertido” (2008: 79).</p>
 
-<p>            Primeramente, “Ixtoj significa ‘diosa del día de pago’” (ibid.). Esta diosa entonces es la deidad femenina del día <em>Toj</em> en el calendario K’iche’, el <em>Chol Q’ij</em>. Este día “viene de ‘ofrenda,’ ‘multa,’ y ‘pago.’ También viene de ‘ayudar,’ ‘socializar,’ ‘escuchar,’ y ‘entender.’ Se le pide fortaleza para evitar los errores, y que retire los sufrimientos…. Se le peide para que salgan a luz las cosas oscuras” (“El significado de los días…”). La invocación de esta diosa es necesario pues la doncella dice, “¡Ay, soy culpable, / soy responsable!” (Colop 2008: 79). Por sentirse culpable, <em>Ixkik’</em> pretende que quiere pagar su “multa” a La Abuela, dado que La Abuela la aceptará en su hogar si llega traer la red llena de maíz. Esta compleja negociación de poder y deber destaca la influencia conceptual y cultural de las ofrendas y la ayuda.</p>
+<p>Primeramente, “Ixtoj significa ‘diosa del día de pago’” (ibid.). Esta diosa entonces es la deidad femenina del día <em>Toj</em> en el calendario K’iche’, el <em>Chol Q’ij</em>. Este día “viene de ‘ofrenda,’ ‘multa,’ y ‘pago.’ También viene de ‘ayudar,’ ‘socializar,’ ‘escuchar,’ y ‘entender.’ Se le pide fortaleza para evitar los errores, y que retire los sufrimientos…. Se le peide para que salgan a luz las cosas oscuras” (“El significado de los días…”). La invocación de esta diosa es necesario pues la doncella dice, “¡Ay, soy culpable, / soy responsable!” (Colop 2008: 79). Por sentirse culpable, <em>Ixkik’</em> pretende que quiere pagar su “multa” a La Abuela, dado que La Abuela la aceptará en su hogar si llega traer la red llena de maíz. Esta compleja negociación de poder y deber destaca la influencia conceptual y cultural de las ofrendas y la ayuda.</p>
 
-<p>            El nombre de la diosa Ixq’anil quiere decir “‘madurez’ en referencia al fruto del maíz cuando está listo para ser cosechado” (Colop 2008: 79). En el calendario <em>Chol Q’ij</em> el significado viene del día <em>Q’anil</em>, formado por las raíces de ‘semilla’ y ‘amarillo.’ Significa “color de oro y caña, y tercer color del Sol. Es el símbolo de las cuatro estaciones del año. Simboliza también al ser humano, a los animales, y a las plantas” (“El significado de los días…”). La conexión de este día con los humanos, los animales y las plantas es interesante puesto que <em>Ixkik’</em> no puede entrar al hogar de La Abuela sin cada uno de estos elementos. Es decir, como los demás seres humanos ella tiene que pedir perdón por sus “multas”. De ahí invoca a las diosas para hacer crecer la milpa y llenar la red de maíz. Al final se carga la red con el apoyo físico de los animales hacia la casa de La Abuela. Concluimos entonces que existe un paralelismo entre la madurez del maíz de la milpa y su entrada a la casa de La Abuela con la prueba ya cumplida, y que este paralelismo resalta la conexión íntima entre los seres humanos, las plantas y los animales según apunta la cosmovisión del <em>Popol Wuj</em>.</p>
+<p>El nombre de la diosa Ixq’anil quiere decir “‘madurez’ en referencia al fruto del maíz cuando está listo para ser cosechado” (Colop 2008: 79). En el calendario <em>Chol Q’ij</em> el significado viene del día <em>Q’anil</em>, formado por las raíces de ‘semilla’ y ‘amarillo.’ Significa “color de oro y caña, y tercer color del Sol. Es el símbolo de las cuatro estaciones del año. Simboliza también al ser humano, a los animales, y a las plantas” (“El significado de los días…”). La conexión de este día con los humanos, los animales y las plantas es interesante puesto que <em>Ixkik’</em> no puede entrar al hogar de La Abuela sin cada uno de estos elementos. Es decir, como los demás seres humanos ella tiene que pedir perdón por sus “multas”. De ahí invoca a las diosas para hacer crecer la milpa y llenar la red de maíz. Al final se carga la red con el apoyo físico de los animales hacia la casa de La Abuela. Concluimos entonces que existe un paralelismo entre la madurez del maíz de la milpa y su entrada a la casa de La Abuela con la prueba ya cumplida, y que este paralelismo resalta la conexión íntima entre los seres humanos, las plantas y los animales según apunta la cosmovisión del <em>Popol Wuj</em>.</p>
 
-<p>            Colop (2008: 78, nota 120) interpreta la invocación de la diosa <em>Ixtziya’</em> como la “referencia al maíz como producto ya cocinado. <em>Ix-</em> es el marcador femenino, <em>tzi </em>‘nixtamal’ y <em>ya’</em> ‘agua’. De esa cuenta, <em>Ixtziya’ </em>significa deidad de la ‘comida de maíz.’” Aunque este significado sigue la producción del maíz como la idea principal, Christenson (2003: 139, nota 314) interpreta esta diosa en referencia al día <em>Tz’i’, </em>que viene de “perro” en el calendario K’iche.’” Con esta interpretación, la invocación de esta diosa “se le pide que prevenga y aleje la pobreza, la desgracia, y los vicios. Es el nawal de la justicia material y espiritual. Se le pide que juzgue lo bueno y lo malo y que libere a las personas de la crítica y los rumors” (“El significado de los días…”). Es posible que estas dos interpretaciones sean justificadas. La interpretación de Colop (2008: 79, nota 120) sigue “el punto de vista poético” del <em>Popol Wuj</em>, donde “<em>Ixkakaw </em>e <em>Ixtziya’ </em>forman otro verso paralelol.” En cambio, la interpretación de Christenson sigue el orden del calendario K’iche’, en el cual los días <em>Q’anil</em>, <em>Toj</em>, y <em>Tzi’i’ </em>son consecutivos; según observa él, no es coincidencia que el día siguiente en el calendario es el día <em>B’atz’</em> (2003: 139, nota 315). Cabe señalar que B’atz’ es el próximo cuento del <em>Popol Wuj</em>, mostrando que estas partes del <em>Popol Wuj </em>están relacionadas con el significado e interpretación del calendario. En otras palabras, la complejidad etimológica del nombre de la diosa nos permite rastrear varios elementos culturales en la obra.</p>
+<p>Colop (2008: 78, nota 120) interpreta la invocación de la diosa <em>Ixtziya’</em> como la “referencia al maíz como producto ya cocinado. <em>Ix-</em> es el marcador femenino, <em>tzi </em>‘nixtamal’ y <em>ya’</em> ‘agua’. De esa cuenta, <em>Ixtziya’ </em>significa deidad de la ‘comida de maíz.’” Aunque este significado sigue la producción del maíz como la idea principal, Christenson (2003: 139, nota 314) interpreta esta diosa en referencia al día <em>Tz’i’, </em>que viene de “perro” en el calendario K’iche.’” Con esta interpretación, la invocación de esta diosa “se le pide que prevenga y aleje la pobreza, la desgracia, y los vicios. Es el nawal de la justicia material y espiritual. Se le pide que juzgue lo bueno y lo malo y que libere a las personas de la crítica y los rumors” (“El significado de los días…”). Es posible que estas dos interpretaciones sean justificadas. La interpretación de Colop (2008: 79, nota 120) sigue “el punto de vista poético” del <em>Popol Wuj</em>, donde “<em>Ixkakaw </em>e <em>Ixtziya’ </em>forman otro verso paralelol.” En cambio, la interpretación de Christenson sigue el orden del calendario K’iche’, en el cual los días <em>Q’anil</em>, <em>Toj</em>, y <em>Tzi’i’ </em>son consecutivos; según observa él, no es coincidencia que el día siguiente en el calendario es el día <em>B’atz’</em> (2003: 139, nota 315). Cabe señalar que B’atz’ es el próximo cuento del <em>Popol Wuj</em>, mostrando que estas partes del <em>Popol Wuj </em>están relacionadas con el significado e interpretación del calendario. En otras palabras, la complejidad etimológica del nombre de la diosa nos permite rastrear varios elementos culturales en la obra.</p>
 
-<p>            Finalmente, hay una cuarta diosa que debemos mencionar. Según afirma Colop (2008: 79, nota 119), la diosa “Ixkakaw hace referencia a ese producto como moneda y como ofrenda en referencia al día toj, ‘dia del pago.’” Aunque esta diosa no tiene día en el calendario K’iche’, sí tiene relación poética con la diosa <em>Ixtziya’</em> dado la interpretación de paralelismo de Colop. Tanto como el día <em>Toj </em>requiere el pago de “multas,” <em>Ixkik’</em> usa esta invocación como su forma de ofrecer ese pago junto con la abundancia de maíz que traerá al hogar de La Abuela.</p>
+<p>Finalmente, hay una cuarta diosa que debemos mencionar. Según afirma Colop (2008: 79, nota 119), la diosa “Ixkakaw hace referencia a ese producto como moneda y como ofrenda en referencia al día toj, ‘dia del pago.’” Aunque esta diosa no tiene día en el calendario K’iche’, sí tiene relación poética con la diosa <em>Ixtziya’</em> dado la interpretación de paralelismo de Colop. Tanto como el día <em>Toj </em>requiere el pago de “multas,” <em>Ixkik’</em> usa esta invocación como su forma de ofrecer ese pago junto con la abundancia de maíz que traerá al hogar de La Abuela.</p>
 
-<p>            La invocación de estas diosas para cumplir la prueba de La Abuela muestra la importancia del tiempo, del calendario, y de las temporadas en el <em>Popol Wuj</em>, sobre todo con la representación física y metafísica de estos conceptos mayas. Este modo de analizar el vínculo entre el tiempo y las fuerzas divinas del texto nos deja entender la estructura del conocimiento maya desde la creación del <em>Popol Wuj </em>hasta su presencia en las comunidades de hoy.</p></description>
+<p>La invocación de estas diosas para cumplir la prueba de La Abuela muestra la importancia del tiempo, del calendario, y de las temporadas en el <em>Popol Wuj</em>, sobre todo con la representación física y metafísica de estos conceptos mayas. Este modo de analizar el vínculo entre el tiempo y las fuerzas divinas del texto nos deja entender la estructura del conocimiento maya desde la creación del <em>Popol Wuj </em>hasta su presencia en las comunidades de hoy.</p></description>
   </topic>
   <topic>
     <title>Guatemala</title>
@@ -1261,7 +1281,7 @@ y que habló por los profetas.</p>
   </topic>
   <topic>
     <title>Ik&#039;oq&#039;ij</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1161</nid>
     <key>IKOQIJ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Morning star / Venus (?)&lt;/li&gt;
@@ -1306,7 +1326,9 @@ y que habló por los profetas.</p>
     <key>IXBAQIYALO</key>
     <ximenez_spa>xbaquíyalo</ximenez_spa>
     <ximenez_quc>xbaquíyalo</ximenez_quc>
-    <description>Description forthcoming.</description>
+    <description><p><em>Ixbaqiyalo</em> is the wife of <em>Jun Junajpu </em>and mother of One Monkey [<em>Jun B'atz' </em>] and One Artisan [<em>Jun Chuwen</em>]. Christenson (2007: 113, note 226) interprets her name's etmology as "<em>x- </em>(lady), <em>baqi</em>, (bone), <em>ya'</em> (water/river), <em>lo</em> (perhaps), yielding Lady Bone Water. Tedlock (1996: 250, note 90) instead interprets her name as Egret Woman following a Yucatec perspective: "<em>x- </em>is 'she of'; <em>b'aqiya' </em>seems equivalent to Yucatec <em>bak' ja'...</em>the Yucatec term for a white heron or egret, while <em>-lo'</em> may be a Yucatec demonstrative suffix meaning 'that.""</p>
+
+<p><em>Ixbaqiyalo </em>es la esposa de <em>Jun Junajpu </em>y la madre de <em>Jun B'atz' </em>y <em>Jun Chuwen</em>. El lingüista Sam Colop (2008: 61, nota 72) explica que "Ixbaquiyalo se compone de los siguientes términos: <em>Ix-</em> marcador femenino, <em>baq</em> hueso, <em>ya</em> o<em> ja'</em> 'agua' y <em>lo</em> término dubitativo". </p></description>
   </topic>
   <topic>
     <title>Ixkakaw e</title>
@@ -1324,23 +1346,23 @@ y que habló por los profetas.</p>
     <key>IXKIK</key>
     <ximenez_spa> xquic</ximenez_spa>
     <ximenez_quc>xquíc </ximenez_quc>
-    <description><p><strong>            </strong>Lady Blood, or <em>Ixkik’</em>, is the daughter of <em>Kuchuma Kik’ </em>(“Gathered Blood”), a Lord of Xibalba. She escapes from Xibalba after being impregnated by the skull of <em>Jun Junajpu</em>. Her encounters during her escape, and her role in the birth of the Hero Twins, <em>Junajpu </em>a <em>Xb’alanke</em>, portrays a powerful female figure in the <em>Popol Wuj </em> in face of the Lords’ desire to sacrifice her.</p>
+    <description><p>Lady Blood, or <em>Ixkik’</em>, is the daughter of <em>Kuchuma Kik’ </em>(“Gathered Blood”), a Lord of Xibalba. She escapes from Xibalba after being impregnated by the skull of <em>Jun Junajpu</em>. Her encounters during her escape, and her role in the birth of the Hero Twins, <em>Junajpu </em>a <em>Xb’alanke</em>, portrays a powerful female figure in the <em>Popol Wuj </em> in face of the Lords’ desire to sacrifice her.</p>
 
-<p>            The symbolism of the name <em>Ixkik’ </em>highlights specific elements of her character and traits that she passes to her children, the Hero Twins. Christenson (2007: 128, note 274) translates her name as “Lady Blood” because “In Maya society, blood is the most precious substance because it bears within itself the spirit or essence of the ancestors…. It is consistent with this view that ‘Lady Blood,’ daughter of an underworld lord, is the means by which the skull of One Hunahpu is able to produce life out of death.” That is, “it was…necessary for One Hunahpu to descend into the underworld to die before a new generation could appear and be capable of overcoming death. The maiden, Lady Blood…As the daughter of one of the principal lords of death, she belonged to the darkness of the underworld. As the consort of One Hunahpu, she had the potential to create new life from death” (ibid: 130, note 278). However, Tedlock (1996: 260) interprets her name as “Blood Moon,” because “In her name <em>Xkik’</em>, the prefix <em>x-</em> makes her feminine, while <em>kik’</em> means ‘blood’ and plays on <em>ik’</em>, ‘moon.’” This double meaning could perhaps be a form of foreshadowing of <em>Xb’alanke</em>, whose name takes on the same feminine prefix and is believed to become the moon after the Hero Twins finish their deeds on the earth.</p>
+<p>The symbolism of the name <em>Ixkik’ </em>highlights specific elements of her character and traits that she passes to her children, the Hero Twins. Christenson (2007: 128, note 274) translates her name as “Lady Blood” because “In Maya society, blood is the most precious substance because it bears within itself the spirit or essence of the ancestors…. It is consistent with this view that ‘Lady Blood,’ daughter of an underworld lord, is the means by which the skull of One Hunahpu is able to produce life out of death.” That is, “it was…necessary for One Hunahpu to descend into the underworld to die before a new generation could appear and be capable of overcoming death. The maiden, Lady Blood…As the daughter of one of the principal lords of death, she belonged to the darkness of the underworld. As the consort of One Hunahpu, she had the potential to create new life from death” (ibid: 130, note 278). However, Tedlock (1996: 260) interprets her name as “Blood Moon,” because “In her name <em>Xkik’</em>, the prefix <em>x-</em> makes her feminine, while <em>kik’</em> means ‘blood’ and plays on <em>ik’</em>, ‘moon.’” This double meaning could perhaps be a form of foreshadowing of <em>Xb’alanke</em>, whose name takes on the same feminine prefix and is believed to become the moon after the Hero Twins finish their deeds on the earth.</p>
 
-<p>            <em>Ixkik’</em> verbalizes the fate of the Lords of Xibalba. After repeatedly telling the owl messengers that she is not a “fornicator,” <em>Ixkik’</em> says that, henceforth, tree sap will be the substitute for blood for the Lords of Xibalba (16v-17r). Christenson (2007: 132, note 287) notes that “blood and tree sap have the same name, <em>kik’</em>, in Quiché.” We see this connection in the <em>Popol Wuj</em> when the Hero Twins finally defeat the Lords of Xibalba and exclaim that they will no longer receive clean blood, only tree sap (31v). This scene thus “fulfills the prophecy of Lady Blood” (ibid: 187, note 431), with only one exception, according to Andrés Xiloj: “it is still said of the Xibalbans that they collect blood spilled on the ground – that is, dirty blood” (Tedlock 1996: 283). In this way, the symbolism of blood continues through lineages, from <em>Jun</em> <em>Junajpu </em>down to the Hero Twins, carrying with them the prophecy of the defeat of the Lords of Xibalba by prohibiting any further sacrifices.</p>
+<p><em>Ixkik’</em> verbalizes the fate of the Lords of Xibalba. After repeatedly telling the owl messengers that she is not a “fornicator,” <em>Ixkik’</em> says that, henceforth, tree sap will be the substitute for blood for the Lords of Xibalba (16v-17r). Christenson (2007: 132, note 287) notes that “blood and tree sap have the same name, <em>kik’</em>, in Quiché.” We see this connection in the <em>Popol Wuj</em> when the Hero Twins finally defeat the Lords of Xibalba and exclaim that they will no longer receive clean blood, only tree sap (31v). This scene thus “fulfills the prophecy of Lady Blood” (ibid: 187, note 431), with only one exception, according to Andrés Xiloj: “it is still said of the Xibalbans that they collect blood spilled on the ground – that is, dirty blood” (Tedlock 1996: 283). In this way, the symbolism of blood continues through lineages, from <em>Jun</em> <em>Junajpu </em>down to the Hero Twins, carrying with them the prophecy of the defeat of the Lords of Xibalba by prohibiting any further sacrifices.</p>
 
-<p>            The role of <em>Ixkik’</em> in the <em>Popol Wuj</em> exemplifies a recurring emphasis on bodily fluids and resins as important symbols. These elements also make her into a defiant character in face of the evil and, at that moment, powerful lords of Xibalba.</p>
+<p>The role of <em>Ixkik’</em> in the <em>Popol Wuj</em> exemplifies a recurring emphasis on bodily fluids and resins as important symbols. These elements also make her into a defiant character in face of the evil and, at that moment, powerful lords of Xibalba.</p>
 
-<p><strong>            </strong><em>Ixkik’</em>, cuyo nombre quiere decir “joven sangre luna” según el lingüista Sam Colop (2008: 72, nota 102), es la hija de <em>Kuchuma Kik’</em>, uno de los Señores de Xibalba. Ella escapa de Xibalba cuando se embaraza de la calavera de <em>Jun Junajpu</em>. Lo que ocurre en su viaje de Xibalba hacia la casa de la Abuela y su rol en el nacimiento de los dos muchachos muestra una figura femenina potente en el <em>Popol Wuj</em>  a pesar de la perseguida de los Señores de Xibalba por su sacrificio.</p>
+<p><em>Ixkik’</em>, cuyo nombre quiere decir “joven sangre luna” según el lingüista Sam Colop (2008: 72, nota 102), es la hija de <em>Kuchuma Kik’</em>, uno de los Señores de Xibalba. Ella escapa de Xibalba cuando se embaraza de la calavera de <em>Jun Junajpu</em>. Lo que ocurre en su viaje de Xibalba hacia la casa de la Abuela y su rol en el nacimiento de los dos muchachos muestra una figura femenina potente en el <em>Popol Wuj</em>  a pesar de la perseguida de los Señores de Xibalba por su sacrificio.</p>
 
-<p>            El simbolismo del nombre <em>Ixkik’</em> enfoca en varios conceptos asociados con su personaje y cómo aquellos conceptos se manifiestan en sus hijos, los dos muchachos. El destacado lingüista k’iche’ Sam Colop (2008: 72, nota 102) explica que el nombre de <em>Ixkik’</em> es compuesto “de los siguientes términos: <em>Ix-</em> es el prefijo femenino y también es diminutivo; <em>kik’ </em>es ‘sangre’; pero <em>ik’ </em>también quiere decir luna…. Según mi parecer, podría traducirse mejor como ‘joven sangre luna.’” Es más, “<em>Ixkik’</em> estando ya embarazada constituye parte esencial del proceso de creación divina. Ella viene del reino de la muerte, Xibalba, y por eso al subir a la superficie terrestre literalmente entra al reino de la vida” (ibid.: 74, nota 103). El hecho de tener un nombre compuesto de aquellos términos pronostica ciertas calidades relacionadas con <em>Xb’alanke</em>. Primeramente, el gemelo menor comparte el mismo prefijo femenino que su madre, entonces lleva parte de ella en su ser. En adelante, cuando los dos muchachos vencen a los señores de Xibalba, <em>Xb’alanke</em> se convierte en la luna, de nuevo comunicándose parte del nombre de su madre.</p>
+<p>El simbolismo del nombre <em>Ixkik’</em> enfoca en varios conceptos asociados con su personaje y cómo aquellos conceptos se manifiestan en sus hijos, los dos muchachos. El destacado lingüista k’iche’ Sam Colop (2008: 72, nota 102) explica que el nombre de <em>Ixkik’</em> es compuesto “de los siguientes términos: <em>Ix-</em> es el prefijo femenino y también es diminutivo; <em>kik’ </em>es ‘sangre’; pero <em>ik’ </em>también quiere decir luna…. Según mi parecer, podría traducirse mejor como ‘joven sangre luna.’” Es más, “<em>Ixkik’</em> estando ya embarazada constituye parte esencial del proceso de creación divina. Ella viene del reino de la muerte, Xibalba, y por eso al subir a la superficie terrestre literalmente entra al reino de la vida” (ibid.: 74, nota 103). El hecho de tener un nombre compuesto de aquellos términos pronostica ciertas calidades relacionadas con <em>Xb’alanke</em>. Primeramente, el gemelo menor comparte el mismo prefijo femenino que su madre, entonces lleva parte de ella en su ser. En adelante, cuando los dos muchachos vencen a los señores de Xibalba, <em>Xb’alanke</em> se convierte en la luna, de nuevo comunicándose parte del nombre de su madre.</p>
 
-<p>            <em>Ixkik’ </em>también muestra su carácter potente en sus hechos de salirse de Xibalba cuando proféticamente afirma la caída de los señores de Xibalba. Según la investigadora Dora Luz Cobián (1999: 68, 71), “La dificultad y lucha que representa Ixquic, con su partida a la superficie de la tierra, comienza inmediatamente después de que la semilla ha sido fecundada”, no obstante su acenso “a la tierra y su abandono de la oscuridad representa lógicamente la llegada de la luz.” Observamos claramente esta vida alucinada con el nacimiento de los dos muchachos, quienes “más tarden derrotan a los señores de Xibalba y ponen fin a su dominación” (ibid.: 67).</p>
+<p><em>Ixkik’ </em>también muestra su carácter potente en sus hechos de salirse de Xibalba cuando proféticamente afirma la caída de los señores de Xibalba. Según la investigadora Dora Luz Cobián (1999: 68, 71), “La dificultad y lucha que representa Ixquic, con su partida a la superficie de la tierra, comienza inmediatamente después de que la semilla ha sido fecundada”, no obstante su acenso “a la tierra y su abandono de la oscuridad representa lógicamente la llegada de la luz.” Observamos claramente esta vida alucinada con el nacimiento de los dos muchachos, quienes “más tarden derrotan a los señores de Xibalba y ponen fin a su dominación” (ibid.: 67).</p>
 
-<p>            De esta manera también se interpreta la escena donde <em>Ixkik’</em> rechaza la pedida de los búhos a regresar a Xibalba para ser sacrificada (16v-17r). Al contrario, sugiere que los mensajeros regresen con la savia del árbol que se endurece igual a su corazón y dice que los señores, de ahí en adelante, jamás podrán quemar un corazón. Esta profecía se cumple con la llegada de los dos muchachos, quienes repiten el mismo orden hacia los señores ya vencidos, que para ellos no será la sangre sino solo la savia del árbol(31v). Entonces, desobedeciendo las ordenes de no acercarse al árbol, <em>Ixkik’</em> llega a asegurar que sus hijos y los demás seres humanos vivan.</p>
+<p>De esta manera también se interpreta la escena donde <em>Ixkik’</em> rechaza la pedida de los búhos a regresar a Xibalba para ser sacrificada (16v-17r). Al contrario, sugiere que los mensajeros regresen con la savia del árbol que se endurece igual a su corazón y dice que los señores, de ahí en adelante, jamás podrán quemar un corazón. Esta profecía se cumple con la llegada de los dos muchachos, quienes repiten el mismo orden hacia los señores ya vencidos, que para ellos no será la sangre sino solo la savia del árbol(31v). Entonces, desobedeciendo las ordenes de no acercarse al árbol, <em>Ixkik’</em> llega a asegurar que sus hijos y los demás seres humanos vivan.</p>
 
-<p>            El personaje de <em>Ixkik’ </em>en el <em>Popol Wuj </em>señala la importancia de ciertos fluidos corporales como símbolos esenciales. En su conjunto las escenas aquí analizadas ponen en relieve la centralidad del personaje femenino potente quien derrota a los poderosos señores de Xibalba.</p></description>
+<p>El personaje de <em>Ixkik’ </em>en el <em>Popol Wuj </em>señala la importancia de ciertos fluidos corporales como símbolos esenciales. En su conjunto las escenas aquí analizadas ponen en relieve la centralidad del personaje femenino potente quien derrota a los poderosos señores de Xibalba.</p></description>
   </topic>
   <topic>
     <title>Ixmukane</title>
@@ -1390,19 +1412,19 @@ y que habló por los profetas.</p>
     <key>XTAJ_XPUCH</key>
     <ximenez_spa>xtah, xpuch</ximenez_spa>
     <ximenez_quc>xtah, xpuch</ximenez_quc>
-    <description><p><strong>            </strong>When the first four K’iche’ men, Balam K’itze’, Balam Aq’ab, Majuk’utaj and Ik’ibalam, begin their sacrificial killings to the gods <em>Tojil, Awilix, </em>and <em>Jakawitz</em>, the enemies of the K’iche’ plan to defeat the K’iche’ and thus avenge the deaths of their people. Their plan involves sending two of their best maidens, <em>Xtaj </em>and <em>Xpuch’</em>, who will wash their clothes in the river where the gods are, and thus offer themselves and their bodies to the gods. As proof of their mission, the nations require the maidens to return with a sign that they indeed offered themselves to the gods. Otherwise, they will kill them upon return. The women return with three robes painted with the images of a jaguar, an eagle, and hornets, although they have failed to seduce the gods. When a lord puts on a robe, the animals come to life. The third cape, painted with hornets, severely stings one of the lords, leading the people to blame the maidens.</p>
+    <description><p>When the first four K’iche’ men, Balam K’itze’, Balam Aq’ab, Majuk’utaj and Ik’ibalam, begin their sacrificial killings to the gods <em>Tojil, Awilix, </em>and <em>Jakawitz</em>, the enemies of the K’iche’ plan to defeat the K’iche’ and thus avenge the deaths of their people. Their plan involves sending two of their best maidens, <em>Xtaj </em>and <em>Xpuch’</em>, who will wash their clothes in the river where the gods are, and thus offer themselves and their bodies to the gods. As proof of their mission, the nations require the maidens to return with a sign that they indeed offered themselves to the gods. Otherwise, they will kill them upon return. The women return with three robes painted with the images of a jaguar, an eagle, and hornets, although they have failed to seduce the gods. When a lord puts on a robe, the animals come to life. The third cape, painted with hornets, severely stings one of the lords, leading the people to blame the maidens.</p>
 
-<p>            The role of Xtaj and Xpuch’ in the <em>Popol Wuj</em> provides insight into the cultural framework of women in Pre-Columbian K’iche’ culture and some of the traditions that continue in contemporary Latin American culture. To understand their roles in the text, first we must understand their names. Christenson (2007: 241, note 640) defines the name of the two women: “<em>X- </em>is the prefix indicating ‘female,’ or a diminutive such as ‘little.’ <em>Taj </em>is ‘sexual desire, lust, or promiscuity’; “in Quiché, <em>Puch’</em> is ‘weeping from illness or pain rather than sadness….’” Christenson (2007: 241, note 641) goes on to cite anthropologist Rudd von Akkeren (2000: 103-105), who “suggests, however, that the name is more likely derived from Kekchi or Poqom, languages spoken by the ancient <em>Amaq</em>’ (Nations) lords. In these languages, <em>puch</em> is ‘washing clothes,’ with the connotation of ‘menstruating,’ meaning the girl is marriageable.”</p>
+<p>The role of Xtaj and Xpuch’ in the <em>Popol Wuj</em> provides insight into the cultural framework of women in Pre-Columbian K’iche’ culture and some of the traditions that continue in contemporary Latin American culture. To understand their roles in the text, first we must understand their names. Christenson (2007: 241, note 640) defines the name of the two women: “<em>X- </em>is the prefix indicating ‘female,’ or a diminutive such as ‘little.’ <em>Taj </em>is ‘sexual desire, lust, or promiscuity’; “in Quiché, <em>Puch’</em> is ‘weeping from illness or pain rather than sadness….’” Christenson (2007: 241, note 641) goes on to cite anthropologist Rudd von Akkeren (2000: 103-105), who “suggests, however, that the name is more likely derived from Kekchi or Poqom, languages spoken by the ancient <em>Amaq</em>’ (Nations) lords. In these languages, <em>puch</em> is ‘washing clothes,’ with the connotation of ‘menstruating,’ meaning the girl is marriageable.”</p>
 
-<p>            One difficult element of the passage, especially for modern readers, is the idea that the nations wanted the women to be violated by the gods. Christenson (2007: 243, note 647) explains the scene as such: “illicit sex is subject to strict social constraints. The most common way today of referring to sex is simply -<em>b’an mak</em> (to do sin), and the meaning is clear without further explanation…the context of this episode would indicate that the daughters were being forced to do something beyond the bounds of propriety. In addition, the nations hoped that they could defeat the gods by enticing them into an act that would destroy their power…” Because the women failed to seduce the gods, however, the <em>Popol Wuj </em>says they become “seductresses,” which Christenson says in K’iche’ is expressed indirectly as a “knee scratcher, <em>Joxol ch’ek</em>,” where “<em>Jox </em>is ‘to have sex,’ and also ‘to hoe or to scratch’” (ibid: 246-7, note 654).</p>
+<p>One difficult element of the passage, especially for modern readers, is the idea that the nations wanted the women to be violated by the gods. Christenson (2007: 243, note 647) explains the scene as such: “illicit sex is subject to strict social constraints. The most common way today of referring to sex is simply -<em>b’an mak</em> (to do sin), and the meaning is clear without further explanation…the context of this episode would indicate that the daughters were being forced to do something beyond the bounds of propriety. In addition, the nations hoped that they could defeat the gods by enticing them into an act that would destroy their power…” Because the women failed to seduce the gods, however, the <em>Popol Wuj </em>says they become “seductresses,” which Christenson says in K’iche’ is expressed indirectly as a “knee scratcher, <em>Joxol ch’ek</em>,” where “<em>Jox </em>is ‘to have sex,’ and also ‘to hoe or to scratch’” (ibid: 246-7, note 654).</p>
 
-<p>            In contrast to these etymological readings, Tedlock (1996: 310) proposes an argument for the presence of the Latin American tale of <em>La Llorona</em>, a mother who drowned her own children and now haunts rivers, used as a tale to caution children against wandering off from their parents. He claims that <em>puch’ </em>is translated with “the Spanish term llorón (Llorona in its feminine form), which refers to a person who cries a lot. This confirms my argument…that these women are the pre-Columbian predecessors of the figure known as La Llorona in the Hispanic folklore of Mesoamerica and the Southwest United States…” This interpretation accords with <em>Xtaj </em>and <em>Xpuch’ </em>going to the river, failing their seduction, and being punished by the lords as a result. The prevalence of this tale in Mesoamerica would ground its origins as an Indigenous story that spread out extensively in the colonial period, and remains a tale that parents tell their children today.</p>
+<p>In contrast to these etymological readings, Tedlock (1996: 310) proposes an argument for the presence of the Latin American tale of <em>La Llorona</em>, a mother who drowned her own children and now haunts rivers, used as a tale to caution children against wandering off from their parents. He claims that <em>puch’ </em>is translated with “the Spanish term llorón (Llorona in its feminine form), which refers to a person who cries a lot. This confirms my argument…that these women are the pre-Columbian predecessors of the figure known as La Llorona in the Hispanic folklore of Mesoamerica and the Southwest United States…” This interpretation accords with <em>Xtaj </em>and <em>Xpuch’ </em>going to the river, failing their seduction, and being punished by the lords as a result. The prevalence of this tale in Mesoamerica would ground its origins as an Indigenous story that spread out extensively in the colonial period, and remains a tale that parents tell their children today.</p>
 
-<p><strong>            </strong>Los sacrificios de las tribus hechos por los líderes del pueblo k’iche’, Balam K’itze’, Balam Aq’ab, Majuk’utaj e Ik’ibalam, a los dioses <em>Tojil, Awilix, </em>and <em>Jakawitz </em>causa angustia y rencor para las demás tribus, los enemigos de los k’iche’. Para vencer a la tribu k’iche’, los líderes de los otros pueblos deciden mandar a dos de sus mujeres, <em>Xtaj </em>y <em>Xpuch’</em>, al río donde se encuentran los tres señalados dioses. Ahí, fingiendo lavar la ropa, las mujeres desnudas se ofrecerán a los dioses. Los líderes de los pueblos enemigos insisten en que ellas tomen un signo de los dioses con el cual se constata que el acto de sexo sí pasó. Si no regresan con aquel signo, los señores dicen que las matarán. Aunque no se entregan a los dioses, las mujeres vuelven después de un tiempo con tres lienzos pintados con tres animales, un jaguar, un águila, y avispas. El hecho de ponerse el lienzo anima a los animales que están pintados en ellos. El tercer lienzo, pintado de avispas, pica al señor que se lo pone, y entonces viendo que los dioses mandaron estos lienzos como trampas, los señores culpaban a las mujeres.</p>
+<p>Los sacrificios de las tribus hechos por los líderes del pueblo k’iche’, Balam K’itze’, Balam Aq’ab, Majuk’utaj e Ik’ibalam, a los dioses <em>Tojil, Awilix, </em>and <em>Jakawitz </em>causa angustia y rencor para las demás tribus, los enemigos de los k’iche’. Para vencer a la tribu k’iche’, los líderes de los otros pueblos deciden mandar a dos de sus mujeres, <em>Xtaj </em>y <em>Xpuch’</em>, al río donde se encuentran los tres señalados dioses. Ahí, fingiendo lavar la ropa, las mujeres desnudas se ofrecerán a los dioses. Los líderes de los pueblos enemigos insisten en que ellas tomen un signo de los dioses con el cual se constata que el acto de sexo sí pasó. Si no regresan con aquel signo, los señores dicen que las matarán. Aunque no se entregan a los dioses, las mujeres vuelven después de un tiempo con tres lienzos pintados con tres animales, un jaguar, un águila, y avispas. El hecho de ponerse el lienzo anima a los animales que están pintados en ellos. El tercer lienzo, pintado de avispas, pica al señor que se lo pone, y entonces viendo que los dioses mandaron estos lienzos como trampas, los señores culpaban a las mujeres.</p>
 
-<p>            Xtaj y Xpuch’ juegen papeles importantes en el <em>Popol Wuj</em>. Sus roles textuales nos permiten entender algunos matices culturales de la época precolombina y la influencia de los mismos en el entorno contemporáneo. Para poder entender el significado narrativa-cultural de estas figuras femeninas, es preciso entender sus nombres. El lingüista k’iche’ Sam Colop (2008: 170, nota 274) explica los nombres así, diciendo que “estos nombres quieren decir: <em>Ixtaj </em>‘niña’ en kaqchikel; <em>Ixpuch’</em> ‘tierna’ en k’iche’ como cuando una fruta todavía no está madura. El marcador femenino en ambos casos es <em>ix-</em>.” El destacado lingüista Adrián Recinos (1952: 156, nota 4) cita al lingüista francés Charles Brasseur, quien interpreta los nombres con etimologías mesoamericas, no en términos que pertenecen exclusivamente al pueblo k’iche’: “<em>Ixtah </em>es muchacha en cakchiquel. <em>Ichpoch </em>significa muchacha también en náhuatl.” En cambio, Dora Luz Cobián (1999: 103), profesora de literatura hispanoamericana en The University of Southern Colorado, Estados Unidos, analiza la escena a través de la teoría feminista: “El simbolismo que encierran estos nombres es obvio, el interés se centra en la sumisión, en la apariencia física, y en la posibilidad de que su belleza despierte apetitos sexuales…. Por encima de todo, el nombre genérico ‘doncella’ aparentemente irrelevante por ocupar un lugar que corresponde a un nombre propio, nos obliga a leerlo casi exclusivamente a través de si significado primario, vale decir, colocando el énfasis en la virginidad.” Tal como indica este análisis, hay una diferencia importante entre el regíster y el tono del texto k’iche’ y su traducción al castellano, donde sí encontramos la voz “doncella.”</p>
+<p>Xtaj y Xpuch’ juegen papeles importantes en el <em>Popol Wuj</em>. Sus roles textuales nos permiten entender algunos matices culturales de la época precolombina y la influencia de los mismos en el entorno contemporáneo. Para poder entender el significado narrativa-cultural de estas figuras femeninas, es preciso entender sus nombres. El lingüista k’iche’ Sam Colop (2008: 170, nota 274) explica los nombres así, diciendo que “estos nombres quieren decir: <em>Ixtaj </em>‘niña’ en kaqchikel; <em>Ixpuch’</em> ‘tierna’ en k’iche’ como cuando una fruta todavía no está madura. El marcador femenino en ambos casos es <em>ix-</em>.” El destacado lingüista Adrián Recinos (1952: 156, nota 4) cita al lingüista francés Charles Brasseur, quien interpreta los nombres con etimologías mesoamericas, no en términos que pertenecen exclusivamente al pueblo k’iche’: “<em>Ixtah </em>es muchacha en cakchiquel. <em>Ichpoch </em>significa muchacha también en náhuatl.” En cambio, Dora Luz Cobián (1999: 103), profesora de literatura hispanoamericana en The University of Southern Colorado, Estados Unidos, analiza la escena a través de la teoría feminista: “El simbolismo que encierran estos nombres es obvio, el interés se centra en la sumisión, en la apariencia física, y en la posibilidad de que su belleza despierte apetitos sexuales…. Por encima de todo, el nombre genérico ‘doncella’ aparentemente irrelevante por ocupar un lugar que corresponde a un nombre propio, nos obliga a leerlo casi exclusivamente a través de si significado primario, vale decir, colocando el énfasis en la virginidad.” Tal como indica este análisis, hay una diferencia importante entre el regíster y el tono del texto k’iche’ y su traducción al castellano, donde sí encontramos la voz “doncella.”</p>
 
-<p>            Por eso, para poder entender el complejo e importante rol de las figuras Xtaj y Xpuch’, tenemos que consultar al texto maya. Por su parte el lingüísta k’iche’ Colop (2008: 173, nota 281) muestra un error lingüístico que probablemente ha contribuido a la interpretación de la explotación y abuso sexual de las figuras feminas. El <em>Popol Wuj </em>lee, en el castellano del padre Ximénez, “y loq’ querían era q’se fuesen el tohíl, tras las dos / donçellas, xtah, y xpuch, y q’vbíesen sido rameras,” y en el texto k’iche’, “chiquih xtah /  xpuch eta hoxol chec xevxic” (45r). La mayoría de los traductores han interpretado estas líneas igual que Ximénez – es decir, que las tribus quieren que las mujeres se hacen prostitutas. En cambio, Colop (2008: 173, nota 281) observa que “Esa línea forma un verso paralelo con la línea anterior donde se encuentra inserto el verso paralelo que identifica a <em>Ixtaj </em>y <em>Ixpuch’</em>, y se sigue hablando de los de <em>Tojil</em>, no de las doncellas como la gran mayoría de los traductores han leído. Se está hablando de las deidades como ‘fornicantes’…” causando “confusión para atribuirles a las doncellas, una actividad para hacer caer a las deidades”. La interpretación de Colop, basada en el texto k’iche’, confirma que el plan de los enemigos del pueblo k’iche’ es mandar a las mujeres para que éstas tienten a los dioses malos, y así queden vencidos por su propia falta de control.</p></description>
+<p>Por eso, para poder entender el complejo e importante rol de las figuras Xtaj y Xpuch’, tenemos que consultar al texto maya. Por su parte el lingüísta k’iche’ Colop (2008: 173, nota 281) muestra un error lingüístico que probablemente ha contribuido a la interpretación de la explotación y abuso sexual de las figuras feminas. El <em>Popol Wuj </em>lee, en el castellano del padre Ximénez, “y loq’ querían era q’se fuesen el tohíl, tras las dos / donçellas, xtah, y xpuch, y q’vbíesen sido rameras,” y en el texto k’iche’, “chiquih xtah /  xpuch eta hoxol chec xevxic” (45r). La mayoría de los traductores han interpretado estas líneas igual que Ximénez – es decir, que las tribus quieren que las mujeres se hacen prostitutas. En cambio, Colop (2008: 173, nota 281) observa que “Esa línea forma un verso paralelo con la línea anterior donde se encuentra inserto el verso paralelo que identifica a <em>Ixtaj </em>y <em>Ixpuch’</em>, y se sigue hablando de los de <em>Tojil</em>, no de las doncellas como la gran mayoría de los traductores han leído. Se está hablando de las deidades como ‘fornicantes’…” causando “confusión para atribuirles a las doncellas, una actividad para hacer caer a las deidades”. La interpretación de Colop, basada en el texto k’iche’, confirma que el plan de los enemigos del pueblo k’iche’ es mandar a las mujeres para que éstas tienten a los dioses malos, y así queden vencidos por su propia falta de control.</p></description>
   </topic>
   <topic>
     <title>Ixtoj</title>
@@ -1442,7 +1464,7 @@ y que habló por los profetas.</p>
   </topic>
   <topic>
     <title>Jaqawitz</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>831</nid>
     <key>LUGAR_DE_JAQAWITZ</key>
     <ximenez_spa> zero hacauítz</ximenez_spa>
@@ -1545,7 +1567,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Julisnab</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1045</nid>
     <key>JULISNAB</key>
     <ximenez_spa>huliznab</ximenez_spa>
@@ -1563,7 +1585,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Jumeta Ja</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1175</nid>
     <key>JUMETA_JA</key>
     <ximenez_spa>humetabs</ximenez_spa>
@@ -1622,7 +1644,9 @@ y su reino no tendrá fin.</p>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/kerr%205615%20jun%20junajpu%27s%20head%20in%20a%20cacao%20tree.jpeg?itok=YIXIH3o-" width="100" height="60" alt="http://research.mayavase.com/kerrmaya_hires.php?vase=5615" title="Kerr #5615: &quot;After his beheading by the Lords of the Otherworld, Hun Hunaphu&#039;s head is hung in a cacao tree.&quot;" /></image>
     <description><p>Christenson (2007: note 163, page 81) notes the difficult nature of interpreting the name of the father of the Hero Twins. He writes, "The father of the culture hero Hunahpu is named Hun Hunahpu, which if translated literally would mean 'One One Master of the Blowgun,' a needlessly redundant reading unless Hunahpu were meant to be read as a single untranslated name."</p>
 
-<p>Tedlock (1996: 351) prefers the translation "One Hunahpu," to refer to the figure who is "the father, by Egret Woman [Ixbaqiyalo], of One Monkey [Jun Batz] and one Artisan [Jun Chowen]; later, both One and Seven Hunahpu [Jun Junajpu, Wuqub Junajpu] become the fathers, by Blood Moon [Ixkik'], of twins named Hunahpu and Xbalanque. By bringing the face of the deceased Seven Hunahpu back to life, the twins initiate morning-star appearances of the planet Venus that begins on days named Hunahpu."</p></description>
+<p>Tedlock (1996: 351) prefers the translation "One Hunahpu," to refer to the figure who is "the father, by Egret Woman [Ixbaqiyalo], of One Monkey [Jun Batz] and one Artisan [Jun Chowen]; later, both One and Seven Hunahpu [Jun Junajpu, Wuqub Junajpu] become the fathers, by Blood Moon [Ixkik'], of twins named Hunahpu and Xbalanque. By bringing the face of the deceased Seven Hunahpu back to life, the twins initiate morning-star appearances of the planet Venus that begins on days named Hunahpu."</p>
+
+<p>Sam Colop (2008: 61fn70) observa que la voz "Junajpu", también escrita como "ajpu" se refiere al día del calendario maya k'iche'. El nombre calendárico señala su importancia en la cosmovisón maya, ya que Jun Junajpu es el hijo de Xpiyakok e Ixmukane, el hermano de Wuqub Junajpu y el padre de Junajpu y Xbalanke.</p></description>
   </topic>
   <topic>
     <title>Jun Kame</title>
@@ -1633,7 +1657,9 @@ y su reino no tendrá fin.</p>
 &lt;/ul&gt;</english_name>
     <ximenez_spa>huncame</ximenez_spa>
     <ximenez_quc>huncame</ximenez_quc>
-    <description><p>Jun Kame [One Death] is one of the principal lords of Xibalba along with Wuqub' Kame [Seven Death]. Tedlock (1996: 251) explains that the name of Jun Kame is a reference to the day number one and day name Kame on the K'iche' calendar. For more information, see the entry on "Jun Kame and Wuqub' Kame."</p></description>
+    <description><p>Jun Kame [One Death] is one of the principal lords of Xibalba along with Wuqub' Kame [Seven Death]. Tedlock (1996: 251) explains that the name of Jun Kame is a reference to the day number one and day name Kame on the K'iche' calendar. For more information, see the entry on "<a href="http://live-multepal.pantheonsite.io/tema/junkamewuqubkame">Jun Kame and Wuqub' Kame</a>."</p>
+
+<p>El dios Jun Kame (Uno Muerte) es uno de los señores de Xibalbá. Está vinculado principalmente con su par Wuqub' Kame (Siete Muerte). Señala el destacado lingüísta Sam Colop (2008: 62fn76) el significado simbólico del nombre de la figura divina en el calendario y la cosmovisión k'iche'. Kame, un día del calendario maya, se asocia con el número <em>wuqub</em>' (siete), a través de los señores de Xibalba. Escribe Colop, "aquí aparecen los números 1 y 7 que a mi parecer equivalen a inicio y el fin. Cuando se combinan los 13 números del calendario con los 20 nombres de los días, comenzando con el número 1, indefectiblemente se termina con el 7. En términos matemáticos, la suma de 1 y 7 es igual a 8, <em>wajxaqib</em>, el número convencional que equivale al todo. De aquí una razón que el ciclo de 260 días comienza con el día <em>Batz’</em> y con el número 8.”</p></description>
   </topic>
   <topic>
     <title>Jun Kame and Wuqub&#039; Kame</title>
@@ -1642,21 +1668,21 @@ y su reino no tendrá fin.</p>
     <key>JUN_KAME_WUQUB_KAME</key>
     <ximenez_spa>hun came, vvqub kame</ximenez_spa>
     <ximenez_quc>hun came, vvqub came</ximenez_quc>
-    <description><p><strong>            </strong><em>Jun Kame </em>(One Death) and <em>Wuqub’ Kame </em>(Seven Death) are the principal deities of the realm of Xibalba. Their names represent the K’iche’ calendar dates of <em>Kame</em>, a day generally associated with the word for death (<em>kämikal</em>). They are first introduced in <em>Popol Wuj </em>when they are disturbed by the ball playing of <em>Jun Junajpu </em>and <em>Wuqub’ Junajpu</em>. Their most important moment in the text is arguably their defeat by the Hero Twins <em>Junajpu </em>and <em>Xb’alanke</em>, marking the end of their powerful rule over the existing world. Like many other deities in the <em>Popol Wuj</em>, the calendric nature of their names provides insight into the role played by the K’iche’ time system in describing and predicting the patterns of the Mayan world.</p>
+    <description><p><em>Jun Kame </em>(One Death) and <em>Wuqub’ Kame </em>(Seven Death) are the principal deities of the realm of Xibalba. Their names represent the K’iche’ calendar dates of <em>Kame</em>, a day generally associated with the word for death (<em>kämikal</em>). They are first introduced in <em>Popol Wuj </em>when they are disturbed by the ball playing of <em>Jun Junajpu </em>and <em>Wuqub’ Junajpu</em>. Their most important moment in the text is arguably their defeat by the Hero Twins <em>Junajpu </em>and <em>Xb’alanke</em>, marking the end of their powerful rule over the existing world. Like many other deities in the <em>Popol Wuj</em>, the calendric nature of their names provides insight into the role played by the K’iche’ time system in describing and predicting the patterns of the Mayan world.</p>
 
-<p>            An analysis of the calendric significance of these deities reveals an emphasis on the temporal nature of the <em>Popol Wuj</em>. Tedlock (1996: 251) explains that <em>Kame</em> “shares the same root with such forms as <em>kamel</em>, ‘dead person,’ but it is not the ordinary term for ‘death’ (that would be <em>kamik</em> or <em>kamikal</em>). One and Seven Death are treated in the narrative as two persons…but their numbers show that they represent all thirteen possible days bearing the name Death.” Daykeeper (<em>ajq’ij </em>in K’iche’) Andrés Xoloj adds, “combining the numbers 1 and 7 with a given day name is a conventional way of indicating all 13 days bearing that name” because, within the 260-day cycle of the calendar, the days bearing the name of a specific calendar name “fall out in the sequence 1, 8, 2, 9, 3, 10, 4, 11, 5, 12, 6, 13, and 7” (ibid). Thus, because <em>Jun Kame</em> and <em>Wuqub’</em> <em>Kame </em>bear these specific names, they represent <em>Kame </em>as a whole.</p>
+<p>An analysis of the calendric significance of these deities reveals an emphasis on the temporal nature of the <em>Popol Wuj</em>. Tedlock (1996: 251) explains that <em>Kame</em> “shares the same root with such forms as <em>kamel</em>, ‘dead person,’ but it is not the ordinary term for ‘death’ (that would be <em>kamik</em> or <em>kamikal</em>). One and Seven Death are treated in the narrative as two persons…but their numbers show that they represent all thirteen possible days bearing the name Death.” Daykeeper (<em>ajq’ij </em>in K’iche’) Andrés Xoloj adds, “combining the numbers 1 and 7 with a given day name is a conventional way of indicating all 13 days bearing that name” because, within the 260-day cycle of the calendar, the days bearing the name of a specific calendar name “fall out in the sequence 1, 8, 2, 9, 3, 10, 4, 11, 5, 12, 6, 13, and 7” (ibid). Thus, because <em>Jun Kame</em> and <em>Wuqub’</em> <em>Kame </em>bear these specific names, they represent <em>Kame </em>as a whole.</p>
 
-<p>            According to the <em>Chol Q’ij</em>, or the traditional Mayan calendar, the day <em>Kame </em>is related to themes and symbols from Xibalba. <em>Kame</em> “comes from the word ‘death.’ It encompasses the good and the bad. It is the nawal of the Sun. It means death and the owl that announces death from the trees. On this day, people ask to be free of bad choices and accidents” (“The Meaning of the Days…”). Barbara Tedlock (1992: 107), studying the function of time for the highland Maya, relates that day names, even those that seem easily translatable, are not viewed as simple to K’iche diviners; “rather, a given day name is interpreted by means of mnemonic phrases that map the meanings of the days in terms of the social actions that characterize them.” Specifically, on the day <em>Kame</em>, she writes, “The mnemonics for Came are <em>camej lal rutz’il</em> (‘asking for good’), <em>camical </em>(‘the deceased’), and <em>c’ulanem </em>(‘marriage’). The day Came is primarily associated with <em>camej lal rutz’il </em>(‘asking for good’) for oneself as well as for one’s family and clients” (ibid: 112). Though the <em>Chol Q’ij</em> describes the day <em>Kame </em>through its origin and associated symbols, like the messenger owls who appear in several scenes in the <em>Popol Wuj</em> (for instance, see 13r-14r, 16v-17r, 22r-23r). Barbara Tedlock’s analysis emphasizes the social influence of these days by the K’iche’ daykeepers.</p>
+<p>According to the <em>Chol Q’ij</em>, or the traditional Mayan calendar, the day <em>Kame </em>is related to themes and symbols from Xibalba. <em>Kame</em> “comes from the word ‘death.’ It encompasses the good and the bad. It is the nawal of the Sun. It means death and the owl that announces death from the trees. On this day, people ask to be free of bad choices and accidents” (“The Meaning of the Days…”). Barbara Tedlock (1992: 107), studying the function of time for the highland Maya, relates that day names, even those that seem easily translatable, are not viewed as simple to K’iche diviners; “rather, a given day name is interpreted by means of mnemonic phrases that map the meanings of the days in terms of the social actions that characterize them.” Specifically, on the day <em>Kame</em>, she writes, “The mnemonics for Came are <em>camej lal rutz’il</em> (‘asking for good’), <em>camical </em>(‘the deceased’), and <em>c’ulanem </em>(‘marriage’). The day Came is primarily associated with <em>camej lal rutz’il </em>(‘asking for good’) for oneself as well as for one’s family and clients” (ibid: 112). Though the <em>Chol Q’ij</em> describes the day <em>Kame </em>through its origin and associated symbols, like the messenger owls who appear in several scenes in the <em>Popol Wuj</em> (for instance, see 13r-14r, 16v-17r, 22r-23r). Barbara Tedlock’s analysis emphasizes the social influence of these days by the K’iche’ daykeepers.</p>
 
-<p>            Although <em>Jun Kame </em>and <em>Wuqub’ Kame </em>appear to be the main deities of Xibalba, their association with the K’iche’ calendar and their influence in social aspects reinforce the importance of time for the K’iche’ in defining the world and explaining how it defines them.</p>
+<p>Although <em>Jun Kame </em>and <em>Wuqub’ Kame </em>appear to be the main deities of Xibalba, their association with the K’iche’ calendar and their influence in social aspects reinforce the importance of time for the K’iche’ in defining the world and explaining how it defines them.</p>
 
-<p><strong>            </strong><em>Jun Kame </em>y <em>Wuqub’ Kame </em>son las deidades principales de Xibalba. Sus nombres representan el día del calendario k’iche’ <em>Kame</em>, el cual es frecuentemente asociado con la muerte. En el <em>Popol Wuj</em>, los señores se presentan primeramente con su molestia ante la aparencia de <em>Jun Junajpu </em>y <em>Wuqub’ Junajpu</em> en el juego de pelota . La escena principal de las deidades Jun Kame y Wuqub’ Kame es, quizá, el episodio en el cual son vencidos por los dos muchachos, <em>Junajpu </em>e <em>Xb’alanke</em>. Con esta derrota, pues, terminan su fuerza como deidades de la maldad del mundo maya. Como otras deidades en el <em>Popol Wuj</em>, la asociación de su nombre con el calendario k’iche’ señala el significado del sistema temporal de los k’iche’s para explicar y pronosticar los hechos recurrentes de su mundo.</p>
+<p><em>Jun Kame </em>y <em>Wuqub’ Kame </em>son las deidades principales de Xibalba. Sus nombres representan el día del calendario k’iche’ <em>Kame</em>, el cual es frecuentemente asociado con la muerte. En el <em>Popol Wuj</em>, los señores se presentan primeramente con su molestia ante la aparencia de <em>Jun Junajpu </em>y <em>Wuqub’ Junajpu</em> en el juego de pelota . La escena principal de las deidades Jun Kame y Wuqub’ Kame es, quizá, el episodio en el cual son vencidos por los dos muchachos, <em>Junajpu </em>e <em>Xb’alanke</em>. Con esta derrota, pues, terminan su fuerza como deidades de la maldad del mundo maya. Como otras deidades en el <em>Popol Wuj</em>, la asociación de su nombre con el calendario k’iche’ señala el significado del sistema temporal de los k’iche’s para explicar y pronosticar los hechos recurrentes de su mundo.</p>
 
-<p>            Un análisis del significado calendario de estas deidades identifica la importancia de la naturaleza temporal del <em>Popol Wuj</em>. El destacado lingüista k’iche’ Sam Colop (2008: 62, nota 76) explica, “<em>Kame </em>es un día del calendario. De nuevo, aquí aparecen los números 1 y 7 que a mí parecer equivalen a inicio y fin. Cuando se combinan los 13 números del calendario con los 20 nombres de los días, comenzando con el número 1, indefectiblemente se termina con el 7.” Aunque será fácil leer los nombres de las dos deidades como personajes distintos, en realidad su significado se expresa juntamente. De hecho, si uno agregará los números de sus días, “la suma de 1 y 7 es igual a 9, <em>wajxaqib’</em>, el número convencional que equivale al todo” (ibid.). Entonces, los nombres de estas deidades no solo representan su día en el calendario sino también representan el concepto cosmológico del todo.</p>
+<p>Un análisis del significado calendario de estas deidades identifica la importancia de la naturaleza temporal del <em>Popol Wuj</em>. El destacado lingüista k’iche’ Sam Colop (2008: 62, nota 76) explica, “<em>Kame </em>es un día del calendario. De nuevo, aquí aparecen los números 1 y 7 que a mí parecer equivalen a inicio y fin. Cuando se combinan los 13 números del calendario con los 20 nombres de los días, comenzando con el número 1, indefectiblemente se termina con el 7.” Aunque será fácil leer los nombres de las dos deidades como personajes distintos, en realidad su significado se expresa juntamente. De hecho, si uno agregará los números de sus días, “la suma de 1 y 7 es igual a 9, <em>wajxaqib’</em>, el número convencional que equivale al todo” (ibid.). Entonces, los nombres de estas deidades no solo representan su día en el calendario sino también representan el concepto cosmológico del todo.</p>
 
-<p>            Según el <em>Chol Q’ij</em>, el calendario divino del pueblo k’iche’, el día <em>Kame </em>viene de la voz ‘muerte.’ Apunta el calendario, “Pronostica lo bueno y lo malo. Es el nawal del Sol. Significa muerte, el búho que anuncia desde los árboles. Se le pide que nos libere de los malos caminos y accidentes” (El significado de los días…”). Esta descripción hace hincapié en los símbolos que se asocian con Xibalba, entre ellos los búhos que trabajan como los mensajeros de los señores de Xibalba (por ejemplo, 13r-14r, 16v-17r, 22r-23r). Además del simbolismo discursivo, la liberación de los “malos caminos” se puede interpretar como los colores de los caminos en que se encuentran los dos pares (<em>Jun Junajpu </em>y <em>Wuqub’ Junajpu</em>; <em>Junajpu </em>e <em>Xb’alanke</em>) cuando van rumbo a Xibalba ya que son invitados por los Señores de Xibalba. Para el primer par, estos caminos los llevan hacia la muerte; para los últimos, estos caminos los llevan a vencer a <em>Jun Kame </em>y <em>Wuqub’ Kame</em>.</p>
+<p>Según el <em>Chol Q’ij</em>, el calendario divino del pueblo k’iche’, el día <em>Kame </em>viene de la voz ‘muerte.’ Apunta el calendario, “Pronostica lo bueno y lo malo. Es el nawal del Sol. Significa muerte, el búho que anuncia desde los árboles. Se le pide que nos libere de los malos caminos y accidentes” (El significado de los días…”). Esta descripción hace hincapié en los símbolos que se asocian con Xibalba, entre ellos los búhos que trabajan como los mensajeros de los señores de Xibalba (por ejemplo, 13r-14r, 16v-17r, 22r-23r). Además del simbolismo discursivo, la liberación de los “malos caminos” se puede interpretar como los colores de los caminos en que se encuentran los dos pares (<em>Jun Junajpu </em>y <em>Wuqub’ Junajpu</em>; <em>Junajpu </em>e <em>Xb’alanke</em>) cuando van rumbo a Xibalba ya que son invitados por los Señores de Xibalba. Para el primer par, estos caminos los llevan hacia la muerte; para los últimos, estos caminos los llevan a vencer a <em>Jun Kame </em>y <em>Wuqub’ Kame</em>.</p>
 
-<p>            Aunque se supone que <em>Jun Kame </em>y <em>Wuqub’ Kame</em> son los más poderosos señores de Xibalba, cabe señalar que su asociación con el calendario k’iche’ evidencia la importancia del tiempo en el <em>Popol Wuj </em>y en la cultura k’iche’. Señala a su vez cómo los k’iche’s han interpretado el mundo y cómo el mismo ha marcado la vida de los pueblos maya. </p></description>
+<p>Aunque se supone que <em>Jun Kame </em>y <em>Wuqub’ Kame</em> son los más poderosos señores de Xibalba, cabe señalar que su asociación con el calendario k’iche’ evidencia la importancia del tiempo en el <em>Popol Wuj </em>y en la cultura k’iche’. Señala a su vez cómo los k’iche’s han interpretado el mundo y cómo el mismo ha marcado la vida de los pueblos maya. </p></description>
   </topic>
   <topic>
     <title>Jun Tijax</title>
@@ -1705,19 +1731,19 @@ y su reino no tendrá fin.</p>
     <ximenez_quc>hun ahpu coy</ximenez_quc>
     <description><p>Once the Hero Twins transform their elder brothers One Monkey (<em>Junb’atz’</em>) and One Artisan (<em>Junchuwen</em>)<em>,</em> into spider monkeys, they test their grandmother’s ability to avoid laughing at the Artisan Brothers. They conduct this test through “Hunahpu Spider Monkey,” a song played with the flute and the drum. Unfortunately, each time “víendo la víeja los malos gestos q’que hacían, y sus malas caras, víendo esto serío q’que no pudo sufrír la rísa / iꜩel qui vach xril atit ta xꜩeenic maui xucui vꜩe atit” [the grandmother saw the funny gestures and faces they (One Monkey and One Artisan) made and could not contain her laughter] (19v).</p>
 
-<p>            Tedlock defines the song played by the hero twins as “<em>Junajpu k’oy</em>,” or the “title of a tune played by Hunahpu and Xbalanque.” He adds that “Today in Guatemala there are numerous Mayan towns whose fiestas include a Monkey Dance. The version done in Momostenango seems to confirm the celestial aspect of One Monkey and One Artisan: two monkeys, with stars on their costumes, climb a high pole and do acrobatics on a tightrope” (1996: 344). Andrés Xiloj adds, “These monkeys, when they come out here in the fiesta, they scratch themselves, and do their mouths this way [touches himself all around the mouth], as if they had fleas and lice” (Tedlock 1985: 280).  </p>
+<p>Tedlock defines the song played by the hero twins as “<em>Junajpu k’oy</em>,” or the “title of a tune played by Hunahpu and Xbalanque.” He adds that “Today in Guatemala there are numerous Mayan towns whose fiestas include a Monkey Dance. The version done in Momostenango seems to confirm the celestial aspect of One Monkey and One Artisan: two monkeys, with stars on their costumes, climb a high pole and do acrobatics on a tightrope” (1996: 344). Andrés Xiloj adds, “These monkeys, when they come out here in the fiesta, they scratch themselves, and do their mouths this way [touches himself all around the mouth], as if they had fleas and lice” (Tedlock 1985: 280).  </p>
 
-<p>            Garrett Cook and Thomas Offit with the Foundation for the Advancement of Mesoamerican Studies, Inc. (FAMSI) describe the Monkey Dance as difficult, “not for the faint hearted nor for those who are not committed to the endeavor, or as the Momostecans put it, ‘of one heart.’ The dangerous tests (<em>pruebas</em>) on the rope, 70 feet in the air above the plaza, are only accomplished by those with strong faith…” (2007: 11). This difficulty has cosmological significance. During the practice sessions for the Monkeys Dance, “the Milky Way runs across the sky from north to south in January, the time of frosts,” making the symbolic connection of the Milky Way as a “sign of frost” (ibid: 10). In Momostenango, “The reason to dance was to please Patrón Santiago,” their patron saint, “thus acquiring his protection” (ibid: 11). Despite its roots in Native lore, the dance’s connection to a patron saint shows a cultural change with the forcefully embedded Catholic faith.</p>
+<p>Garrett Cook and Thomas Offit with the Foundation for the Advancement of Mesoamerican Studies, Inc. (FAMSI) describe the Monkey Dance as difficult, “not for the faint hearted nor for those who are not committed to the endeavor, or as the Momostecans put it, ‘of one heart.’ The dangerous tests (<em>pruebas</em>) on the rope, 70 feet in the air above the plaza, are only accomplished by those with strong faith…” (2007: 11). This difficulty has cosmological significance. During the practice sessions for the Monkeys Dance, “the Milky Way runs across the sky from north to south in January, the time of frosts,” making the symbolic connection of the Milky Way as a “sign of frost” (ibid: 10). In Momostenango, “The reason to dance was to please Patrón Santiago,” their patron saint, “thus acquiring his protection” (ibid: 11). Despite its roots in Native lore, the dance’s connection to a patron saint shows a cultural change with the forcefully embedded Catholic faith.</p>
 
-<p>            The concept of animal transformation accompanied by music extends to other Mayan communities as well, in particular the Jakaltek Maya in the western Guatemalan village of San Miguel Acatán. Morris Siegel (1943: 123) relates a creation myth in which “God” manifests as a younger brother of abusive older brothers. The younger brother admires the dance of the older brothers, performed with drums and a “chirimía,” a double-reed flute-like instrument. The younger brother then forms his own superior dance. When the older brothers ask how he learned this dance, the younger brother leads them to “the seat of a very great tree” and tells “them to climb up [the tree]…. The tree continued to grow, going very far up.” The younger brother leaves the brothers in the tree and goes home, where he is reprimanded by his mother when she finds out that the brothers have turned into animals. When she asks the animals in the tree if they are the older brothers, they shake the tree, causing “some refuse” to fall “in her eye, and [in anger] she commanded that they should remain like animals for all time.” Siegel points out that “Catholic and Indian elements obtrude at various points,” such as the naming of the younger brother as “Our Father God” and the specification of the older brothers as the “Ancient Men,” which is “generally translated as ‘the Jews’” (ibid: 121; note 6). In this way, “the transformation of the Ancient Men into animals (i.e., monkeys) and the reasons given for this transformation undoubtedly derive from ancient native lore” (ibid: 126). Though the music functions differently in this story than it does in the <em>Popol Wuj</em>, the progression of the myth is still connected to a particular musical performance.</p>
+<p>The concept of animal transformation accompanied by music extends to other Mayan communities as well, in particular the Jakaltek Maya in the western Guatemalan village of San Miguel Acatán. Morris Siegel (1943: 123) relates a creation myth in which “God” manifests as a younger brother of abusive older brothers. The younger brother admires the dance of the older brothers, performed with drums and a “chirimía,” a double-reed flute-like instrument. The younger brother then forms his own superior dance. When the older brothers ask how he learned this dance, the younger brother leads them to “the seat of a very great tree” and tells “them to climb up [the tree]…. The tree continued to grow, going very far up.” The younger brother leaves the brothers in the tree and goes home, where he is reprimanded by his mother when she finds out that the brothers have turned into animals. When she asks the animals in the tree if they are the older brothers, they shake the tree, causing “some refuse” to fall “in her eye, and [in anger] she commanded that they should remain like animals for all time.” Siegel points out that “Catholic and Indian elements obtrude at various points,” such as the naming of the younger brother as “Our Father God” and the specification of the older brothers as the “Ancient Men,” which is “generally translated as ‘the Jews’” (ibid: 121; note 6). In this way, “the transformation of the Ancient Men into animals (i.e., monkeys) and the reasons given for this transformation undoubtedly derive from ancient native lore” (ibid: 126). Though the music functions differently in this story than it does in the <em>Popol Wuj</em>, the progression of the myth is still connected to a particular musical performance.</p>
 
-<p>             The evolution of the tale of Junb’atz’ and Junchouen, along with the song played by Junajpu and Xbalanke, reveals the process of a forced acculturation between Native ideologies and Catholic theology. Though the initial Catholic intent was to exterminate the traditions and beliefs of the Maya, these examples of a continued but modified tradition show a preservation of culture and identity that thrives even today.</p>
+<p>The evolution of the tale of Junb’atz’ and Junchouen, along with the song played by Junajpu and Xbalanke, reveals the process of a forced acculturation between Native ideologies and Catholic theology. Though the initial Catholic intent was to exterminate the traditions and beliefs of the Maya, these examples of a continued but modified tradition show a preservation of culture and identity that thrives even today.</p>
 
-<p><strong>             </strong>Cuando los dos muchachos transforman sus hermanos mayores, <em>Junb’atz’</em> y <em>Junchouen</em>, en monos, también insisten en que su abuela no se ría cuando ella ve los Hermanos Artesanos. Hacen esta prueba con la canción “Junajpu mico” también llamada “Junajpu k’oy”, una expresión que quiere decir “Un atele” (Colop 2008: 85). Los instrumentos que usan los dos muchachos están relacionados a la naturaleza artística de los Hermanos Artesanos, y por eso “y fueron llamados por los tocadores de flautas, y los cantores, y a estos inuocaron los hombres antíguos los píntores, y entalladores / xeziquix cut rumal ri ahzu ahbix, ri oher vinac are puch chuzi quih ri ahzib ahcot oher “ (20r). A pesar de decirle que no se reía, La Abuela no pasa la prueba, “víendo la víeja los malos gestos q’que hacían, y sus malas caras, víendo esto serío q’que no pudo sufrír la rísa / iꜩel qui vach xril atit ta xꜩeenic maui xucui vꜩe atit” (19v). </p>
+<p>Cuando los dos muchachos transforman sus hermanos mayores, <em>Junb’atz’</em> y <em>Junchouen</em>, en monos, también insisten en que su abuela no se ría cuando ella ve los Hermanos Artesanos. Hacen esta prueba con la canción “Junajpu mico” también llamada “Junajpu k’oy”, una expresión que quiere decir “Un atele” (Colop 2008: 85). Los instrumentos que usan los dos muchachos están relacionados a la naturaleza artística de los Hermanos Artesanos, y por eso “y fueron llamados por los tocadores de flautas, y los cantores, y a estos inuocaron los hombres antíguos los píntores, y entalladores / xeziquix cut rumal ri ahzu ahbix, ri oher vinac are puch chuzi quih ri ahzib ahcot oher “ (20r). A pesar de decirle que no se reía, La Abuela no pasa la prueba, “víendo la víeja los malos gestos q’que hacían, y sus malas caras, víendo esto serío q’que no pudo sufrír la rísa / iꜩel qui vach xril atit ta xꜩeenic maui xucui vꜩe atit” (19v). </p>
 
-<p>            El antropólogo norteamericano Morris Siegel observó el concepto de la transformación en animal acompañada de música y baile en otras comunidades mayas, como esa de los Jakaltek en el pueblo guatemalteco San Miguel Acátan. Siegel (1996: 34) relata su mito de creación, donde su dios, nombrado “Nuestro Padre Dios,” aparece como un hermano menor abusado por sus hermanos mayores. Sin embargo, el hermano mayor goza del baile de los hermanos mayores, el cual es acompañado por tambores y una “chirimía,” o un instrumento latinoamericano de estilo flauta. De esta forma el hermano menor compone su propio baile que acaba siendo mejor que aquel baile de sus hermanos. Cuando los hermanos mayores le preguntan al menor cómo aprendió ese baile, él los lleva al “asiento de un árbol muy grande,” donde les dice “que se subieran…. El árbol siguió creciendo, subiendo mucho.” Entonces el hermano menor los deja en la cima del árbol y regresa a su casa, donde su madre lo castiga porque sus hermanos mayores se han convertido en animales. Ella se acerca al árbol y le pregunta si en serio contiene los hermanos mayores. En este momento los animales sacuden el árbol y “una basurita le cayó al ojo de la madre, y enojada mandó que se quedaran animales para siempre” (ibid: 35). Cabe notar que aquí “los elementos católicos y mayas se imponen en puntos diversos,” por ejemplo, con el nombramiento del hermano menor como “Nuestro Padre Dios,” o igual el nombramiento de los hermanos mayores como los “Antiguos,” lo cual se traduce como ‘los judíos’ (ibid: 163). Sin embargo, Siegel explica que “la transformación de los Antiguos en animales (es decir, monos) y las razones dadas por esta transformación derivan de la ciencia maya antigua” (ibid: 37). Aunque en esta narrativa la música funciona de manera diferente del papel que juega en el <em>Popol Wuj</em>, el significado cultural del mito se basa todavía en un espectáculo de música y baile.</p>
+<p>El antropólogo norteamericano Morris Siegel observó el concepto de la transformación en animal acompañada de música y baile en otras comunidades mayas, como esa de los Jakaltek en el pueblo guatemalteco San Miguel Acátan. Siegel (1996: 34) relata su mito de creación, donde su dios, nombrado “Nuestro Padre Dios,” aparece como un hermano menor abusado por sus hermanos mayores. Sin embargo, el hermano mayor goza del baile de los hermanos mayores, el cual es acompañado por tambores y una “chirimía,” o un instrumento latinoamericano de estilo flauta. De esta forma el hermano menor compone su propio baile que acaba siendo mejor que aquel baile de sus hermanos. Cuando los hermanos mayores le preguntan al menor cómo aprendió ese baile, él los lleva al “asiento de un árbol muy grande,” donde les dice “que se subieran…. El árbol siguió creciendo, subiendo mucho.” Entonces el hermano menor los deja en la cima del árbol y regresa a su casa, donde su madre lo castiga porque sus hermanos mayores se han convertido en animales. Ella se acerca al árbol y le pregunta si en serio contiene los hermanos mayores. En este momento los animales sacuden el árbol y “una basurita le cayó al ojo de la madre, y enojada mandó que se quedaran animales para siempre” (ibid: 35). Cabe notar que aquí “los elementos católicos y mayas se imponen en puntos diversos,” por ejemplo, con el nombramiento del hermano menor como “Nuestro Padre Dios,” o igual el nombramiento de los hermanos mayores como los “Antiguos,” lo cual se traduce como ‘los judíos’ (ibid: 163). Sin embargo, Siegel explica que “la transformación de los Antiguos en animales (es decir, monos) y las razones dadas por esta transformación derivan de la ciencia maya antigua” (ibid: 37). Aunque en esta narrativa la música funciona de manera diferente del papel que juega en el <em>Popol Wuj</em>, el significado cultural del mito se basa todavía en un espectáculo de música y baile.</p>
 
-<p>            La evolución del mito de los Hermanos Artesanos en su forma contemporánea es un ejemplo del encuentro cultural de las tradiciones mayas y católicas en la época colonial y el cambio a lo largo del tiempo, pues las dos culturas se han mezcladas y sobrevividas hasta hoy.</p></description>
+<p>La evolución del mito de los Hermanos Artesanos en su forma contemporánea es un ejemplo del encuentro cultural de las tradiciones mayas y católicas en la época colonial y el cambio a lo largo del tiempo, pues las dos culturas se han mezcladas y sobrevividas hasta hoy.</p></description>
   </topic>
   <topic>
     <title>Junajpu Utiw</title>
@@ -1726,7 +1752,9 @@ y su reino no tendrá fin.</p>
     <key>JUNAJPU_UTIW</key>
     <ximenez_spa>hun ahpu vtiu</ximenez_spa>
     <ximenez_quc>hun ahpu vtiu</ximenez_quc>
-    <description>Description forthcoming.</description>
+    <description><p><em>Junajpu Utiw</em> is mentioned as a poetic pair of <em>Junajpu Wuch'</em> in the beginning of the <em>Popol Wuj</em>. Christenson (2007: 61, note 15) translates <em>Junajpu Wuch'</em> and <em>Junajpu Utiw</em> as "Hunahpu Possum and Hunahpu Coyote," who "are also likely titles for the gods Xpiyacoc and Xmucane." Christenson (ibid: note 16) also adds, "<em>Utiw </em>is the coyote (<em>Canis latrans</em>), an animal also associated with the night."</p>
+
+<p><em>Junajpu Utiw</em> aparece como el par poético de <em>Junajpu Wuch'</em> en el comienzo del <em>Popol Wuj</em>. El lingüista Adrián Recinos (1976: 26, nota 3) describe <em>Junajpu Utiw </em>como "un cazador coyote, variedad de lobo (<em>Canis latrans</em>), dios de la noche, en potencia masculina". El lingüista Sam Colop (2008: 21, nota 3) nota que "En una lectura literal, estas son metáforas para decir 'cazador tacuazín, cazador coyote'".</p></description>
   </topic>
   <topic>
     <title>Junajpu Wuch&#039;</title>
@@ -1735,7 +1763,9 @@ y su reino no tendrá fin.</p>
     <key>JUNAJPU_WUCH</key>
     <ximenez_spa>hun ahpu vuch</ximenez_spa>
     <ximenez_quc>hun ahpu vuch</ximenez_quc>
-    <description>Description forthcoming.</description>
+    <description><p><em>Junajpu Wuch'</em> is mentioned as a poetic pair of <em>Junajpu Utiw</em> in the beginning of the <em>Popol Wuj</em>. Christenson (2007: 61, note 15) translates <em>Junajpu Wuch'</em> and <em>Junajpu Utiw</em> as "Hunahpu Possum and Hunahpu Coyote," who "are also likely titles for the gods Xpiyacoc and Xmucane." Christenson (ibid) also references the Father Thomas Coto, "who compiled a dictionary of the closely related Cakchiquel-Maya language in the seventeenth century," as mentioning "under the Spanish word <em>Escuridad</em>, that <em>vuch </em>is the darkness of night just prior to the dawn." </p>
+
+<p><em>Junajpu Wuch'</em> aparece como el par poético de <em>Junajpu Utiw </em>en el comienzo del <em>Popol Wuj</em>. El lingüista Adrián Recinos (1976: 26, nota 3) describe <em>Junajpu Wuch' </em>como "un cazador vulpeja o tacuazín (<em>Opossum</em>), dios del amanecer; <em>vuch </em>es el momento que precede al amanecer" y que también es "la divinidad en potencia femenina". El lingüista Sam Colop (2008: 21, nota 3) igualmente nota que "En una lectura literal, estas son metáforas para decir 'cazador tacuazín, cazador coyote'. En otra parte del texto, se identifica a <em>Wuch', </em>'tacuazín', como la deidad que oscurece el Cielo antes del amanecer".</p></description>
   </topic>
   <topic>
     <title>Juraqan</title>
@@ -1769,7 +1799,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>K&#039;ayala&#039;</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>749</nid>
     <key>KAYALA</key>
     <ximenez_spa>cayala</ximenez_spa>
@@ -1787,8 +1817,8 @@ y su reino no tendrá fin.</p>
     <type>deidad</type>
     <nid>714</nid>
     <key>KENECH_AJAW</key>
-    <ximenez_spa>quenech</ximenez_spa>
-    <ximenez_quc>quenech</ximenez_quc>
+    <ximenez_spa>quenech, ahau</ximenez_spa>
+    <ximenez_quc>quenech, ahau</ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
   <topic>
@@ -1933,7 +1963,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>K&#039;ulba</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1177</nid>
     <key>KULBA</key>
     <ximenez_spa>culba</ximenez_spa>
@@ -2050,13 +2080,15 @@ y su reino no tendrá fin.</p>
 <p> </p></description>
   </topic>
   <topic>
-    <title>Kaquilja Jun Raqan</title>
+    <title>Kaqulja Jun Raqan</title>
     <type>deidad</type>
     <nid>644</nid>
-    <key>KAQUILJA_JUN_RAQAN</key>
+    <key>KAQULJA_JUN_RAQAN</key>
     <ximenez_spa>caculha huracan</ximenez_spa>
     <ximenez_quc>caculha huracan</ximenez_quc>
-    <description>Description forthcoming.</description>
+    <description><p><em>Kaqulja Jun Raqan </em>is one of the gods that makes up the Heart of Sky [<em>Uk'u'x Kaj</em>]. Tedlock (1996: 224, note 65) explains that "The term for thunderbolt is <em>kaqulja </em>[caculha], referring to a shaft of lighting (with accompanying thunder), as contrasted with <em>koyopa</em>, referring to sheet lighting seen in the distance (without visible shafts or adubile thunder). Thunderbolt is a fitting addition to the name Hurrican (or 'one-legged') not only because hurricanes bring violent thunderstorms, but because lighting that strikes the ground is typically concentrated in one main shaft."</p>
+
+<p><em>Kaqulja Jun Raqan </em>es uno de los dioses que componen el dios <em>Uk'u'x Kaj</em>. El lingüista Adrián Recinos (1976: 31, nota 4) traduce su nombre como "rayo de una pierna, o sea el relámpago". El destacado lingüista Sam Colop (2008: 26-27, nota 21) agrega que "<em>Kaqulja </em>es 'rayo', que implica la luz (relámpago) y trueno, mientras que <em>Koyopa </em>significa la luz pero sin sonido o relámpago visto a distancia.... De esa cuenta <em>Kaqulja Jun Raqan </em>equivale a 'Rayo huracán' o sea fuerza poderosa".</p></description>
   </topic>
   <topic>
     <title>Kaweq</title>
@@ -2069,7 +2101,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Kawinal</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1178</nid>
     <key>KAWINAL</key>
     <ximenez_spa>cauínal</ximenez_spa>
@@ -2113,7 +2145,7 @@ y su reino no tendrá fin.</p>
     <title>Kik&#039;</title>
     <type>objeto</type>
     <nid>1230</nid>
-    <key>KIK'</key>
+    <key>KIK</key>
     <english_name>&lt;ul&gt;&lt;li&gt;rubber ball&lt;/li&gt;
 &lt;li&gt;blood&lt;/li&gt;
 &lt;li&gt;sap&lt;/li&gt;
@@ -2217,7 +2249,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>la gran hondonada</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>733</nid>
     <key>LA_GRAN_HONDONADA</key>
     <ximenez_spa>ním xob carchah</ximenez_spa>
@@ -2226,7 +2258,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>La isla española</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1066</nid>
     <key>LA_ISLA_ESPANOLA</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Hispaniola&lt;/li&gt;
@@ -2299,7 +2331,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Lugar de Awiliz</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>830</nid>
     <key>LUGAR_DE_AWILIZ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Place of Awilix&lt;/li&gt;
@@ -2310,7 +2342,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>lugar del sacrificio</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>745</nid>
     <key>LUGAR_DEL_SACRIFICIO</key>
     <ximenez_spa>--</ximenez_spa>
@@ -2337,7 +2369,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Makamob</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1044</nid>
     <key>MAKAMOB</key>
     <ximenez_spa>macamob</ximenez_spa>
@@ -2366,7 +2398,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Me&#039;awn</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>731</nid>
     <key>MEAWN</key>
     <ximenez_spa>meauan</ximenez_spa>
@@ -2377,7 +2409,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Medicina de Tojil</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1166</nid>
     <key>MEDICINA_DE_TOJIL</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Medicine of Tojil&lt;/li&gt;
@@ -2388,7 +2420,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>México</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1171</nid>
     <key>MEXICO</key>
     <ximenez_spa>Mexíco</ximenez_spa>
@@ -2493,7 +2525,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Nim Xo&#039;l</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>752</nid>
     <key>NIM_XOL</key>
     <ximenez_spa></ximenez_spa>
@@ -2555,7 +2587,7 @@ y su reino no tendrá fin.</p>
   </topic>
   <topic>
     <title>Pa Tojil</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>754</nid>
     <key>PA_TOJIL</key>
     <ximenez_spa> patohíl</ximenez_spa>
@@ -2568,7 +2600,7 @@ y su reino no tendrá fin.</p>
     <title>Pach&#039; q&#039;ab&#039;</title>
     <type>objeto</type>
     <nid>1234</nid>
-    <key>PACH'_Q'AB'</key>
+    <key>PACH_QAB</key>
     <english_name>&lt;ul&gt;&lt;li&gt;armguard&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa></ximenez_spa>
@@ -2612,7 +2644,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Paxil</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>748</nid>
     <key>PAXIL</key>
     <ximenez_spa> paxil</ximenez_spa>
@@ -2640,7 +2672,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Pekul</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1040</nid>
     <key>PEKUL</key>
     <ximenez_spa>pecul</ximenez_spa>
@@ -2658,7 +2690,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Piedras en hilera</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1162</nid>
     <key>PIEDRAS_EN_HILERA</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Lined Up Stones&lt;/li&gt;
@@ -2671,7 +2703,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Pléyadas</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1052</nid>
     <key>PLEYADAS</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Pleiades&lt;/li&gt;
@@ -2709,7 +2741,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Pusbal Chaaj</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>746</nid>
     <key>PUSBAL_CHAAJ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Place of Sacrifice&lt;/li&gt;
@@ -2796,7 +2828,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Q&#039;umaraq Aj</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1261</nid>
     <key>QUMARAQ_AJ</key>
     <ximenez_spa>cumarcaaj</ximenez_spa>
@@ -2833,7 +2865,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Rabinal</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1113</nid>
     <key>RABINAL</key>
     <ximenez_spa>rabinal</ximenez_spa>
@@ -2878,11 +2910,13 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <key>RAXA_KAQULJA</key>
     <ximenez_spa>raxa caculha</ximenez_spa>
     <ximenez_quc>raxa caculha</ximenez_quc>
-    <description>Description forthcoming.</description>
+    <description><p><em>Raxa Kaqulja </em>is one of the manifestations of the god Heart of Sky [<em>Uk'u'x Kaj</em>]. Christenson (2007: 71, note 64) notes that "<em>Rä</em><em>xa </em>(green, new, fresh, sudden)...is a sudden flash or bolt of lightning" and that it "may also refer to the lightning's ability to renew or regenerate." Tedlock (1996: 224, note 65) adds that "'Sudden' translates <em>raxa</em>, 'green, raw, fresh, sudden.'" The names of <em>Raxa Kaqulja </em>and <em>Ch'ipi Kaqulja </em>"refer not only to the shafts of lightning fulgurites, grassy stones formed by lightning in sandy soil."</p>
+
+<p><em>Raxa Kaqulja </em>es una de las manifestaciones del dios <em>Uk'u'x Kaj. </em>El lingüista Adrián Recinos (1976: 31, nota 4) traduce su nombre como “rayo verde…y el relámpago o el trueno”. También agrega que “El adjetivo <em>rax </em>tiene, entre otros significados, el de repentino o súbito. En cakchiquel <em>raxbaná-hih </em>es el relámpago”. El lingüista Sam Colop (2008: 26-27, nota 21) define <em>Raxa </em>como “’verde, tierno, fresco’ o como agrega Ximénez: ‘cosa hermosa’”. Entonces traduce <em>Raxa Kaqulja </em>como, “’Rayo hermoso’, como la hermosura de su contraparte envueltos en plumas de quetzal en el mar reposado”.</p></description>
   </topic>
   <topic>
     <title>Río de Podre</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1059</nid>
     <key>AGUA_PODRIDA</key>
     <english_name>&lt;ul&gt;&lt;li&gt;river of pus&lt;/li&gt;
@@ -2893,7 +2927,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Río de Sangre</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1058</nid>
     <key>RIO_DE_SANGRE</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Blood River&lt;/li&gt;
@@ -2904,7 +2938,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>River Scorpion</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1057</nid>
     <key>JA_SIMAJ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;River Scorpion&lt;/li&gt;
@@ -2942,7 +2976,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>San Anton Ilocab</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>923</nid>
     <key>SAN_ANTON_ILOCAB</key>
     <ximenez_spa>S Anton ílocab</ximenez_spa>
@@ -2998,7 +3032,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Santa Cruz</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1016</nid>
     <key>SANTA_CRUZ</key>
     <ximenez_spa>Sta Cruz</ximenez_spa>
@@ -3029,9 +3063,12 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <key>SAQI_NIM_AQ_SIS</key>
     <ximenez_spa>Zaquinima tzÿz</ximenez_spa>
     <ximenez_quc>Zaquinima tzÿz</ximenez_quc>
-    <description><p>Christenson (2007: note 17, p. 52) translates the name<em> Saqi Nima Aq</em> as "Great White Peccary"; Colop pairs <em>Saqi Nima Aq </em>with the word <em>Sis</em> in the following line. Christenson explains the etymologies and symbolism as such: "The word saqi may be translated as 'light, bright, or white.' Later in the text (p. 98; line 1055), this same god is described as having very white hair due to his advanced age; thus 'white' is the most likely translation here. In that same passage, 'Great White Peccary' is given as one of the names or titles of the patriarchal creator god Xpiyacoc mentioned in the next paragraph. There are two species of peccary, or wild pig, living in Central America—<em>Peccari angulatus yucatanensis</em> (Collared Peccary) and <em>Tayassu pecari </em>(White-lipped Peccary). The latter is perhaps intended here because it is the larger of the two and is decorated with white facial markings."</p>
+    <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/R45%20lidded%20bowl%20hix%20coati.jpg?itok=SbdpkNVJ" width="100" height="98" alt="Glyph of Hix (coati) explained by Looper and Polyukhovych, &quot;Five Inscribed El Zotz-Style Vessels in the Fralin Museum of Art&quot; (2016: 15). Cylinder vessel, Fralin Museum of Art 1980.56.2." title="Detail of Hix (coati), Cylinder vessel, Fralin Museum of Art 1980.56.2." /></image>
+    <description><p>Christenson (2007: note 17, p. 52) translates the name<em> Saqi Nima Aq</em> as "Great White Peccary"; Colop (2008) pairs <em>Saqi Nima Aq </em>with the word <em>Sis</em> in the following line, while Christenson treats them as separate but related references for Xpiyacoc and Xmucane.</p>
 
-<p>En cuanto a la primera mención del divino <em>Saqi Nima Aq</em>, Sam<em> </em>Colop (2011: nota 4, página 201) observa que "los adjetivos <em>saqi nim</em>, 'blanco grande', están omitidos del segundo verso paralelo; pero líneas más adelante aparecen completos. Aquí la referencia zoomórfica es más directa y aclara que son la pareja de ancianos (tiempo) que acompañal el proceso de creación. Son los mismos que acompañan a Junajpu y Xbalamke a vender a Wuqub Kak'ix. Recinos (1953: 82) relaciona a <em>Saqi Nim Sis</em> como 'diosa madre' y a <em>Saqi Nim Aq</em> como su 'consorte'".</p></description>
+<p>Christenson explains the etymologies and symbolism as such: "The word saqi may be translated as 'light, bright, or white.' Later in the text (p. 98; line 1055), this same god is described as having very white hair due to his advanced age; thus 'white' is the most likely translation here. In that same passage, 'Great White Peccary' is given as one of the names or titles of the patriarchal creator god Xpiyacoc mentioned in the next paragraph. There are two species of peccary, or wild pig, living in Central America—<em>Peccari angulatus yucatanensis</em> (Collared Peccary) and <em>Tayassu pecari </em>(White-lipped Peccary). The latter is perhaps intended here because it is the larger of the two and is decorated with white facial markings." In his next note, Christenson (2007: 52fn18) adds that <em>Sis</em> (Coati) is another name for Xmucame. "The coati, or coatimundi, which inhabits tropical Central America is <em>Nasua narica yucatanica</em>. It is a raccoonlike animal with a long tail and a long, pointed, flexible snout." Images of female coatis appear in Pre-Columbian artwork from the Maya world, such as the glyph of Hix (Coati) that is detailed in a cylindrical vessel held at the Fralin Museum of Art at the University of Virginia (#1980.56.2).</p>
+
+<p>En cuanto a la primera mención del divino <em>Saqi Nima Aq</em>, Sam<em> </em>Colop (2008: nota 4, página 201) observa que "los adjetivos <em>saqi nim</em>, 'blanco grande', están omitidos del segundo verso paralelo; pero líneas más adelante aparecen completos. Aquí la referencia zoomórfica es más directa y aclara que son la pareja de ancianos (tiempo) que acompañal el proceso de creación. Son los mismos que acompañan a Junajpu y Xbalamke a vender a Wuqub Kak'ix. Recinos (1953: 82) relaciona a <em>Saqi Nim Sis</em> como 'diosa madre' y a <em>Saqi Nim Aq</em> como su 'consorte'".</p></description>
   </topic>
   <topic>
     <title>Saqik</title>
@@ -3122,7 +3159,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Silisib</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>833</nid>
     <key>SILISIB</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Staggering&lt;/li&gt;
@@ -3172,7 +3209,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <title>Su&#039;</title>
     <type>objeto</type>
     <nid>1255</nid>
-    <key>SU'</key>
+    <key>SU</key>
     <english_name>&lt;ul&gt;&lt;li&gt;flute&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa></ximenez_spa>
@@ -3182,18 +3219,18 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Suywa</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>751</nid>
     <key>SUYWA</key>
-    <ximenez_spa>--</ximenez_spa>
-    <ximenez_quc>--</ximenez_quc>
+    <ximenez_spa>tulan</ximenez_spa>
+    <ximenez_quc>zuiva</ximenez_quc>
     <description><p>One of the names of the city of Tulán, often referred to as Tulán-Suywa (or Tulan-Zuyua). The name Suywa does not appear on its own.</p>
 
-<p>    Tedlock (p. 362): “In Yucatec Maya, the term <em>suyua t’an, </em>‘twisted (or deceptive) speech,’ refers to riddles whose answers were demanded of pretenders to lordly positions.”</p>
+<p>Tedlock (p. 362): “In Yucatec Maya, the term <em>suyua t’an, </em>‘twisted (or deceptive) speech,’ refers to riddles whose answers were demanded of pretenders to lordly positions.”</p>
 
-<p>    Christenson (p. 210): “<em>Suy, </em>in lowland Maya languages, is a ‘whirlpool,’ or something twisted. <em>Suywa </em>is ‘confusion,’ and <em>suywa t’an </em>is ‘figurative or rhetorical language.’ In the <em>Book of Chilam Balam of Chumayel, </em>the ‘language of Suywa’ refers to a series of riddles and plays on words that only true lords were able to solve prove their legitimacy. In Nahua, <em>Zuyua </em>is ‘Bloody Water,’ a reading that is specifically recognized elsewhere in the <em>Chilam Balam of Chumayel. </em>The <em>Annals of the Cakchiquels </em>agrees with the <em>Popol Vuh </em>in locating this area with the ‘Tulan in the East.’ In the Yucatec Maya <em>Books of Chilam Balam, </em>Zuyua is identified with Xicalanco, an ancient port city on the shores of the Laguna de Términos in the Mexican state of Tabasco.”</p>
+<p>Christenson (p. 210): “<em>Suy, </em>in lowland Maya languages, is a ‘whirlpool,’ or something twisted. <em>Suywa </em>is ‘confusion,’ and <em>suywa t’an </em>is ‘figurative or rhetorical language.’ In the <em>Book of Chilam Balam of Chumayel, </em>the ‘language of Suywa’ refers to a series of riddles and plays on words that only true lords were able to solve prove their legitimacy. In Nahua, <em>Zuyua </em>is ‘Bloody Water,’ a reading that is specifically recognized elsewhere in the <em>Chilam Balam of Chumayel. </em>The <em>Annals of the Cakchiquels </em>agrees with the <em>Popol Vuh </em>in locating this area with the ‘Tulan in the East.’ In the Yucatec Maya <em>Books of Chilam Balam, </em>Zuyua is identified with Xicalanco, an ancient port city on the shores of the Laguna de Términos in the Mexican state of Tabasco.”</p>
 
-<p>Given the meaning of <em>Suywa, </em>it is possible that the name references the confusion of languages said to have occured there (folio 41 recto).</p></description>
+<p>Given the meaning of <em>Suywa, </em>it is possible that the name references the confusion of languages said to have occured there (Ximénez, folio 41 recto).</p></description>
   </topic>
   <topic>
     <title>Tamasul</title>
@@ -3281,8 +3318,8 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <type>linaje</type>
     <nid>812</nid>
     <key>TEPEW_OLOMAN</key>
-    <ximenez_spa>tepeu</ximenez_spa>
-    <ximenez_quc>tepeu</ximenez_quc>
+    <ximenez_spa>tepeu...oloman</ximenez_spa>
+    <ximenez_quc>tepeu, oloman</ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
   <topic>
@@ -3302,7 +3339,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Tinamit Quiché</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1038</nid>
     <key>TINAMIT_KICHE</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Quiché Citadel&lt;/li&gt;
@@ -3356,16 +3393,14 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Tulán</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>750</nid>
     <key>TULÁN</key>
     <ximenez_spa>tulan zu</ximenez_spa>
     <ximenez_quc>tulan zu</ximenez_quc>
-    <description><p>Ximénez describes "tulan zu" (<em>tulan zuiva </em>in the K'ich'e) as a "monte" (<em>huyub</em>). This may reflect the K'iche' practice of building fortified <em>tinamit </em>(citadels) on hilltops.</p>
+    <description><p>Ximénez describe "tulan zu" (<em>tulan zuiva </em>in the K'ich'e) como el "monte" (<em>huyub</em>), el cual término quizá está relacionado a una prática k'iche'. Historicamente los k'iche' construyen sus fortalezas, las así llamadas <em>tinamit</em>, en las cimas de las montañas. Por su parte el notable académico Sam Colop (página 141, nota 223) identifica <em>Tulan </em>con Tula de Guerrero, hoy día un pequeño pueblo en el noreste del estado Mexicano de Guerrero.</p>
 
-<p>There are various possibilities for the identity of Tulan. Christenson explains its etymology as "Nahua <em>Tullan </em>or <em>Tollan</em>: 'Place of Cattail Reeds'. In the Quiché language, <em>tulan </em>is a 'palace, or manor-house' (Basseta), while <em>tolan </em>is a city or house that has been abandoned, perhaps referring to the ruins of once great cities that dot the region and that belong to the legendary ancestors of the Maya people. In Aztec theology, Tollan was a mythic place located near Coatepec (Snake Mountain) where the ancestors of the Mexica received their patron god Huitzilopochtli. In this myth, Tollan was inhabited by the Toltecs, great sages who invented the sciences of astronomy, calendrics, agriculture, and medcine, as well as the arts of writing, painting, sculpture, metalwork, jade carving, and weaving. Throughout Mesoamerica in the late Postclassic era (ca. 1200–1524), the legendary Toltecs where the bearers of political legitimacy. The Aztecs used the name <em>Tollan </em>to refer to thier own legendary palce of origin, as well as a general term for 'city.'…The Tulan mentioned here [in the <em>Popol Vuh</em>] was likely either Chichen Itza, a major center of power during the Terminal Classic (800–900) and early Postclassic (900–1200) periods, or its successor Mayapan. Both would have been "across the sea" (the Gulf of Mexico) with respect to the Guatemalan highlands as described in the Popol Vuh."</p>
-
-<p>Colop (página 141, nota 223) identifica <em>Tulan </em>con Tula de Guerrero, hoy día un pequeño pueblo en el noreste del estado Mexicano de Guerrero.</p>
+<p>As these examples suggest, there are various possibilities for the identity of Tulan. Christenson (2007: 197fn547) explains its etymology as "Nahua <em>Tullan </em>or <em>Tollan</em>: 'Place of Cattail Reeds'. In the Quiché language, <em>tulan </em>is a 'palace, or manor-house' (Basseta), while <em>tolan </em>is a city or house that has been abandoned, perhaps referring to the ruins of once great cities that dot the region and that belong to the legendary ancestors of the Maya people. In Aztec theology, Tollan was a mythic place located near Coatepec (Snake Mountain) where the ancestors of the Mexica received their patron god Huitzilopochtli. In this myth, Tollan was inhabited by the Toltecs, great sages who invented the sciences of astronomy, calendrics, agriculture, and medcine, as well as the arts of writing, painting, sculpture, metalwork, jade carving, and weaving. Throughout Mesoamerica in the late Postclassic era (ca. 1200–1524), the legendary Toltecs where the bearers of political legitimacy. The Aztecs used the name <em>Tollan </em>to refer to thier own legendary palce of origin, as well as a general term for 'city.'…The Tulan mentioned here [in the <em>Popol Vuh</em>] was likely either Chichen Itza, a major center of power during the Terminal Classic (800–900) and early Postclassic (900–1200) periods, or its successor Mayapan. Both would have been "across the sea" (the Gulf of Mexico) with respect to the Guatemalan highlands as described in the Popol Vuh."</p>
 
 <p>Tedlock (page 359) identifies Tulan as "a town in the east that was like the Classic Maya site of Copán in having a bat as its insignia. The lords of the Quiché, Cakchiquel, and other 'mountain people' gathered there, paying tribute and acquiring their respective patron deities. by the time they found their own places to rule, Tulan had been abandoned. The site was probably not called Tulan until after its demise."</p>
 
@@ -3388,7 +3423,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <title>Tz&#039;u&#039;m</title>
     <type>objeto</type>
     <nid>1233</nid>
-    <key>TZ'U'M</key>
+    <key>TZUM</key>
     <english_name>&lt;ul&gt;&lt;li&gt;kilt&lt;/li&gt;
 &lt;li&gt;hide&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -3418,7 +3453,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <title>Ub&#039;aqib&#039;al q&#039;aq&#039;</title>
     <type>objeto</type>
     <nid>1256</nid>
-    <key>B'AQ_Q'AQ'</key>
+    <key>BAQ_QAQ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;twist drill&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa></ximenez_spa>
@@ -3526,7 +3561,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Volcán de Acatenango</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1039</nid>
     <key>VOLCAN_DE_ACATENANGO</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Acatenango Volcano&lt;/li&gt;
@@ -3547,7 +3582,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
   </topic>
   <topic>
     <title>Volcán de Fuego</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1041</nid>
     <key>VOLCAN_DE_FUEGO</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Volcano of Fire&lt;/li&gt;
@@ -3681,7 +3716,9 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
 &lt;/ul&gt;</english_name>
     <ximenez_spa>vvcub came</ximenez_spa>
     <ximenez_quc>vvcub came</ximenez_quc>
-    <description><p>Wuqub' Kame [Seven Death] is one of the principal lords of Xibalba along with Jun Kame [One Death]. Tedlock (1996: 251) explains that the name of Wuqub' Kame is a reference to the day number seven and day name Kame on the K'iche' calendar. For more information, see the entry on "Jun Kame and Wuqub' Kame."</p></description>
+    <description><p>Wuqub' Kame [Seven Death] is one of the principal lords of Xibalba along with Jun Kame [One Death]. Tedlock (1996: 251) explains that the name of Wuqub' Kame is a reference to the day number seven and day name Kame on the K'iche' calendar. For more information, see the entry on "<a href="http://live-multepal.pantheonsite.io/tema/junkamewuqubkame">Jun Kame and Wuqub' Kame</a>."</p>
+
+<p>El nombre númerico del dios Wuqub' Kame (Siete Muerte) apunta su importancia symbólica en el calendario k'iche'. El lingüísta Sam Colop (2008: 62fn76) observa la estrecha relación entre los dioses Wuqub' Kame y Jun Kame, ya que en los nombres de éstos "aparecen los números 1 y 7 que a mi parecer equivalen a inicio y el fin. Cuando se combinan los 13 números del calendario con los 20 nombres de los días, comenzando con el número 1, indefectiblemente se termina con el 7. En términos matemáticos, la suma de 1 y 7 es igual a 8, <em>wajxaqib</em>, el número convencional que equivale al todo. De aquí una razón que el ciclo de 260 días comienza con el día <em>Batz’</em> y con el número 8.” Añade Colop (2008: 63fn77) que los maya lacandones asociaban la figura de Jesucristo con el culto de la muerte.</p></description>
   </topic>
   <topic>
     <title>Wuqub No&#039;j</title>
@@ -3709,7 +3746,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
   </topic>
   <topic>
     <title>Xajb’akej</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1353</nid>
     <key>Xajb’akej</key>
     <ximenez_spa> xahbaquieh / sahbaquích</ximenez_spa>
@@ -3726,15 +3763,13 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
     <ximenez_spa></ximenez_spa>
     <ximenez_quc>Xbalanque</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/kerr%202785%20hero%20twins%20lift%20the%20horns%20of%20a%20sacrificial%20deer.jpeg?itok=ZafovvgC" width="100" height="35" alt="http://research.mayavase.com/kerrmaya_hires.php?vase=2785" title="Kerr #2785: The Hero Twins lift the horns of a sacrificial deer" /></image>
-    <description><p>It is not entirely clear if the gender of Xbalanke is male or female. The prefix /x/ may be used to indicate the feminine or as a diminutive. (rca2t)</p>
-
-<p>Sam Colop (2011: nota 52, páginas 209-210) destaca las varias e importantes interpretaciones del personaje divino. Escribe: "Una interpretación de este nombre es 'Pequeño Jaguar-venado' donde el prefijo <em>x-</em> indica el diminutivo, <em>balam</em> es 'jaguar' y <em>ke</em> es apócope de <em>kej</em> que significa 'venado'. Sin embargo, D. Tedlock (1996: 239) presenta una interesante traducción al identificar <em>balam</em> con 'jaguar' y 'oculto'; <em>Q'e</em>, 'Sol' en su fase nocturna de acuerdo con la tradición q'eqchi'. <em>Balamq'e</em>, 'dios Sol (el-Sol-de noche va como tigre al oriente...') (Haeserijn, 1979: 53), lo que a su vez se confirma al final del relato mitológico. El primer genelo se convierte en Sol y el segundo en la Luna, lo cual puede entenderse propiamente como el 'Sol escondido durante la noche' o su reflejo porque en k'iche' a la Luna también se le identifica como 'Sol nocturno'. Nótese además que es Xbalamke quien reconstruy e la cabeza de Junajpu, y eso ocurre durante la noche, y que en q'eqchi', <em>po</em> es 'Luna' o 'mes' con lo cual existiría un juego de sonidos con la sílaba final del término Junajpu".</p>
+    <description><p>Sam Colop (2011: nota 52, páginas 209-210) destaca las varias e importantes interpretaciones del personaje divino. Escribe: "Una interpretación de este nombre es 'Pequeño Jaguar-venado' donde el prefijo <em>x-</em> indica el diminutivo, <em>balam</em> es 'jaguar' y <em>ke</em> es apócope de <em>kej</em> que significa 'venado'. Sin embargo, D. Tedlock (1996: 239) presenta una interesante traducción al identificar <em>balam</em> con 'jaguar' y 'oculto'; <em>Q'e</em>, 'Sol' en su fase nocturna de acuerdo con la tradición q'eqchi'. <em>Balamq'e</em>, 'dios Sol (el-Sol-de noche va como tigre al oriente...') (Haeserijn, 1979: 53), lo que a su vez se confirma al final del relato mitológico. El primer genelo se convierte en Sol y el segundo en la Luna, lo cual puede entenderse propiamente como el 'Sol escondido durante la noche' o su reflejo porque en k'iche' a la Luna también se le identifica como 'Sol nocturno'. Nótese además que es Xbalamke quien reconstruy e la cabeza de Junajpu, y eso ocurre durante la noche, y que en q'eqchi', <em>po</em> es 'Luna' o 'mes' con lo cual existiría un juego de sonidos con la sílaba final del término Junajpu".</p>
 
 <p>Christenson (2007: note 164, pages 81-2) notes, "the derivation of the name Xbalanque is problematic. The prefix <em>x-</em> is a diminutive as well as a feminine indicator. Thus, depending on the context, it may mean 'young, small, little,' or it may be used as a female title, such as 'lady.' The latter usage has led to some speculation that Xbalanque may have been the twin sister of Hunahpu, acting as the female counterpart to the male powers of the hunter. This theory is not supported by the text, however, which consistently refers to the twins as 'sons' or 'boys.' Hunahpu himself often carries the <em>x-</em> prefix, although not as consistently as his brother (see lines 4307, 4550, 4576, 4586, 4646, 4725).<em> B'alan</em> is undoubtedly an archaic spelling of <em>b'alam</em> (jaguar), m/n letter substitutions being fairly common in Quiché. Indeed, Vico transcribed the name in his <em>Theologia Indorum as Xbalamquej</em> (Carmack and Morales Santos 1983, 6-8). Known for its ferocity and cunning, the jaguar is the largest predator in Mesoamerica. Rulers decorated their thrones with jaguar symbols and wore jaguar pelts to emphasize lordly power. In addition, the jaguar is associated with ritual powers of transformation and prophecy. The terminal <em>ke</em> is more difficult to interpret. The most likely derivations are <em>kej</em> (deer) or <em>q'ij</em> (sun or day). The latter possibility is intriguing. The Maya closely identified the jaguar with the sun, particularly in its journey through the underworld at night. The story of Xbalanque and his brother focuses on their passage through the underworld, where they defeat the lords of death, ultimately to become the apotheosed sun and moon in the sky. Father Bartolomé de las Casas was told in the sixteenth century that Exbalanquen was a god from the area of the Guatemalan Alta Verapaz who made war with the lords of hell and returned as a great ruler (Las Casas 1958, 427). The word for sun in the Kekchi-Maya dialect of the Alta Verapaz region is <em>q'e</em>, and Xbalamq'e is still remembered by the Kekchi as a sun god (D. Tedlock 1996, 239 n. 77). If this name is purely of Kekchi origin, Balamq’e may be read in that language as 'hidden sun, or the night sun' (Ibid.). The most likely translation of the name would therefore be 'Young Hidden/Jaguar Sun.'"</p></description>
   </topic>
   <topic>
     <title>Xibalba</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>732</nid>
     <key>XIBALBA</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Place of Fear&lt;/li&gt;
@@ -3748,7 +3783,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
 
 <p>   The root <em>Xib’ </em>in modern K’iche’ means “fear,” while the instrumental suffix <em>-b’al </em>would here indicate “place.” The final -<em>b’a </em>may be a repetition of the instrumental element (Sattler, personal communication) or, as Stross (1987) argues, it may be a corruption of <em>b’e’ </em>“road.” Stross asserts that the form <em>Xib’alb’e </em>is not uncommon, and interprets the hieroglyphic inscription on Tikal altar 8 this way. In this (speculative) analysis, the name means “road of the place of fear” (see <em>Camino Negro</em>). On this basis, Stross associates the underworld of the Popol Wuj with a name used for the Milky Way in winter. He quotes Coe: “there are two words for the Milky Way, one (Sac Bey [Saqib’e’]) for summer, and one (Xibal bey [Xib’alb’e’]) for the winter, when it is bifurcated; the bifurcation is identified with the Underworld, and it is quite possible that the Maya, like many other American Indians, thought of the Milky Way as the road of the souls journeying to that region.” It may be relevant to this interpretation that One Junajpu and Seven Junajpu are defeated by the lords of Xib’alb’a when they arrive at a crossroads and take the black road.</p>
 
-<p>On “Road of Xibalba” (<em>ri b’e xib’alb’a</em>), Tedlock (p. 354) notes: “As a celestial road it is the Great Rift in the Milky Way; as a terrestrial road it descends into Xibalba from somewhere near Great Hollow with Fish in the Ashes.” (See <em>Camino Negro</em>)</p>
+<p>On “Road of Xibalba” (<em>ri b’e xib’alb’a</em>), Tedlock (p. 354) notes: “As a celestial road it is the Great Rift in the Milky Way; as a terrestrial road it descends into Xibalba from somewhere near Great Hollow with Fish in the Ashes.” (See <a href="http://live-multepal.pantheonsite.io/node/737"><em>Camino Negro</em></a>)</p>
 
 <p> </p></description>
   </topic>
@@ -3805,7 +3840,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
   </topic>
   <topic>
     <title>Ya&#039; Xkanul</title>
-    <type>toponymo</type>
+    <type>topónimo</type>
     <nid>1043</nid>
     <key>YA_XKANUL</key>
     <ximenez_spa>yaxcanul</ximenez_spa>
