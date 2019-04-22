@@ -4854,7 +4854,7 @@ cap.
 <lb n="11"/>chirih <rs ana="BALAM_KITZE">balam quiꜩe</rs> ticarinac vi 
 <lb n="12"/>v mam vcahau caviquib xmacui 
 <lb n="13"/>cut xquizach vi ri vqahol ri <rs ana="KOKAIB">co 
-<lb n="14"/>caib</rs> qo cavib qui bi quehecut 
+<lb n="14"/>caib</rs> <rs ana="KOKAWIB">qo cavib</rs> qui bi quehecut 
 <lb n="15"/>qui camic ri quicahichal ena be 
 <lb n="16"/>camam ca cahau tax ezachic tax<pc> –</pc>
 <lb n="17"/>canah chic qui qahol chiri chuvi<rs ana="LUGAR_DE_JAQAWITZ">hu<pc> –</pc>
@@ -4889,13 +4889,13 @@ cap.
 <lb n="44"/>e oxib xeqha cut ta xebec cohbe 
 <lb n="45"/>chila relebal quih. chila x epe<pc> –</pc>
 <lb n="46"/>vicacahau xeqha taxquicam 
-<lb n="47"/>quibe eoxib chi qaholaxel co<pc> –</pc>
+<lb n="47"/>quibe eoxib chi qaholaxel <rs ana="KOKAIB">co<pc> –</pc>
 <pb xml:id="xom-f48-s2"/>
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">48</hi></num>
 </note>
-<lb n="1"/><rs ana="KOKAIB">caib</rs> vbihun vqahol <rs ana="BALAM_KITZE">balamqui<pc> –</pc>
-<lb n="2"/>ꜩe</rs> rech ronohel <rs ana="KAWEQ">coaui quib</rs>
+<lb n="1"/>caib</rs> vbihun vqahol <rs ana="BALAM_KITZE">balamqui<pc> –</pc>
+<lb n="2"/>ꜩe</rs> rech ronohel <rs ana="KOKAWIB">coaui quib</rs>
 <lb n="3"/><rs ana="KOAKUTEK">coacutec</rs> vbi vqahol <rs ana="BALAM_AQAB">
 <lb n="4"/>acab</rs> xarech<rs ana="NIJAIB">nihaibab</rs> <rs ana="KOAJAW">coaha<pc> –</pc>
 <lb n="5"/>u</rs> vbi hun chic vqahol <rs ana="MAJUKUTAJ">mahu<pc> –</pc>
@@ -7984,7 +7984,7 @@ perhaps priests not deities?</note>
 <lb n="44"/>tan ay, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es con<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> jugaban, estan colgados
 <lb n="45"/>sobre el tapanco, su batey, la pala, y la pelo<pc> –</pc>
 <lb n="46"/>ta de vle, y no os lo quíere manífestar vues<pc> –</pc>
-<lb n="47"/>tra <rs ana="IXMUKAME">abuela</rs>, por<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> por estos muríeron vues<pc> –</pc>
+<lb n="47"/>tra <rs ana="IXMUKANE">abuela</rs>, por<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> por estos muríeron vues<pc> –</pc>
 <pb corresp="xom-f21-s2"/>
 <lb n="1"/>tros padres. y díxeron <rs ana="DOS_MUCHACHOS">los muchachos</rs>: de çíer
 <lb n="2"/>to lo sabeís vos? y sealegraron mucho quando
