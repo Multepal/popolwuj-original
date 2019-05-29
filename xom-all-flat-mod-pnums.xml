@@ -5045,12 +5045,12 @@ cap.
 <lb n="38"/>ipuquinimal taxilcut rumal
 <lb n="39"/><rs ana="ILOKAB">ilocab</rs> ta xvinaquir labal ru
 <lb n="40"/>malilocab xrahvl camiza x
-<lb n="41"/>oc rÿ ahau <rs ana="KOTUJA">cotuhu</rs>, xacu hun
+<lb n="41"/>oc rÿ ahau <rs ana="KOTUJA_KQCUATRO">cotuhu</rs>, xacu hun
 <lb n="42"/>ahau xrah cuquib areri a
-<lb n="43"/>hau <rs ana="ISTAYUL">ztayul</rs> xrah quitihoh x<pc> –</pc>
+<lb n="43"/>hau <rs ana="ISTAYUL_KQCUATRO">ztayul</rs> xrah quitihoh x<pc> –</pc>
 <lb n="44"/>rah tihoxcumal <rs ana="ILOKAB">ilocab</rs> chica<pc> –</pc>
 <lb n="45"/>mizanic macuxel aponoc qui
-<lb n="46"/>moxvachibal chirihahau <rs ana="KOTUJA">co<pc> –</pc>
+<lb n="46"/>moxvachibal chirihahau <rs ana="KOTUJA_KQCUATRO">co<pc> –</pc>
 <lb n="47"/>tuha</rs> xaciquih xcah vi ma
 <pb xml:id="xom-f50-s1"/>
 <lb n="1"/>nabe xcam tari ahau rumal
@@ -5064,7 +5064,7 @@ cap.
 <lb n="9"/>rub chicxcolotah chique taxti<pc> –</pc>
 <lb n="10"/>quer cut puzunic xepuz ri <rs ana="ILOKAB">ilocab</rs>
 <lb n="11"/>chuvach cabauil are chic tohbal
-<lb n="12"/>quimac xuxic rumal ahau <rs ana="KOTUJA">cu<pc> –</pc>
+<lb n="12"/>quimac xuxic rumal ahau <rs ana="KOTUJA_KQCUATRO">cu<pc> –</pc>
 <lb n="13"/>tuha</rs> qui chicut xocchi munil xe
 <lb n="14"/>alabilaxic xevinaquix puch xa
 <lb n="15"/>xbe qui<unclear reason="overwritten" instant="false">a</unclear> ya quib chichaquix ru<pc> –</pc>
@@ -5083,17 +5083,17 @@ cap.
 <lb n="28"/>qo vi qui yocotah vi xmaqoui
 <lb n="29"/>alachinac choc chique xaviba<pc> –</pc>
 <lb n="30"/>nol rech nimal ahauarem chi<pc> –</pc>
-<lb n="31"/>ri xenahinac vi chiizmachi chi<pc> –</pc>
+<lb n="31"/>ri xenahinac vi <rs ana="CHI_ISMACHI">chiizmachi</rs> chi<pc> –</pc>
 <lb n="32"/>rixnimarvi v quixic cabauil
 <lb n="33"/>chixibin chic xuxibih pu rib
 <lb n="34"/>ronohel amac chuti amac nima
 <lb n="35"/>amac xquivachih roquic tele<pc> –</pc>
 <lb n="36"/>che vinac xquipuzu xquicami<pc> –</pc>
 <lb n="37"/>zah rumal qui eaeal quitepe<pc> –</pc>
-<lb n="38"/>ual ri ahau cotuha aha zta<pc> –</pc>
-<lb n="39"/>yul ruq nihaibab ahau quiche
+<lb n="38"/>ual ri <rs ana="KOTUJA_KQCUATRO">ahau cotuha</rs> <rs ana="ISTAYUL_KQCUATRO">aha zta<pc> –</pc>
+<lb n="39"/>yul</rs> ruq <rs ana="NIJAIB">nihaibab</rs> <rs ana="AJAQ_KICHE">ahau quiche</rs>
 <lb n="40"/>xa oxchob chi chinamit xqohe
-<lb n="41"/>chiri chiizmachi vbi tinamit ca
+<lb n="41"/>chiri <rs ana="CHI_ISMACHI">chiizmachi</rs> vbi tinamit ca
 <lb n="42"/>chiri chinaipuch xquitiquiba vi
 <lb n="43"/>vaim vcaha chirech qui mial
 <lb n="44"/>taxquiziih vloc. are qui cuch<pc> –</pc>
