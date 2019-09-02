@@ -5910,12 +5910,12 @@ cap.
 </p>
 </div>
 <div xml:lang="spa" type="column">
-<p>        
+<p n="1">        
 <pb corresp="xom-f01-s1"/>
 <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
 <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
 </p>
-<p>
+<p n="2">
 <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
 <lb n="4"/>antiguas historias, su principio, y comien<pc> –</pc>
 <lb n="5"/>zo de todo lo <abbr>q'</abbr> fue hecho en <rs ana="TINAMIT_KICHE">el pueblo de
@@ -5964,14 +5964,14 @@ cap.
 <lb n="1"/>tendedor detodahermosur a q’ay en el zielo, ti<pc> –</pc>
 <lb n="2"/>erra, lagunas y mar.
 </p>
-<p>
+<p n="3">
 <lb n="3" rend="center"/><hi rend="large">ESTE ES SV SER DICHO QVANDO</hi>
 <lb n="4" rend="center"/>estaba en suspenso, en calma, en silenzío, sin
 <lb n="5" rend="center"/>moverse, sin cosa sino vazío el zielo.
 <lb />
 <lb />
 </p>
-<p>
+<p n="4">
 <lb n="6"/><hi rend="large">I</hi> esta es la primera palabra, y eloquençía.
 <lb n="7"/>aun no avía hombres, animales, pajaros, pes<pc> –</pc>
 <lb n="8"/>cado, cangrejo, palo, piedra, hoyo, varran<pc> –</pc>
@@ -5996,7 +5996,7 @@ cap.
 <lb n="27"/>de el zielo</rs>, este es su nombre q’se le dize
 <lb n="28"/>a aquel ídolo.
 </p>
-<p>
+<p n="5">
 <lb n="29" rend="indent"/><hi>Y</hi> entonzes vino aquí su palabra, víno
 <lb n="30"/>con los <abbr>S<hi rend="superscript">es.</hi></abbr><rs ana="TEPEW_QUKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs<pc> –</pc>
 <lb n="31"/>curidad, en la noche, y abló con <rs ana="TEPEW_QUKUMATZ">tepeu
