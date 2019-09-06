@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 import re
 
@@ -8,8 +9,8 @@ LB = re.compile(r'<lb n="(\d+)"/>(.*)')
 
 file = "./xom-all-flat-mod-pnums.xml"
 newdoc = []
-with open(file, 'r') as xml:
-    C = P = L = ''
+with open(file, 'r', encoding='utf-8') as xml:
+    C = P = L = ''       
     for line in xml.readlines():
         line = line.strip()
         if COL.match(line):

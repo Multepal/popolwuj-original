@@ -4889,7 +4889,7 @@ cap.
 <lb n="44"/>e oxib xeqha cut ta xebec cohbe 
 <lb n="45"/>chila relebal quih. chila x epe<pc> –</pc>
 <lb n="46"/>vicacahau xeqha taxquicam 
-<lb n="47"/>quibe eoxib chi qaholaxel co<pc> –</pc>
+<lb n="47"/>quibe eoxib chi qaholaxel <rs ana="KOKAIB">co<pc> –</pc>
 <pb xml:id="xom-f48-s2"/>
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">48</hi></num>
@@ -5195,9 +5195,9 @@ cap.
 <lb n="29" rend="indent" /><hi rend="large">A</hi>re chicu ahavab va chu
 <lb n="30"/>vach <rs ana="NIJAIB">nihaibab</rs> are nabe aha<pc> –</pc>
 <lb n="31"/>u va <rs ana="AJAW_QALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
-<lb n="32"/>nac</rs>, cale camha, <rs ana="NIMA_KAMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
-<lb n="33"/>chuch camha</rs>, nimchocoh <rs ana="NIJAIB">nihaib<pc> –</pc>
-<lb n="34"/>ab</rs>, aulix, <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam, vꜩam pop
+<lb n="32"/>nac</rs>, <rs ana="QALEL_KAMJA">cale camha</rs>, <rs ana="NIMA_KAMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
+<lb n="33"/>chuch camha</rs>, <rs ana="NIJAIB">nimchocoh nihaib,</rs><pc> –</pc>
+<lb n="34"/><rs ana="AJAW_AWILIX">aulix</rs>, <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam, vꜩam pop
 <lb n="35"/>zaclatol</rs>, <rs ana="NIMA_LOLMET_YEOLTUX">nima lolmet yeoltux</rs>.
 <lb n="36"/>beleheb cut chi ahauab chuva<pc> –</pc>
 <lb n="37"/>ch <rs ana="NIJAIB">nihaibab</rs>
@@ -5207,13 +5207,14 @@ cap.
 <lb n="39"/>vae quibi ahauab. ahꜩic vinac
 <lb n="40"/><rs ana="AJAW_LOLMET">ahau lolmet</rs>, <rs ana="AJAW_NIM_CHOKOJ">ahau nim chocoh</rs>
 <lb n="41"/>ahau, <rs ana="AJAW_JAQAWITZ">ahau hacaviꜩ</rs>. cahib a<pc> –</pc>
-<lb n="42"/>hauab chuvach ahau quiche<pc> –</pc>
+<lb n="42"/>hauab chuvach <rs ana="AJAW_KICHE">ahau quiche</rs><pc> –</pc>
 <lb n="43"/>eb colehe vnim ha.
 </p>
 <p n="80">
 <lb n="44"/>Ca<gap reason="deletion" unit="character" instant="false"/>ib chinamit chi na ipuch
-<lb n="45"/>ca quiquib au<add place="above" instant="false" status="unremarkable">ha</add>ab ꜩutuha<unclear reason="illegible" instant="false">y</unclear> ealel
-<lb n="46"/>'zaquic xahun chi nim ha ecaib
+<lb n="45"/>ca quiquib au<add place="above" instant="false" status="unremarkable">ha</add>ab <rs ana="TZUTUJA">ꜩutuha</rs>
+<unclear reason="illegible" instant="false">y</unclear> <rs ana="QALEL_SAQIK">ealel
+<lb n="46"/>'zaquic</rs> xahun chi nim ha ecaib
 <lb n="47"/>chiahauab.
 </p>
 <p n="81">
@@ -7985,7 +7986,7 @@ perhaps priests not deities?</note>
 <lb n="44"/>tan ay, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es con<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> jugaban, estan colgados
 <lb n="45"/>sobre el tapanco, su batey, la pala, y la pelo<pc> –</pc>
 <lb n="46"/>ta de vle, y no os lo quíere manífestar vues<pc> –</pc>
-<lb n="47"/>tra <rs ana="IXMUKAME">abuela</rs>, por<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> por estos muríeron vues<pc> –</pc>
+<lb n="47"/>tra <rs ana="IXMUKANE">abuela</rs>, por<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> por estos muríeron vues<pc> –</pc>
 <pb corresp="xom-f21-s2"/>
 <lb n="1"/>tros padres. y díxeron <rs ana="DOS_MUCHACHOS">los muchachos</rs>: de çíer
 <lb n="2"/>to lo sabeís vos? y sealegraron mucho quando
