@@ -582,7 +582,7 @@ cap.
 <lb n="12"/>xchacatahic, ta xbanatahic vi<pc> –</pc>
 <lb n="13"/>nac rumal <rs ana="TZAQOL">ahꜩac</rs>, <rs ana="BITOL">ahbit</rs>.
 </p>
-<p n="11">
+<p xml:id="p11">
 <lb n="14" rend="indent"/><hi rend="large">V</hi>ae vxe vchacatahic v yi<pc> –</pc>
 <lb n="15"/>coxic chi puch v quih <rs ana="WUQUB_KAKIX">vucub
 <lb n="16"/>ca quix</rs> cumal e <rs ana="DOS_MUCHACHOS">caib qaholab</rs>
@@ -641,14 +641,14 @@ cap.
 <lb n="19"/>cut xnohix vi qui camic qui
 <lb n="20"/>zachic cumal <rs ana="DOS_MUCHACHOS">qaholab</rs>.
 </p>
-<p n="12">
+<p xml:id="p12">
 <lb n="21" rend="indent"/><hi rend="large">V</hi>ae cute v vbaxic vvcub
 <lb n="22"/>caquix cumal caib <rs ana="DOS_MUCHACHOS">qaholab</rs>
 <lb n="23"/>xch<del rend="scribble" instant="false" status="unremarkable">i</del> cabÿh qui chacatahic
 <lb n="24"/>chi qui huhunal ri nimari<pc> –</pc>
 <lb n="25"/>zai rib. 
-</p>
-<p> <note resp="editor">Implied by the Spanish </note>
+<note resp="editor">Implied by the Spanish </note>
+<note resp="editor">In response to above, K'iche' is anchor text (so paragraph element removed)</note>
 <lb n="25"/>are ri <rs ana="WUQUB_KAKIX">vvcub ca<pc> –</pc>
 <lb n="26"/>quix</rs> hun nima che ri ta<pc> –</pc>
 <lb n="27"/>pal are cu recha ri <rs ana="WUQUB_KAKIX">vvcub
@@ -811,7 +811,7 @@ cap.
 <lb n="38"/>be chic e caib <rs ana="DOS_MUCHACHOS">qaholab</rs>, xa vꜩih 
 <lb n="39"/>ri <rs ana="UKUX_KAJ">vqux cah</rs> ta xquibano.
 </p>
-<p n="13">
+<p xml:id="p13">
 <lb n="40"/><hi rend="large">V</hi>ae chi cute vbanoh chic <rs ana="SIPAKNA">zi<pc> –</pc>
 <lb n="41"/>pacna</rs> v nabe qahol <rs ana="WUQUB_KAKIX">vvcub<pc> –</pc>
 <lb n="42"/>caquix</rs>, in banol huyub ca<pc> –</pc>
@@ -956,7 +956,7 @@ cap.
 <lb n="34"/><rs ana="DOS_MUCHACHOS">qaholab</rs> <rs ana="JUNAJPU">hun ahpu</rs>, <rs ana="XBALAMKE">xbalan<pc> –</pc>
 <lb n="35"/>que</rs>.
 </p>
-<p n="14">
+<p xml:id="p14">
 <lb n="36" rend="indent"/><hi rend="large">A</hi>re chic vchacatahic, v 
 <lb n="37"/>camic <rs ana="SIPAKNA">zipacna</rs>, ta xchac chic 
 <lb n="38"/>cumal ri e caib <rs ana="DOS_MUCHACHOS">qaholab</rs> <rs ana="JUNAJPU">hun 
@@ -1061,7 +1061,7 @@ cap.
 <lb n="41"/>rizai rib. hun chi cut xchica<pc> –</pc>
 <lb n="42"/>bÿh vbixic
 </p>
-<p n="15">
+<p xml:id="p15">
 <lb rend="indent" n="43"/><hi rend="large">R</hi>ox chicut nimarizai rib v
 <lb n="44"/>cab v qahol <rs ana="WUQUB_KAKIX">vvcub caquix</rs> <rs ana="KABRAQAN">cab<pc> –</pc>
 <lb n="45"/>rracan</rs> vbi in yohol huiub xqha.
@@ -1184,7 +1184,7 @@ cap.
 <lb n="17"/><rs ana="SIPAKNA">zipacna</rs>, ruq <rs ana="KABRAQAN">cabracan</rs>, varal
 <lb n="18"/>chuvach vleuh.
 </p>
-<p n="16">
+<p xml:id="p16">
 <lb n="19" rend="indent"/><hi rend="large">A</hi>re chicut xchicabÿh chic v
 <lb n="20"/>bi qui cahau ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalan
 <lb n="21"/>que</rs> <del rend="scribble" instant="false" status="unremarkable">p</del>xcacamuh chuvi xapu xca<pc> –</pc>
@@ -1193,7 +1193,7 @@ cap.
 <lb n="24"/>xa nicah xchicabÿh, xa chacab v
 <lb n="25"/>bixic quicahau.
 </p>
-<p n="17">
+<p xml:id="p17">
 <lb n="26" rend="indent"/><hi rend="large">V</hi>ae cute vꜩihoxic. are qui bi
 <lb n="27"/>ri <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, que vqhaxic are
 <lb n="28"/>cut qui cahau ri <rs ana="XPIYAKOK">xpiyacoc</rs> <rs ana="IXMUKANE">xmu<pc> –</pc>
@@ -1302,7 +1302,7 @@ cap.
 <lb n="34"/>chouen</rs> cumal <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xba<pc> –</pc>
 <lb n="35"/>lanque</rs>.
 </p>
-<p n="18">
+<p xml:id="p18">
 <lb n="36" rend="indent" /><hi>C</hi>ate cut qui petic zamahel ru
 <lb n="37"/>mal <rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> quix
 <lb n="38"/>bec ixrah popachih he i taca ri
@@ -1372,7 +1372,7 @@ cap.
 <lb n="5"/>xbizonic xeqha ta xebec <rs ana="JUN_JUNAJPU">hun hu<pc> –</pc>
 <lb n="6"/>nahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs>.
 </p>
-<p n="19">
+<p xml:id="p19">
 <lb n="7" rend="indent" /><hi>C</hi>ate puch ta xebec <rs ana="JUN_JUNAJPU">hun hun<pc> –</pc>
 <lb n="8"/>ahpu</rs>, <rs ana="WUQUB_JUNAJPU">vvcub hun ahpu</rs> xcamqui<pc> –</pc>
 <lb n="9"/>be cumal ri zamahel, ta xecah<pc> –</pc>
@@ -1530,7 +1530,7 @@ cap.
 <lb n="14"/>ta hun <rs ana="IXKIK">capoh</rs>. va cute xchicabÿh
 <lb n="15"/>roponic.
 </p>
-<p n="20">
+<p xml:id="p20">
 <lb n="16" rend="indent"/><hi rend="large">V</hi>a chi cute vꜩihoxic hun capoh
 <lb n="17"/><rs ana="IXKIK">vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK">cuchumaquic</rs>
 <lb n="18"/>vbi.
