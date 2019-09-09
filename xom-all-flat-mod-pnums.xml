@@ -1535,7 +1535,7 @@ cap.
 <lb n="17"/><rs ana="IXKIK">vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK">cuchumaquic</rs>
 <lb n="18"/>vbi.
 </p>
-<p n="21">
+<p xml:id="p21">
 <lb n="19" rend="indent"/><hi rend="large">A</hi>re cut ta xuta hun <rs ana="IXKIK">capoh vme<pc> –</pc>
 <lb n="20"/>al</rs> hun ahau <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi v
 <lb n="21"/>cahau <rs ana="IXKIK">xquic</rs> cut vbi ri capoh ta
@@ -1606,7 +1606,7 @@ cap.
 <lb n="32"/>vcahau ri <rs ana="KUCHUMA_KIK">cuchumaquic</rs> vbi v
 <lb n="33"/>cahau
 </p>
-<p n="22">
+<p xml:id="p22">
 <lb n="34" rend="indent"/><hi rend="large">C</hi>ate puch vnatahic capoh ru<pc> –</pc>
 <lb n="35"/>mal vcahau ta xil ri ral cochic
 <lb n="36"/>ta <rs ana="IXKIK">xquicuch</rs> cut qui naoh cono<pc> –</pc>
@@ -1704,7 +1704,7 @@ cap.
 <lb n="28"/>ri rumal <rs ana="IXKIK">capoh</rs> xemoyvachixic
 <lb n="29"/>conohel.
 </p>
-<p n="23">
+<p xml:id="p23">
 <lb n="30" rend="indent"/><hi rend="large">A</hi>re cut e qo ri <rs ana="IXMUKANE">vchuch</rs> <rs ana="JUN_BATZ">hun baꜩ</rs>
 <lb n="31"/><rs ana="JUN_CHOWEN">hun choven</rs> ta xul ri ixoc <rs ana="IXKIK">xquic</rs> v
 <lb n="32"/>bi. ta xul cut ri ixoc <rs ana="IXKIK">xquic</rs> ruq 
@@ -1784,11 +1784,11 @@ cap.
 <lb n="7"/>china abanoh ri eqorivi enavinac
 <lb n="8"/>chic xuqhax cut <rs ana="IXKIK">capoh</rs>
 </p>
-<p n="24">
+<p xml:id="p24">
 <lb n="9" rend="indent"/><hi rend="large">A</hi>re chic xchicaꜩihoh calaxic
 <lb n="10"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>
 </p>
-<p n="25">
+<p xml:id="p25">
 <lb n="11" rend="indent"/><hi rend="large">A</hi>re cut calaxic vae xchicabÿh
 <lb n="12"/>ta xuric vquih calaxic taxalan
 <lb n="13"/>puch ri <rs ana="IXKIK">capoh</rs> <rs ana="IXKIK">xquic</rs> vbi. macu xu
@@ -1928,7 +1928,7 @@ cap.
 <lb n="41"/>quitiquiba zuanic, <rs ana="JUNAJPU">hun ahpu</rs> x coy
 <lb n="42"/>xquizuah.
 </p>
-<p n="26">
+<p xml:id="p26">
 <lb n="43" rend="indent"/><hi rend="large">C</hi>atepuch xebixanic xezuanic
 <lb n="44"/>xe cohomanic ta vcamic riqui zu 
 <lb n="45"/>qui cohom ta xcube puch ri catit
@@ -2001,7 +2001,7 @@ cap.
 <lb n="12"/>nim chic xquibano ta xecoheic rug
 <lb n="13"/>ratit rug pu quichuch
 </p>
-<p n="27">
+<p xml:id="p27">
 <lb n="14" rend="indent"/><hi rend="large">T</hi>a x quitiquiba chicut quibanoh
 <lb n="15"/>qui cutbal quib chuvach catit chu<pc> –</pc>
 <lb n="16"/>vachpu qui chuch nabe xquibano
@@ -2164,7 +2164,7 @@ cap.
 <lb n="20"/>oh ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> qui
 <lb n="21"/>cutiquil quih xeoponic.
 </p>
-<p n="28">
+<p xml:id="p28">
 <lb n="22" rend="indent"/><hi rend="large">M</hi>acu calah richo cucaam
 <lb n="23"/>taxeoponic hunriyacalic xoc
 <lb n="24"/>paha, huncu xoc xiquinha libah 
@@ -2213,7 +2213,7 @@ cap.
 <lb n="14"/>vach catit quehe cut vcanaic quic 
 <lb n="15"/>ri.
 </p>
-<p n="29">
+<p xml:id="p29">
 <lb n="16" rend="indent"/><hi rend="large">Q</hi>uequicot chicut xebec echaa
 <lb n="17"/>hel, pahom nahtcu xechaahic qui
 <lb n="18"/>tuquel xquimez rihom quicahau
@@ -2305,7 +2305,7 @@ cap.
 <lb n="2"/>naquipa ri choquic petaca vvb xe
 <lb n="3"/>qha.
 </p>
-<p n="30">
+<p xml:id="p30">
 <lb n="4" rend="indent" /><hi rend="large">C</hi>atepuch xquivvbah ri <rs ana="PAJARO">vac</rs> qui<pc> –</pc>
 <lb n="5"/>cutacal vbaca vvb chu baca vvach
 <lb n="6"/>chizetet cut xcah vloc quiꜩih vi
