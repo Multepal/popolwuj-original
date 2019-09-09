@@ -4879,7 +4879,7 @@ cap.
 <lb n="36"/>varal taxecamic erih chic e 
 <lb n="37"/>ahquixb ahcahb quibinaam. 
 </p>
-<p n="71">
+<p xml:id="p71">
 <lb n="38" rend="indent" />Cate puch taxquiquxlaah qui<pc> –</pc>
 <lb n="39"/>bÿc chila relebal quih are qui 
 <lb n="40"/>quxlaan ri vpixab qui cahau 
@@ -4914,7 +4914,7 @@ cap.
 <lb n="18"/>biahau va rahaual ahrele<pc> –</pc>
 <lb n="19"/>bal quih xeoponvi.
 </p>
-<p n="72">
+<p xml:id="p72">
 <lb n="20" rend="indent" /><hi rend="large">T</hi>a xeopon cut chuvach ahau
 <lb n="21"/><rs ana="NAKXIT">nacxit</rs> vbi nim ahau xahu
 <lb n="22"/>catol ꜩih ꜩaꜩ rahauarem are
@@ -4935,7 +4935,7 @@ cap.
 <lb n="37"/>vꜩibal xeqha chire qui oqui<pc> –</pc>
 <lb n="38"/>nac chupan chupan quiꜩih.
 </p>
-<p n="73">
+<p xml:id="p73">
 <lb n="39" rend="indent" />Cate puch ta xevlic chiri chu<pc> –</pc>
 <lb n="40"/>ui quitinamit <rs ana="LUGAR_DE_JAQAWITZ">hacaviꜩ</rs> vbi chi<pc> –</pc>
 <lb n="41"/>ricut xecuch vi ronohel <rs ana="TAMUB">tam<pc> –</pc>
@@ -5003,7 +5003,7 @@ cap.
 <lb n="3"/>cahauixel va cu vbi tinamit
 <lb n="4"/>e xevl vi
 </p>
-<p n="74">
+<p xml:id="p74">
 <lb n="5"/><rs ana="CHI_ISMACHI">Chiizmachi</rs> cut vbihuyub qui
 <lb n="6"/>tinamit xeqohe vi chinaipuchxe
 <lb n="7"/>amaquelab vi chiri cut xqui<pc> –</pc>
@@ -5121,7 +5121,7 @@ cap.
 <lb n="15"/>chic taxquil puch hunchic tina<pc> –</pc>
 <lb n="16"/>mit xcocotah chivi ri <rs ana="CHI_ISMACHI">chiizmachi</rs>.
 </p>
-<p n="75">
+<p xml:id="p75">
 <lb n="17"/>Catepuch taxeyacatah chivl
 <lb n="18"/>oc xevlchiri patinamit <rs ana="QUMARAQ_AJ">cumarca<pc> –</pc>
 <lb n="19"/>ah</rs> vbi cumal quiche chuqha xic
@@ -5176,7 +5176,7 @@ cap.
 <lb n="16"/>cabÿh quibi riahauab chuhu<pc> –</pc>
 <lb n="17"/>hunal huhun vnim ha.                                
 </p>
-<p n="76">
+<p xml:id="p76">
 <lb n="18" rend="indent" /><hi rend="large">V</hi>ae cute quibi ahauab chu
 <lb n="19"/>vach <rs ana="KAWEQ">caui quib</rs> are nabe ahau
 <lb n="20"/>va, <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpop camha</rs>, <rs ana="AJTOJIL">ah to<pc> –</pc>
@@ -5185,13 +5185,13 @@ cap.
 <lb n="23"/>queh nay</rs>. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">popol vinac, pahom
 <lb n="24"/>ꜩalaꜩ</rs>, vchuch cam ha.
 </p>
-<p n="77">
+<p xml:id="p77">
 <lb n="25" rend="indent" /><hi rend="large">A</hi>re cut ahauab ri chuvach
 <lb n="26"/><rs ana="KAWEQ">caviquib</rs> beleheb chi ahauab
 <lb n="27"/>colehe vnimha chuhuhunal ca
 <lb n="28"/>te chic chivachin v vach.
 </p>
-<p n="78">
+<p xml:id="p78">
 <lb n="29" rend="indent" /><hi rend="large">A</hi>re chicu ahavab va chu
 <lb n="30"/>vach <rs ana="NIJAIB">nihaibab</rs> are nabe aha<pc> –</pc>
 <lb n="31"/>u va <rs ana="AJAW_QALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
@@ -5202,7 +5202,7 @@ cap.
 <lb n="36"/>beleheb cut chi ahauab chuva<pc> –</pc>
 <lb n="37"/>ch <rs ana="NIJAIB">nihaibab</rs>
 </p>
-<p n="79">
+<p xml:id="p79">
 <lb n="38" rend="indent" /><hi rend="large">A</hi>re chicut ahau quiche va
 <lb n="39"/>vae quibi ahauab. ahꜩic vinac
 <lb n="40"/><rs ana="AJAW_LOLMET">ahau lolmet</rs>, <rs ana="AJAW_NIM_CHOKOJ">ahau nim chocoh</rs>
@@ -5210,7 +5210,7 @@ cap.
 <lb n="42"/>hauab chuvach ahau quiche<pc> –</pc>
 <lb n="43"/>eb colehe vnim ha.
 </p>
-<p n="80">
+<p xml:id="p80">
 <lb n="44"/>Ca<gap reason="deletion" unit="character" instant="false"/>ib chinamit chi na ipuch
 <lb n="45"/>ca quiquib au<add place="above" instant="false" status="unremarkable">ha</add>ab ꜩutuha<unclear reason="illegible" instant="false">y</unclear> ealel
 <lb n="46"/>'zaquic xahun chi nim ha ecaib
