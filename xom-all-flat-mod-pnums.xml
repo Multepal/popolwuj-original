@@ -3470,7 +3470,7 @@ cap.
 <lb n="21"/>col</rs> <rs ana="BITOL">bitol</rs> quevqhaxic ta xquiban
 <lb n="22"/>cut vqoheic chic quiꜩac qui bit
 </p>
-<p n="51">
+<p xml:id="p51">
 <lb n="23" rend="indent"/>Xaca xvabax vbac qui vach
 <lb n="24"/>rumal ri <rs ana="UKUX_KAJ">vqux cah</rs> xmoyic quehe<pc> –</pc>
 <lb n="25"/>ri xuxlabix vvach lemo xmoyo<pc> –</pc>
@@ -3608,7 +3608,7 @@ cap.
 <lb n="6"/><rs ana="IKIBALAM">iqui balam</rs> xquitao vꜩihol hun
 <lb n="7"/>tinamit xebevi
 </p>
-<p n="52">
+<p xml:id="p52">
 <lb n="8" rend="indent"/><hi rend="large">A</hi>recut vbi huyub va xebe vi
 <lb n="9"/><rs ana="BALAM_KITZE">Balam quiꜩe</rs>, <rs ana="BALAM_AQAB">Balam acab</rs> <rs ana="MAJUKUTAJ">mahu
 <lb n="10"/>cutah</rs>, <rs ana="IKIBALAM">iqui balam</rs> ruq <rs ana="TAMUB">tumub</rs>, <rs ana="ILOKAB">ilo<pc> –</pc>
@@ -3616,7 +3616,7 @@ cap.
 <lb n="12"/>cubzivan vbi tinamit xeopon vi
 <lb n="13"/>e camolre cabauil
 </p>
-<p n="53">
+<p xml:id="p53">
 <lb n="14" rend="indent"/>Xeopon cut chila <rs ana="TULÁN">tulan</rs> conoh<pc> –</pc>
 <lb n="15"/>el maui ahilan chivinac xoponic
 <lb n="16"/>ꜩaꜩcut chubinic cholon cut relic
@@ -3641,7 +3641,7 @@ cap.
 <lb n="35"/>quimam quicahau ahauab xa
 <lb n="36"/>ui quetaam va camic
 </p>
-<p n="54">
+<p xml:id="p54">
 <lb n="37" rend="indent"/>Quehecut vbinaam vi ox<pc> –</pc>
 <lb n="38"/>ib chiquiche xma xuꜩocopih
 <lb n="39"/>virib rumal xa hunam vbi ca<pc> –</pc>
@@ -3692,7 +3692,7 @@ cap.
 <lb n="35"/>mac quequicotic rumal qui
 <lb n="36"/>eae
 </p>
-<p n="55">
+<p xml:id="p55">
 <lb n="37" rend="indent" />Catepuch ta xticaric nima hab
 <lb n="38"/>are catilo veae amac ꜩaꜩ cut
 <lb n="39"/>chi zacboch xachic pa qui vi ro
@@ -3765,7 +3765,7 @@ cap.
 <lb n="10"/>chiquimah quichi chiqui mah qui
 <lb n="11"/>vach
 </p>
-<p n="56">
+<p xml:id="p56">
 <lb n="12"/>Cate puch culic chic e eloeom
 <lb n="13"/>chiquivach <rs ana="BALAM_KITZE">balam quiꜩe</rs>, <rs ana="BALAM_AQAB">balam
 <lb n="14"/>aeab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs> <rs ana="IKIBALAM">iqui balam</rs>
@@ -3876,7 +3876,7 @@ cap.
 <lb n="22"/>qui hunam vach xeicou vla
 <lb n="23"/>chila <rs ana="NIM_XOL">nim xol</rs> cabixic vacamic
 </p>
-<p n="57">
+<p xml:id="p57">
 <lb n="24"/>Taxevl puch chiri chuvi hun
 <lb n="25"/>huyub chiri xquicuch vi quib
 <lb n="26"/>conohel <rs ana="AJAW_KICHE">queche vinac</rs> ruq a
@@ -3893,7 +3893,7 @@ cap.
 <lb n="37"/>xahunam caꜩih xeqhacut
 <lb n="38"/>ta xcoh quibi
 </p>
-<p n="58">
+<p xml:id="p58">
 <lb n="39"/>Ta xbinaah chicuri <rs ana="KAQCHIKELEB">eaeche<pc> –</pc>
 <lb n="40"/>queleb</rs>. <rs ana="KAQCHIKELEB">eaechequeleb</rs> vbi xuxic
 <lb n="41"/>ruc chic <rs ana="RABINALEB">rabinaleb</rs> are chicu
@@ -3941,7 +3941,7 @@ cap.
 <lb n="35"/><rs ana="CHI_PIXAB">chipixab</rs> vbi vacamic xqha
 <lb n="36"/>chi cut qui cabauil chiri.
 </p>
-<p n="59">
+<p xml:id="p59">
 <lb n="37"/>Ta xqha cut ruq <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">au<pc> –</pc>
 <lb n="38"/>lix</rs> <rs ana="JAQAWITZ">hacaviꜩ</rs> chiquech ri <rs ana="BALAM_KITZE">Ba<pc> –</pc>
 <lb n="39"/>lam quiꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">mahu<pc> –</pc>
@@ -4052,7 +4052,7 @@ cap.
 <pb xml:id="xom-f40-s1"/>
 <lb n="1"/>chinic puch quih, ic, qhumil
 </p>
-<p n="60">
+<p xml:id="p60">
 <lb n="2" rend="indent"/>Vae cute vzaquiric vvachi<pc> –</pc>
 <lb n="3"/>nic puch quih, ic, qhumil.
 </p>
