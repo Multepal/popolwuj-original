@@ -4056,7 +4056,7 @@ cap.
 <lb n="2" rend="indent"/>Vae cute vzaquiric vvachi<pc> –</pc>
 <lb n="3"/>nic puch quih, ic, qhumil.
 </p>
-<p n="61">
+<p xml:id="p61">
 <lb n="4" rend="indent"/><hi rend="large">N</hi>im cut xe quicotic <rs ana="BALAM_KITZE">balam
 <lb n="5"/>quiꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs>,
 <lb n="6"/><rs ana="IKIBALAM">iqui balam</rs> ta xril ri icoquih. na
@@ -4204,7 +4204,7 @@ cap.
 <lb n="4"/>caviꜩ</rs> areqochic pa ec pa ꜩi<pc> –</pc>
 <lb n="5"/>yac cumal.
 </p>
-<p n="62">
+<p xml:id="p62">
 <lb n="6" rend="indent"/>Vacute quicatonic vxe chipu<pc> –</pc>
 <lb n="7"/>ch cohbal rech <rs ana="TOJIL">tohil</rs> ta xebe
 <lb n="8"/>cut chu vach <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">aulix</rs> xbequila x<pc> –</pc>
@@ -4328,12 +4328,12 @@ cap.
 <lb n="30"/>qui hab rib riquic xuxic vyaon
 <lb n="31"/><rs ana="TOJIL">tohil</rs> ruq <rs ana="AWILIX">aulix</rs> x <rs ana="JAQAWITZ">hacaviꜩ</rs>.
 </p>
-<p n="63">
+<p xml:id="p63">
 <lb n="32" rend="indent"/><hi rend="large">V</hi>ae vticaric chic relecaxic vi<pc> –</pc>
 <lb n="33"/>nac amac cumal <rs ana="BALAM_KITZE">balam quiꜩe</rs>, <rs ana="BALAM_AQAB">ba
 <lb n="34"/>lam acab</rs> <rs ana="MAJUKUTAJ">mahucutah</rs> <rs ana="IKIBALAM">iqui balam</rs>.
 </p>
-<p n="64">
+<p xml:id="p64">
 <lb n="35" rend="indent"/><hi rend="large">C</hi>ate puch vcamizaxic amac ri
 <lb n="36"/>are xquicam ri xa hun chubinic
 <lb n="37"/>xa caib chubinic maui calah ta chi<pc> –</pc>
@@ -4390,7 +4390,7 @@ cap.
 <lb n="40"/>vcamic vnaoh amac chire vca<pc> –</pc>
 <lb n="41"/>mizaxic tah.
 </p>
-<p n="65">
+<p xml:id="p65">
 <lb n="42" rend="indent"/><hi rend="large">N</hi>abe cut xrah qui naohih a<pc> –</pc>
 <lb n="43"/>mac vchaquic <rs ana="TOJIL">tohil</rs> <rs ana="AWILIX">avlix</rs> <rs ana="JAQAWITZ">hacaviꜩ</rs>
 <lb n="44"/>xeqha ronohel vi ahquixb ahcahb
@@ -4461,7 +4461,7 @@ cap.
 <lb n="13" />tohil aulix hacaviꜩ</rs>. are qui
 <lb n="14" />naoh ronohel amac rÿ.
 </p>
-<p n="66">
+<p xml:id="p66">
 <lb n="15" rend="indent" />Cate puch xebec xecauuxic qui<pc> –</pc>
 <lb n="16" />bec chila <rs ana="EL_BAÑO_DE_TOJIL">chatin vi tohil</rs> quicari<pc> –</pc>
 <lb n="17" />loon curi qui chahon ta xebec. que
@@ -4512,7 +4512,7 @@ cap.
 <lb n="13"/>chique xevqhax cut <rs ana="BALAM_KITZE">balam qui<pc> –</pc>
 <lb n="14"/>ꜩe</rs>, <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAJUKUTAJ">mahucutah</rs>.
 </p>
-<p n="67">
+<p xml:id="p67">
 <lb n="15" rend="indent"/>Cate cut xezibanic coxichal na<pc> –</pc>
 <lb n="16"/>be xꜩiban ri <rs ana="BALAM_KITZE">balam quiꜩe</rs>. balam
 <lb n="17"/>vvachibal xuxic xuꜩibah chu<pc> –</pc>
@@ -4606,7 +4606,7 @@ cap.
 <lb n="9"/>quicuch quib conohel xepoponic
 <lb n="10"/>xeta co quib conohel.
 </p>
-<p n="68">
+<p xml:id="p68">
 <lb n="11" rend="indent"/><hi>V</hi>ae cute qui molouic quib co<pc> –</pc>
 <lb n="12"/>nohel amac e cauutal chic chi
 <lb n="13"/>chab chipocob conohel maui a
@@ -4711,7 +4711,7 @@ cap.
 <lb n="16"/>e qo vi are cut coquibexic va xchi
 <lb n="17"/>cabÿh chic
 </p>
-<p n="69">
+<p xml:id="p69">
 <lb n="18" rend="indent"/><hi>A</hi>re cut e qo chiri <rs ana="BALAM_KITZE">balam quiꜩe</rs>
 <lb n="19"/><rs ana="BALAM_AQAB">balam acab</rs> <rs ana="MAJUKUTAJ">mahucutah</rs> <rs ana="IKIBALAM">iqui ba<pc> –</pc>
 <lb n="20"/>lam</rs> xa hun e qo vi chuvi <rs ana="LUGAR_DE_JAQAWITZ">huyub</rs> ruq
@@ -4788,7 +4788,7 @@ cap.
 <lb n="43"/>quiꜩe</rs> <rs ana="BALAM_AQAB">balam acab</rs>, <rs ana="MAKUJUTAJ">mahucutah</rs>
 <lb n="44"/><rs ana="IKIBALAM">iqui balam</rs> qui bi.
 </p>
-<p n="70">
+<p xml:id="p70">
 <lb n="45" rend="indent"/><hi>X</hi>quina cut qui camic qui zachic
 <lb n="46"/>ta xepixabic chirech qui qahol ma
 <lb n="47"/>na eta iab mapu quehilovic que<pc> –</pc>
