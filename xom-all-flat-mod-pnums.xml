@@ -2365,7 +2365,7 @@ cap.
 <lb n="9"/>petic xeopon cut ruq <rs ana="IXMUKANE">catit</rs> xa
 <lb n="10"/>e pixabai chire <rs ana="IXMUKANE">catit</rs> xebec.
 </p>
-<p n="31"> 
+<p xml:id="p31"> 
 <lb n="11" rend="indent"/>ho na <rs ana="IXMUKANE">ixcatit</rs> xaohpixabay
 <lb n="12"/>ive vae cute retal caꜩih xchicacanah
 <lb n="13"/>huhun xchicatic chire
@@ -2689,7 +2689,7 @@ cap.
 <lb n="20"/>vzbala xeqha <rs ana="DOS_MUCHACHOS">qaho<pc> –</pc>
 <lb n="21"/>lab</rs> ta x que leh.
 </p>
-<p n="32">
+<p xml:id="p32">
 <lb n="22"/>Xeoc chicut pa<rs ana="CASA_DE_HIELO">teuh ha</rs> ma<pc> –</pc>
 <lb n="23"/>ui ahilan teu ꜩaꜩ chi zacbocom
 <lb n="24"/>chupan ha rochoch teu huzu
@@ -2707,7 +2707,7 @@ cap.
 <lb n="36"/>banoh <rs ana="DOS_MUCHACHOS">qaholab</rs> <rs ana="XBALAMKE">xba<pc> –</pc>
 <lb n="37"/>lan que</rs>
 </p>
-<p n="33">
+<p xml:id="p33">
 <lb n="38" rend="indent" />Cate xeoc chicut <rs ana="CASA_DE_JAGUARES">pabala
 <lb n="39"/>mi ha</rs> ꜩaꜩ chibalam balam
 <lb n="40"/>rochoch maui cohitio qo ivech
@@ -2726,7 +2726,7 @@ cap.
 <lb n="5"/>qui xepe vi xeqha ri  co<pc> –</pc>
 <lb n="6"/>nohel
 </p>
-<p n="34">
+<p xml:id="p34">
 <lb n="7"/>Cate chic xeoc chupam <rs ana="CASA_DE_FUEGO">eae
 <lb n="8"/>hun ha</rs> chieae, xa vtu que l eae v
 <lb n="9"/>pam maui xecatic rumal, xa
@@ -2737,7 +2737,7 @@ cap.
 <lb n="14"/>ui que he xavi 
 <lb n="15"/>cazach quiqux rumal.
 </p>
-<p n="35">
+<p xml:id="p35">
 <lb n="16"/>Xecoh chic chupan <rs ana="CASA_DE_MURCIÉLAGOS">zoꜩin ha</rs>
 <lb n="17"/>vtu que l zoꜩ chupam chiha
 <lb n="18"/>hun ha chi camazoꜩ nimac chi<pc> –</pc>
@@ -2838,7 +2838,7 @@ cap.
 <lb n="14"/>xzaquiric xavi xare vꜩqui<pc> –</pc>
 <lb n="15"/>vach qui cabichal.
 </p>
-<p n="36">
+<p xml:id="p36">
 <lb n="16" rend="indent" />xcah chicu quichaah colan
 <lb n="17"/>chicu vholom <rs ana="JUNAJPU">hun ahpu</rs> chuvi
 <lb n="18"/>hom. mi xcachacoyan, mixibano
@@ -2891,7 +2891,7 @@ cap.
 <lb n="14"/>ui are xecam vi ri ronohel
 <lb n="15"/>xban chique. 
 </p>
-<p n="37">
+<p xml:id="p37">
 <lb n="16" rend="indent" /><hi rend="large">A</hi>Are cut vae quinabal qui<pc> –</pc>
 <lb n="17"/>camic <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs> are
 <lb n="18"/>va qui nabal qui camic xchica
@@ -2983,7 +2983,7 @@ cap.
 <lb n="5"/>vxic xavi xere qui vach xuxic
 <lb n="6"/>xecutun chicut.
 </p>
-<p n="38">
+<p xml:id="p38">
 <lb n="7" rend="indent" />Chi robix cut xecutun chix xe
 <lb n="8"/>il chi ya rumal vinac e caib que
 <lb n="9"/>heri xavinac car xevachinic
@@ -3010,7 +3010,7 @@ cap.
 <lb n="30"/>v xenaahic chic chacbal quech
 <lb n="31"/><rs ana="XIBALBA">xibalba</rs> cumal.
 </p>
-<p n="39">
+<p xml:id="p39">
 <lb n="32" rend="indent" />Cate chi puch roponic chic v
 <lb n="33"/>ꜩihel quixahoh chi xiquin aha<pc> –</pc>
 <lb n="34"/>uab <rs ana="JUN_KAME">huncame</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> xch<pc> –</pc>
@@ -3048,7 +3048,7 @@ cap.
 <lb n="18"/>zamahel chiquivach camol que
 <lb n="19"/>ta xebe cut ruq ahau.
 </p>
-<p n="40">
+<p xml:id="p40">
 <lb n="20" rend="indent" />Xeopon puch cuq ahauab
 <lb n="21"/>Quemocho chic chiqui xule la
 <lb n="22"/>qui vach xeoponic xqui que<pc> –</pc>
