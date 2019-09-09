@@ -51,7 +51,7 @@ the origin of the text, e.g. the date and place of its composition. -->
 <text xml:id="MS1515v2" n="1515.2">
 <body>
 <div xml:lang="quc" type="column">
-<p xml:id="p1">
+<p xml:id="p01">
 <pb xml:id="xom-f01-s1"/>
 <note place="margin-left" type="chapter-heading" anchored="true">
 cap.
@@ -61,7 +61,7 @@ cap.
 <lb n="1"/><hi rend="very-large">ARE V XE OHER</hi>
 <lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
 </p>
-<p xml:id="p2">
+<p xml:id="p02">
 <lb n="3" rend="indent"/><hi rend="large">V</hi>aral xchicaꜩibah vi xchica<pc> –</pc>
 <note place="margin-left" anchored="true"><num rend="large">1.</num></note>
 <lb n="4"/>tiquiba vi oher ꜩih, vticaribal,
@@ -113,14 +113,14 @@ cap.
 <lb n="1"/>ato qol vi cah vleu cho palo
 <lb />
 </p>
-<p xml:id="p3">
+<p xml:id="p03">
 <lb n="2" rend="center"/><hi rend="large">ARE V ꜨIHOXIC VAE</hi>
 <lb n="3" rend="center"/>Cacaꜩinin oc, caca chamam oc
 <lb n="4" rend="center"/>caꜩinonic cacazilanic, caca
 <lb n="5" rend="center"/>lolinic, catolona puch v
 <lb n="6" rend="center"/>pa cah.
 </p>
-<p xml:id="p4">
+<p xml:id="p04">
 <lb n="7" rend="indent"/><hi rend="large">V</hi>ae cute nabe ꜩih nabe vch<pc> –</pc>
 <lb n="8"/>an. mahabi oꜫ hun vinac, hun
 <lb n="9"/>chicop, ꜩiquin, car, tap, che
@@ -148,7 +148,7 @@ cap.
 <lb n="31"/>ch <rs ana="UKUX_KAJ">vqux cah</rs> are vbi ri ca<pc> –</pc>
 <lb n="32"/>bauil chuqhaxic.
 </p>
-<p xml:id="p5">
+<p xml:id="p05">
 <lb n="33" rend="indent"/><hi rend="large">T</hi>a xpe cut vꜩih varal xul
 <lb n="34"/>cuq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs> varal
 <lb n="35"/>chi quecumal chi aꜫabal xqh<pc> –</pc>
@@ -214,7 +214,7 @@ cap.
 <pb xml:id="xom-f02-s2"/>
 <lb n="1"/>tahic cumal.
 </p>
-<p xml:id="p6">
+<p xml:id="p06">
 <note><num>2</num></note>
 <lb n="2" rend="indent"/><hi rend="large">T</hi>a xquinohih chic vchicop<pc> –</pc>
 <lb n="3"/>il huyub chahal re quichelah
@@ -248,7 +248,7 @@ cap.
 <lb n="31"/>lom</rs>. xuꜩininaca chic ronohel
 <lb n="32"/>ri queh ꜩiquin                    
 </p>
-<p xml:id="p7">
+<p xml:id="p07">
 <lb n="33" rend="indent"/><hi rend="large">T</hi>a xevqhax chicut rÿ queh
 <lb n="34"/>ꜩiquin rumal <rs ana="TZACOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="ALOM">a<pc> –</pc>
 <lb n="35"/>lom</rs>, <rs ana="KAJOLOM">qaholom</rs>: quixqhauoc ,
@@ -350,7 +350,7 @@ cap.
 <lb n="35"/>are qui bi ri <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmuca<pc> –</pc>
 <lb n="36"/>ne</rs>
 </p>
-<p xml:id="p8">
+<p xml:id="p08">
 <lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="UKUX_KAJ">huracan</rs> ruq <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
 <lb n="38"/>peu gucumaꜩ</rs> ta xquibih chire<pc> –</pc>
 <lb n="39"/>ch ahquih ah bit enic vachi<pc> –</pc>
@@ -428,7 +428,7 @@ cap.
 <lb n="14"/>enabe ꜩaꜩ chivinac xevxic
 <lb n="15"/>varal chuvach vleu
 </p>
-<p xml:id="p9">
+<p xml:id="p09">
 <lb n="16" rend="indent"/><hi rend="large">C</hi>atecut qui quÿzic chic qui
 <lb n="17"/>mayxic qui cutuxic puch xe
 <lb n="18"/>camizax chic poy aham che
@@ -5910,12 +5910,12 @@ cap.
 </p>
 </div>
 <div xml:lang="spa" type="column">
-<p n="1">        
+<p corresp="#p01">        
 <pb corresp="xom-f01-s1"/>
 <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
 <lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
 </p>
-<p n="2">
+<p corresp="#p02">
 <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
 <lb n="4"/>antiguas historias, su principio, y comien<pc> –</pc>
 <lb n="5"/>zo de todo lo <abbr>q'</abbr> fue hecho en <rs ana="TINAMIT_KICHE">el pueblo de
