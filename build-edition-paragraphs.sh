@@ -10,4 +10,7 @@ saxon xom-all-flat-mod-pnums-lbids.xml xom-paragraphs.xsl > ./templates/xom-para
 echo "Applying replacements ..."
 ./xom-paragraphs.py ./templates/xom-paragraphs.html;
 
+echo "Building site ..."
+./build-site.py
+
 echo "Done."
