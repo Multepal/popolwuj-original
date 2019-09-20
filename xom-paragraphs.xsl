@@ -6,7 +6,7 @@
     exclude-result-prefixes="tei">
     <xsl:output method="html" omit-xml-declaration="yes" encoding="UTF-8" indent="no" />
 
-    <xsl:variable name="themes_ajax_root">http://live-multepal.pantheonsite.io/node/</xsl:variable>
+    <xsl:variable name="themes_ajax_root">http://multepal.spanitalport.virginia.edu/node/</xsl:variable>
 
     <xsl:param name="topicsFile" select="'multepal/topics.xml'" />
     <xsl:param name="topics" select="document($topicsFile)" />
