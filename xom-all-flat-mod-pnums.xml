@@ -6019,13 +6019,13 @@ cap.
 <pb corresp="xom-f02-s1"/>
 <lb n="1"/>y el tercero: <rs ana="RAXA_KAQULJA">raxa caculha</rs>. (nombre proprío
 <note place="margin-right" type="pagination" anchored="true"><num rend="large">2</num></note>
-<lb n="2"/><abbr>q’</abbr>dize: <rs ana="RAXA_KAQULJA">verde rayo</rs>) con <abbr>q’</abbr>suertes aquel su <rs ana="UKUX_KAJ">co<pc> –</pc>
-<lb n="3"/>razon de el cielo</rs>, <abbr>q’</abbr>vinieron con <rs ana="TEPEW_QUKUMATZ">tepeu, qu<pc> –</pc>
+<lb n="2"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>dize: <rs ana="RAXA_KAQULJA">verde rayo</rs>) con <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>suertes aquel su <rs ana="UKUX_KAJ">co<pc> –</pc>
+<lb n="3"/>razon de el cielo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>vinieron con <rs ana="TEPEW_QUKUMATZ">tepeu, qu<pc> –</pc>
 <lb n="4"/>cumaꜩ</rs>, entonzes se consulto la vida, y la cre<pc> –</pc>
 <lb n="5"/>azion; pues como se sembrara, y aclarar, quí<pc> –</pc>
 <lb n="6"/>en sera hecho alimentador, y sustentador, dad
 <lb n="7"/>vuestro voto. esta agua salga, desembaraze
-<lb n="8"/>para <abbr>q’</abbr>se produzca la tierra, y sea su juntu<pc> –</pc>
+<lb n="8"/>para <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se produzca la tierra, y sea su juntu<pc> –</pc>
 <lb n="9"/>ra, y así se siembre, y aclare el zielo, y la
 <lb n="10"/>tierra, y así no les sera embarazo a las cría<pc> –</pc>
 <lb n="11"/>turas, y nuestras hechuras, <abbr>q<hi rend="superscript">o</hi></abbr> fueren cria<pc> –</pc>
@@ -6050,11 +6050,11 @@ cap.
 <lb n="30"/>paro, y detuvo el agua, y entonzes se
 <lb n="31"/>mostraron los grandes zerros. y así su ser
 <lb n="32"/>formada la tierra, <abbr>q<hi rend="superscript">o</hi></abbr> se crío por aquellos
-<lb n="33"/><abbr>q’</abbr>se llaman <rs ana="UKUX_KAJ_UKUX_ULEW">el corazon de el zielo, y el cora
-<lb n="34"/>zon de la tierra</rs>, y esto es lo primero <abbr>q’</abbr> dís
+<lb n="33"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llaman <rs ana="UKUX_KAJ_UKUX_ULEW">el corazon de el zielo, y el cora
+<lb n="34"/>zon de la tierra</rs>, y esto es lo primero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dís
 <lb n="35"/>currieron estando el zielo y la tierra den
 <lb n="36"/>tro de el agua, y así su ser discurrído a
-<lb n="37"/>quello <abbr>q’</abbr> discurrieron, qo pensaron suser
+<lb n="37"/>quello <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> discurrieron, qo pensaron suser
 <lb n="38"/>perfizionado, y suser hecho por ellos.
 <lb />
 <lb />
@@ -6076,7 +6076,7 @@ cap.
 <lb n="5"/>guardas de los mecates. y dixo <rs ana="DIOS">el criador</rs> sí
 <lb n="6"/>solo hã de estar en silencio, o an de estar en
 <lb n="7"/>suspension debaxo de los palos, y mecates<unclear reason="could be a superscripted 2" instant="false">?</unclear> y so
-<lb n="8r"/>lo ha de estar bueno el <abbr>q’</abbr>aiga quien los guar<pc> –</pc>
+<lb n="8r"/>lo ha de estar bueno el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>aiga quien los guar<pc> –</pc>
 <lb n="9"/>de; dixeron <abbr>q<hi rend="superscript">o</hi></abbr> lo consultaron, y parlaron
 <lb n="10"/>y luego fueron produzidos venados, y paxa<pc> –</pc>
 <lb n="11"/>ros, y entonzes les repartieron sus casas
@@ -6109,7 +6109,7 @@ cap.
 <lb n="32"/>diferencia, seles fue dicho alos venados
 <lb n="33"/>y pajaros, alos leones, tígres, y culebras
 <lb n="34"/>dezíd nuestro nombre, alabadnos, dezid
-<lb n="35"/><abbr>q’</abbr>somos vuestras <rs ana="ALOM">madres</rs>, y vuestros <rs ana="KAJOLOM">Padres</rs>.
+<lb n="35"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>somos vuestras <rs ana="ALOM">madres</rs>, y vuestros <rs ana="KAJOLOM">Padres</rs>.
 <lb n="36"/><rs ana="UKUX_KAJ">huracan</rs>, <rs ana="CHIPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>
 <lb n="37"/><rs ana="UKUX_KAJ">vquxcah</rs>, <rs ana="UKUX_ULEW">vquxuleu</rs>, <rs ana="TZAQOL">formadores</rs>, <rs ana="BITOL">cría
 <lb n="38"/>dores</rs>, <rs ana="ALOM">madres</rs>, y <rs ana="KAJOLOM">Padres</rs>. hablad, ínvo<pc> –</pc>
@@ -6118,13 +6118,13 @@ cap.
 <lb />
 <pb corresp="xom-f03-s1"/>
 <lb n="1"/>cadnos, saludadnos seles fue dicho. y no pu <note place="margin-right" type="pagination" anchored="true"><num rend="large">3</num></note>
-<lb n="2"/>dieron hablar como los hombres; síno <abbr>q’</abbr>chí<pc> –</pc>
+<lb n="2"/>dieron hablar como los hombres; síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>chí<pc> –</pc>
 <lb n="3"/>llaron, y cacaraquearon, y grítaron dizí<pc> –</pc>
-<lb n="4"/>endo voh, voh. no aparezío su habla, sino <abbr>q’</abbr>
+<lb n="4"/>endo voh, voh. no aparezío su habla, sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="5"/>cadavno gríto, y chíllo diferentemente
-<lb n="6"/>y cuando <rs ana="TZAQOL">los formadores</rs> oyeron <abbr>q’</abbr> no ha<pc> –</pc>
+<lb n="6"/>y cuando <rs ana="TZAQOL">los formadores</rs> oyeron <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no ha<pc> –</pc>
 <lb n="7"/>blaron dixeron otra vez entresí, no se pudo
-<lb n="8"/>acabar <abbr>q’</abbr>díxesen nuestro nombre, <abbr>porq’</abbr>
+<lb n="8"/>acabar <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díxesen nuestro nombre, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 <lb n="9"/>somos nosotros sus <rs ana="TZAQOL">formadores</rs>, y <rs ana="BITOL">críadores</rs>
 <lb n="10"/>no estabíen dixeron entresí aquellos <rs ana="TZAQOL">for<pc> –</pc>
 <lb n="11"/>madores</rs>. y seles fue dicho sereís troca<pc> –</pc>
@@ -6138,7 +6138,7 @@ cap.
 <lb n="19"/>este o <abbr>ff<hi rend="superscript">o</hi>.</abbr> vuestra carne sera mascada
 <lb n="20"/>y de eso servíreís. se les fue dicho <abbr>q<hi rend="superscript">o</hi></abbr> se les
 <lb n="21"/>notifíco a todos los animales chicos y gran
-<lb n="22"/>des <abbr>q’</abbr>ay sobre la tíerra. y entonzes quí<pc> –</pc>
+<lb n="22"/>des <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay sobre la tíerra. y entonzes quí<pc> –</pc>
 <lb n="23"/>síeron otra vez probar su día, y quísíe<pc> –</pc>
 <lb n="24"/>ron reprobar otra vez, y <del rend="overstrike" instant="false" status="unremarkable"> </del>quisieron
 <lb n="25"/>juntar otra vez, su salutazíon, y ya no
@@ -6147,14 +6147,14 @@ cap.
 <lb n="28"/>pudo hazer, y así fueron vltrajados
 <lb n="29"/>y desechadas sus carnes, tributaron, fue<pc> –</pc>
 <lb n="30"/>roncomídos <del rend="overstrike" instant="false" status="unremarkable">todos</del> y muertos todos los
-<lb n="31"/>animales <abbr>q’</abbr>ay aquí sobre la tíerra
+<lb n="31"/>animales <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay aquí sobre la tíerra
 <lb n="32"/>yasí probaron otra vez otras críaturas
 <lb n="33"/>por <rs ana="TZAQOL">el críador</rs>, y pruebese otra vez, ya
 <note resp="editor">note that Ximénez will just say "El críador" in the Spanish where the K'iche' says "Tzacol bitol alom qaholom", more monotheistic effect.</note>
 <lb n="34"/>se azerco la sembradura, y amanezímí
 <lb n="35"/>ento, hagamos sustentador nuestro, y
 <lb n="36"/>mantenedor nuestro. como seremos
-<lb n="37"/>ínvocados, y <abbr>q’</abbr>se acuerden de nosotros
+<lb n="37"/>ínvocados, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se acuerden de nosotros
 <lb n="38"/>sobre la tierra, ya pro bamos nues tras
 <lb n="39"/>prímeras hechuras, y formaduras, y
 <lb />
@@ -6166,17 +6166,17 @@ cap.
 <lb />
 <lb />
 <pb corresp="xom-f03-s2"/>
-<lb n="1"/>no se pudo componer <abbr>q’</abbr>nos alabaran, y nos
+<lb n="1"/>no se pudo componer <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>nos alabaran, y nos
 <lb n="2"/>aclararan, y así probemos suser hecho vo
 <lb n="3"/>bedezedor, sustentado nuestro dixeron
 <lb n="4"/><abbr>q<hi rend="superscript">o</hi></abbr> fue formado y hecho la tíerra lodo fue he
-<lb n="5"/>cho su cuerpo, y no parecio bien, sino que <abbr>q’</abbr>se
+<lb n="5"/>cho su cuerpo, y no parecio bien, sino que <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
 <lb n="6"/>desbarataba, y estaba blando, y apelmaza<pc> –</pc>
 <lb n="7"/>do, y desmadexado, y <del rend="overstrike" instant="false" status="unremarkable">el</del>se desmoronaba,
 <lb n="8"/>y se humedezía, no se movía su cabeza
-<lb n="9"/>síno <abbr>q’</abbr> en vna parte se estaba su cara, era
-<lb n="10"/>cíego, y no miraba <abbr>p<hi rend="superscript">a</hi></abbr> atras, <abbr>aunq’</abbr>habla<pc> –</pc>
-<lb n="11"/>ba, no tenía entendímíento, síno <abbr>q’</abbr>se re
+<lb n="9"/>síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en vna parte se estaba su cara, era
+<lb n="10"/>cíego, y no miraba <abbr>p<hi rend="superscript">a</hi></abbr> atras, <choice><abbr>aunq’</abbr><expan instant="false">aunque</expan></choice>habla<pc> –</pc>
+<lb n="11"/>ba, no tenía entendímíento, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se re
 <lb n="12"/>benía en el agua, no era fuerte. y díxe<pc> –</pc>
 <lb n="13"/>ron otra vez los <rs ana="TZAQOL">hazedores</rs>, y <rs ana="BITOL">formadores</rs>
 <note resp="editor">who are hazedores/formadores/fabrícadores in this passage in terms of rs ana </note>
@@ -6185,7 +6185,7 @@ cap.
 <lb n="16"/>de su entendímíento lo dixeron, y en
 <lb n="17"/>tonzes lo desbarataron, y lo bolbíeron
 <lb n="18"/>a amasar su formadura, y fabríca, y di<pc> –</pc>
-<lb n="19"/>geron como lo haremos otra vez <abbr>q’</abbr>pueda
+<lb n="19"/>geron como lo haremos otra vez <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>pueda
 <lb n="20"/>alabarnos, e ínvocarnos, dixeron <abbr>q<hi rend="superscript">o</hi></abbr> con
 <lb n="21"/>sultaron otra vez lo diremos a la <rs ana="XPIYAKOK">xpíya
 <lb n="22"/>coc</rs>, y a <rs ana="IXMUKANE">xmucane</rs>, y a <rs ana="JUNAJPU_WUCH">hun ahpu vuch</rs>
@@ -6195,7 +6195,7 @@ cap.
 <lb n="26"/>entonzes lo dixeron ala <rs ana="XPIYAKOK">xpíyacoc</rs>, y a
 <lb n="27"/><rs ana="IXMUKANE">xmucane</rs>. ¶ y despues su ser dicho aque<pc> –</pc>
 <lb n="28"/>llo a los adívínos, abuela de el día, o sol,
-<lb n="29"/>y de la luna <abbr>q’</abbr>así eran llamados por los
+<lb n="29"/>y de la luna <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así eran llamados por los
 <note resp="editor">SHOULD ABUELA DE EL DÍA Y LA LUNA BE MARKED UP AS XPIYACOC AND XMUCANE AND IF SO HOW </note>
 <lb n="30"/><rs ana="TZAQOL">hazedores</rs>, y <rs ana="BITOL">fabrícadores</rs>, y estos eran
 <lb n="31"/>los nombres de <rs ana="XPIYAKOK">xpíyacoc</rs>, y <rs ana="IXMUKANE">xmucane</rs>.
@@ -6214,7 +6214,7 @@ perhaps priests not deities?</note>
 <lb n="35"/>zo, y se vnío de ello otra vez se haga nu<pc> –</pc>
 <lb n="36"/>estro hombre formado, y nuestro hom<pc> –</pc>
 <lb n="37"/>bre edífícado ota vez sustentado, y
-<lb n="38"/>alímentado, <abbr>q’</abbr>nos ínvoque, y <abbr>q’</abbr>se acu<pc> –</pc>
+<lb n="38"/>alímentado, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>nos ínvoque, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se acu<pc> –</pc>
 <lb n="39"/>erde de nosotros. entrad en la consul<pc> –</pc>
 <lb n="40"/>ta <rs ana="IXMUKANE">abuela</rs>, y <rs ana="XPIYAKOK">abuelo nuestro</rs> <rs ana="XPIYAKOK">xpíya<pc> –</pc>
 <lb n="41"/>coc</rs>, y <rs ana="IXMUKANE">xmucane</rs>, como se podra sem<pc> –</pc>
