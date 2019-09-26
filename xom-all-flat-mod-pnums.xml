@@ -471,7 +471,7 @@ cap.
 </del>
 </note>
 <lb n="3"/>xcutu qui vach cax xiban
-<lb n="4"/>chique, xohitio ixchi cut x<pc> –</pc>
+<lb n="4"/>chique, xohitio ixchi cut x<note resp="editor">What is the "4" doing here? It does not seem to function as a missionary characer, as in "lengua 4iche otlatecas."</note><pc> –</pc>
 <lb n="5"/>quixcati chic xqhari qui ꜩi
 <lb n="6"/>cac chiquech. re cu ri ꜫaa
 <lb n="7"/>xohcoconic iuumal hu ta
@@ -5382,14 +5382,14 @@ cap.
 <lb n="7"/>uil, xa catei rih tinamit. ta xeelic ro<pc> –</pc>
 <lb n="8"/>nohel ah vvila ah chulimal zaqui<pc> –</pc>
 <lb n="9"/>ya, xahbaquieh, chi temah, vahxa<pc> –</pc>
-<lb n="10"/>lahuh ruq chic ah cabracan cabi<pc> –</pc>
+<lb n="10"/>lahuh ruq chic <rs ana="KABRAQAN">ah cabracan</rs> cabi<pc> –</pc>
 <lb n="11"/>cac chihunahpu ruq ah maca, ah<pc> –</pc>
-<lb n="12"/>xayabah, ah zac cabaha, ah ziyaha
+<lb n="12"/>xayabah, <rs ana="SAQKABAJA">ah zac cabaha</rs>, ah ziyaha
 <lb n="13"/>ahmiquina ah xelahuh tacahal
 <lb n="14"/>huyub rixelic varai labal cha<pc> –</pc>
 <lb n="15"/>hal vleu ta xbec rumal <rs ana="KIKAB_KQSIETE">qui cab</rs>
-<lb n="16"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> <rs ana="AJPOP">ahpop</rs> ahpop camha
-<lb n="17"/><rs ana="QALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> ecahib chi a<pc> –</pc>
+<lb n="16"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpop camha</rs>
+<lb n="17"/><rs ana="QALEL">ꜫalel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> ecahib chi a<pc> –</pc>
 <lb n="18"/>hauab xetaconic xevaran puch
 <lb n="19"/>ah labal <rs ana="KIKAB_KQSIETE">quicab</rs> <rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> vbi
 <lb n="20"/>ahau chuvach <rs ana="KAWEQ">caviquib</rs> e caib
@@ -10783,7 +10783,7 @@ perhaps priests not deities?</note>
 <lb n="2"/>haían desu Reyno. y fue grande su
 <lb n="3"/>ser delos pueblos, y no se acababa <abbr>q<add place="above" instant="false" status="unremarkable">o</add></abbr> ma<pc> –</pc>
 <lb n="4"/>nífestaron las señales desu ímperío
-<lb n="5"/>y estaban allí en<rs ana="LUGAR_DE_JAQAWITZ">hacauíꜩ</rs>, y con ellos to<pc> –</pc>
+<lb n="5"/>y estaban allí en <rs ana="LUGAR_DE_JAQAWITZ">hacauíꜩ</rs>, y con ellos to<pc> –</pc>
 <lb n="6"/>los <abbr>q’</abbr>víníeron de el oríente, y fueron
 <lb n="7"/>a haçer largo camíno. y sobre el mon
 <lb n="8"/>te eran ya muchos todos. y allí se mu<pc> –</pc>
@@ -10839,7 +10839,7 @@ perhaps priests not deities?</note>
 <lb n="6"/>grandeza. y hícíeron edífíçíos de
 <lb n="7"/>cal y canto, la quarta generacíon
 <lb n="8"/>de Reyes, y <abbr>SS<hi rend="superscript">es</hi></abbr>
-<unclear reason="deletion" instant="false">oeoe</unclear>dixo <rs ana="BALAM_KONACHE_KQTRES">conache</rs>, y
+<unclear reason="deletion" instant="false"><note resp="editor">I don't see this word in the ms. Where did we get "oeoe" from?</note>oeoe</unclear>dixo <rs ana="BALAM_KONACHE_KQTRES">conache</rs>, y
 <lb n="9"/><rs ana="BELEJEB_KEJ_NJCUATRO">beleheb queh</rs>, y tambíen <rs ana="AJAW_QALEL">ealel ahau</rs>
 <lb n="10"/>y quando reyno el Rey <rs ana="KOTUJA_KQCUATRO">cotuha</rs>
 <lb n="11"/>con <rs ana="ISTAYUL_KQCUATRO">íztayul</rs><abbr>q’</abbr>así se llamaban <abbr>SS<hi rend="superscript">es</hi></abbr>
