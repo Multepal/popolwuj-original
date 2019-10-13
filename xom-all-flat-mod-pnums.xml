@@ -5156,7 +5156,7 @@ cap.
 <lb n="46"/>vinac c<add place="above" instant="false" status="unremarkable">o</add>ahib nimha chiri pa
 <lb n="47"/>tinamit <rs ana="QUMARAQ_AJ">cumarcaah</rs> xuꜩirizaxic
 <pb xml:id="xom-f51-s1"/>
-<lb n="1"/>rumal <abbr>S<hi rend="superscript">or</hi></abbr>. obispo ri <add place="above" instant="false" status="unremarkable">+</add>ca xtole can
+<lb n="1"/>rumal <choice><abbr>S<hi rend="superscript">or</hi></abbr>.<expan instant="false">Señor</expan></choice> obispo ri <add place="above" instant="false" status="unremarkable">+</add>ca xtole can
 <note place="margin-left" anchored="true">+tinamit</note>
 <lb n="2"/>oc. xeꜫaꜫar chiri xnuc maihi<pc> –</pc>
 <lb n="3"/>nac oc qui tem qui chacat <del rend="overwritten" instant="false" status="unremarkable">x</del>ha
@@ -5936,7 +5936,7 @@ cap.
 <lb n="20"/><rs ana="IXMUKANE">xmucane</rs>. nombres propios. <rs ana="IXMUKANE">amparado<pc> –</pc>
 <lb n="21"/>res</rs>, y <rs ana="XPIYAKOK">cubridores</rs> <rs ana="IXMUKANE">dos vezes abuela</rs>, y <rs ana="XPIYAKOK">dos
 <lb n="22"/>vezes abuelo</rs> son dichos en las historias qui<pc> –</pc>
-<lb n="23"/>chees. <abbr>q<hi rend="superscript">o</hi></abbr> comunicaron. todo con los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hizi<pc> –</pc>
+<lb n="23"/>chees. <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> comunicaron. todo con los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hizi<pc> –</pc>
 <lb n="24"/>eron despues en el estado de la claridad
 <lb n="25"/>y en la palabra de clarídad. Esto escri<pc> –</pc>
 <lb n="26"/>uiremos ya en la ley de <rs ana="DIOS">Díos</rs>, en la cris<pc> –</pc>
@@ -5957,7 +5957,7 @@ cap.
 <lb n="41"/>cuerda en el zielo, y en la tierra; <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es di<pc> –</pc>
 <lb n="42"/>cho de cuatro esquinas, y cuatro lados
 <lb n="43"/>por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">criador</rs>. su <rs ana="TZAQOL"><choice><abbr>M<hi rend="superscript">e.</hi></abbr><expan instant="false">Madre</expan></choice></rs> y su <rs ana="BITOL"><choice><abbr>P<hi rend="superscript">e.</hi></abbr><expan instant="false">Padre</expan></choice></rs> 
-<lb n="44"/>de la vida. y de la creazíon. <abbr>q<hi rend="superscript">e</hi></abbr> da respira
+<lb n="44"/>de la vida. y de la creazíon. <choice><abbr>q<hi rend="superscript">e</hi></abbr><expan instant="false">que</expan></choice> da respira
 <lb n="45"/>zion, y resuello, paridos, y cuídados, de
 <lb n="46"/>la paz claridad de los híjos, pensador, y en<pc> –</pc>
 <pb corresp="xom-f01-s2"/>
@@ -6180,7 +6180,7 @@ cap.
 <lb n="13"/>ron otra vez los <rs ana="TZAQOL">hazedores</rs>, y <rs ana="BITOL">formadores</rs>
 <note resp="editor">who are hazedores/formadores/fabrícadores in this passage in terms of rs ana </note>
 <lb n="14"/>sera peor despues, y no andara, y no
-<lb n="15"/>se multíplícara <abbr>q<hi rend="superscript">o</hi></abbr> fuere hecho, solo
+<lb n="15"/>se multíplícara <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> fuere hecho, solo
 <lb n="16"/>de su entendímíento lo dixeron, y en
 <lb n="17"/>tonzes lo desbarataron, y lo bolbíeron
 <lb n="18"/>a amasar su formadura, y fabríca, y di<pc> –</pc>
@@ -6307,7 +6307,7 @@ perhaps priests not deities?</note>
 <lb n="28"/>nimal llamado coꜩbalam, y les comío sus car<pc> –</pc>
 <lb n="29"/>nes, y el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama tucumbalam, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les quebro
 <lb n="30"/>los huesos, y los nervíos, y los hízeron harína
-<lb n="31"/>y esto fue en castigo y escarmiento <abbr>porq’</abbr>no
+<lb n="31"/>y esto fue en castigo y escarmiento <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>no
 <lb n="32"/>hízíeron grazías delante de su <rs ana="ALOM"><choice><abbr>P<hi rend="superscript">e.</hi></abbr><expan instant="false">Padre</expan></choice></rs> y <rs ana="KAJOLOM"><abbr>M<hi rend="superscript">e</hi></abbr></rs>, y
 <lb n="33"/><rs ana="UKUX_KAJ"><choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. el corazon de el zíelo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama hura<pc> –</pc>
 <lb n="34"/>can</rs>, y por ellos se obscuresío la haz de
@@ -7387,7 +7387,7 @@ perhaps priests not deities?</note>
 </p>
 <p n="20">
 <lb n="16"/>Aquí se trata de vna <rs ana="IXKIK">donzella</rs> hija de
-<lb n="17"/>un <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> <abbr>q’</abbr>se llama <rs ana="KUCHUMA_KIK">cuchumaquíc</rs>.
+<lb n="17"/>un <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama <rs ana="KUCHUMA_KIK">cuchumaquíc</rs>.
 </p>
 <lb/>
 <p n="21">
@@ -7434,7 +7434,7 @@ perhaps priests not deities?</note>
 <lb n="8"/>calabera. y así <rs ana="DOS_MUCHACHOS">sus hijos</rs> son como lasalí<pc> –</pc>
 <lb n="9"/>ba, y su baba, sí son <rs ana="DOS_MUCHACHOS">hijos</rs> de <choice><abbr type="superscription">Ses.</abbr><expan instant="false">Señores</expan></choice> de sabío
 <lb n="10"/>y entendido, nose píerde ní se apaga
-<lb n="11"/>el ser de <choice><abbr type="superscription">Ses.</abbr><expan instant="false">Señores</expan></choice> entendido, o sabio, síno <choice> <abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="11"/>el ser de <choice><abbr type="superscription">Ses.</abbr><expan instant="false">Señores</expan></choice> entendido, o sabio, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="12"/>se hereda en sus hijo, y en sus híjas
 <lb n="13"/><choice><abbr>q.</abbr><expan instant="false">que</expan></choice> les engendra. y así ho he hecho con<pc> –</pc>
 <lb n="14"/>tigo. y así subid alla a <del rend="overstrike" instant="false" status="unremarkable">lo</del> la tíerra, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no
@@ -8101,7 +8101,7 @@ perhaps priests not deities?</note>
 <lb n="10"/>da y decíldes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dice <rs ana="IXMUKANE">vuestra abuela</rs> co<pc> –</pc>
 <lb n="11"/>mo han venído a <rs ana="IXMUKANE">ella</rs> los mensageros de
 <lb n="12"/><rs ana="XIBALBA">el ínfíerno</rs>, allamarnos, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> de aquí así<pc> –</pc>
-<lb n="13"/>ete días aueís de ír y <abbr>q’</abbr> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> esto dice <rs ana="IXMUKANE">vuestra
+<lb n="13"/>ete días aueís de ír y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> esto dice <rs ana="IXMUKANE">vuestra
 <lb n="14"/>abuela</rs> le fue dícho al píojo, y luego se
 <lb n="15"/>fue el píojo meneando. y estaba sen
 <lb n="16"/>tado en el camíno vn muchacho llama<pc> –</pc>
@@ -8387,7 +8387,7 @@ perhaps priests not deities?</note>
 <lb n="34"/>ahpu</rs>, y entonçes arrojando la pelota
 <lb n="35"/><rs ana="SEÑORES_DE_XIBALBA">los de el ínfíerno</rs> fue derecha al ba<pc> –</pc>
 <lb n="36"/>te de y víendo <rs ana="SEÑORES_DE_XIBALBA">los de el ín<pc> –</pc>
-<lb n="37"/>fíerno</rs> el agudo herír <abbr>qdo</abbr>. salía de la
+<lb n="37"/>fíerno</rs> el agudo herír <choice><abbr>qdo.</abbr><expan instant="false">quando</expan></choice> salía de la
 <lb n="38"/>pala la pelota, se fue saltando sobre
 <lb n="39"/>la tíerra. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es esto díxo, y
 <lb n="40"/>que, solo trataís de nuestra
@@ -10749,7 +10749,7 @@ perhaps priests not deities?</note>
 <lb n="20"/>y era grande su reíno, y <gap reason="illegible" unit="character" instant="false"/>este lesdío
 <lb n="21"/><del instant="false" status="unremarkable">con</del> la señal de su Reyno, de todos los
 <lb n="22"/>adeuínos, y entonçes víno señal de los
-<lb n="23"/>grandes<choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>, y de los <abbr>SS<hi rend="superscript">es</hi></abbr> de las casas, y
+<lb n="23"/>grandes<choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>, y de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> de las casas, y
 <lb n="24"/>entonçes víno la señal de lagrande<pc> –</pc>
 <lb n="25"/>za, y grandes, y <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> yacabo de dar<pc> –</pc>
 <lb n="26"/>lo todo el <rs ana="NAKXIT">nacxít</rs>, los adeuínos, y for<pc> –</pc>
