@@ -471,7 +471,7 @@ cap.
 </del>
 </note>
 <lb n="3"/>xcutu qui vach cax xiban
-<lb n="4"/>chique, xohitio ixchi cut x<pc> –</pc>
+<lb n="4"/>chique, xohitio ixchi cut x<note resp="editor">What is the "4" doing here? It does not seem to function as a missionary characer, as in "lengua 4iche otlatecas."</note><pc> –</pc>
 <lb n="5"/>quixcati chic xqhari qui ꜩi
 <lb n="6"/>cac chiquech. re cu ri ꜫaa
 <lb n="7"/>xohcoconic iuumal hu ta
@@ -1228,8 +1228,8 @@ cap.
 <lb n="8"/>ri, <rs ana="PAJARO">voc</rs> ilol que vzamahel <rs ana="HURACAN">hura<pc> –</pc>
 <lb n="9"/>can</rs> chi <rs ana="CHIPI_KAQULJA">chipi caculha</rs>, <rs ana="RAXA_KAQULJA">raxa cacul<pc> –</pc>
 <lb n="10"/>ha</rs>. are curi voc maui nah varal
-<lb n="11"/>chuvach vleuh maui nah chixi<pc> –</pc>
-<lb n="12"/>balba chire libah chi chopon chic
+<lb n="11"/>chuvach vleuh maui nah chi<rs ana="XIBALBA">xi<pc> –</pc>
+<lb n="12"/>balba</rs> chire libah chi chopon chic
 <lb n="13"/>chicah ruq <rs ana="HURACAN">huracan</rs> xeyaluh
 <lb n="14"/>varal chuvach vleuh, xcaminac
 <lb n="15"/>ca cut qui chuch ri <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun
@@ -4796,7 +4796,7 @@ cap.
 <lb n="1"/>polou tah ta xcanah qui ꜩih chire
 <lb n="2"/>qui qahol are quibi qui qahol va
 <lb n="3"/>ecaib xuqaholah <rs ana="BALAM_KITZE">balam quiꜩe</rs>
-<lb n="4"/><rs ana="KOKAIB">qocaib</rs> vbi nabe al qocavib chic
+<lb n="4"/><rs ana="KOKAIB">qocaib</rs> vbi nabe <rs ana="KOQAWIB">al qocavib chic</rs>
 <lb n="5"/>vbi vcab al vqahol <rs ana="BALAM_KITZE">balam quiꜩe</rs>
 <lb n="6"/>vmam vqahau <rs ana="KAWEQ">caviquib</rs>. e chi vi
 <lb n="7"/>cu caib chic xuqaholah <rs ana="BALAM_AQAB">balam
@@ -5382,14 +5382,14 @@ cap.
 <lb n="7"/>uil, xa catei rih tinamit. ta xeelic ro<pc> –</pc>
 <lb n="8"/>nohel ah vvila ah chulimal zaqui<pc> –</pc>
 <lb n="9"/>ya, xahbaquieh, chi temah, vahxa<pc> –</pc>
-<lb n="10"/>lahuh ruq chic ah cabracan cabi<pc> –</pc>
+<lb n="10"/>lahuh ruq chic <rs ana="KABRAQAN">ah cabracan</rs> cabi<pc> –</pc>
 <lb n="11"/>cac chihunahpu ruq ah maca, ah<pc> –</pc>
-<lb n="12"/>xayabah, ah zac cabaha, ah ziyaha
-<lb n="13"/>ahmiquina ah xelahuh tacahal
+<lb n="12"/>xayabah, <rs ana="SAQKABAJA">ah zac cabaha</rs>, ah ziyaha
+<lb n="13"/>ahmiquina <rs ana="XELAJUJ">ah xelahuh</rs> tacahal
 <lb n="14"/>huyub rixelic varai labal cha<pc> –</pc>
 <lb n="15"/>hal vleu ta xbec rumal <rs ana="KIKAB_KQSIETE">qui cab</rs>
-<lb n="16"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> <rs ana="AJPOP">ahpop</rs> ahpop camha
-<lb n="17"/><rs ana="QALEL">ealel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> ecahib chi a<pc> –</pc>
+<lb n="16"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs> <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpop camha</rs>
+<lb n="17"/><rs ana="QALEL">ꜫalel</rs> <rs ana="AJTZIK_WINAQ">ahꜩic vinac</rs> ecahib chi a<pc> –</pc>
 <lb n="18"/>hauab xetaconic xevaran puch
 <lb n="19"/>ah labal <rs ana="KIKAB_KQSIETE">quicab</rs> <rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> vbi
 <lb n="20"/>ahau chuvach <rs ana="KAWEQ">caviquib</rs> e caib
@@ -7175,14 +7175,14 @@ perhaps priests not deities?</note>
 <lb n="4"/>vna <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>, vn<rs ana="TECOLOTE_DE_UNA_PIERNA">tecolote de vna pier<pc> –</pc>
 <lb n="5"/>na</rs>, y vna <rs ana="GUACAMAYA_TECOLOTE">guacamaya tecolote</rs> .yestos e<pc> –</pc>
 <lb n="6"/>ran los nombres de los mensageros de <rs ana="XIBALBA">el in<pc> –</pc>
-<lb n="7"/>fierno</rs>. este q’se llamaba <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>,
-<lb n="8"/>era como vna flecha. y esta alerta. elq’se
+<lb n="7"/>fierno</rs>. este <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>,
+<lb n="8"/>era como vna flecha. y esta alerta. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
 <lb n="9"/>llamaba <rs ana="TECOLOTE_DE_UNA_PIERNA">de vna píerna</rs>, solo vna tenía, y te
-<lb n="10"/>nía alas. elq’ se llamaba: <rs ana="TECOLOTE_GUACAMAYA">guacamaya te
+<lb n="10"/>nía alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba: <rs ana="TECOLOTE_GUACAMAYA">guacamaya te
 <lb n="11"/>colote</rs>, tenía colorada la espalda, y tenía
-<lb n="12"/>alas. elq’se llamaba <rs ana="TECOLOTE_CABEZA">cabeza tecolote</rs>, no te<pc> –</pc>
-<lb n="13"/>nía mas q’la cabeza, no tenía pies, síno solo
-<lb n="14"/>alas. estos cuatro mensageros eran se<pc> –</pc>
+<lb n="12"/>alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="TECOLOTE_CABEZA">cabeza tecolote</rs>, no te<pc> –</pc>
+<lb n="13"/>nía mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la cabeza, no tenía pies, síno solo
+<lb n="14"/>alas. estos cuatro <rs ana="MENSAJEROS_DE_XIBALBA">mensageros</rs> eran se<pc> –</pc>
 <lb n="15"/>ñores prinzípales. Luego víníeron al
 <lb n="16"/>mensage desde <rs ana="XIBALBA">el ínfíerno</rs>, y en un íns<pc> –</pc>
 <lb n="17"/>tante llegaron derechos al atrío a do es<pc> –</pc>
@@ -7196,18 +7196,18 @@ perhaps priests not deities?</note>
 <lb n="25"/>y <rs ana="AJAL_MES">ahalmez</rs>, <rs ana="AJAL_TOQOB">ahal tocob</rs>, y <rs ana="XIKIRI_PAT">xíc</rs>. y <rs ana="PATAN">patan</rs>, y
 <lb n="26"/>estos eran los nombres de ellos. y auíen
 <lb n="27"/>do dada el recado díxeron ellos. por
-<lb n="28"/>ventura es así q’lo dize el <rs ana="JUN_KAME">Sor came</rs>, y <rs ana="WUQUB_KAME">v<pc> –</pc>
+<lb n="28"/>ventura es así <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo dize el <rs ana="JUN_KAME">Sor came</rs>, y <rs ana="WUQUB_KAME">v<pc> –</pc>
 <lb n="29"/>vcubcame</rs>? escíerto díxeron ellos, y no<pc> –</pc>
 <lb n="30"/>sotros os hemos de acompañar. traed
-<lb n="31"/>todos los instrumentos q’así lo dizen <rs ana="SEÑORES_DE_XIBALBA">los SSes</rs>
+<lb n="31"/>todos los instrumentos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así lo dizen <rs ana="SEÑORES_DE_XIBALBA"><choice><abbr>los SSes</abbr><expan instant="false">Señores</expan></choice></rs>
 <lb n="32"/>esta bíen dixeron ellos aguardadnos
 <lb n="33"/>míentras vamos a avísar a nuestra <rs ana="IXMUKANE">ma<pc> –</pc>
 <lb n="34"/>dre</rs>. y entonzes se fueron asu casa, y le
-<lb n="35"/>díxeron asu <rs ana="IXMUKANE">madre</rs>, porq’ ya estaba mu<pc> –</pc>
-<lb n="36"/>erto su <rs ana="XPIYAKOK">Pe</rs>. <rs ana="IXMUKANE">madre</rs> nosotros vamos, pero
-<lb n="37"/>en vano ha deser nuestraída, víno el men<pc> –</pc>
-<lb n="38"/>sagero de los SSes, por nosotros, q’dízen
-<lb n="39"/><rs ana="SEÑORES_DE_XIBALBA">los SSes</rs>.q’vamos. este vle, opelota, y lo<pc> –</pc>
+<lb n="35"/>díxeron asu <rs ana="IXMUKANE">madre</rs>, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya estaba mu<pc> –</pc>
+<lb n="36"/>erto su <rs ana="XPIYAKOK"><choice><abbr>Pe</abbr><expan instant="false">Padre</expan></choice></rs>. <rs ana="IXMUKANE">madre</rs> nosotros vamos, pero
+<lb n="37"/>en vano ha deser nuestraída, víno <rs ana="MENSAJEROS_DE_XIBALBA">el men<pc> –</pc>
+<lb n="38"/>sagero de los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice></rs>, por nosotros, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>dízen
+<lb n="39"/><rs ana="SEÑORES_DE_XIBALBA"><choice><abbr>los SSes</abbr><expan instant="false">Señores</expan></choice></rs>.<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>vamos. este vle, opelota, y lo<pc> –</pc>
 <lb n="40"/>fueron a colgar en el tabanco de la
 <lb n="41"/>casa. y en bolbiendo díxeron bolbere<pc> –</pc>
 <lb n="42"/>mos a jugar. y sus híjos <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">hun<pc> –</pc>
@@ -10627,7 +10627,7 @@ perhaps priests not deities?</note>
 <lb n="" />desus cosas, y auísaron asus híjos y así
 <lb n="" />se llamaban sus híjos: dos tuuo <rs ana="BALAM_KITZE">balam<pc> –</pc>
 <lb n="" />quíꜩe</rs>: <rs ana="KOKAIB">qocaíb</rs>, se llamo el prímero, y el
-<lb n="" />Segundo: qocauíb. que son padres, y a
+<lb n="" />Segundo: <rs ana="KOQAWIB">qocauíb</rs>. que son padres, y a
 <lb n="" />buelos de <rs ana="KAWEQ">los de cauíquíb</rs>. y <rs ana="BALAM_AQAB">balam
 <lb n="" />acab</rs> tuuo otros dos híjos, y se kkana<pc> –</pc>
 <lb n="" />ban así, el prímero <rs ana="KOAKUL">qoacul</rs>, y <rs ana="KOAKUTEC">qoacu
@@ -10783,7 +10783,7 @@ perhaps priests not deities?</note>
 <lb n="2"/>haían desu Reyno. y fue grande su
 <lb n="3"/>ser delos pueblos, y no se acababa <abbr>q<add place="above" instant="false" status="unremarkable">o</add></abbr> ma<pc> –</pc>
 <lb n="4"/>nífestaron las señales desu ímperío
-<lb n="5"/>y estaban allí en<rs ana="LUGAR_DE_JAQAWITZ">hacauíꜩ</rs>, y con ellos to<pc> –</pc>
+<lb n="5"/>y estaban allí en <rs ana="LUGAR_DE_JAQAWITZ">hacauíꜩ</rs>, y con ellos to<pc> –</pc>
 <lb n="6"/>los <abbr>q’</abbr>víníeron de el oríente, y fueron
 <lb n="7"/>a haçer largo camíno. y sobre el mon
 <lb n="8"/>te eran ya muchos todos. y allí se mu<pc> –</pc>
@@ -10839,7 +10839,7 @@ perhaps priests not deities?</note>
 <lb n="6"/>grandeza. y hícíeron edífíçíos de
 <lb n="7"/>cal y canto, la quarta generacíon
 <lb n="8"/>de Reyes, y <abbr>SS<hi rend="superscript">es</hi></abbr>
-<unclear reason="deletion" instant="false">oeoe</unclear>dixo <rs ana="BALAM_KONACHE_KQTRES">conache</rs>, y
+<unclear reason="deletion" instant="false"><note resp="editor">I don't see this word in the ms. Where did we get "oeoe" from?</note>oeoe</unclear>dixo <rs ana="BALAM_KONACHE_KQTRES">conache</rs>, y
 <lb n="9"/><rs ana="BELEJEB_KEJ_NJCUATRO">beleheb queh</rs>, y tambíen <rs ana="AJAW_QALEL">ealel ahau</rs>
 <lb n="10"/>y quando reyno el Rey <rs ana="KOTUJA_KQCUATRO">cotuha</rs>
 <lb n="11"/>con <rs ana="ISTAYUL_KQCUATRO">íztayul</rs><abbr>q’</abbr>así se llamaban <abbr>SS<hi rend="superscript">es</hi></abbr>
@@ -11121,7 +11121,7 @@ perhaps priests not deities?</note>
 <p n="82">
 <lb n="23"/>y a quí se habla de la sexta genera<pc> –</pc>
 <lb n="24"/>cíon <abbr>q’</abbr>tuuo dos grandes <abbr>SS<hi rend="superscript">es.</hi></abbr> elvno
-<lb n="25"/>sellamaba <rs ana="KIKAB_KQSIETE">ꜫaꜫ quicab</rs>. y el otro: <rs ana="KAWISIMAJ_KQSIETE">cauí
+<lb n="25"/>sellamaba <note resp="editor">We have ANA tags for KIKAB and KIKAB_KQSIETE. Is that right?</note><rs ana="KIKAB_KQSIETE">ꜫaꜫ quicab</rs>. y el otro: <rs ana="KAWISIMAJ_KQSIETE">cauí
 <lb n="26"/>zímah</rs>. y hízíeron muchas cosas el
 <lb n="27"/><rs ana="KIKAB_KQSIETE">quícab</rs>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>. y este otra
 <lb n="28"/>vez engrandeçío el quiche, <abbr>porq’</abbr>
