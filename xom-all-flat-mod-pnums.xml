@@ -5965,14 +5965,14 @@ cap.
 <lb n="1"/>tendedor detodahermosur a <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay en el zielo, ti<pc> –</pc>
 <lb n="2"/>erra, lagunas y mar.
 </p>
-<p n="3">
+<p corresp="#p03">
 <lb n="3" rend="center"/><hi rend="large">ESTE ES SV SER DICHO QVANDO</hi>
 <lb n="4" rend="center"/>estaba en suspenso, en calma, en silenzío, sin
 <lb n="5" rend="center"/>moverse, sin cosa sino vazío el zielo.
 <lb />
 <lb />
 </p>
-<p n="4">
+<p corresp="#p04">
 <lb n="6"/><hi rend="large">I</hi> esta es la primera palabra, y eloquençía.
 <lb n="7"/>aun no avía hombres, animales, pajaros, pes<pc> –</pc>
 <lb n="8"/>cado, cangrejo, palo, piedra, hoyo, varran<pc> –</pc>
@@ -5997,7 +5997,7 @@ cap.
 <lb n="27"/>de el zielo</rs>, este es su nombre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se le dize
 <lb n="28"/>a aquel ídolo.
 </p>
-<p n="5">
+<p corresp="#p05">
 <lb n="29" rend="indent"/><hi>Y</hi> entonzes vino aquí su palabra, víno
 <lb n="30"/>con los <choice><abbr>S<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="TEPEW_QUKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs<pc> –</pc>
 <lb n="31"/>curidad, en la noche, y abló con <rs ana="TEPEW_QUKUMATZ">tepeu
@@ -6066,7 +6066,7 @@ cap.
 <lb />
 <lb />
 </p>
-<p n="6">
+<p corresp="#p06">
 <pb corresp="xom-f02-s2"/>
 <lb/>
 <lb n="1"/><hi rend="large">Y</hi> despues discurrieron los animales de el mon<corr><pc> –</pc></corr>
@@ -6101,7 +6101,7 @@ cap.
 <lb />
 <lb />
 <lb />
-<p n="7">
+<p corresp="#p07">
 <lb n="28"/><hi rend="large">E</hi>ntonzes seles dixo otra vez por <rs ana="TZAQOL">el criador</rs>
 <lb n="29"/>y <rs ana="BITOL">formador</rs> alos venados, y alas aves: ha
 <lb n="30"/>blad, gritad, nohagaís íol, íol. no gríteís.
@@ -6205,7 +6205,7 @@ cap.
 <lb />
 <lb />
 </p>
-<p n="8">
+<p corresp="#p08">
 <lb n="32"/>y díxeron aquel <rs ana="UKUX_KAJ">huracan</rs>, con <rs ana="TEPEW_QUKUMATZ">tepeu
 <lb n="33"/>y gucumaꜩ</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice> ledixeron al de el sol, o
 <lb n="34"/>adivino, al formador adívíno alcan<pc> –</pc>
@@ -6288,7 +6288,7 @@ perhaps priests not deities?</note>
 <lb />
 <lb />
 </p>
-<p n="9">
+<p corresp="#p09">
 <lb n="12"/>y despues fueron acabados, y destruídos, y
 <lb n="13"/>muertos, todos estos hombres de palo.
 <lb n="14"/>fue embiado consultado por <rs ana="UKUX_KAJ">el corazon de
@@ -6387,7 +6387,7 @@ perhaps priests not deities?</note>
 <lb/>
 <lb/>
 </p>
-<p n="10">
+<p corresp="#p10">
 <lb n="10" rend="indent"/>Y entonzes avía poca clarídad sobre
 <lb n="11"/>la haz de la tíerra, y aun no auía sol. y en<corr instant="false"><pc> –</pc></corr>
 <lb n="12"/>tonzes vno llamado <rs ana="WUQUB_KAKIX">vvcub caquix</rs>. (esto es 
