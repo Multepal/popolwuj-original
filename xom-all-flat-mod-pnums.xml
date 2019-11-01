@@ -1390,13 +1390,13 @@ cap.
 <lb n="21"/>ui xeicou chic ta xeopon chicut
 <lb n="22"/>pacahib xalcat be, cachiri cut
 <lb n="23"/>xechacatah vi pacahib xalcat
-<lb n="24"/>be <rs ana="CAMINO_ROJO" type="toponym">hun ꜫaꜫabe</rs>, <rs ana="CAMINO_NEGRO" type="toponym">hun cut queca
-<lb n="25"/>be</rs>, <rs ana="CAMINO BLANCO" type="toponym">zaqui be hun</rs>, <rs ana="CAMINO_AMARILLO">hun cut ꜫana
+<lb n="24"/>be <rs ana="KAQA_BE" type="toponym">hun ꜫaꜫabe</rs>, <rs ana="QEQA_BE" type="toponym">hun cut queca
+<lb n="25"/>be</rs>, <rs ana="SAQI_BE" type="toponym">zaqui be hun</rs>, <rs ana="QANA_BE">hun cut ꜫana
 <lb n="26"/>be</rs> cahib be. are cut xqhau
-<lb n="27"/>ri <rs ana="CAMINO_NEGRO">queca be</rs> in quinicamo in
+<lb n="27"/>ri <rs ana="QEQA_BE">queca be</rs> in quinicamo in
 <lb n="28"/>vbe ahau xqhau ri be chiricut
 <lb n="29"/>xeqhacatah vi are xquitaqueh
-<lb n="30"/>ri <rs ana="CAMINO_NEGRO">be xibalba</rs> ta xeopon cut
+<lb n="30"/>ri <rs ana="QEQA_BE">be xibalba</rs> ta xeopon cut
 <lb n="31"/>pa qui popobal <rs ana="SEÑORES_DE_XIBALBA">rahaual xibal
 <lb n="32"/>ba</rs> xechacatah chicut chiri. are
 <lb n="33"/>nabe cubulel ri. xapoy xa
@@ -2394,8 +2394,8 @@ cap.
 <lb n="36"/>yicou xa chirihvvb xeicou vi
 <lb n="37"/>xeel chicu apanoc pa cahib xal<pc> –</pc>
 <lb n="38"/>cat be xa x que taam vi cut qui
-<lb n="39"/>be <rs ana="CAMINO_NEGRO">que ca be</rs> <rs ana="CAMINO_BLANCO">zaqui be</rs>, <rs ana="CAMINO_ROJO">ca
-<lb n="40"/>ca be</rs>, <rs ana="CAMINO_VERDE">raxa be</rs> chiri cut xquitac
+<lb n="39"/>be <rs ana="QEQA_BE">que ca be</rs> <rs ana="SAQI_BE">zaqui be</rs>, <rs ana="KAQA_BE">ca
+<lb n="40"/>ca be</rs>, <rs ana="RAXA_BE">raxa be</rs> chiri cut xquitac
 <lb n="41"/>vi hun chicop xan vbi are ca<pc> –</pc>
 <lb n="42"/>mol quita xquitac vbic huhu<pc> –</pc>
 <lb n="43"/>nalque atio nabe chati ri na
@@ -2407,7 +2407,7 @@ cap.
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">24</hi></num>
 </note>
-<lb n="1"/>qha curi xan ta xoc pa <rs ana="CAMINO_NEGRO">que ca be</rs> ta
+<lb n="1"/>qha curi xan ta xoc pa <rs ana="QEQA_BE">que ca be</rs> ta
 <lb n="2"/>cal cu chirih ri poy ahamche na
 <lb n="3"/>be culel e cautalic nabe cut xqui<pc> –</pc>
 <lb n="4"/>tio maui xqhavic xuti chicu. ta
@@ -7241,11 +7241,11 @@ perhaps priests not deities?</note>
 <lb n="20"/>dos síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> pasaron, y llegaron avn
 <lb n="21"/>camino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se díuídía en cuatro camí<pc> –</pc>
 <lb n="22"/>nos, y allí fueron venzídos, en la en
-<lb n="23"/>cruzíjada, vno era <rs ana="CAMINO_ROJO">colorado</rs>, otro
-<lb n="24"/><rs ana="CAMINO_NEGRO">negro</rs>, otro <rs ana="CAMINO_BLANCO">blanco</rs>, y otro era <rs ana="CAMINO_AMARILLO">ama<pc> –</pc>
+<lb n="23"/>cruzíjada, vno era <rs ana="KAQA_BE">colorado</rs>, otro
+<lb n="24"/><rs ana="QEQA_BE">negro</rs>, otro <rs ana="SAQI_BE">blanco</rs>, y otro era <rs ana="QANA_BE">ama<pc> –</pc>
 <lb n="25"/>ríllo</rs>. y víendose perplexes hablo
-<lb n="26"/><rs ana="CAMINO_NEGRO">el camino negro</rs>, a mí me aueís de
-<lb n="27"/>tomar, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> yo soy <rs ana="CAMINO_NEGRO">el camíno de los
+<lb n="26"/><rs ana="QEQA_BE">el camino negro</rs>, a mí me aueís de
+<lb n="27"/>tomar, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> yo soy <rs ana="QEQA_BE">el camíno de los
 <lb n="28"/><choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice></rs> y allí fueron ganados, y síguíen
 <lb n="29"/>do este camíno llegaron a los tro<pc> –</pc>
 <lb n="30"/>nos de <rs ana="SEÑORES_DE_XIBALBA">los <choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> de el ínfíerno</rs>, y allí fu<pc> –</pc>
@@ -8230,8 +8230,8 @@ perhaps priests not deities?</note>
 <lb n="34"/>y no los písaron; y salíendo de allí, legaron
 <lb n="35"/>a una encruçjada de quarto camínos
 <lb n="36"/>y çíertamente sabían el camíno de <rs ana="XIBALBA">el ín<pc> –</pc>
-<lb n="37"/>fíerno</rs>, <rs ana="CAMINO_NEGRO">vno era Negro</rs>, otro <rs ana="CAMINO_BLANCO">blanco</rs>, otro <rs ana="CAMINO_ROJO">co<pc> –</pc>
-<lb n="38"/>lorado</rs>, y <rs ana="CAMINO_VERDE">otro verde</rs>; y desde allí embi<pc> –</pc>
+<lb n="37"/>fíerno</rs>, <rs ana="QEQA_BE">vno era Negro</rs>, otro <rs ana="SAQI_BE">blanco</rs>, otro <rs ana="KAQA_BE">co<pc> –</pc>
+<lb n="38"/>lorado</rs>, y <rs ana="RAXA_BE">otro verde</rs>; y desde allí embi<pc> –</pc>
 <lb n="39"/>aron a vn anímalexo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sellamaba. xan.
 <lb n="40"/>este íba a tomar nueuos, y embiando, y le
 <lb n="41"/>fue dícho a cada vno de por sí muerdelos
@@ -8245,7 +8245,7 @@ perhaps priests not deities?</note>
 <num rend="large"><hi rend="handwriting;color:pencil">24</hi></num>
 </note>
 <lb n="1"/>dícho al xan. estabíen díxo el xan. y lue<pc> –</pc>
-<lb n="2"/>go tomo <rs ana="CAMINO_NEGRO">el camíno negro</rs>, y fuederecho al<pc> –</pc>
+<lb n="2"/>go tomo <rs ana="QEQA_BE">el camíno negro</rs>, y fuederecho al<pc> –</pc>
 <lb n="3"/>prímero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaba sentado, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era vn hombre
 <lb n="4"/>hecho de trapos, y compuesto, y le mordío prí<pc> –</pc>
 <lb n="5"/>mero, y no hablo, y luego mordío al Segundo
