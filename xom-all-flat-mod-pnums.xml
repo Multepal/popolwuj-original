@@ -1384,8 +1384,8 @@ cap.
 <lb n="15"/>pan halhal <rs ana="JA_SIMAJ" type="toponym">ha zimah</rs>, maui ahí<pc> –</pc>
 <lb n="16"/>lan zimah xeicovi maui xeto<pc> –</pc>
 <lb n="17"/>cotahic ta xeopon chicut chi a
-<lb n="18"/><rs ana="RIO_DE_SANGRE" type="toponym">chiquiquia</rs> xeicou chiri maui
-<lb n="19"/>xcucah xeopon chi a vtuquel <rs ana="AGUA_PODRIDA" type="toponym">pu<pc> –</pc>
+<lb n="18"/><rs ana="KIK_A" type="toponym">chiquiquia</rs> xeicou chiri maui
+<lb n="19"/>xcucah xeopon chi a vtuquel <rs ana="PUJ_CHI_JA" type="toponym">pu<pc> –</pc>
 <lb n="20"/>ch chi a</rs> maui xechacatahic xa<pc> –</pc>
 <lb n="21"/>ui xeicou chic ta xeopon chicut
 <lb n="22"/>pacahib xalcat be, cachiri cut
@@ -1432,7 +1432,7 @@ cap.
 <lb n="13"/>conohel <rs ana="SEÑORES_DE_XIBALBA">rahaual xibalba</rs>. xa
 <lb n="14"/>hix chiha, ve chibe yaoc ichah
 <lb n="15"/>izic chi varabal xevqhaxcut
-<lb n="16"/>cate cut xeoponic pa <rs ana="CASA_OSCURA" type="toponym">quecuma
+<lb n="16"/>cate cut xeoponic pa <rs ana="QEQUMA_JA" type="toponym">quecuma
 <lb n="17"/>ha</rs> vtuquel queeum vpam chi<pc> –</pc>
 <lb n="18"/>hata xquicam cut qui naoh xi<pc> –</pc>
 <lb n="19"/>balba, xa quecapuzu chuec xa
@@ -1445,7 +1445,7 @@ cap.
 <lb n="26"/>chaah xahuzuc chiyohyox bac
 <lb n="27"/>chicou vi ri qui chaah <rs ana="XIBALBA">xibalba</rs>
 <lb n="28"/>xeoc cut ri <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, <rs ana="WUQUB_JUNAJPU">vv<pc> –</pc>
-<lb n="29"/>cub hun ahpu</rs> chupan ri <rs ana="CASA_OSCURA">que<pc> –</pc>
+<lb n="29"/>cub hun ahpu</rs> chupan ri <rs ana="QEQUMA_JA">que<pc> –</pc>
 <lb n="30"/>eumaha</rs> ta xbe cu yaoc quichah
 <lb n="31"/>xa hun chi chah zihom chic xe<pc> –</pc>
 <lb n="32"/>ruq <rs ana="JUN_KAME">hun came</rs> <rs ana="WUQUB_KAME">vvcub came</rs> ruq
@@ -1465,19 +1465,19 @@ cap.
 <lb n="46"/>ꜩaꜩ curi vtihobal <rs ana="XIBALBA">xibalba</rs> quia
 <lb n="47"/>molah chi tihobal arevnabe ri
 <pb xml:id="xom-f15-s1"/>
-<lb n="1"/><rs ana="CASA_OSCURA">queeuma ha</rs> vtuquel queeum
-<lb n="2"/>vpam, vcab chi cut <rs ana="CASA_DE_HIELO" type="toponym">xuxulim ha</rs>
+<lb n="1"/><rs ana="QEQUMA_JA">queeuma ha</rs> vtuquel queeum
+<lb n="2"/>vpam, vcab chi cut <rs ana="XUXULIM_JA" type="toponym">xuxulim ha</rs>
 <lb n="3"/>vbi ꜩaꜩ chi teu vpam zac xuru<pc> –</pc>
 <lb n="4"/>xuh, zac caracoh chi xurulah teu
-<lb n="5"/>choc vloc chupam, rox chi cut <rs ana="CASA_DE_JAGUARES" type="toponym">ba<pc> –</pc>
+<lb n="5"/>choc vloc chupam, rox chi cut <rs ana="BALAM_JA" type="toponym">ba<pc> –</pc>
 <lb n="6"/>lami ha</rs> vbi vtuquel balam qo chu<pc> –</pc>
 <lb n="7"/>pan quequichouic, quebuchuuic
 <lb n="8"/>chi matat quechiquitit queeꜩa<pc> –</pc>
-<lb n="9"/>pim balam pa ha. <rs ana="CASA_DE_MURCIELAGOS" type="toponym">ꜩoꜩi ha</rs> vbi v
+<lb n="9"/>pim balam pa ha. <rs ana="SOTZI_JA" type="toponym">ꜩoꜩi ha</rs> vbi v
 <lb n="10"/>cah v tihobal vtuquel ꜩoꜩ vpam
 <lb n="11"/>chiha queꜩiꜩotic, queꜩitilahic
 <lb n="12"/>queropop pa ha e ꜩapin ꜩoꜩ ma<pc> –</pc>
-<lb n="13"/>habi queel vi. roo chi cut <rs ana="CASA_DE_LOS_CHAYES" type="toponym">chaim
+<lb n="13"/>habi queel vi. roo chi cut <rs ana="CHAYIM_JA" type="toponym">chaim
 <lb n="14"/>ha</rs> vbi vtuquel chaqol chupam
 <lb n="15"/>zacleloh re chicha chiꜩininic
 <lb n="16"/>chiyohohic chiri pa ha. qui na<pc> –</pc>
@@ -7236,7 +7236,7 @@ perhaps priests not deities?</note>
 <lb n="15"/>de allí al agua <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se trueca; y pasaron
 <lb n="16"/><rs ana="JA_SIMAJ">donde todo era palos puntíagudos</rs>, y
 <lb n="17"/>no se hirieron, y llegaron ala orílla
-<lb n="18"/>de <rs ana="RIO_DE_SANGRE" type="toponym">vn río <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era de sangre</rs>, y no bebí<pc> –</pc>
+<lb n="18"/>de <rs ana="KIK_A" type="toponym">vn río <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era de sangre</rs>, y no bebí<pc> –</pc>
 <lb n="19"/>eron en el río, ní pudíeron ser venzí<pc> –</pc>
 <lb n="20"/>dos síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> pasaron, y llegaron avn
 <lb n="21"/>camino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se díuídía en cuatro camí<pc> –</pc>
@@ -7285,9 +7285,9 @@ perhaps priests not deities?</note>
 <p corresp="#p19.1">
 <lb n="14"/>ea andad les dixeron a aquella casa
 <lb n="15"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>allí seos llevara vuestro ocote. ylu<pc> –</pc>
-<lb n="16"/>ego se fueron ala <rs ana="CASA_OSCURA" type="toponym">casa de la obscuridad</rs>
+<lb n="16"/>ego se fueron ala <rs ana="QEQUMA_JA" type="toponym">casa de la obscuridad</rs>
 <lb n="17"/>do solo auía obscurídad en aquella
-<lb n="18"/>casa. y entonzes díscurríeron <rs ana="SEÑORES_DE_XIBALBA">los SSes
+<lb n="18"/>casa. y entonzes díscurríeron <rs ana="SEÑORES_DE_XIBALBA">los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice>
 <lb n="19"/>de el infierno</rs> de lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> deuían hazer, ylo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="20"/>pensaron fue el despedazarlos. maña<pc> –</pc>
 <lb n="21"/>na luego luego moríran, por a quell
@@ -7323,17 +7323,17 @@ perhaps priests not deities?</note>
 <note place="margin-right" type="pagination" anchored="true">
 <num rend="large">15</num>
 </note>
-<lb n="2"/>era aquela <rs ana="CASA_OSCURA">casa obscura</rs>, dosolo auía obs<pc> –</pc>
-<lb n="3"/>curidad. el Segundo era, y se llamaba <rs ana="CASA_DE_HIELO" type="toponym">casa
+<lb n="2"/>era aquela <rs ana="QEQUMA_JA">casa obscura</rs>, dosolo auía obs<pc> –</pc>
+<lb n="3"/>curidad. el Segundo era, y se llamaba <rs ana="XUXULIM_JA" type="toponym">casa
 <lb n="4"/>donde arrodillaban</rs>, <choice><abbr>do</abbr><expan instan="false">donde</expan></choice> solo auía mucho frío
 <lb n="5"/>de muy intolerable, eínsoportable frío
-<lb n="6"/>el terzero era <rs ana="CASA_DE_JAGUARES" type="toponym">casa de leon tígres</rs>, donde
+<lb n="6"/>el terzero era <rs ana="BALAM_JA" type="toponym">casa de leon tígres</rs>, donde
 <lb n="7"/>solo auía tígres. donde apenas sepodían
 <lb n="8"/>rebullír, allí se estrujaban, y se mordían.
-<lb n="9"/>la cuarta era <rs ana="CASA_DE_MURCIELAGOS" type="toponym">casa de murzíelagos</rs>, don
+<lb n="9"/>la cuarta era <rs ana="SOTZI_JA" type="toponym">casa de murzíelagos</rs>, don
 <lb n="10"/>de solo auía murzíelagos, donde estaban
 <lb n="11"/>chíllando, y volando enzerrados, sínpoder
-<lb n="12"/>salír. el quinto era <rs ana="CASA_DE_LOS_CHAYES" type="toponym">casa de navajas</rs>, de
+<lb n="12"/>salír. el quinto era <rs ana="CHAYIM_JA" type="toponym">casa de navajas</rs>, de
 <lb n="13"/>chaí donde solo auía deestas navajas
 <lb n="14"/>de muy agudos filos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estavan hazíendo
 <lb n="15"/>ruído, refregandose vnas conotras. mu<pc> –</pc>
