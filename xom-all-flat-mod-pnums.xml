@@ -74,9 +74,9 @@ cap.
 <lb n="11"/><rs ana="ALOM">alom</rs>, <rs ana="KAJOLOM">qaholom</rs> quibi <rs ana="JUNAJPU_WUCH">hun ah<pc> –</pc>
 <lb n="12"/>pu vuch</rs>, <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>, <rs ana="SAQI_NIM_AQ_SIS">za<pc> –</pc>
 <lb n="13"/>quinimac ꜩÿz</rs>, <rs ana="TEPEW_QUKUMATZ">tepeu, qucumaꜩ</rs>
-<lb n="14"/><rs ana="CORAZÓN_DEL_LAGO">vqux cho</rs>, <rs ana="CORAZÓN_DEL_MAR">vqux palo</rs>, <rs ana="LOS_DE_LA_SUPERFICIE_PLANA">ah ra<pc> –</pc>
-<lb n="15"/>xalaꜫ</rs>, <rs ana="LOS_DE_LA_BÓVEDA_AZUL">ah raxaꜩel chu qha<pc> –</pc>
-<lb n="16"/>xic</rs>, rachbixic, rachꜩihoxic
+<lb n="14"/><rs ana="UKUX_CHO">vqux cho</rs>, <rs ana="UKUX_PALO">vqux palo</rs>, <rs ana="AJRAXA_LAQ">ah ra<pc> –</pc>
+<lb n="15"/>xalaꜫ</rs>, <rs ana="AJRAXA_TZEL">ah raxaꜩel</rs> chu qha<pc> –</pc>
+<lb n="16"/>xic, rachbixic, rachꜩihoxic
 <lb n="17"/>rÿ <rs ana="IXMUKANE">iyom</rs>, <rs ana="XPIYAKOK">mamom</rs> <rs ana="XPIYAKOK">xpiyacoc</rs>,
 <lb n="18"/><rs ana="IXMUKANE">xmucane</rs> vbi, <rs ana="IXMUKANE">maꜩanel</rs> <rs ana="XPIYAKOK">chu<pc> –</pc>
 <lb n="19"/>quenel</rs> <rs ana="IXMUKANE">camul yiom</rs>, <rs ana="XPIYAKOK">camul
@@ -445,11 +445,11 @@ cap.
 <lb n="28"/>vinaquirizay quech quehe
 <lb n="29"/>cut qui ca mizaxic xebutic
 <lb n="30"/>xpe nima eol chila chicah.
-<lb n="31"/>xe cotcovach vbi, xcotin vloc
-<lb n="32"/>vbac qui vach, xepe camaloꜩ
+<lb n="31"/>xe <rs ana="KOTKOWACH">cotcovach</rs> vbi, xcotin vloc
+<lb n="32"/>vbac qui vach, xepe <rs ana="KAMALOTZ">camaloꜩ</rs>
 <lb n="33"/>xcupin vla quiholom, xpe
-<lb n="34"/>coꜩbalam. xtio quitiohil, xpe
-<lb n="35"/>tucumbalam xtucuuic xqui<pc> –</pc>
+<lb n="34"/><rs ana="KOTZBALAM">coꜩbalam</rs>. xtio quitiohil, xpe
+<lb n="35"/><rs ana="TUKUMBALAM">tucumbalam</rs> xtucuuic xqui<pc> –</pc>
 <lb n="36"/>chouic quibaquil, quibochil
 <lb n="37"/>xcahixic, xmuchulixic qui ba<pc> –</pc>
 <lb n="38"/>quil, cahizabal qui vach; ru
@@ -3917,8 +3917,8 @@ cap.
 <lb n="11"/>bi palo xeicouvi vloc xa
 <lb n="12"/>chuvi tac abah xeicou vi vloc
 <lb n="13"/>colehe vla ri abah puzanaieb
-<lb n="14"/>ta xquibinatizah cut cholochic
-<lb n="15"/>abah bocotahinac zanaieb v
+<lb n="14"/>ta xquibinatizah cut <rs ana="CHOLOCHIK_ABAJ">cholochic
+<lb n="15"/>abah</rs> <rs ana="BOQOTAJINAQ_SANAYEB">bocotahinac zanaieb</rs> v
 <lb n="16"/>bi cumal ri xeicou vi vloc chu
 <lb n="17"/>pan palo vhachon rib ha xeicou
 <lb n="18"/>vi vloc are cut chitat1 vi quiqux
@@ -3981,7 +3981,7 @@ cap.
 <lb n="25"/>euaxa vi <rs ana="TOJIL">tohil</rs> rumal <rs ana="BALAM_KITZE">Balam
 <lb n="26"/>quiꜩe</rs> <rs ana="PA_TOJIL">patohil</rs> qhuqhax va<pc> –</pc>
 <lb n="27"/>camic vbi huyub ta xquicobi<pc> –</pc>
-<lb n="28"/>zah ri euabal zivan, <rs ana="MEDICINA_DE_TOJIL">cuna<pc> –</pc>
+<lb n="28"/>zah ri euabal zivan, <rs ana="KUNABAL_TOJIL">cuna<pc> –</pc>
 <lb n="29"/>bal tohil</rs> ꜩaꜩ chi cumaꜩ, ꜩaꜩ
 <lb n="30"/>puch chi balam, zochoh, can<pc> –</pc>
 <lb n="31"/>ti chiri pa quechelah xeqohe
@@ -4380,7 +4380,7 @@ cap.
 <lb n="30"/>quebÿnic xa vnaval ri abah xqo<pc> –</pc>
 <lb n="31"/>he hun haa. are queatinvi chiri
 <lb n="32"/>chuchi ha xaqui cutbal quib xu<pc> –</pc>
-<lb n="33"/>binaah cut chi <rs ana="EL_BAÑO_DE_TOJIL">ratinibal tohil</rs>
+<lb n="33"/>binaah cut <rs ana="CHI_RATINIBAL_TOJIL">chi ratinibal tohil</rs>
 <lb n="34"/>vbi ha xuxic. qui a mul cut chi<pc> –</pc>
 <lb n="35"/>quilo amac libah chi chiquiza<pc> –</pc>
 <lb n="36"/>chix tah quib ta queilic rumal
@@ -4457,7 +4457,7 @@ cap.
 <lb n="9" />are qui bi va <rs ana="IXTAJ">xtah</rs> vbi hun ca<pc> –</pc>
 <lb n="10" />poh. <rs ana="IXPUCH">xpuch</rs> chicut vbi hun chic
 <lb n="11" />epu caib <rs ana="IXTAJ">xtah</rs> <rs ana="IXPUCH">xpuch</rs> qui bi
-<lb n="12" />xetac vbic chiya chi <rs ana="EL_BAÑO_DE_TOJIL">ratinibal
+<lb n="12" />xetac vbic chiya <rs ana="CHI_RATINIBAL_TOJIL">chi ratinibal
 <lb n="13" />tohil aulix hacaviꜩ</rs>. are qui
 <lb n="14" />naoh ronohel amac rÿ.
 </p>
@@ -5926,11 +5926,11 @@ cap.
 <lb n="9"/>dura, y aclaradura, por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">cri<pc> –</pc>
 <lb n="10"/>ador</rs> <rs ana="ALOM">madre</rs>, y <rs ana="KAJOLOM">Padre</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así se llaman, <rs ana="JUNAJPU_WUCH">hun
 <lb n="11"/>ahpu vuch</rs>. <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>. <rs ana="SAQI_NIM_AQ_SIS">Zaquinima ꜩÿz</rs>
-<lb n="12"/><rs ana="TEPEW_QUKUMATZ">tepeu. gucumaꜩ.</rs> <rs ana="CORAZÓN_DEL_LAGO">vguxcho</rs>. <rs ana="CORAZÓN_DEL_MAR">vguxpalo</rs>. (nom<pc> –</pc>
+<lb n="12"/><rs ana="TEPEW_QUKUMATZ">tepeu. gucumaꜩ.</rs> <rs ana="UKUX_CHO">vguxcho</rs>. <rs ana="UKUX_PALO">vguxpalo</rs>. (nom<pc> –</pc>
 <lb n="13"/>bres , o atributos. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> significan; <rs ana="JUNAJPU_WUCH">vn tirador tacu<pc> –</pc>
 <lb n="14"/>azín</rs>. <rs ana="JUNAJPU_UTIW">vn tirador coyote</rs>. <rs ana="SAQI_NIM_AQ_SIS">blanco pizote</rs>. <rs ana="TEPEW_QUKUMATZ"><choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
-<lb n="15"/>fuerte culebra</rs>. <rs ana="CORAZÓN_DEL_LAGO">corazon de la laguna</rs>. <rs ana="CORAZÓN_DEL_MAR">co<pc> –</pc>
-<lb n="16"/>razon de el mar</rs>.) <rs ana="LOS_DE_LA_SUPERFICIE_PLANA">el de el verde cagete</rs>, <rs ana="LOS_DE_LA_BÓVEDA_AZUL">el
+<lb n="15"/>fuerte culebra</rs>. <rs ana="UKUX_CHO">corazon de la laguna</rs>. <rs ana="UKUX_PALO">co<pc> –</pc>
+<lb n="16"/>razon de el mar</rs>.) <rs ana="AJRAXA_LAQ">el de el verde cagete</rs>, <rs ana="AJRAXA_TZEL">el
 <lb n="17"/>de la verde hícara</rs> son llamados. y junta
 <lb n="18"/>mente es dicho, y hablado de aquella <rs ana="IXMUKANE">abu<pc> –</pc>
 <lb n="19"/>ela</rs>, y <rs ana="XPIYAKOK">abuelo</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sellamaban: <rs ana="XPIYAKOK">xpiyacoc</rs>, y
@@ -6302,11 +6302,11 @@ perhaps priests not deities?</note>
 <lb n="22"/>ría, ni agradezieron al criador <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>los crío
 <lb n="23"/>el averlos críado; y así fueron muertos y a
 <lb n="24"/>negados. vino gran resína, y pez de el
-<lb n="25"/>zielo. y un paxaro llamado: xecotcovach, ví<pc> –</pc>
+<lb n="25"/>zielo. y un paxaro llamado: <rs ana="KOTKOWACH">xecotcovach</rs>, ví<pc> –</pc>
 <lb n="26"/>no y les saco los ojos, y víno otro <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba
-<lb n="27"/>camaloꜩ y les corto las cabezas, y víno oto a<pc> –</pc>
-<lb n="28"/>nimal llamado coꜩbalam, y les comío sus car<pc> –</pc>
-<lb n="29"/>nes, y el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama tucumbalam, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les quebro
+<lb n="27"/><rs ana="KAMALOTZ">camaloꜩ</rs> y les corto las cabezas, y víno oto a<pc> –</pc>
+<lb n="28"/>nimal llamado <rs ana="KOTZBALAM">coꜩbalam</rs>, y les comío sus car<pc> –</pc>
+<lb n="29"/>nes, y el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama <rs ana="TUKUMBALAM">tucumbalam</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les quebro
 <lb n="30"/>los huesos, y los nervíos, y los hízeron harína
 <lb n="31"/>y esto fue en castigo y escarmiento <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>no
 <lb n="32"/>hízíeron grazías delante de su <rs ana="ALOM"><choice><abbr>P<hi rend="superscript">e.</hi></abbr><expan instant="false">Padre</expan></choice></rs> y <rs ana="KAJOLOM"><abbr>M<hi rend="superscript">e</hi></abbr></rs>, y
@@ -10209,7 +10209,7 @@ perhaps priests not deities?</note>
 <lb n="26"/>la píedra. y así fueron vístos en vn
 <lb n="27"/>río, quese bañaban ala orílla de<pc> –</pc>
 <lb n="28"/>el agua, y sellamo manífestaçíon
-<lb n="29"/>de ellos, aquel <rs ana="EL_BAÑO_DE_TOJIL">baño de el tohíl</rs>, y mu<pc> –</pc>
+<lb n="29"/>de ellos, aquel <rs ana="CHI_RATINIBAL_TOJIL">baño de el tohíl</rs>, y mu<pc> –</pc>
 <lb n="30"/>chas vezes los vían los pueblos, y lu<pc> –</pc>
 <lb n="31"/>ego se les desapareçían, quando
 <lb n="32"/>eran vístos de los pueblos. y enton
@@ -10289,7 +10289,7 @@ perhaps priests not deities?</note>
 <lb n="6"/>les mandaron alas dos donçellas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
 <lb n="7"/>llamaban la vna. <rs ana="IXTAJ">xtah</rs>. y la otra <rs ana="IXPUCH">xpuch</rs>.
 <lb n="8"/>y dlas dos donçellas <rs ana="IXTAJ">xtah</rs>, y <rs ana="IXPUCH">xpuch</rs> fu<pc> –</pc>
-<lb n="9"/>eron embíadas al río <rs ana="EL_BAÑO_DE_TOJIL">adonde se ba<pc> –</pc>
+<lb n="9"/>eron embíadas al río <rs ana="CHI_RATINIBAL_TOJIL">adonde se ba<pc> –</pc>
 <lb n="10"/>ñaba el tohíl auílíx cahauíꜩ</rs>. y esto
 <lb n="11"/>fue lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díscurríeron los pueblos.
 <lb />
@@ -10298,7 +10298,7 @@ perhaps priests not deities?</note>
 <p corresp="#p66">
 <lb n="12"/>y luego se fueron a componer, y a
 <lb n="13"/>aderezar, y çíertamente <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaban
-<lb n="14"/>hermosas, quando se fueron al río, <rs ana="EL_BAÑO_DE_TOJIL">al
+<lb n="14"/>hermosas, quando se fueron al río, <rs ana="CHI_RATINIBAL_TOJIL">al
 <lb n="15"/>baño de tohíl</rs>, y desuergonzadamen
 <lb n="16"/>se lababan, y deshonestamente. y se
 <lb n="17"/>alegraban los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice>, por sus <rs ana="IXTAJ_IXPUCH">dos híjas</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
