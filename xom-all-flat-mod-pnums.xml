@@ -1320,15 +1320,15 @@ cap.
 <lb n="1"/>cab chipe naipuch riqui quiqque
 <lb n="2"/>qha ahauab, quixqha ta quixopon<pc> –</pc>
 <lb n="3"/>oc xevqhaxic ri zamahel are cut
-<lb n="4"/>qui zamahel ri tucur, <rs ana="TECOLOTE_FLECHA">chabi tucur</rs>,
-<lb n="5"/><rs ana="TECOLOTE_DE_UNA_PIERNA">huracan tucur</rs>, <rs ana="TECOLOTE_GUACAMAYA">caquix tucur</rs>, <rs ana="TECOLOTE_CABEZA">ho<pc> –</pc>
+<lb n="4"/>qui zamahel ri tucur, <rs ana="CHABI_TUKUR">chabi tucur</rs>,
+<lb n="5"/><rs ana="JURAQAN_TUKUR">huracan tucur</rs>, <rs ana="KAKIX_TUKUR">caquix tucur</rs>, <rs ana="JOLOM_TUKUR">ho<pc> –</pc>
 <lb n="6"/>lom tucur</rs> quevqhaxic vzama<pc> –</pc>
-<lb n="7"/>hel <rs ana="XIBALBA">xibalba</rs> are ri <rs ana="TECOLOTE_FLECHA">qhabi tucur</rs> que<pc> –</pc>
-<lb n="8"/>heri qhab. xa copquic, are curi <rs ana="TECOLOTE_DE_UNA_PIERNA">hu<pc> –</pc>
+<lb n="7"/>hel <rs ana="XIBALBA">xibalba</rs> are ri <rs ana="CHABI_TUKUR">qhabi tucur</rs> que<pc> –</pc>
+<lb n="8"/>heri qhab. xa copquic, are curi <rs ana="JURAQAN_TUKUR">hu<pc> –</pc>
 <lb n="9"/>racan tucur</rs> xa hun racan qo v
-<lb n="10"/>xic. are curi <rs ana="TECOLOTE_GUACAMAYA">caquix tucur</rs> ꜫaꜫ
+<lb n="10"/>xic. are curi <rs ana="KAKIX_TUKUR">caquix tucur</rs> ꜫaꜫ
 <lb n="11"/>rih qo v xic, are chi naipuch ri
-<lb n="12"/><rs ana="TECOLOTE_CABEZA">holom tucur</rs> xa vtuquel vholom
+<lb n="12"/><rs ana="JOLOM_TUKUR">holom tucur</rs> xa vtuquel vholom
 <lb n="13"/>mahabi racan xa v xic qolic
 <lb n="14"/>e cahib ri zamahel rahpop achi<pc> –</pc>
 <lb n="15"/>hab quecalem ta xepe cut chila
@@ -2266,11 +2266,11 @@ cap.
 <lb n="12"/>cha vzamahel <rs ana="XIBALBA">xibalba</rs> caqha iv<pc> –</pc>
 <lb n="13"/>atit caqha xuqhax ri uq ta xbec
 <lb n="14"/>chimalmat cut xbec, cubul curi 
-<lb n="15"/>qahol pabe tamazul vbi ri xpec
+<lb n="15"/>qahol pabe <rs ana="TAMASUL">tamazul</rs> vbi ri xpec
 <lb n="16"/>apa catbe vi qha curi xpec chire
 <lb n="17"/>uq qoba nu ꜩih chinupam quinbe
-<lb n="18"/>cuq qaholab xqha ri uq chire tama
-<lb n="19"/>zul vꜩbala maba catanaic cavilo
+<lb n="18"/>cuq qaholab xqha ri uq chire <rs ana="TAMASUL">tama
+<lb n="19"/>zul</rs> vꜩbala maba catanaic cavilo
 <lb n="20"/>xuqhax cu uq rumal xpec macha<pc> –</pc>
 <lb n="21"/>uah canubico chauilana pe quin<pc> –</pc>
 <lb n="22"/>anic va xcohopon chanim. vꜩba
@@ -2279,7 +2279,7 @@ cap.
 <lb n="25"/>becnah curi xpec ta xbec chi ma<pc> –</pc>
 <lb n="26"/>ui caanic, catecut taxucul chicut
 <lb n="27"/>hunnima cumaꜩ zaquicaz ubi a
-<lb n="28"/>pa catbe vi at tamazul qahol xu
+<lb n="28"/>pa catbe vi at <rs ana="TAMASUL">tamazul</rs> qahol xu
 <lb n="29"/>qhax chic ri xpec rumal zaqui<pc> –</pc>
 <lb n="30"/>caz? inzamahel qonuꜩih chinu 
 <lb n="31"/>pam xqha chicut xpec chire
@@ -7168,19 +7168,19 @@ perhaps priests not deities?</note>
 <lb />
 <pb corresp="xom-f13-s2"/>
 <note resp="editor">Note moved from end of line 5 to allow for hyphen to be removed </note>
-<note place="margin-right" anchored="true"><del rend="scribble" instant="false" status="unremarkable">yun<rs ana="TECOLOTE_CABEZA">tecolo<add place="below" instant="false" status="unremarkable">tecabeza.</add>–</rs></del></note>
+<note place="margin-right" anchored="true"><del rend="scribble" instant="false" status="unremarkable">yun<rs ana="JOLOM_TUKUR">tecolo<add place="below" instant="false" status="unremarkable">tecabeza.</add>–</rs></del></note>
 <lb n="1"/>traigan tambien el vle, o pelota dezildes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo
 <lb n="2"/>dízen <rs ana="SEÑORES_DE_XIBALBA">los SSes</rs> así les fue dicho alos mensage<pc> –</pc>
 <lb n="3"/>ros, y los mensageros eran, vn tecolote, y
-<lb n="4"/>vna <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>, vn<rs ana="TECOLOTE_DE_UNA_PIERNA">tecolote de vna pier<pc> –</pc>
-<lb n="5"/>na</rs>, y vna <rs ana="GUACAMAYA_TECOLOTE">guacamaya tecolote</rs> .yestos e<pc> –</pc>
+<lb n="4"/>vna <rs ana="CHABI_TUKUR">saeta tecolote</rs>, vn<rs ana="JURAQAN_TUKUR">tecolote de vna pier<pc> –</pc>
+<lb n="5"/>na</rs>, y vna <rs ana="KAKIX_TUKUR">guacamaya tecolote</rs> .yestos e<pc> –</pc>
 <lb n="6"/>ran los nombres de los mensageros de <rs ana="XIBALBA">el in<pc> –</pc>
-<lb n="7"/>fierno</rs>. este <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="TECOLOTE_FLECHA">saeta tecolote</rs>,
+<lb n="7"/>fierno</rs>. este <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="CHABI_TUKUR">saeta tecolote</rs>,
 <lb n="8"/>era como vna flecha. y esta alerta. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
-<lb n="9"/>llamaba <rs ana="TECOLOTE_DE_UNA_PIERNA">de vna píerna</rs>, solo vna tenía, y te
-<lb n="10"/>nía alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba: <rs ana="TECOLOTE_GUACAMAYA">guacamaya te
+<lb n="9"/>llamaba <rs ana="JURAQAN_TUKUR">de vna píerna</rs>, solo vna tenía, y te
+<lb n="10"/>nía alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba: <rs ana="KAKIX_TUKUR">guacamaya te
 <lb n="11"/>colote</rs>, tenía colorada la espalda, y tenía
-<lb n="12"/>alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="TECOLOTE_CABEZA">cabeza tecolote</rs>, no te<pc> –</pc>
+<lb n="12"/>alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="JOLOM_TUKUR">cabeza tecolote</rs>, no te<pc> –</pc>
 <lb n="13"/>nía mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la cabeza, no tenía pies, síno solo
 <lb n="14"/>alas. estos cuatro <rs ana="MENSAJEROS_DE_XIBALBA">mensageros</rs> eran se<pc> –</pc>
 <lb n="15"/>ñores prinzípales. Luego víníeron al
