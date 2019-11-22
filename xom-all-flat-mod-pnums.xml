@@ -162,7 +162,7 @@ cap.
 <lb n="43"/>ric che, caam, v ꜩucuquic pu<pc> –</pc>
 <lb n="44"/>ch qazlem vinaquirem chi
 <lb n="45"/>queꜫumal, chi aꜫabal, rumal
-<lb n="46"/>ri <rs ana="UKUX_KAJ">vqux cah huracan</rs> vbi,
+<lb n="46"/>ri <rs ana="UKUX_KAJ">vqux cah</rs> <rs ana="JUN_RAQAN">huracan</rs> vbi,
 <pb xml:id="xom-f02-s1"/>
 <lb n="1"/><rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs> nabe, vcab
 <lb n="2"/>cut <rs ana="CHIPI_KAQULJA">chipa caculha</rs>, roxchic 
@@ -351,7 +351,7 @@ cap.
 <lb n="36"/>ne</rs>
 </p>
 <p xml:id="p08">
-<lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="UKUX_KAJ">huracan</rs> ruq <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
+<lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="JUN_RAQAN">huracan</rs> ruq <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
 <lb n="38"/>peu gucumaꜩ</rs> ta xquibih chire<pc> –</pc>
 <lb n="39"/>ch ahquih ah bit enic vachi<pc> –</pc>
 <lb n="40"/>nel xuculu, xa pu churico che<pc> –</pc>
@@ -455,7 +455,7 @@ cap.
 <lb n="38"/>quil, cahizabal qui vach; ru
 <lb n="39"/>mal maui quinauic chuvach
 <lb n="40"/>qui <rs ana="ALOM">chuch</rs>, chuvach puch qui
-<lb n="41"/><rs ana="KAJOLOM">cahau</rs>, ri <rs ana="UKUX_KAJ">vqux cah, huracan</rs>
+<lb n="41"/><rs ana="KAJOLOM">cahau</rs>, ri <rs ana="UKUX_KAJ">vqux cah</rs>, <rs ana="JUN_RAQAN">huracan</rs>
 <lb n="42"/>vbi, cumal xquecumaric v
 <lb n="43"/>vach vleu, xticaric quecal hab
 <lb n="44"/>quihil hab, acabal hab xoc vla
@@ -5525,7 +5525,7 @@ cap.
 </p>
 <p xml:id="p87">
 <lb n="45" rend="indent"/><hi rend="large">A</hi>carroc atoob vquih, <rs ana="JUN_RAQAN">athu<pc> –</pc>
-<lb n="46"/>racan</rs>, <rs ana="UKUX_KAJ_UKUX_ULEW">at vquxcah vleu</rs>, at ya<pc> –</pc>
+<lb n="46"/>racan</rs>, <rs ana="UKUX_KAJ">at vquxcah</rs> <rs ana="UKUX_ULEW">vleu</rs>, at ya<pc> –</pc>
 <lb n="47"/>olrech eanal raxal atpuyaol     
 <pb xml:id="xom-f54-s2"/>
 <note  place="margin-left" type="pagination" anchored="true">
@@ -6009,7 +6009,7 @@ cap.
 <lb n="37"/>zíon, de los palos, mecates, y la hechura
 <lb n="38"/>de la vida, y de la creazíon, en la obscu<pc resp="editor"> –</pc>
 <lb n="39"/>ridad, y tinieblas, por <rs ana="UKUX_KAJ">el corazon de el
-<lb n="40"/>zielo,</rs> <choice><abbr>q'</abbr><expan instant="false">que</expan></choice> se llama <rs ana="UKUX_KAJ">huracan</rs>. (esto es de
+<lb n="40"/>zielo,</rs> <choice><abbr>q'</abbr><expan instant="false">que</expan></choice> se llama <rs ana="JUN_RAQAN">huracan</rs>. (esto es de
 <lb n="41"/>un píe nombre propío). el primero se
 <lb n="42"/>llama: <rs ana="KAQUILJA_JUN_RAQAN">caculha huracan</rs>. (nombre pro
 <lb n="43"/>prio <choice><abbr>q'</abbr><expan instant="false">que</expan></choice>dize: <rs ana="KAQUILJA_JUN_RAQAN">rayo de vna píerna</rs>.) el
@@ -6040,7 +6040,7 @@ cap.
 <lb n="20"/>hecho, y en vninstante juntamente se
 <lb n="21"/>formo su produzir zipreses, y pínabetes en
 <lb n="22"/>su haz. y así se alegro <rs ana="QUKUMATZ">gucumaꜩ</rs>, esta bien
-<lb n="23"/>tu venida <rs ana="UKUX_KAJ">corazon de el zielo</rs>, tu <rs ana="UKUX_KAJ">huracan</rs>,
+<lb n="23"/>tu venida <rs ana="UKUX_KAJ">corazon de el zielo</rs>, tu <rs ana="JUN_RAQAN">huracan</rs>,
 <lb n="24"/>y tu <rs ana="CHIPI_KAQULJA">chípi caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, se per<pc> –</pc>
 <lb n="25"/>izionara, nuestra obra, y criaturas dixe<pc> –</pc>
 <lb n="26"/>ron. prímeramente se crío la tierra, los<pc> –</pc>
@@ -6050,7 +6050,7 @@ cap.
 <lb n="30"/>paro, y detuvo el agua, y entonzes se
 <lb n="31"/>mostraron los grandes zerros. y así su ser
 <lb n="32"/>formada la tierra, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se crío por aquellos
-<lb n="33"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llaman <rs ana="UKUX_KAJ_UKUX_ULEW">el corazon de el zielo, y el cora
+<lb n="33"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llaman <rs ana="UKUX_KAJ">el corazon de el zielo</rs>, y <rs ana="UKUX_ULEW">el cora
 <lb n="34"/>zon de la tierra</rs>, y esto es lo primero <abbr><expan instant="false">q’</expan></abbr> dís
 <lb n="35"/>currieron estando el zielo y la tierra den
 <lb n="36"/>tro de el agua, y así su ser discurrído a
@@ -6110,7 +6110,7 @@ cap.
 <lb n="33"/>y pajaros, alos leones, tígres, y culebras
 <lb n="34"/>dezíd nuestro nombre, alabadnos, dezid
 <lb n="35"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>somos vuestras <rs ana="ALOM">madres</rs>, y vuestros <rs ana="KAJOLOM">Padres</rs>.
-<lb n="36"/><rs ana="UKUX_KAJ">huracan</rs>, <rs ana="CHIPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>
+<lb n="36"/><rs ana="JUN_RAQAN">huracan</rs>, <rs ana="CHIPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>
 <lb n="37"/><rs ana="UKUX_KAJ">vquxcah</rs>, <rs ana="UKUX_ULEW">vquxuleu</rs>, <rs ana="TZAQOL">formadores</rs>, <rs ana="BITOL">cría
 <lb n="38"/>dores</rs>, <rs ana="ALOM">madres</rs>, y <rs ana="KAJOLOM">Padres</rs>. hablad, ínvo<pc> –</pc>
 <lb />
@@ -6206,7 +6206,7 @@ cap.
 <lb />
 </p>
 <p corresp="#p08">
-<lb n="32"/>y díxeron aquel <rs ana="UKUX_KAJ">huracan</rs>, con <rs ana="TEPEW_QUKUMATZ">tepeu
+<lb n="32"/>y díxeron aquel <rs ana="JUN_RAQAN">huracan</rs>, con <rs ana="TEPEW_QUKUMATZ">tepeu
 <lb n="33"/>y gucumaꜩ</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice> ledixeron al de el sol, o
 <lb n="34"/>adivino, al formador adívíno alcan<pc> –</pc>
 <note resp="editor">in Christenson this "al de el sol, o adivino" is "Master of Days and Mistress of Shaping, who are seers"
@@ -11354,7 +11354,7 @@ perhaps priests not deities?</note>
 <lb/>
 <p corresp="#p87">
 <lb n="42"/>O tu hermosura de su día; tu <rs ana="JUN_RAQAN">huracan</rs>, tu
-<lb n="43"/><rs ana="UKUX_KAJ_UKUX_ULEW">corazón de el çíelo, y tíerra</rs>, tu dador de
+<lb n="43"/><rs ana="UKUX_KAJ">corazón de el çíelo</rs>, y <rs ana="UKUX_ULEW">tíerra</rs>, tu dador de
 <lb n="44"/>nuestra gloría, y tu tambíen dador de
 <pb corresp="xom-f54-s2"/>
 <lb n="1"/>nuestros híjos, e híjas, muebe, y buelbe ha
