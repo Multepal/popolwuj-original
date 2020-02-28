@@ -1992,30 +1992,30 @@ cap.
 <lb n="3"/>ahbix, ri oher vinac are puch chu<pc> –</pc>
 <lb n="4"/>zi quih ri ahzib ahcot oher xechi<pc> –</pc>
 <lb n="5"/>copiric ecoy xevxic rumal xax
-<lb n="6"/>quinimarizah quib xquiyoc ri qui
-<lb n="7"/>chac quehevi calabil chiqui qux
+<lb n="6"/>quinimarizah quib xquiyoc ri <rs ana="KAIB_KAJOLAB">qui
+<lb n="7"/>chac</rs> quehevi calabil chiqui qux
 <lb n="8"/>quehecut qui maixic ri ta xezachic
 <lb n="9"/>ri <rs ana="JUN_BATZ">hun baꜩ</rs><rs ana="JUN_CHOWEN">hun choven</rs>. e chicop xe<pc> –</pc>
 <lb n="10"/>vxic are cut erama quelal coccho<pc> –</pc>
 <lb n="11"/>ch chic xavi xere e ahzu e ahbix
 <lb n="12"/>nim chic xquibano ta xecoheic rug
-<lb n="13"/>ratit rug pu quichuch
+<lb n="13"/><rs ana="IXMUKANE">ratit</rs> rug pu <rs ana="IXBAQIYALO">quichuch</rs>
 </p>
 <p xml:id="p27">
 <lb n="14" rend="indent"/><hi rend="large">T</hi>a x quitiquiba chicut quibanoh
-<lb n="15"/>qui cutbal quib chuvach catit chu<pc> –</pc>
-<lb n="16"/>vachpu qui chuch nabe xquibano
-<lb n="17"/>ri abix. xa cohabixic ixcatit ix
-<lb n="18"/>pu cachuch xeqha mi xbizonic oh
-<lb n="19"/>qolic oh ivÿ oh qui quexel caꜩ
+<lb n="15"/>qui cutbal quib chuvach <rs ana="IXMUKANE">catit</rs> chu<pc> –</pc>
+<lb n="16"/>vachpu <rs ana="IXBAQIYALO">qui chuch</rs> nabe xquibano
+<lb n="17"/>ri abix. xa cohabixic <rs ana="IXMUKANE">ixcatit</rs> ix
+<lb n="18"/>pu <rs ana="IXBAQIYALO">cachuch</rs> xeqha mi xbizonic oh
+<lb n="19"/>qolic oh ivÿ oh qui quexel <rs ana="HERMANOS_ARTESANOS">caꜩ</rs>
 <lb n="20"/>xeqha curi <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>.
 <lb n="21"/>ta xquicam cut quicah qui mixqui
 <lb n="22"/>na qui xoquem xebec ruq huhun
 <lb n="23"/>qui vvb xquiteleh xeel chi co cho<pc> –</pc>
-<lb n="24"/>ch ta xquipixab cu catit chire
+<lb n="24"/>ch ta xquipixab cu <rs ana="IXMUKANE">catit</rs> chire
 <lb n="25"/>vyaic qui va chiticoh na quih chi<pc> –</pc>
 <lb n="26"/>beya cava ixcatit xeqha vꜩba<pc> –</pc>
-<lb n="27"/>la ixvÿ xqha cut ri catit. cate cut
+<lb n="27"/>la ixvÿ xqha cut ri <rs ana="IXMUKANE">catit</rs>. cate cut
 <lb n="28"/>xeopon chiri que abix vi xa qui
 <lb n="29"/>xquichiquiba ri mi xquina puvleu
 <lb n="30"/>xacu quichitahin ri mi xquina pu
@@ -2804,8 +2804,8 @@ cap.
 <lb n="28"/>capetic are cut xoc <rs ana="PAJARO">halvac</rs> hi<pc> –</pc>
 <lb n="29"/>bal vholom <rs ana="JUNAJPU">hunahpu</rs> libahchi
 <lb n="30"/>xcotox vbaca v <rs ana="PAJARO">vac</rs> ꜩaꜩ chi ahna<pc> –</pc>
-<lb n="31"/>oh chicah xpevi arev quxcah
-<lb n="32"/>huracan xulcoloc xuluculoc chi<pc> –</pc>
+<lb n="31"/>oh chicah xpevi are<rs ana="UKUX_KAJ">v quxcah</rs>
+<lb n="32"/><rs ana="JUN_RAQAN">huracan</rs> xulcoloc xuluculoc chi<pc> –</pc>
 <lb n="33"/>ri pa zoꜩiha macuatan xuꜩi<pc> –</pc>
 <lb n="34"/>nic v <rs ana="PAJARO">vach</rs> vꜩ chic xuxic xa
 <lb n="35"/>uixare vchuuc hebel hi<pc> –</pc>
@@ -6925,7 +6925,7 @@ perhaps priests not deities?</note>
 <lb n="5"/>zen sobre la tierra. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se pasan amucha 
 <lb n="6"/>grandeza y no deue ser así. halagaldo
 <lb n="7"/>y llevaldo alla hazía <choice><abbr>do</abbr><expan instan="false">donde</expan></choice> naze el sol esto 
-<lb n="8"/>dixo huracan alos <rs ana="KAIB_KAJOLAB">dos muchachos</rs>. esta 
+<lb n="8"/>dixo <rs ana="JUN_RAQAN">huracan</rs> alos <rs ana="KAIB_KAJOLAB">dos muchachos</rs>. esta 
 <lb n="9"/>bien dixeron ellos noestabíen œ esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> 
 <lb n="10"/>vemos, por ventura no ventura no esprí<pc> –</pc>
 <lb n="11"/>mero vuestra grandeza tu <rs ana="UKUX_KAJ">corazon de 
