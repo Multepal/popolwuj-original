@@ -5883,7 +5883,7 @@ cap.
 <lb n="19" rend="indent"/>chuvach <rs ana="AJAW_KICHE">ahau quiche</rs>
 </p>
 <p xml:id="p96">            
-<lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chinim chocoh
+<lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chi<rs ana="NIM_CHOKOJ">nim chocoh</rs>
 <lb n="21"/>queheri e cahauixel rumal ro<pc> –</pc>
 <lb n="22"/>nohel <rs ana="AJAW_KICHE">ahavab quiche</rs> xahun
 <lb n="23"/>chiqui cuch vi quib e oxib chic<pc> –</pc>
@@ -5898,7 +5898,7 @@ cap.
 <lb n="30"/>chi oxibcut ri chocohib huhun
 <lb n="31"/>chivach chinamit. xere cut v
 <lb n="32"/>qoheic quicheri rumal mahabi
-<lb n="33"/>chi ilbalre, qonabe oher cu<pc> –</pc>
+<lb n="33"/>chi ilbalre, <rs ana="POPOL_WUJ">qonabe oher</rs> cu<pc> –</pc>
 <lb n="34"/>mal ahauab zachinac chic. xere
 <lb n="35"/>curi mixuꜩinic chiconohel qui<pc> –</pc>
 <lb n="36"/>che <rs ana="SANTA_CRUZ"><choice><abbr type="superscription">Sta.</abbr><expan instant="false">Santa</expan></choice> Cruz</rs> vbi.
@@ -11670,8 +11670,8 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb n="18"/>grandes</rs> de los de <rs ana="AJAW_KICHE">ahau quiche</rs>.
 </p>
 <p corresp="#p96">
-<lb n="19"/>y estos eran los tres grandes combí<pc> –</pc>
-<lb n="20"/>tes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como padres por todos los
+<lb n="19"/>y estos eran los tres <rs ana="NIM_CHOKOJ">grandes combí<pc> –</pc>
+<lb n="20"/>tes</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como <rs ana="NIM_CHOKOJ">padres</rs> por todos los
 <lb n="21"/><choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> del quiche, y todos se juntaban
 <lb n="22"/>en vno de los tres combítes. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran los<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="23"/>todo lo mandaban, y dísponían, pe<pc> –</pc>
@@ -11679,12 +11679,12 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb n="25"/>combítes.
 </p>
 <p corresp="#p97">
-<lb n="26"/>Grande Junta, y combíte delos de <rs ana="KAWEQ">ca
+<lb n="26"/><rs ana="NIM_CHOKOJ">Grande Junta, y combíte</rs> delos de <rs ana="KAWEQ">ca
 <lb n="27"/>uíquíb</rs>. y el Segundo de los de <rs ana="NIJAIB">níha<pc> –</pc>
 <lb n="28"/>íb</rs>. y el terçero de los de <rs ana="AJAW_KICHE">ahau quí<pc> –</pc>
 <lb n="29"/>che</rs>. cada vno de estos tres en su
 <lb n="30"/>chínamítal. y esto es todo lo de el
-<lb n="31"/>quiche. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay donde leerlo
+<lb n="31"/>quiche. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay <rs ana="POPOL_WUJ"></rs>donde leerlo</rs>
 <lb n="32"/>yaun<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> antíguamente lo auía, pero
 <lb n="33"/>se ha perdído. y aquí seacabo todo lo<pc> –</pc>
 <lb n="34"/>tocante al quiche, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama<rs ana="SANTA_CRUZ"> <choice><abbr type="superscription">Sta</abbr><expan instant="false">Santa</expan></choice>
