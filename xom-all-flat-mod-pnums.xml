@@ -5011,7 +5011,7 @@ cap.
 <lb n="9"/>zahcab chucahle oc ahauab
 <lb n="10"/>xeqha curi <rs ana="BALAM_KONACHE_KQTRES">conache</rs> xu<rs ana="BELEJEB_KEJ_NJCUATRO">be<add place="above" instant="false" status="unremarkable">+</add>heb
 <note place="margin-left" anchored="true">t/e</note>
-<lb n="11"/>queh</rs> ruqpuch <rs ana="AJAW_QALEL">ealelahau</rs> ta
+<lb n="11"/>queh</rs> ruqpuch <rs ana="AJAW_Q'ALEL">ealelahau</rs> ta
 <lb n="12"/>xahauar cutahau <rs ana="KOTUJA_KQCUATRO">cotuha</rs> ruq
 <lb n="13"/><rs ana="ISTAYUL_KQCUATRO">iztayul</rs> quibi <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_KAMJA">ahpopcam
 <lb n="14"/>ha</rs> xe ahauar chiri <rs ana="CHI_ISMACHI">chiizmachi</rs>
@@ -5194,7 +5194,7 @@ cap.
 <p xml:id="p78">
 <lb n="29" rend="indent" /><hi rend="large">A</hi>re chicu ahavab va chu
 <lb n="30"/>vach <rs ana="NIJAIB">nihaibab</rs> are nabe aha<pc> –</pc>
-<lb n="31"/>u va <rs ana="AJAW_QALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
+<lb n="31"/>u va <rs ana="AJAW_Q'ALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
 <lb n="32"/>nac</rs>, <rs ana="QALEL_KAMJA">cale camha</rs>, <rs ana="NIMA_KAMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
 <lb n="33"/>chuch camha</rs>, <rs ana="NIJAIB">nimchocoh nihaib,</rs><pc> –</pc>
 <lb n="34"/><rs ana="AJAW_AWILIX">aulix</rs>, <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam, vꜩam pop
@@ -5415,7 +5415,7 @@ cap.
 <lb n="40"/>qohe ta que calem vachin el chi<pc> –</pc>
 <lb n="41"/>namit choc vi in<rs ana="AJPOP">ahpop</rs> in ahpop<pc> –</pc>
 <lb n="42"/>camha ahpop chire caleh ve choc
-<lb n="43"/>chicu aue at <rs ana="AJAW_QALEL">ahau ealel</rs> ealel
+<lb n="43"/>chicu aue at <rs ana="AJAW_Q'ALEL">ahau ealel</rs> ealel
 <lb n="44"/>ri calem xchuxic xeqhacut ro<pc> –</pc>
 <lb n="45"/>nohel ahauab taxcam quinaoh
 <lb n="46"/>xavi cu quehe xubano <rs ana="TAMUB">tamub</rs>, <rs ana="ILOKAB">i
@@ -5444,7 +5444,7 @@ cap.
 <lb n="14"/>pop ahpop camha rumal puch ea<pc> –</pc>
 <lb n="15"/>lel ah ꜩic vinac xoc queealem ro<pc> –</pc>
 <lb n="16"/>nohel ealel ahpop hulahuh nim
-<lb n="17"/>chocoh <rs ana="AJAW_QALEL">ealel ahau</rs> <rs ana="QALEL_SAQIK">ealel zaquic</rs>, <rs ana="QALEL_ACHIJ">v
+<lb n="17"/>chocoh <rs ana="AJAW_Q'ALEL">ealel ahau</rs> <rs ana="QALEL_SAQIK">ealel zaquic</rs>, <rs ana="QALEL_ACHIJ">v
 <lb n="18"/>ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rahpop achih</rs>, <rs ana="RAJTZALAM_ACHIJ">rahꜩa<pc> –</pc>
 <lb n="19"/>lam achih</rs>, <rs ana="UTZAM_ACHIJ">vꜩam achih</rs>, quibi a
 <lb n="20"/>chihab xoquic taxecobic xebina<pc> –</pc>
@@ -5787,7 +5787,7 @@ cap.
 <lb n="22.3"/>chinim ha.
 </p>
 <p>
-<lb n="23"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>1</num></hi></note><rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva<pc> –</pc>
+<lb n="23"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>1</num></hi></note><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> vnabe ahau chuva<pc> –</pc>
 <lb n="24" rend="indent"/>ch <rs ana="NIJAIB">nihaibab</rs> hun vnim ha.
 </p>
 <p>
@@ -10844,7 +10844,7 @@ perhaps priests not deities?</note>
 <lb n="7"/>cal y canto, la quarta generacíon
 <lb n="8"/>de Reyes, y <abbr>SS<hi rend="superscript">es</hi></abbr>
 <unclear reason="deletion" instant="false"><note resp="editor">I don't see this word in the ms. Where did we get "oeoe" from?</note>oeoe</unclear>dixo <rs ana="BALAM_KONACHE_KQTRES">conache</rs>, y
-<lb n="9"/><rs ana="BELEJEB_KEJ_NJCUATRO">beleheb queh</rs>, y tambíen <rs ana="AJAW_QALEL">ealel ahau</rs>
+<lb n="9"/><rs ana="BELEJEB_KEJ_NJCUATRO">beleheb queh</rs>, y tambíen <rs ana="AJAW_Q'ALEL">ealel ahau</rs>
 <lb n="10"/>y quando reyno el Rey <rs ana="KOTUJA_KQCUATRO">cotuha</rs>
 <lb n="11"/>con <rs ana="ISTAYUL_KQCUATRO">íztayul</rs><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamaban <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice>
 <lb n="12"/>de trono, y alfo<del rend="overwritten" instant="false" status="unremarkable">mbr</del>a, reínaron
@@ -11023,7 +11023,7 @@ perhaps priests not deities?</note>
 </p>
 <p corresp="#p78">
 <lb n="29"/>y estos son los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los de <rs ana="NIJAIB">níhaí<pc> –</pc>
-<lb n="30"/>bab</rs> el prímero <rs ana="AJAW_QALEL">ahau ealel</rs>. 2. <rs ana="AJAW_AJTZIK_WINAQ">ahau
+<lb n="30"/>bab</rs> el prímero <rs ana="AJAW_Q'ALEL">ahau ealel</rs>. 2. <rs ana="AJAW_AJTZIK_WINAQ">ahau
 <lb n="31"/>ahꜩíc vínac</rs>. 3. <rs ana="QALEL_KAMJA">calecamha</rs>. 4. <rs ana="UCHUCH_KAMJA">vchuch
 <lb n="32"/>camha</rs>. 5. <rs ana="NIM_CHOKOJ_NIJAIB">ním chocoh níhaíb</rs>. 6. <rs ana="AJAW_AWILIX">aha<pc> –</pc>
 <lb n="33"/>u auílix</rs>. 7 <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam. 8. vꜩam
@@ -11269,7 +11269,7 @@ perhaps priests not deities?</note>
 <lb n="13"/>tanesde asíento, y casa, por los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> prín<pc> –</pc>
 <lb n="14"/>çípales, y se les dío el cargo a todos los
 <lb n="15"/>capítanes once grandes combítes, y
-<lb n="16"/>fueron llamados <rs ana="AJAW_QALEL">ealel ahau</rs>, <rs ana="QALEL_SAQIK">ealel za<pc> –</pc>
+<lb n="16"/>fueron llamados <rs ana="AJAW_Q'ALEL">ealel ahau</rs>, <rs ana="QALEL_SAQIK">ealel za<pc> –</pc>
 <lb n="17"/>quíc</rs>, <rs ana="QALEL_ACHIJ">v ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rah pop achíh</rs>, <rs ana="RAJTZALAM_ACHIJ">rah
 <lb n="18"/>ꜩalam achíh</rs>, <rs ana="UTZAM_ACHIJ">v ꜩamachíh</rs>, así se nom<pc> –</pc>
 <lb n="19"/>braron los capítanes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>entraron, y çe<pc> –</pc>
@@ -11605,12 +11605,12 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 </p>
 <p corresp="#p92">
 <lb n="20"/>y estos fueron todos los Reyes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> deçen<corr><pc> –</pc></corr>
-<lb n="21"/>díeron de aquel <rs ana="AJAW_QALEL">Rey ꜫalel</rs>. y agora 
+<lb n="21"/>díeron de aquel <rs ana="AJAW_Q'ALEL">Rey ꜫalel</rs>. y agora 
 <lb n="22"/>díremos el <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor</expan></choice> de cada vna de las
 <lb n="23"/>grandes casas.
 </p>
 <p>
-<lb n="24"/><rs ana="AJAW_QALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de los de <rs ana="NIJAIB">ní<pc> –</pc>
+<lb n="24"/><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de los de <rs ana="NIJAIB">ní<pc> –</pc>
 <lb n="25"/>haíbab</rs> Sor<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 <lb n="26"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩíc vínac</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="27"/><hi rend="large">A</hi>hau <rs ana="QALEL_KAMJA">ꜫalel camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
