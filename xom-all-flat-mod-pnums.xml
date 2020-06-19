@@ -1256,7 +1256,7 @@ cap.
 <lb n="36"/><rs ana="AJAL_Q'ANA">ahal eana</rs> chic, qui ahauab are
 <lb n="37"/>cut cahauarem ri chizipohic vi
 <lb n="38"/>nac chipe puh chirih racan chi<pc> –</pc>
-<lb n="39"/>peeana chirih v vach chueanel
+<lb n="39"/>peeana chirih v vach <rs ana="CHUQ'ANAL">chueanel</rs>
 <lb n="40"/>chuqhaxic cate cut rahauarem
 <lb n="41"/><rs ana="AJAL_PUJ">ahal puh</rs>, <rs ana="AJAL_Q'ANA">ahal eana</rs> vi. are curi<add place="above" instant="false" status="unremarkable">chi</add>
 <lb n="42"/>ahau, <rs ana="CH'AMIYA_BAQ">chamia bac</rs>, <rs ana="CH'AMIYA_JOLOM">chamia holom</rs>
@@ -1857,11 +1857,11 @@ cap.
 <lb n="22"/>tob ca <abbr>q<hi rend="subscript">'</hi></abbr>iquin chuvi che xqha
 <lb n="23"/>cut macu habi chacan chui che
 <lb n="24"/>chiquech <rs ana="IXMUKANE">ixcatit</rs> chicah ta pu
-<lb n="25"/>ri <rs ana="HERMANOS_ARTESANOS">caꜩ</rs> quebe ta cuq chibe ta qui
+<lb n="25"/>ri <rs ana="JUN_BATZ'_JUN_CHOWEN">caꜩ</rs> quebe ta cuq chibe ta qui
 <note resp="editor">Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"?</note>
 <lb n="26"/>cazah vloc ri <abbr>q<hi rend="subscript">'</hi> </abbr>iquin xeqha cut
 <lb n="27"/>vꜩbala cohbe iuvq zaquiric xe
-<lb n="28"/>qha curi <rs ana="HERMANOS_ARTESANOS">caꜩ</rs> taxe chacouic. xca<pc> –</pc>
+<lb n="28"/>qha curi <rs ana="JUN_BATZ'_JUN_CHOWEN">caꜩ</rs> taxe chacouic. xca<pc> –</pc>
 <lb n="29"/>minac cut quinaoh quicabichal
 <lb n="30"/>chirech qui chaquic <rs ana="JUN_BATZ">hun baꜩ</rs><rs ana="JUN_CHOWEN">hun
 <lb n="31"/>chouen</rs>, xa caꜩolcomih qui qoheic
@@ -1873,17 +1873,17 @@ cap.
 <lb n="37"/>cachac vi xa retal chicabano xe
 <lb n="38"/>qhachiquibil quib. ta xebecut chi<pc> –</pc>
 <lb n="39"/>la chuxe che cante vbi cachbilan
-<lb n="40"/>curi <rs ana="HERMANOS_ARTESANOS">caꜩ</rs> ta xebec xquitiquiba chi
+<lb n="40"/>curi <rs ana="JUN_BATZ'_JUN_CHOWEN">caꜩ</rs> ta xebec xquitiquiba chi
 <lb n="41"/>cut vvbanic maui ahilan chi
 <note resp="editor">Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"?</note>
 <lb n="42"/><abbr>q<hi rend="subscript">'</hi></abbr>iquin chuvi che quechititic xe
 <note resp="editor">Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"?</note>
-<lb n="43"/>maihan cut ri <rs ana="HERMANOS_ARTESANOS">caꜩ</rs> ta xquil ri <abbr>q<hi rend="subscript">'</hi></abbr>i<pc> –</pc>
+<lb n="43"/>maihan cut ri <rs ana="JUN_BATZ'_JUN_CHOWEN">caꜩ</rs> ta xquil ri <abbr>q<hi rend="subscript">'</hi></abbr>i<pc> –</pc>
 <note resp="editor">Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"?</note>
 <lb n="44"/>quin. are curi <abbr>q<hi rend="subscript">'</hi></abbr>iquin mahabi hun
 <lb n="45"/>oc xcah vloc chuxe che, ri ca ꜩi<pc> –</pc>
 <lb n="46"/>quin e maui quecah vloc. xahix
-<lb n="47"/>cazah vloc xeqha cut chire <rs ana="HERMANOS_ARTESANOS">caꜩ</rs>
+<lb n="47"/>cazah vloc xeqha cut chire <rs ana="JUN_BATZ'_JUN_CHOWEN">caꜩ</rs>
 <pb xml:id="xom-f19-s1"/>
 <lb n="1"/>vꜩbala xeqha cut. cate puch xeaca<pc> –</pc>
 <lb n="2"/>nic chui che xnimar cut riche xzi<pc> –</pc>
@@ -2007,7 +2007,7 @@ cap.
 <lb n="16"/>vachpu <rs ana="IXBAQIYALO">qui chuch</rs> nabe xquibano
 <lb n="17"/>ri abix. xa cohabixic <rs ana="IXMUKANE">ixcatit</rs> ix
 <lb n="18"/>pu <rs ana="IXBAQIYALO">cachuch</rs> xeqha mi xbizonic oh
-<lb n="19"/>qolic oh ivÿ oh qui quexel <rs ana="HERMANOS_ARTESANOS">caꜩ</rs>
+<lb n="19"/>qolic oh ivÿ oh qui quexel <rs ana="JUN_BATZ'_JUN_CHOWEN">caꜩ</rs>
 <lb n="20"/>xeqha curi <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>.
 <lb n="21"/>ta xquicam cut quicah qui mixqui
 <lb n="22"/>na qui xoquem xebec ruq huhun
@@ -5308,7 +5308,7 @@ cap.
 <lb n="34"/>ti amac nimaamac nacah tac
 <lb n="35"/>vxol qovi tinamit oher are
 <lb n="36"/>vhuyubal <rs ana="KAQCHIKELEB">ꜫaꜫchequeleb</rs> ri
-<lb n="37"/><rs ana="CHUWILA">chuuila</rs> vacamic vhuyubal chi<pc> –</pc>
+<lb n="37"/><rs ana="CHUWILA'">chuuila</rs> vacamic vhuyubal chi<pc> –</pc>
 <lb n="38"/>naipu <rs ana="RABINALEB">rabinaleb</rs> ri <rs ana="PA_MAKA">pamaca</rs> v
 <lb n="39"/>huyub cu <rs ana="KAWKEB">caoqueb</rs> <rs ana="SAQKABAJA">rizacabaha</rs>
 <lb n="40"/><rs ana="SAQULEWAB">vtinamit chicut zaculeuab</rs>
@@ -7109,7 +7109,7 @@ perhaps priests not deities?</note>
 <lb n="38"/>to es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>haze la agualdíja) y este era su <choice><abbr>offo</abbr><expan instant="false">oficio</expan></choice>
 <lb n="39"/>hínchar los hombres y darles materías en
 <lb n="40"/>sus píernas, y causarles amaríllez en sus rostros
-<lb n="41"/>y se llama esta enfermedad chueanal. ensu
+<lb n="41"/>y se llama esta enfermedad <rs ana="CHUQ'ANAL">chueanal</rs>. ensu
 <lb n="42"/>amaríllez y este era el <choice><abbr>offo.</abbr><expan instant="false">oficio</expan></choice> de <rs ana="AJAL_PUJ">ahalpuh</rs>, y
 <lb n="43"/>de <rs ana="AJAL_Q'ANA">ahaleana</rs>. y otros se llamaban. <rs ana="CH'AMIYA_BAQ">chamía
 <lb n="44"/>bac</rs> (vara de hueso) yotro <rs ana="CH'AMIYA_JOLOM">chamía holom</rs>.
@@ -7676,7 +7676,7 @@ perhaps priests not deities?</note>
 <lb n="39"/>telígençía de todos, y así lo juzgaban,
 <lb n="40"/>quando se críaron los dos <rs ana="KAIB_KAJOLAB">sus herma<pc> –</pc>
 <lb n="41"/>nos</rs>, y no mostraron su saber por su im<pc> –</pc>
-<lb n="42"/>bídía, sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en <rs ana="HERMANOS_ARTESANOS">ellos</rs> estuuo la vengan<pc> –</pc>
+<lb n="42"/>bídía, sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en <rs ana="JUN_BATZ'_JUN_CHOWEN">ellos</rs> estuuo la vengan<pc> –</pc>
 <lb n="43"/>za desus corazones y no por alguna obra
 <lb n="44"/>fueron ofendídos por <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xba<pc> –</pc>
 <lb n="45"/>lanque</rs>, y solo se entretenían en tírar
@@ -7703,11 +7703,11 @@ perhaps priests not deities?</note>
 <lb n="19"/>fue el caso <rs ana="IXMUKANE">abuela</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se nos han que<pc> –</pc>
 <lb n="20"/>dado atorados los paxaros en los arbo<pc> –</pc>
 <lb n="21"/>les, y no podemos subír <rs ana="KAIB_KAJOLAB">nosotros</rs> sobre
-<lb n="22"/>los palos, <rs ana="IXMUKANE">Señora</rs>, vayan <rs ana="HERMANOS_ARTESANOS">nuestros her<pc> –</pc>
+<lb n="22"/>los palos, <rs ana="IXMUKANE">Señora</rs>, vayan <rs ana="JUN_BATZ'_JUN_CHOWEN">nuestros her<pc> –</pc>
 <lb n="23"/>manos</rs> con <rs ana="KAIB_KAJOLAB">nosotros</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vayan a baxar
 <lb n="24"/>los paxaros. y se les fue dícho estabí<pc> –</pc>
 <lb n="25"/>en íremos con <rs ana="KAIB_KAJOLAB">vosotros</rs> por la maña<pc> –</pc>
-<lb n="26"/>na, esto díxeron <rs ana="HERMANOS_ARTESANOS">sus hermanos</rs>, quan
+<lb n="26"/>na, esto díxeron <rs ana="JUN_BATZ'_JUN_CHOWEN">sus hermanos</rs>, quan
 <lb n="27"/>do fueron vençidos, y ganados.
 <lb n="28"/>y auíendo <rs ana="KAIB_KAJOLAB">los dos</rs> consultado entresí so<pc> –</pc>
 <lb n="29"/>bre el vencer a <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>
@@ -7715,25 +7715,25 @@ perhaps priests not deities?</note>
 <lb n="31"/>varrígas. cíertamente quando sea he<pc> –</pc>
 <lb n="32"/>cho por la gran pena, y dolor <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> nos han
 <lb n="33"/>causado, fuímos muertos, y perdídos,
-<lb n="34"/>esto querían <rs ana="HERMANOS_ARTESANOS">nuestros hermanos</rs>. solo
+<lb n="34"/>esto querían <rs ana="JUN_BATZ'_JUN_CHOWEN">nuestros hermanos</rs>. solo
 <lb n="35"/>como muchachos venímos en su íntelí<pc> –</pc>
 <lb n="36"/>gençía dellos, y así los venceremos, pero
 <lb n="37"/>solo haremos señal de ello, esto dixeron
 <lb n="38"/>entresí. y luego fueron debaxo de un
 <lb n="39"/>arbol, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba cante, e íuan en su
-<lb n="40"/>compañía <rs ana="HERMANOS_ARTESANOS">sus hermanos</rs>, y empezaron a
+<lb n="40"/>compañía <rs ana="JUN_BATZ'_JUN_CHOWEN">sus hermanos</rs>, y empezaron a
 <lb n="41"/>tírar con la ceruatana, y no se podían
 <lb n="42"/>contra los paxaros <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban sobre los ar<pc> –</pc>
 <lb n="43"/>boles, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban gritando. y se marauílla<pc> –</pc>
-<lb n="44"/>ron <rs ana="HERMANOS_ARTESANOS">sus hermanos</rs> quando víeron tantos
+<lb n="44"/>ron <rs ana="JUN_BATZ'_JUN_CHOWEN">sus hermanos</rs> quando víeron tantos
 <lb n="45"/>paxaros, y nínguno cayo abajo de nu<pc> –</pc>
 <lb n="46"/>estros paxaros. no caen, andad vajaldos
-<lb n="47"/>aca les díxeron a<rs ana="HERMANOS_ARTESANOS">sus hermanos</rs>
+<lb n="47"/>aca les díxeron a<rs ana="JUN_BATZ'_JUN_CHOWEN">sus hermanos</rs>
 <pb corresp="xom-f19-s1"/>
 <note place="margin-right" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">19</hi></num>
 </note>
-<lb n="1"/>esta bíen díxeron <rs ana="HERMANOS_ARTESANOS">ellos</rs>, y luego subíeron sobre
+<lb n="1"/>esta bíen díxeron <rs ana="JUN_BATZ'_JUN_CHOWEN">ellos</rs>, y luego subíeron sobre
 <lb n="2"/>el arbol, y se engroso el tronco, ehíncho, y lu<pc> –</pc>
 <lb n="3"/>ego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> quísíeron baxar, ya no podían vaxar 
 <lb n="4"/>desobre el palo el <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs> y
@@ -7746,7 +7746,7 @@ perhaps priests not deities?</note>
 <lb n="11"/>do debaxo de vuestros víentres larga
 <lb n="12"/>su punta, y sacaldo <choice><abbr>pa.</abbr><expan instant="false">para</expan></choice> atras, y de ese mo<pc> –</pc>
 <lb n="13"/>do podreís andar, y vajar, esto les fue
-<lb n="14"/>dícho por <rs ana="KAIB_KAJOLAB">sus hermanos</rs>. bíen, díxeron <rs ana="HERMANOS_ARTESANOS">ellos</rs>,
+<lb n="14"/>dícho por <rs ana="KAIB_KAJOLAB">sus hermanos</rs>. bíen, díxeron <rs ana="JUN_BATZ'_JUN_CHOWEN">ellos</rs>,
 <lb n="15"/>yluego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sacaron la punta, desu ze<pc> –</pc>
 <lb n="16"/>ñidor luego al punto se conuírtíeron
 <lb n="17"/>en colas, y se bolbíeron mícos. y lue<pc> –</pc>
@@ -7760,11 +7760,11 @@ perhaps priests not deities?</note>
 <lb n="25"/>se fueron a su casa, y díxeron quando
 <lb n="26"/>llegaron con su <rs ana="IXMUKANE">abuela</rs>, y su <rs ana="IXKIK">Madre</rs>
 <lb n="27"/>a<choice><abbr type="superscription">Sa.</abbr><expan instant="false">Señora</expan></choice><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sera lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> lesha aconteçido a
-<lb n="28"/><rs ana="HERMANOS_ARTESANOS">nuestros hermanos</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> verdes sus caras
+<lb n="28"/><rs ana="JUN_BATZ'_JUN_CHOWEN">nuestros hermanos</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> verdes sus caras
 <lb n="29"/>se fueron como animales? mas sí al<pc> –</pc>
-<lb n="30"/>go les aueís hecho a <rs ana="HERMANOS_ARTESANOS">vuestros herma<pc> –</pc>
+<lb n="30"/>go les aueís hecho a <rs ana="JUN_BATZ'_JUN_CHOWEN">vuestros herma<pc> –</pc>
 <lb n="31"/>nos</rs>, y me aueís menospreçíado, y pues<pc> –</pc>
-<lb n="32"/>to en misería, no hagaís eso con <rs ana="HERMANOS_ARTESANOS">vu<pc> –</pc>
+<lb n="32"/>to en misería, no hagaís eso con <rs ana="JUN_BATZ'_JUN_CHOWEN">vu<pc> –</pc>
 <lb n="33"/>estros hermanos</rs> les dixo <rs ana="IXMUKANE">la víeja</rs> a <rs ana="JUNAJPU">hun
 <lb n="34"/>ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y <rs ana="KAIB_KAJOLAB">ellos</rs> le díxeron
 <lb n="35"/>asu <rs ana="IXMUKANE">abuela</rs>, no te aflíxas abuela, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> bol<pc> –</pc>
@@ -7824,7 +7824,7 @@ perhaps priests not deities?</note>
 <lb n="36"/>auíendo los llamado, no te de pena <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> aquí
 <lb n="37"/>estamos <rs ana="KAIB_KAJOLAB">nosotros</rs>, tus níetos, y te queremos
 <lb n="38"/>a <rs ana="IXMUKANE">vos</rs> ya nuestra <rs ana="IXKIK">Madre</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> nosotros queda<pc> –</pc>
-<lb n="39"/>mos en memoría, y en lugar de <rs ana="HERMANOS_ARTESANOS">nuestros
+<lb n="39"/>mos en memoría, y en lugar de <rs ana="JUN_BATZ'_JUN_CHOWEN">nuestros
 <lb n="40"/>hermanos</rs> llamados <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho<pc> –</pc>
 <lb n="41"/>uen</rs>.
 <lb/>
@@ -7859,7 +7859,7 @@ perhaps priests not deities?</note>
 <lb n="16"/>taron de haçer mílpa. nosotros sembraremos
 <lb n="17"/>mílpa díxeron a<rs ana="IXMUKANE">su abuela</rs>, y a<rs ana="IXKIK">su <choice><abbr type="superscription">Me.</abbr><expan instant="false">Madre</expan></choice></rs> no os
 <lb n="18"/>aflíxaís aquí estamos <rs ana="KAIB_KAJOLAB">nosotros, tus níetos</rs>, no
-<lb n="19"/>sotros somos substitutos de <rs ana="HERMANOS_ARTESANOS">nuestros hermanos</rs>
+<lb n="19"/>sotros somos substitutos de <rs ana="JUN_BATZ'_JUN_CHOWEN">nuestros hermanos</rs>
 <lb n="20"/>esto díxeron el <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y
 <lb n="21"/>entonces tomando sus hachas, y azadones
 <lb n="22"/>se fueron con sus çeruatanas al hombro. y
@@ -8209,7 +8209,7 @@ perhaps priests not deities?</note>
 <lb n="13"/>vna caña, en medio de nuestra casa, y es<pc> –</pc>
 <lb n="14"/>ta sera la señal de nuestra muerte, sí se seca
 <lb n="15"/>díreís, poco ha<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> murieron; empero sí re
-<lb n="16"/>toñeze, díreís <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estan vívos <rs ana="HERMANOS_ARTESANOS">tus níetos</rs><rs ana="IXMUKANE">abu<pc> –</pc>
+<lb n="16"/>toñeze, díreís <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estan vívos <rs ana="JUN_BATZ'_JUN_CHOWEN">tus níetos</rs><rs ana="IXMUKANE">abu<pc> –</pc>
 <lb n="17"/>ela</rs>, y vos madre, no lloreís, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> señal que<pc> –</pc>
 <lb n="18"/>da de nuestra palabra con vosotros.. y <choice><abbr>qdo</abbr><expan instant="false">cuando</expan></choice>
 <lb n="19"/>se fueron vna sembro <rs ana="JUN_JUNAJPU">hunahpu</rs>, y otra sem- 
@@ -11136,7 +11136,7 @@ perhaps priests not deities?</note>
 <lb n="31"/>pueblos chícos, y grandes, y los pu<pc> –</pc>
 <lb n="32"/>so a poca dístançía, y esto fue an
 <lb n="33"/>tíguamente quando eran suyos
-<lb n="34"/>los <rs ana="KAQCHIKELEB">ꜫaꜫchiqueles</rs>, los de <rs ana="CHUWILA">chuuíla</rs>,
+<lb n="34"/>los <rs ana="KAQCHIKELEB">ꜫaꜫchiqueles</rs>, los de <rs ana="CHUWILA'">chuuíla</rs>,
 <lb n="35"/>los de <rs ana="RABINALEB">Rabinal</rs>, los de <rs ana="PA_MAKA">ꜩacualpa</rs>
 <lb n="36"/>los de <rs ana="KAWKEB">caoqueb</rs>, los de <rs ana="SAQKABAJA">zacabaha</rs>.
 <lb n="37"/>los de <rs ana="SAQULEWAB">zaculeuab</rs>. los de <rs ana="CHUWI_MEQENA">tutuníca<pc> –</pc>
@@ -11209,7 +11209,7 @@ perhaps priests not deities?</note>
 <lb n="5"/>y vígías de la guerra. y nínguno era es<pc> –</pc>
 <lb n="6"/>traño, ní tenía díferente ídolo, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="7"/>eran muralla, y defensa de el pueblo.
-<lb n="8"/>y entonçes salíeron todos. los de <rs ana="CHUWILA">chuíla</rs>, los
+<lb n="8"/>y entonçes salíeron todos. los de <rs ana="CHUWILA'">chuíla</rs>, los
 <lb n="9"/>de <rs ana="CHULIMAL">chulimal</rs>, de <rs ana="SAQI_YA">zaquía</rs> de <rs ana="XAJBAKYEJ">sahbaquích</rs>.
 <lb n="10"/>de <rs ana="CHITEMAJ">chítemah</rs>, <rs ana="WAJXALAJUJ">díezyocho</rs> con los de cabra<pc> –</pc>
 <lb n="11"/>can, chabícac, chí hun ahpu. con los de za<pc> –</pc>
