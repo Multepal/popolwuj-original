@@ -5182,7 +5182,7 @@ cap.
 <lb n="20"/>va, <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs>, <rs ana="AJTOJIL">ah to<pc> –</pc>
 <lb n="21"/>hil</rs>, <rs ana="AJQ'UKUMATZ">ah cueumaꜩ</rs>, <rs ana="NIM_CH'OKOJ_KAWEQ">nim chocoh ca
 <lb n="22"/>vec</rs>, <rs ana="POPOL_WINAQ_CHI_T'UY">popol vinac, chituy</rs> <rs ana="LOLMET_KEJNAY">lolmet,
-<lb n="23"/>queh nay</rs>. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">popol vinac, pahom
+<lb n="23"/>queh nay</rs>. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">popol vinac, pahom
 <lb n="24"/>ꜩalaꜩ</rs>, vchuch cam ha.
 </p>
 <p xml:id="p77">
@@ -5717,7 +5717,7 @@ cap.
 <lb n="39"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet queh nai</rs> hun vnimha
 </p>
 <p>
-<lb n="40"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ"><hi rend="large">P</hi>opolvinac pahom ꜩalaꜩ</rs> xcuxe<pc> –</pc>
+<lb n="40"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'"><hi rend="large">P</hi>opolvinac pahom ꜩalaꜩ</rs> xcuxe<pc> –</pc>
 <lb n="41" rend="hanging" />ba hun vnimha.
 </p>
 <p>
@@ -11010,8 +11010,8 @@ perhaps priests not deities?</note>
 <lb n="18"/>y estos son los nombres de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> de <rs ana="K'OKA'IB">ca<pc> –</pc>
 <lb n="19"/>uíquíb</rs>, y el prímero de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> era: <rs ana="AJPOP">ah<pc> –</pc>
 <lb n="20"/>pop</rs>, <rs ana="AJPOP_K'AMJA">ahpop camha</rs>. 2. <rs ana="AJTOJIL">ahtohíl</rs>. 3. <rs ana="AJQ'UKUMATZ">ahcucu<pc> –</pc>
-<lb n="21"/>maꜩ</rs>. 4. <rs ana="NIM_CH'OKOJ_KAWEQ">ním chocoh cuec</rs>. 5. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">popol vínac</rs>.
-<lb n="22"/>6. <rs ana="LOLMET_KEJNAY">chítuy Lolmet. 7. queh nayí</rs>. 8. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ">po<pc> –</pc>
+<lb n="21"/>maꜩ</rs>. 4. <rs ana="NIM_CH'OKOJ_KAWEQ">ním chocoh cuec</rs>. 5. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">popol vínac</rs>.
+<lb n="22"/>6. <rs ana="LOLMET_KEJNAY">chítuy Lolmet. 7. queh nayí</rs>. 8. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">po<pc> –</pc>
 <lb n="23"/>pol vínac pahom ꜩalaꜩ</rs>. 9. <rs ana="UCHUCH_KAMJA">uchuch
 <lb n="24"/>camha</rs>.
 </p>
@@ -11545,7 +11545,7 @@ perhaps priests not deities?</note>
 <lb n="38"/><rs ana="LOLMET_KEJNAY"><hi rend="large">L</hi>olmet quehnay</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 </p>
 <p>
-<lb n="39"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ"><hi rend="large">P</hi>opolvínac pahom. ꜩalaꜩ</rs> xcuxeba. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
+<lb n="39"/><rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'"><hi rend="large">P</hi>opolvínac pahom. ꜩalaꜩ</rs> xcuxeba. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
 <lb n="40"/>de vna casa grande.
 </p>
 <p>
