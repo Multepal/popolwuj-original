@@ -5195,7 +5195,7 @@ cap.
 <lb n="29" rend="indent" /><hi rend="large">A</hi>re chicu ahavab va chu
 <lb n="30"/>vach <rs ana="NIJA'IB">nihaibab</rs> are nabe aha<pc> –</pc>
 <lb n="31"/>u va <rs ana="AJAW_Q'ALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
-<lb n="32"/>nac</rs>, <rs ana="QALEL_KAMJA">cale camha</rs>, <rs ana="NIMA_KAMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
+<lb n="32"/>nac</rs>, <rs ana="QALEL_KAMJA">cale camha</rs>, <rs ana="NIMA_K'AMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
 <lb n="33"/>chuch camha</rs>, <rs ana="NIJA'IB">nimchocoh nihaib,</rs><pc> –</pc>
 <lb n="34"/><rs ana="AJAW_AWILIX">aulix</rs>, <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam, vꜩam pop
 <lb n="35"/>zaclatol</rs>, <rs ana="NIMA_LOLMET_YEOLTUX">nima lolmet yeoltux</rs>.
@@ -5797,13 +5797,13 @@ cap.
 <lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="QALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
 </p>
 <p>            
-<lb n="27"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>4</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
+<lb n="27"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>4</num></hi></note><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
 </p>
 <p>            
 <lb n="28"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>5</num></hi></note><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
 </p>
 <p>            
-<lb n="29"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>6</num></hi></note><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
+<lb n="29"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>6</num></hi></note><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
 </p>
 <p>            
 <lb n="30"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>7</num></hi></note><rs ana="NIM_CH'OKOJ_NIJA'IB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
@@ -11614,9 +11614,9 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb n="25"/>haíbab</rs> Sor<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 <lb n="26"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩíc vínac</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="27"/><hi rend="large">A</hi>hau <rs ana="QALEL_KAMJA">ꜫalel camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
-<lb n="28"/><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
+<lb n="28"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="29"/><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
-<lb n="30"/><rs ana="NIMA_KAMJA"><hi rend="large">N</hi>íma camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>&gt;
+<lb n="30"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>&gt;
 <lb n="31"/><rs ana="NIM_CH'OKOJ_NIJA'IB"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
 <lb n="32"/><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auílíx</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
 <lb n="33"/><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs>. <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
