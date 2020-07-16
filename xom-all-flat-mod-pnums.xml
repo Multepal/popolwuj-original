@@ -73,7 +73,7 @@ cap.
 <lb n="10"/>zaquiribal rumal <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>
 <lb n="11"/><rs ana="ALOM">alom</rs>, <rs ana="K'AJOLOM">qaholom</rs> quibi <rs ana="JUNAJPU_WUCH">hun ah<pc> –</pc>
 <lb n="12"/>pu vuch</rs>, <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>, <rs ana="SAQI_NIM_AQ_SIS">za<pc> –</pc>
-<lb n="13"/>quinimac ꜩÿz</rs>, <rs ana="TEPEW_QUKUMATZ">tepeu, qucumaꜩ</rs>
+<lb n="13"/>quinimac ꜩÿz</rs>, <rs ana="TEPEW_Q'UKUMATZ">tepeu, qucumaꜩ</rs>
 <lb n="14"/><rs ana="UKUX_CHO">vqux cho</rs>, <rs ana="UKUX_PALO">vqux palo</rs>, <rs ana="AJRAXA_LAQ">ah ra<pc> –</pc>
 <lb n="15"/>xalaꜫ</rs>, <rs ana="AJRAXA_TZEL">ah raxaꜩel</rs> chu qha<pc> –</pc>
 <lb n="16"/>xic, rachbixic, rachꜩihoxic
@@ -137,11 +137,11 @@ cap.
 <lb n="20"/>vtuquel remanic, xma qo vi na
 <lb n="21"/>quilalo qolic; xa cachamanic
 <lb n="22"/>caꜩininic chi queꜫum, chi aꜫab,
-<lb n="23"/>xa vtuquel ri <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bitol</rs>, <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
+<lb n="23"/>xa vtuquel ri <rs ana="TZAQOL">ꜩacol</rs>, <rs ana="BITOL">bitol</rs>, <rs ana="TEPEW_Q'UKUMATZ">te<pc> –</pc>
 <lb n="24"/>peu, gucumaꜩ</rs> e <rs ana="ALOM">alom</rs>, e <rs ana="K'AJOLOM">qaho<pc> –</pc>
 <lb n="25"/>lom</rs> qo pa ha zactetoh e qovi
 <lb n="26"/>e mucutal pa cuc, pa raxon
-<lb n="27"/>are vbinaam viri <rs ana="QUKUMATZ">gucumaꜩ</rs>
+<lb n="27"/>are vbinaam viri <rs ana="Q'UKUMATZ">gucumaꜩ</rs>
 <lb n="28"/>e nimac etamanel, e nimac ah<pc> –</pc>
 <lb n="29"/>naoh chiqui qoheic; quehe
 <lb n="30"/>cut xax qo vi ri cah qonaipu<pc> –</pc>
@@ -150,9 +150,9 @@ cap.
 </p>
 <p xml:id="p05">
 <lb n="33" rend="indent"/><hi rend="large">T</hi>a xpe cut vꜩih varal xul
-<lb n="34"/>cuq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs> varal
+<lb n="34"/>cuq ri <rs ana="TEPEW_Q'UKUMATZ">tepeu gucumaꜩ</rs> varal
 <lb n="35"/>chi quecumal chi aꜫabal xqh<pc> –</pc>
-<lb n="36"/>au ruq ri <rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs>, xe
+<lb n="36"/>au ruq ri <rs ana="TEPEW_Q'UKUMATZ">tepeu gucumaꜩ</rs>, xe
 <lb n="37"/>qha cut, ta xenaohinic, ta xe
 <lb n="38"/>bizonic, xerico quib, xquicuch
 <lb n="39"/>qui ꜩih, qui naoh, ta xcalah
@@ -168,7 +168,7 @@ cap.
 <lb n="2"/>cut <rs ana="CH'IPI_KAQULJA">chipa caculha</rs>, roxchic 
 <lb n="3"/><rs ana="RAXA_KAQULJA">raxa caculha</rs> chi e cu oxib
 <lb n="4"/>rÿ <rs ana="UKUX_KAJ">vqux cah</rs> ta xeul cuq ri
-<lb n="5"/><rs ana="TEPEW_QUKUMATZ">tepeu gucumaꜩ</rs>, ta xnaohi<pc> –</pc>
+<lb n="5"/><rs ana="TEPEW_Q'UKUMATZ">tepeu gucumaꜩ</rs>, ta xnaohi<pc> –</pc>
 <lb n="6"/>xic zac qazlem, hupacha ta cha
 <lb n="7"/>uaxoc ta caquiro puch, apa<pc> –</pc>
 <lb n="8"/>chinac ꜩucul cool ta chuxoc
@@ -192,7 +192,7 @@ cap.
 <lb n="26"/>tah vi vnaohixic huyub ta<pc> –</pc>
 <lb n="27"/>cah, huzuc rach vinaquiric
 <lb n="28"/>v quizizil, v pachahil v vach.
-<lb n="29"/>quehe cut xquicot vi ri <rs ana="QUKUMATZ">qu<pc> –</pc>
+<lb n="29"/>quehe cut xquicot vi ri <rs ana="Q'UKUMATZ">qu<pc> –</pc>
 <lb n="30"/>cumaꜩ</rs>, vꜩ mi xatulic at <rs ana="UKUX_KAJ">vqux
 <lb n="31"/>cah</rs>, at <rs ana="JUN_RAQAN">huracan</rs>, at pu <rs ana="CH'IPI_KAQULJA">chipi<pc> –</pc>
 <lb n="32"/>caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, xchu<pc> –</pc>
@@ -351,7 +351,7 @@ cap.
 <lb n="36"/>ne</rs>
 </p>
 <p xml:id="p08">
-<lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="JUN_RAQAN">huracan</rs> ruq <rs ana="TEPEW_QUKUMATZ">te<pc> –</pc>
+<lb n="37" rend="indent"/><hi rend="large">X</hi>eqha qu ri <rs ana="JUN_RAQAN">huracan</rs> ruq <rs ana="TEPEW_Q'UKUMATZ">te<pc> –</pc>
 <lb n="38"/>peu gucumaꜩ</rs> ta xquibih chire<pc> –</pc>
 <lb n="39"/>ch ahquih ah bit enic vachi<pc> –</pc>
 <lb n="40"/>nel xuculu, xa pu churico che<pc> –</pc>
@@ -395,7 +395,7 @@ cap.
 <lb n="30"/>nic cattaquentah xqha chi<pc> –</pc>
 <lb n="31"/>re ixim q,ite, quih bit. cat
 <lb n="32"/>quixla vloc at <rs ana="UKUX_KAJ">vqux cah</rs>
-<lb n="33"/>macahizah vchi vvach <rs ana="TEPEW_QUKUMATZ">tepeu
+<lb n="33"/>macahizah vchi vvach <rs ana="TEPEW_Q'UKUMATZ">tepeu
 <lb n="34"/>gucumaꜩ</rs> xeqha ta xquibih
 <lb n="35"/>cut v zuculiquil vꜩ are chu<pc> –</pc>
 <lb n="36"/>xic ri i poy aham che chiqha<pc> –</pc>
@@ -3314,7 +3314,7 @@ cap.
 <lb n="25" rend="indent"/><hi rend="large">V</hi>ae cut vtiqueric ta xnaohix
 <lb n="26"/>vinac ta xꜩucux puch ri choc vtio<pc> –</pc>
 <lb n="27"/>hilvinac xeqha cut ri <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qa<pc> –</pc>
-<lb n="28"/>holom</rs>, e <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="TEPEW_QUKUMATZ">tepeu cucu<pc> –</pc>
+<lb n="28"/>holom</rs>, e <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="TEPEW_Q'UKUMATZ">tepeu cucu<pc> –</pc>
 <lb n="29"/>maꜩ</rs> quibi mi xyopihic vzaqui<pc> –</pc>
 <lb n="30"/>ric mi xꜩac vꜩinic, mi pu xcaleic
 <lb n="31"/>ꜩucul cool zaquil al zaquilqa<pc> –</pc>
@@ -3362,7 +3362,7 @@ cap.
 <lb n="20"/><rs ana="IXMUKANE">xmucane</rs> echa xoquic ruqha
 <lb n="21"/>ropenal xvinaquir veabchial
 <lb n="22"/>v eanaal vinac xuxic ta xqui<pc> –</pc>
-<lb n="23"/>ban ri <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholom</rs>, <rs ana="TEPEW_QUKUMATZ">tepeuh
+<lb n="23"/>ban ri <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholom</rs>, <rs ana="TEPEW_Q'UKUMATZ">tepeuh
 <lb n="24"/>cucumaꜩ</rs> quevqhaxic cate cut
 <lb n="25"/>xquicoh paꜩih vꜩaquic vbitic
 <lb n="26"/>canabe chuch cahau xaꜫana
@@ -3388,7 +3388,7 @@ cap.
 <lb n="42"/><rs ana="TZAQOL">ah ꜩac</rs> <rs ana="BITOL">ahbit</rs> ri <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholom</rs>
 <lb n="43"/>xapuz xa naual quiꜩaquic qui
 <lb n="44"/>bitic rumal ri <rs ana="TZAQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> <rs ana="ALOM">alom</rs>
-<lb n="45"/><rs ana="K'AJOLOM">qaholom</rs>, <rs ana="TEPEW_QUKUMATZ">tepeu cucumaꜩ</rs>. ta
+<lb n="45"/><rs ana="K'AJOLOM">qaholom</rs>, <rs ana="TEPEW_Q'UKUMATZ">tepeu cucumaꜩ</rs>. ta
 <lb n="46"/>xevinac vachin cut evinac
 <lb n="47"/>xevxic xeqhavic, xe ꜩihon
 <pb xml:id="xom-f33-s2"/>
@@ -3465,7 +3465,7 @@ cap.
 <lb n="16"/>copon vi quetamabl quilon ro<pc> –</pc>
 <lb n="17"/>nohel xevqhaxic rumal <rs ana="UKUX_KAJ">vqux
 <lb n="18"/>cah</rs> <rs ana="JUN_RAQAN">huracan</rs>, <rs ana="CH'IPI_KAQULJA">chipicaculha</rs>, <rs ana="RAXA_KAQULJA">raxa<pc> –</pc>
-<lb n="19"/>caculha</rs> <rs ana="TEPEW_QUKUMATZ">tepeu cucumaꜩ</rs> <rs ana="ALOM">alom</rs>
+<lb n="19"/>caculha</rs> <rs ana="TEPEW_Q'UKUMATZ">tepeu cucumaꜩ</rs> <rs ana="ALOM">alom</rs>
 <lb n="20"/><rs ana="K'AJOLOM">qaholom</rs>, <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs> <rs ana="TZAQOL">ꜩa<pc> –</pc>
 <lb n="21"/>col</rs> <rs ana="BITOL">bitol</rs> quevqhaxic ta xquiban
 <lb n="22"/>cut vqoheic chic quiꜩac qui bit
@@ -3575,7 +3575,7 @@ cap.
 <lb n="24"/>ta puch cohaia vi at <rs ana="JUN_RAQAN">huracan</rs>
 <lb n="25"/><rs ana="CH'IPI_KAQULJA">chipa caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>
 <lb n="26"/>chipina navac raxa nana vac
-<lb n="27"/>voc hunahpu <rs ana="TEPEW_QUKUMATZ">tepeu cucumaꜩ</rs>
+<lb n="27"/>voc hunahpu <rs ana="TEPEW_Q'UKUMATZ">tepeu cucumaꜩ</rs>
 <lb n="28"/><rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholom</rs> <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmu<pc> –</pc>
 <lb n="29"/>cane</rs> ratit quih ratit zac tacha<pc> –</pc>
 <lb n="30"/>uaxoc, ta zaquiroc. xeqha ta xe<pc> –</pc>
@@ -5126,7 +5126,7 @@ cap.
 <lb n="18"/>oc xevlchiri patinamit <rs ana="QUMARAQ_AJ">cumarca<pc> –</pc>
 <lb n="19"/>ah</rs> vbi cumal quiche chuqha xic
 <lb n="20"/>taxevl chic ahauab <rs ana="K'OTUJA_KQCINCO">cotuha</rs> ruq
-<lb n="21"/><rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs> ruq puchronohel aha<pc> –</pc>
+<lb n="21"/><rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> ruq puchronohel aha<pc> –</pc>
 <lb n="22"/>uab xroquexoc xroleapuch vi<pc> –</pc>
 <note place="margin-left" anchored="true">+ Vxe am <lb/>ac <lb/>+ Vínaquí- <lb/>xem </note>
 <lb n="23"/>nac vxe zac vxe qazlem chiri1
@@ -5256,9 +5256,9 @@ cap.
 <lb n="32"/>ronohel amac ca labal cut
 <lb n="33"/>xcahvi vzivan vtinamit ca
 <lb n="34"/>rumal qui naual ahauab xe
-<lb n="35"/>ꜫaꜫaric rÿ ahau <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs> a
+<lb n="35"/>ꜫaꜫaric rÿ ahau <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> a
 <lb n="36"/>hau <rs ana="K'OTUJA_KQCINCO">cotuha</rs> quiꜩih chinaual a<pc> –</pc>
-<lb n="37"/>hau ri <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs> xuxic hu vvc
+<lb n="37"/>hau ri <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> xuxic hu vvc
 <lb n="38"/>chacan chicah huvvc cut chi<pc> –</pc>
 <lb n="39"/>be vbana cahoc chi <rs ana="XIBALBA">xibalba</rs>
 <lb n="40"/>huvvc chicut chiqohe chicu<pc> –</pc>
@@ -5276,7 +5276,7 @@ cap.
 <lb n="4"/>hel ahauab amac vqoheic naual
 <lb n="5"/>ahau arecut vticaric, vnima<pc> –</pc>
 <lb n="6"/>ric puch <rs ana="AJAW_K'ICHE'">quiche</rs> ta xuban ahau
-<lb n="7"/><rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs> retal nimal xmaza<pc> –</pc>
+<lb n="7"/><rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> retal nimal xmaza<pc> –</pc>
 <lb n="8"/>chel vvach vmam vqahol chu<pc> –</pc>
 <lb n="9"/>qux. mahabi atala xban viri
 <lb n="10"/>xqohe ta hun ahau naual ta
@@ -5284,7 +5284,7 @@ cap.
 <lb n="12"/>hel amac ta xubano, xavcut<pc> –</pc>
 <lb n="13"/>bal rib rumal xere huquizic v
 <lb n="14"/>holom amac xuxic vcah le a<pc> –</pc>
-<lb n="15"/>hau rinaual ahau <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs>
+<lb n="15"/>hau rinaual ahau <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs>
 <lb n="16"/>vbi xavi xare<rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop<pc> –</pc>
 <lb n="17"/>camha</rs> xcanah chicut que<pc> –</pc>
 <lb n="18"/>tal quiꜩihel xeꜫaꜫaric xetepe<pc> –</pc>
@@ -5483,8 +5483,8 @@ cap.
 <lb n="3"/>puch qui ꜩucun quicoon <rs ana="AJPOP">ahpop</rs> ah<pc> –</pc>
 <lb n="4"/>pop camha xcazan quitinamit eni<pc> –</pc>
 <lb n="5"/>ma ahauab enaual tac vinac na<corr><pc> –</pc></corr>
-<lb n="6"/>ual ahau <rs ana="QUKUMATZ_KQCINCO">ri cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs>, na<corr><pc> –</pc></corr>
-<lb n="7"/>ual ahau <rs ana="QUKUMATZ_KQCINCO">ri cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> na<pc> –</pc>
+<lb n="6"/>ual ahau <rs ana="Q'UKUMATZ_KQCINCO">ri cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs>, na<corr><pc> –</pc></corr>
+<lb n="7"/>ual ahau <rs ana="Q'UKUMATZ_KQCINCO">ri cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> na<pc> –</pc>
 <lb n="8"/>ual ahau curi <rs ana="K'IKAB_KQSIETE">quicab</rs>, <rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs>
 <lb n="9"/>quetaam vve labal chibanic calah
 <lb n="10"/>chiquivach ronohel chiquilo vve
@@ -5588,7 +5588,7 @@ cap.
 <lb n="7"/>can chi cual chi yamanic xul
 <lb n="8"/>puch raxon cubul chactic vpatan
 <lb n="9"/>ronohelamac xul chiquivach na<pc> –</pc>
-<lb n="10"/>ual ahauab <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuh</rs> chu<pc> –</pc>
+<lb n="10"/>ual ahauab <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuh</rs> chu<pc> –</pc>
 <lb n="11"/>vach puch <rs ana="K'IKAB_KQSIETE">quicab</rs> <rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> ri
 <lb n="12"/><rs ana="AJPOP">ahpop</rs> ahpop camha <rs ana="Q'ALEL">ꜫalel</rs> <rs ana="AJTZIK_WINAQ">ahzic
 <lb n="13"/>vinac</rs> mauixachutin xquibano
@@ -5597,7 +5597,7 @@ cap.
 <lb n="16"/>xulvptan quiche caxcol cut
 <lb n="17"/>xcamvi xyaquex vi cumal ma<pc> –</pc>
 <lb n="18"/>ui atan xvinaquiric quiꜫaꜫal.
-<lb n="19"/>ca <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs> vxenimal chi aha<pc> –</pc>
+<lb n="19"/>ca <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> vxenimal chi aha<pc> –</pc>
 <lb n="20"/>uarem quehe cut vticaric vni<pc> –</pc>
 <lb n="21"/>maric ri vnimaric puch quiche
 <lb n="22"/>are chicut xchicacholo vleel
@@ -5637,7 +5637,7 @@ cap.
 <lb n="46"/><rs ana="K'OTUJA_KQCUATRO"><hi rend="large">C</hi>otuha</rs> <rs ana="ISTAYUL_KQCUATRO">ztayub</rs> vcahle
 </p>
 <p>
-<lb n="47"/><rs ana="QUKUMATZ_KQCINCO"><hi rend="large">C</hi>ucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> vxe naval ahau
+<lb n="47"/><rs ana="Q'UKUMATZ_KQCINCO"><hi rend="large">C</hi>ucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> vxe naval ahau
 <pb xml:id="xom-f55-s2"/>
 <note place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">55</hi></num>
@@ -5926,9 +5926,9 @@ cap.
 <lb n="9"/>dura, y aclaradura, por el <rs ana="TZAQOL">formador</rs>, y <rs ana="BITOL">cri<pc> –</pc>
 <lb n="10"/>ador</rs> <rs ana="ALOM">madre</rs>, y <rs ana="K'AJOLOM">Padre</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así se llaman, <rs ana="JUNAJPU_WUCH">hun
 <lb n="11"/>ahpu vuch</rs>. <rs ana="JUNAJPU_UTIW">hun ahpu vtiu</rs>. <rs ana="SAQI_NIM_AQ_SIS">Zaquinima ꜩÿz</rs>
-<lb n="12"/><rs ana="TEPEW_QUKUMATZ">tepeu. gucumaꜩ.</rs> <rs ana="UKUX_CHO">vguxcho</rs>. <rs ana="UKUX_PALO">vguxpalo</rs>. (nom<pc> –</pc>
+<lb n="12"/><rs ana="TEPEW_Q'UKUMATZ">tepeu. gucumaꜩ.</rs> <rs ana="UKUX_CHO">vguxcho</rs>. <rs ana="UKUX_PALO">vguxpalo</rs>. (nom<pc> –</pc>
 <lb n="13"/>bres , o atributos. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> significan; <rs ana="JUNAJPU_WUCH">vn tirador tacu<pc> –</pc>
-<lb n="14"/>azín</rs>. <rs ana="JUNAJPU_UTIW">vn tirador coyote</rs>. <rs ana="SAQI_NIM_AQ_SIS">blanco pizote</rs>. <rs ana="TEPEW_QUKUMATZ"><choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
+<lb n="14"/>azín</rs>. <rs ana="JUNAJPU_UTIW">vn tirador coyote</rs>. <rs ana="SAQI_NIM_AQ_SIS">blanco pizote</rs>. <rs ana="TEPEW_Q'UKUMATZ"><choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice>
 <lb n="15"/>fuerte culebra</rs>. <rs ana="UKUX_CHO">corazon de la laguna</rs>. <rs ana="UKUX_PALO">co<pc> –</pc>
 <lb n="16"/>razon de el mar</rs>.) <rs ana="AJRAXA_LAQ">el de el verde cagete</rs>, <rs ana="AJRAXA_TZEL">el
 <lb n="17"/>de la verde hícara</rs> son llamados. y junta
@@ -5988,10 +5988,10 @@ cap.
 <lb n="18"/>lo ella represada, nícosa alguna avía <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es<pc> –</pc>
 <lb n="19"/>tuviese; solo estaba en sílencio, y sosiego, en la
 <lb n="20"/>obscuridad, y la noche; solo estaba el <rs ana="TZAQOL">críador</rs>
-<lb n="21"/>y <rs ana="BITOL">formador</rs>, <rs ana="TEPEW_QUKUMATZ"><choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> culebra fuerte</rs>, <rs ana="ALOM">las madres</rs>, y
+<lb n="21"/>y <rs ana="BITOL">formador</rs>, <rs ana="TEPEW_Q'UKUMATZ"><choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> culebra fuerte</rs>, <rs ana="ALOM">las madres</rs>, y
 <lb n="22"/><rs ana="K'AJOLOM"><choice><abbr>P<hi rend="superscript">es.</hi></abbr><expan instant="false">Padres</expan></choice></rs> estan en el agua, en una claridad abierta
 <lb n="23"/>y estaban cubiertos en plumas verdes, por
-<lb n="24"/>eso se llama <rs ana="QUKUMATZ">gucumaꜩ</rs> grandes sabíos, y
+<lb n="24"/>eso se llama <rs ana="Q'UKUMATZ">gucumaꜩ</rs> grandes sabíos, y
 <lb n="25"/>de grandes entendimientos su ser. y así por<pc> –</pc>
 <lb n="26"/>eso esta el zielo, y ay tambien su <rs ana="UKUX_KAJ">corazon
 <lb n="27"/>de el zielo</rs>, este es su nombre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se le dize
@@ -5999,8 +5999,8 @@ cap.
 </p>
 <p corresp="#p05">
 <lb n="29" rend="indent"/><hi>Y</hi> entonzes vino aquí su palabra, víno
-<lb n="30"/>con los <choice><abbr>S<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="TEPEW_QUKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs<pc> –</pc>
-<lb n="31"/>curidad, en la noche, y abló con <rs ana="TEPEW_QUKUMATZ">tepeu
+<lb n="30"/>con los <choice><abbr>S<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="TEPEW_Q'UKUMATZ">tepeu, gucumaꜩ</rs> aquí en obs<pc> –</pc>
+<lb n="31"/>curidad, en la noche, y abló con <rs ana="TEPEW_Q'UKUMATZ">tepeu
 <lb n="32"/>gucumaꜩ</rs>. y dixeron, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> consultaron, y
 <lb n="33"/><choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> pensaron, se juntaron, hízíeron con<pc> –</pc>
 <lb n="34"/>sejo, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se declararon, y pensaron vnos
@@ -6020,7 +6020,7 @@ cap.
 <lb n="1"/>y el tercero: <rs ana="RAXA_KAQULJA">raxa caculha</rs>. (nombre proprío
 <note place="margin-right" type="pagination" anchored="true"><num rend="large">2</num></note>
 <lb n="2"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>dize: <rs ana="RAXA_KAQULJA">verde rayo</rs>) con <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>suertes aquel su <rs ana="UKUX_KAJ">co<pc> –</pc>
-<lb n="3"/>razon de el cielo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>vinieron con <rs ana="TEPEW_QUKUMATZ">tepeu, qu<pc> –</pc>
+<lb n="3"/>razon de el cielo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>vinieron con <rs ana="TEPEW_Q'UKUMATZ">tepeu, qu<pc> –</pc>
 <lb n="4"/>cumaꜩ</rs>, entonzes se consulto la vida, y la cre<pc> –</pc>
 <lb n="5"/>azion; pues como se sembrara, y aclarar, quí<pc> –</pc>
 <lb n="6"/>en sera hecho alimentador, y sustentador, dad
@@ -6039,7 +6039,7 @@ cap.
 <lb n="19"/>hecho. solo por milagro, y maravilla fue
 <lb n="20"/>hecho, y en vninstante juntamente se
 <lb n="21"/>formo su produzir zipreses, y pínabetes en
-<lb n="22"/>su haz. y así se alegro <rs ana="QUKUMATZ">gucumaꜩ</rs>, esta bien
+<lb n="22"/>su haz. y así se alegro <rs ana="Q'UKUMATZ">gucumaꜩ</rs>, esta bien
 <lb n="23"/>tu venida <rs ana="UKUX_KAJ">corazon de el zielo</rs>, tu <rs ana="JUN_RAQAN">huracan</rs>,
 <lb n="24"/>y tu <rs ana="CH'IPI_KAQULJA">chípi caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, se per<pc> –</pc>
 <lb n="25"/>izionara, nuestra obra, y criaturas dixe<pc> –</pc>
@@ -6206,7 +6206,7 @@ cap.
 <lb />
 </p>
 <p corresp="#p08">
-<lb n="32"/>y díxeron aquel <rs ana="JUN_RAQAN">huracan</rs>, con <rs ana="TEPEW_QUKUMATZ">tepeu
+<lb n="32"/>y díxeron aquel <rs ana="JUN_RAQAN">huracan</rs>, con <rs ana="TEPEW_Q'UKUMATZ">tepeu
 <lb n="33"/>y gucumaꜩ</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice> ledixeron al de el sol, o
 <lb n="34"/>adivino, al formador adívíno alcan<pc> –</pc>
 <note resp="editor">in Christenson this "al de el sol, o adivino" is "Master of Days and Mistress of Shaping, who are seers"
@@ -6254,7 +6254,7 @@ perhaps priests not deities?</note>
 <lb n="29"/>dura llamad, y segued le dixo al maís,
 <lb n="30"/>y al ꜩíte, al sol, y ála formadura. y tu
 <lb n="31"/><rs ana="UKUX_KAJ">corazon de el zielo</rs> tened verguenza, no afren<pc> –</pc>
-<lb n="32"/>teís a <rs ana="TEPEU_QUKUMATZ">tepeu, y cucumaꜩ</rs>. y entonzes respon<pc> –</pc>
+<lb n="32"/>teís a <rs ana="TEPEU_Q'UKUMATZ">tepeu, y cucumaꜩ</rs>. y entonzes respon<pc> –</pc>
 <lb n="33"/>diendo el q,íte y el maís dixeron la verdad
 <lb n="34"/>haceldo así <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así estara bíen, y hablara el pa
 <lb n="35"/>lo enlabrandolo. y luego fue hecha la íma
@@ -9147,7 +9147,7 @@ perhaps priests not deities?</note>
 <lb n="25"/>y aquí empíeza quando se díspuso ha<pc> –</pc>
 <lb n="26"/>çer al hombre, y el buscar cosa <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fuese
 <lb n="27"/>carne de el hombre y díxeron los <rs ana="TZAQOL">cría
-<lb n="28"/>dores</rs>, y los <rs ana="BITOL">formadores</rs> <rs ana="TEPEW_QUKUMATZ">tepeu, y cucu<pc> –</pc>
+<lb n="28"/>dores</rs>, y los <rs ana="BITOL">formadores</rs> <rs ana="TEPEW_Q'UKUMATZ">tepeu, y cucu<pc> –</pc>
 <lb n="29"/>maꜩ</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamaban yase açerco el
 <lb n="30"/>tíempo, de el amanezer, y de <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se acabe
 <lb n="31"/>de perfíçíonar todo todo, y deser hechos
@@ -9198,7 +9198,7 @@ perhaps priests not deities?</note>
 <lb n="20"/>nueue bebídas, y entraron de comída, y be
 <lb n="21"/>bída, y luego se crío la gordura, y grosu<pc> –</pc>
 <lb n="22"/>ra del hombre, quando lo híçíeron los forma
-<lb n="23"/>dores <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaban <rs ana="TEPEW_QUKUMATZ">tepeu cucumaꜩ</rs>, y lu<pc> –</pc>
+<lb n="23"/>dores <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaban <rs ana="TEPEW_Q'UKUMATZ">tepeu cucumaꜩ</rs>, y lu<pc> –</pc>
 <lb n="24"/>ego pusíeron en platíca el críar anues<pc> –</pc>
 <lb n="25"/>tros prímeros Padres, y madres. y solo fu<pc> –</pc>
 <lb n="26"/>eron mazorcas amaríllas y blancas su car<pc> –</pc>
@@ -9222,7 +9222,7 @@ perhaps priests not deities?</note>
 <lb n="40"/>ní tampoco fueron engendrados por el
 <lb n="41"/>críador, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>por mílagro fueron
 <lb n="42"/>formados, y críados, por el críador <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
-<lb n="43"/>llamaba: <rs ana="TEPEW_QUKUMATZ">tepeu, y cucumaꜩ</rs>. y quando
+<lb n="43"/>llamaba: <rs ana="TEPEW_Q'UKUMATZ">tepeu, y cucumaꜩ</rs>. y quando
 <lb n="44"/>fueron hechos hombres, ó asu ímagen
 <lb n="45"/>fueron hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hablaron, y parla<pc> –</pc>
 <lb n="46"/>ron,
@@ -9299,7 +9299,7 @@ perhaps priests not deities?</note>
 <lb n="14"/>mos de ígualarnos todos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sabemos todo
 <lb n="15"/>quanto ay, y lo vemos todo? les fue dí
 <lb n="16"/>cho por el <rs ana="UKUX_KAJ">coraçon de el çíelo</rs>, <rs ana="JUN_RAQAN">huracan</rs>.
-<lb n="17"/><rs ana="CH'IPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, <rs ana="TEPEW_QUKUMATZ">tepeu,
+<lb n="17"/><rs ana="CH'IPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, <rs ana="TEPEW_Q'UKUMATZ">tepeu,
 <lb n="18"/>cucumaꜩ</rs> cíador. y al víejo <rs ana="XPIYAKOK">xpíyacoc</rs>.
 <lb n="19"/>y a la <rs ana="IXMUKANE">xmucane</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>son llamados cría<pc> –</pc>
 <lb n="20"/>dores. y después díspusíeron de otra
@@ -9407,7 +9407,7 @@ perhaps priests not deities?</note>
 <lb n="23"/>sosegada, y buena vída, y costumbres
 <lb n="24"/>y ser, tu <rs ana="JUN_RAQAN">huracan</rs>, <rs ana="CH'IPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa
 <lb n="25"/>caculha</rs>, chípína navac, raxa nanavac
-<lb n="26"/>vox, hun ahpu <rs ana="TEPEW_QUKUMATZ">tepeu cucumaꜩ</rs>, <rs ana="ALOM">alom</rs>
+<lb n="26"/>vox, hun ahpu <rs ana="TEPEW_Q'UKUMATZ">tepeu cucumaꜩ</rs>, <rs ana="ALOM">alom</rs>
 <lb n="27"/><rs ana="K'AJOLOM">qaholom</rs>, <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs>, abu<pc> –</pc>
 <lb n="28"/>ela de el sol, abuela de la clarídad, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice>
 <lb n="29"/>amanezca, y ac<del rend="scribble" instant="false" status="unremarkable">l</del>are. esto díxeron <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice>
@@ -11078,8 +11078,8 @@ perhaps priests not deities?</note>
 <lb n="28"/>los enemígos, ní fueron ganados
 <lb n="29"/>los pueblos en vatalla síno por los
 <lb n="30"/>mílagros de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> se ensalçaron.
-<lb n="31"/>y el Rey <rs ana="K'OTUJA_KQCINCO">cotuha</rs>, y <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs>. era
-<lb n="32"/>portentoso el <rs ana="QUKUMATZ_KQCINCO">cucumaꜩ</rs>. síete días
+<lb n="31"/>y el Rey <rs ana="K'OTUJA_KQCINCO">cotuha</rs>, y <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs>. era
+<lb n="32"/>portentoso el <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs>. síete días
 <lb n="33"/>se subía al cíelo, y síete días se íba
 <lb n="34"/>al <rs ana="XIBALBA">ínfíerno</rs>. y siete días se conuer<pc> –</pc>
 <lb n="35"/>tía en culebra, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> çíertamente pa<pc> –</pc>
@@ -11104,7 +11104,7 @@ perhaps priests not deities?</note>
 <lb n="3"/>cía, y lo oyeron todos los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>y los pue<pc> –</pc>
 <lb n="4"/>blos los portentos de el Rey. y este fue
 <lb n="5"/>el prínçípío de la grandeza de el quí<pc> –</pc>
-<lb n="6"/>che quando hízo el <rs ana="QUKUMATZ_KQCINCO">Rey cucumaꜩ</rs> las
+<lb n="6"/>che quando hízo el <rs ana="Q'UKUMATZ_KQCINCO">Rey cucumaꜩ</rs> las
 <lb n="7"/>señales de su grandeza. y no falto des<pc> –</pc>
 <lb n="8"/>çendençía suya de híjos, y níetos y no
 <lb n="9"/>hízo esto <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> vbíese vn Rey míla<pc> –</pc>
@@ -11112,7 +11112,7 @@ perhaps priests not deities?</note>
 <lb n="11"/>y para dares a conoçer, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>el era so<pc> –</pc>
 <lb n="12"/>lo la cabeza de todos los pueblos y
 <lb n="13"/>fue la quarta generazíon, de Reyes
-<lb n="14"/>este <rs ana="QUKUMATZ_KQCINCO">Rey cucumaꜩ</rs>. y fue tambíen <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor.</expan></choice>
+<lb n="14"/>este <rs ana="Q'UKUMATZ_KQCINCO">Rey cucumaꜩ</rs>. y fue tambíen <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor.</expan></choice>
 <lb n="15"/>de petate, y casa, esto es de trono. y de<pc> –</pc>
 <lb n="16"/>xo desçendençía, y entonçes fue en
 <lb n="17"/>salçado quando tuuo híjos. e hízo
@@ -11311,7 +11311,7 @@ perhaps priests not deities?</note>
 <lb n="2"/>y a este <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> le sustentaban, y alímentabá
 <lb n="3"/>los prínçípales, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ganaron los pueblos. y
 <lb n="4"/>eran grandes <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y adeuínos, y naua<pc> –</pc>
-<lb n="5"/>el <rs ana="QUKUMATZ_KQCINCO">Rey cucumaꜩ</rs>. y <rs ana="K'OTUJA_KQCINCO">cotuha</rs>. y tam<pc> –</pc>
+<lb n="5"/>el <rs ana="Q'UKUMATZ_KQCINCO">Rey cucumaꜩ</rs>. y <rs ana="K'OTUJA_KQCINCO">cotuha</rs>. y tam<pc> –</pc>
 <lb n="6"/>bíen nauales el <rs ana="K'IKAB_KQSIETE">quícab</rs>, y el <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>
 <lb n="7"/>y sabían si auía Guerra, y les estaba pa<pc> –</pc>
 <lb n="8"/>tente, y todo lo veían, osí auía mortan<pc> –</pc>
@@ -11466,7 +11466,7 @@ perhaps priests not deities?</note>
 <lb n="43"/><rs ana="K'OTUJA_KQCUATRO"><hi rend="large">C</hi>otuha</rs><rs ana="ISTAYUL_KQCUATRO">ztayub</rs>. quarta generaçíon
 </p>
 <p>
-<lb n="44"/><rs ana="QUKUMATZ_KQCINCO"><hi rend="large">C</hi>ucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> el prímero de los portento<pc> –</pc>
+<lb n="44"/><rs ana="Q'UKUMATZ_KQCINCO"><hi rend="large">C</hi>ucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> el prímero de los portento<pc> –</pc>
 <pb corresp="xom-f55-s2"/>
 <lb n="1"/>sos. quínta generaçíon
 </p>
