@@ -3526,7 +3526,7 @@ cap.
 <lb n="23"/>hun tecpan ruq<rs ana="RABINALEB" type="toponym">rabinaleb</rs>, <rs ana="KAQCHIKELEB">caechi<pc> –</pc>
 <lb n="24"/>queleb</rs>, <rs ana="AJTZ'IKINA_JA">ah q,inquina ha</rs>, ruq puch
 <lb n="25"/><rs ana="SAQAJIB">zacahib</rs>, ruq naipuch <rs ana="LAKAMIB">lamaquib</rs>,
-<lb n="26"/><rs ana="KUMATZ">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhal ha</rs> <rs ana="UCHABAJA">vchabaha</rs>, <rs ana="AJCH'UMILA_JA">ah chu<pc> –</pc>
+<lb n="26"/><rs ana="KUMATZ">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhal ha</rs> <rs ana="UCH'ABAJA">vchabaha</rs>, <rs ana="AJCH'UMILA_JA">ah chu<pc> –</pc>
 <lb n="27"/>mila ha</rs> ruq <rs ana="AJKIBA_JA">ahquibaha</rs>, <rs ana="AJBATENA_JA">ah batenaba</rs>
 <lb n="28"/><rs ana="AKUL_WINAQ">acul vinac</rs> <rs ana="BALAM_JA">balamiha</rs> <rs ana="KANCHAJELEB">canchahe leb</rs><pc> –</pc>
 <lb n="29"/><rs ana="BALAM_KOLOB">balam colob</rs>. xere cut vnimaquil
@@ -4093,7 +4093,7 @@ cap.
 <lb n="37"/>ah cahb nim quequicotic ruq rah
 <lb n="38"/>quixb, rahcahb <rs ana="TAMUB">tamub</rs> <rs ana="ILOKAB">ilocab</rs> ruq
 <lb n="39"/><rs ana="RABINALEB">rabinaleb</rs> <rs ana="KAQCHIKELEB">ꜫaꜫchequeleb</rs>, ahq,I<pc> –</pc>
-<lb n="40"/><rs ana="AJTZ'IKINA_JA">quinaha</rs> ruq <rs ana="TUJAL_JA">tuhalha</rs> <rs ana="UCHABAJA">vchaba<pc> –</pc>
+<lb n="40"/><rs ana="AJTZ'IKINA_JA">quinaha</rs> ruq <rs ana="TUJAL_JA">tuhalha</rs> <rs ana="UCH'ABAJA">vchaba<pc> –</pc>
 <lb n="41"/>ha</rs>, <rs ana="AJKIBA_JA">quibaha</rs>, <rs ana="AJBATENAJA">ah batena</rs> <rs ana="YAKI_TEPEW">ruqya<pc> –</pc>
 <lb n="42"/>qui tepeu</rs> harub pa chi a mac qo
 <lb n="43"/>vacamic maui ahilan chi vinac
@@ -5195,7 +5195,7 @@ cap.
 <lb n="29" rend="indent" /><hi rend="large">A</hi>re chicu ahavab va chu
 <lb n="30"/>vach <rs ana="NIJA'IB">nihaibab</rs> are nabe aha<pc> –</pc>
 <lb n="31"/>u va <rs ana="AJAW_Q'ALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
-<lb n="32"/>nac</rs>, <rs ana="Q'ALEL_KAMJA">cale camha</rs>, <rs ana="NIMA_K'AMJA">nima camha</rs>, <rs ana="UCHUCH_KAMJA">v
+<lb n="32"/>nac</rs>, <rs ana="Q'ALEL_K'AMJA">cale camha</rs>, <rs ana="NIMA_K'AMJA">nima camha</rs>, <rs ana="UCHUCH_K'AMJA">v
 <lb n="33"/>chuch camha</rs>, <rs ana="NIJA'IB">nimchocoh nihaib,</rs><pc> –</pc>
 <lb n="34"/><rs ana="AJAW_AWILIX">aulix</rs>, <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam, vꜩam pop
 <lb n="35"/>zaclatol</rs>, <rs ana="NIMA_LOLMET_YE'OLTUX">nima lolmet yeoltux</rs>.
@@ -5571,7 +5571,7 @@ cap.
 <lb n="38"/>ch ꜩucuh cooh xavi vxe ꜩih. xa
 <lb n="39"/>ui quehe cubano <rs ana="TAMUB">tamub</rs><rs ana="ILOKAB">ilocab</rs>
 <lb n="40"/>ruq <rs ana="RABINALEB">rabinaleb</rs> <rs ana="KAQCHIKELEB">ꜫaꜫchequeleb</rs>, <rs ana="AJTZ'IKINA_JA">ah<pc> –</pc>
-<lb n="41"/>q,iquinaha</rs>, <rs ana="TUJAL_JA">tuhalaha</rs>, <rs ana="UCHABAJA">vchabaha</rs>
+<lb n="41"/>q,iquinaha</rs>, <rs ana="TUJAL_JA">tuhalaha</rs>, <rs ana="UCH'ABAJA">vchabaha</rs>
 <lb n="42"/>xahun cheel vi ta xiquin chiri
 <lb n="43"/>queche ta chuban rech ronohel
 <lb n="44"/>mana xaqui quehe xeahauaric
@@ -5794,13 +5794,13 @@ cap.
 <lb n="25"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>2</num></hi></note><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩic vinac</rs> hun vnim ha
 </p>
 <p>            
-<lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="Q'ALEL_KAMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
+<lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="Q'ALEL_K'AMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
 </p>
 <p>            
 <lb n="27"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>4</num></hi></note><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
 </p>
 <p>            
-<lb n="28"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>5</num></hi></note><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
+<lb n="28"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>5</num></hi></note><rs ana="UCHUCH_K'AMJA"><hi rend="large">V</hi>chuch camha</rs> hun vnim ha.
 </p>
 <p>            
 <lb n="29"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>6</num></hi></note><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
@@ -9360,7 +9360,7 @@ perhaps priests not deities?</note>
 <lb n="25"/>pueblos. y treçe famílías con los de <rs ana="RABINALEB">Ra<pc> –</pc>
 <lb n="26"/>banal</rs>. <rs ana="KAQCHIKELEB">ꜫaꜫchíque<del rend="scribble" instant="false" status="unremarkable">l</del>es</rs>, <rs ana="AJTZ'IKINA_JA">ah q,íquínaha</rs>. y
 <lb n="27"/>tambíen con los de <rs ana="SAQAJIB">zacahíb</rs>. y con los de
-<lb n="28"/><rs ana="LAMAKIB">lamaquíb</rs>, <rs ana="KUMATZ">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhalha</rs>, <rs ana="UCHABAJA">vchabaha</rs>.
+<lb n="28"/><rs ana="LAMAKIB">lamaquíb</rs>, <rs ana="KUMATZ">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhalha</rs>, <rs ana="UCH'ABAJA">vchabaha</rs>.
 <lb n="29"/><rs ana="AJCH'UMILA_JA">ah chamílaha</rs>, con los de <rs ana="AJKIBA_JA">ahquíbaha</rs>, y
 <lb n="30"/><rs ana="AJBATENAJA">ah batenab</rs> <rs ana="AKUL_WINAQ">acul vínac</rs>, <rs ana="BALAMI_JA'">balamí<del rend="scribble" instant="false" status="unremarkable"/>ha</rs>, <rs ana="KANCHAJELEB">can
 <lb n="31"/>chaheleb</rs>, <rs ana="BALAM_KOLOB">balam colob</rs>. y solo estas eran
@@ -9925,7 +9925,7 @@ perhaps priests not deities?</note>
 <lb n="38"/>grandes. y estaban de rodíllas los
 <lb n="39"/><choice><abbr>S<hi rend="superscript">Ses</hi></abbr><expan instant="false">Señores</expan></choice>. y sus vasallos los de <rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílo<pc> –</pc>
 <lb n="40"/>cab</rs>, con los de <rs ana="RABINALEB">rabínal</rs>, y <rs ana="KAQCHIKELEB">ꜫaꜫchíque<pc> –</pc>
-<lb n="41"/>les</rs>, los de <rs ana="AJTZ'IKINA_JA">q,íquínaha</rs>, y <rs ana="TUJAL_JA">tuhalha</rs>, <rs ana="UCHABAJA">vcha<pc> –</pc>
+<lb n="41"/>les</rs>, los de <rs ana="AJTZ'IKINA_JA">q,íquínaha</rs>, y <rs ana="TUJAL_JA">tuhalha</rs>, <rs ana="UCH'ABAJA">vcha<pc> –</pc>
 <lb n="42"/>baha</rs>, <rs ana="AJKIBA_JA">quíbaha</rs>, <rs ana="AJBATENAJA">ahbatena</rs>, y los de <rs ana="YAKI_TEPEW">ya
 <lb n="43"/>quí tepeu</rs>, y quantos pueblos auía, y
 <lb n="44"/>ay agora <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> noson constables, los hombes
@@ -11012,7 +11012,7 @@ perhaps priests not deities?</note>
 <lb n="20"/>pop</rs>, <rs ana="AJPOP_K'AMJA">ahpop camha</rs>. 2. <rs ana="AJTOJIL">ahtohíl</rs>. 3. <rs ana="AJQ'UKUMATZ">ahcucu<pc> –</pc>
 <lb n="21"/>maꜩ</rs>. 4. <rs ana="NIM_CH'OKOJ_KAWEQ">ním chocoh cuec</rs>. 5. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">popol vínac</rs>.
 <lb n="22"/>6. <rs ana="LOLMET_KEJNAY">chítuy Lolmet. 7. queh nayí</rs>. 8. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">po<pc> –</pc>
-<lb n="23"/>pol vínac pahom ꜩalaꜩ</rs>. 9. <rs ana="UCHUCH_KAMJA">uchuch
+<lb n="23"/>pol vínac pahom ꜩalaꜩ</rs>. 9. <rs ana="UCHUCH_K'AMJA">uchuch
 <lb n="24"/>camha</rs>.
 </p>
 <p corresp="#p77">
@@ -11024,7 +11024,7 @@ perhaps priests not deities?</note>
 <p corresp="#p78">
 <lb n="29"/>y estos son los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los de <rs ana="NIJA'IB">níhaí<pc> –</pc>
 <lb n="30"/>bab</rs> el prímero <rs ana="AJAW_Q'ALEL">ahau ealel</rs>. 2. <rs ana="AJAW_AJTZIK_WINAQ">ahau
-<lb n="31"/>ahꜩíc vínac</rs>. 3. <rs ana="Q'ALEL_KAMJA">calecamha</rs>. 4. <rs ana="UCHUCH_KAMJA">vchuch
+<lb n="31"/>ahꜩíc vínac</rs>. 3. <rs ana="Q'ALEL_K'AMJA">calecamha</rs>. 4. <rs ana="UCHUCH_K'AMJA">vchuch
 <lb n="32"/>camha</rs>. 5. <rs ana="NIM_CH'OKOJ_NIJA'IB">ním chocoh níhaíb</rs>. 6. <rs ana="AJAW_AWILIX">aha<pc> –</pc>
 <lb n="33"/>u auílix</rs>. 7 <rs ana="YAKOLATAM_UTZAM_POP_SAQLATOL">yacolatam. 8. vꜩam
 <lb n="34"/>pop o, zaclatol.</rs> 9. <rs ana="NIMA_LOLMET_YE'OLTUX">níma lolmet yeol<pc> –</pc>
@@ -11398,7 +11398,7 @@ perhaps priests not deities?</note>
 <lb n="39"/>tentados. y así mesmo haçían los del
 <lb n="40"/><rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>, con los de <rs ana="RABINALEB">rabínal</rs>,
 <lb n="41"/>y <rs ana="KAQCHIKELEB">ꜫaꜫchiqueles</rs>, y los de <rs ana="AJTZ'IKINA_JA">q,íquínaha</rs>,
-<lb n="42"/>y de <rs ana="TUJAL_JA">tuhala</rs>, y <rs ana="UCHABAJA">vchabaho</rs>, y vno era
+<lb n="42"/>y de <rs ana="TUJAL_JA">tuhala</rs>, y <rs ana="UCH'ABAJA">vchabaho</rs>, y vno era
 <lb n="43"/>el estílo de todos, en el quiche, y no así
 <lb n="44"/>nomas reynaron y nose ímbídíaron
 <lb n="45"/>los dones de su alímentador, y sus tenta<pc> –</pc>
@@ -11613,9 +11613,9 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb n="24"/><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de los de <rs ana="NIJA'IB">ní<pc> –</pc>
 <lb n="25"/>haíbab</rs> Sor<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 <lb n="26"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩíc vínac</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
-<lb n="27"/><hi rend="large">A</hi>hau <rs ana="Q'ALEL_KAMJA">ꜫalel camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
+<lb n="27"/><hi rend="large">A</hi>hau <rs ana="Q'ALEL_K'AMJA">ꜫalel camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
 <lb n="28"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
-<lb n="29"/><rs ana="UCHUCH_KAMJA"><hi rend="large">V</hi>chuch camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
+<lb n="29"/><rs ana="UCHUCH_K'AMJA"><hi rend="large">V</hi>chuch camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="30"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>&gt;
 <lb n="31"/><rs ana="NIM_CH'OKOJ_NIJA'IB"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
 <lb n="32"/><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auílíx</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
