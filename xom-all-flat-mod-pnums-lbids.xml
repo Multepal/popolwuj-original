@@ -371,8 +371,8 @@ cap.
 <lb n="1" id="xom-f04-s1-quc-1"/>nabaxic rumal vinac ꜩac, vinac
 <lb n="2" id="xom-f04-s1-quc-2"/>bit, vinac poy, vinac anom cha
 <lb n="3" id="xom-f04-s1-quc-3"/>ta chuxoc chicutun ibi <rs ana="JUNAJPU_WUCH">hunahpu
-<lb n="4" id="xom-f04-s1-quc-4"/>vuch</rs>, <rs ana="JUNAJPU_UTIW">hunahpu vtiu</rs> camul <rs ana="ALOM">alo<pc> –</pc>
-<lb n="5" id="xom-f04-s1-quc-5"/>m</rs>, camul <rs ana="KAJOLOM">qaholom</rs> nimac nima
+<lb n="4" id="xom-f04-s1-quc-4"/>vuch</rs>, <rs ana="JUNAJPU_UTIW">hunahpu vtiu</rs> <rs ana="ALOM">camul alo<pc> –</pc>
+<lb n="5" id="xom-f04-s1-quc-5"/>m</rs>, <rs ana="KAJOLOM">camul qaholom</rs> nimac nima
 <lb n="6" id="xom-f04-s1-quc-6"/><rs ana="SAQI_NIM_AQ_SIS">ꜩÿz</rs> ah cuval ah yamanic ah chut
 <lb n="7" id="xom-f04-s1-quc-7"/>ahꜩalam, ah raxalac, ah raxazel
 <lb n="8" id="xom-f04-s1-quc-8"/>ah eol, ah toltecat ratit quih ra
@@ -1682,15 +1682,16 @@ cap.
 <lb n="2" id="xom-f17-s1-quc-2"/>holomax chuchaxic. chila cut quix
 <lb n="3" id="xom-f17-s1-quc-3"/>locox vi chuvach vleu qo ivech chu<pc> –</pc>
 <lb n="4" id="xom-f17-s1-quc-4"/>xic xqha cut chique ri tucur vꜩba<pc> –</pc>
-<lb n="5" id="xom-f17-s1-quc-5"/>la at capoh. xcabeba cauaba a<pc> –</pc>
+<lb n="5" id="xom-f17-s1-quc-5"/>la <rs ana="IXKIK">at capoh</rs>. xcabeba cauaba a<pc> –</pc>
 <lb n="6" id="xom-f17-s1-quc-6"/>canoc xa cabin apanoc oh nacaya
 <lb n="7" id="xom-f17-s1-quc-7"/>ixtah v va vquexevachaqux chi<pc> –</pc>
-<lb n="8" id="xom-f17-s1-quc-8"/>quivach ahauab xeqha cut ri za<pc> –</pc>
-<lb n="9" id="xom-f17-s1-quc-9"/>mahel. ta xopon cut chiquivach
+<lb n="8" id="xom-f17-s1-quc-8"/>quivach ahauab xeqha cut <rs ana="USAMAJEL_XIBALBA">ri za<pc> –</pc>
+<lb n="9" id="xom-f17-s1-quc-9"/>mahel</rs>. ta xopon cut chiquivach
 <lb n="10" id="xom-f17-s1-quc-10"/>ahauab quezeleuachin conohel.
 <lb n="11" id="xom-f17-s1-quc-11"/>maui xuꜩinic xqha cut <rs ana="JUN_KAME">hun came</rs>.
 <lb n="12" id="xom-f17-s1-quc-12"/>mi xuꜩinic ixahauab vana cu vqux
 <note resp="editor">Following note is incorrect</note>
+<note resp="editor">I see what the encoder did; the x is slightly out of alignment with the rest of the column. Not sure that it requires a note, TBH</note>
 <lb n="13" id="xom-f17-s1-quc-13"/><note place="margin" anchored="true"><num rend="large">x</num></note>e qo pazel. uꜩbala vila cut xqha
 <lb n="14" id="xom-f17-s1-quc-14"/>curi <rs ana="JUN_KAME">hun came</rs> ta xuchuieh cu a
 <lb n="15" id="xom-f17-s1-quc-15"/>can oc eaturur rih chicomah ꜫaꜫ
@@ -1705,7 +1706,7 @@ cap.
 <lb n="24" id="xom-f17-s1-quc-24"/>uabai rech <rs ana="IXKIK">capoh</rs> xuquia acanoc
 <lb n="25" id="xom-f17-s1-quc-25"/>chihul chau vbi vleuh xzalih chi<pc> –</pc>
 <lb n="26" id="xom-f17-s1-quc-26"/>cu cah oc ri vabanel. quehe cut xe
-<lb n="27" id="xom-f17-s1-quc-27"/>chacatah vi rahaual <rs ana="XIBALBA">xibalba</rs>
+<lb n="27" id="xom-f17-s1-quc-27"/>chacatah vi <rs ana="RAJAWAL_XIBALBA">rahaual xibalba</rs>
 <lb n="28" id="xom-f17-s1-quc-28"/>ri rumal <rs ana="IXKIK">capoh</rs> xemoyvachixic
 <lb n="29" id="xom-f17-s1-quc-29"/>conohel.
 </p>
@@ -7533,7 +7534,7 @@ perhaps priests not deities?</note>
 </note>
 <lb n="1" id="xom-f17-s1-spa-1"/>ello fue llamado sangre. alla en la tierra
 <lb n="2" id="xom-f17-s1-spa-2"/>tendreís cosa vuestra, y series regalados, les
-<lb n="3" id="xom-f17-s1-spa-3"/>dixo la donzella alos tecolotes. estabíen <rs ana="IXKIK">don
+<lb n="3" id="xom-f17-s1-spa-3"/>dixo <rs ana="IXKIK">la donzella</rs> alos tecolotes. estabíen <rs ana="IXKIK">don
 <lb n="4" id="xom-f17-s1-spa-4"/>zella</rs> díxeron ellos íremos allevar esto, y tu
 <lb n="5" id="xom-f17-s1-spa-5"/>anda bete <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> nosotros vamos a dar este su tru<pc> –</pc>
 <lb n="6" id="xom-f17-s1-spa-6"/>eque de tu corazon alos <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> dixeron los te<pc> –</pc>
@@ -7564,12 +7565,12 @@ perhaps priests not deities?</note>
 <p corresp="#p23">
 <lb n="29" rend="indent"/><hi rend="large">Y</hi>estaba la madre de <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">huncho<pc> –</pc>
 <lb n="31" id="xom-f17-s1-spa-31"/>uen</rs> quando llego la mugger <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba
-<lb n="32" id="xom-f17-s1-spa-32"/>xquíc. entonçes llego la mugger llamada
-<lb n="33" id="xom-f17-s1-spa-33"/><rs ana="IXKIK">xquic</rs> con la madre de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">hun’ch<pc> –</pc>
+<lb n="32" id="xom-f17-s1-spa-32"/><rs ana="IXKIK">xquíc</rs>. entonçes llego la mugger llamada
+<lb n="33" id="xom-f17-s1-spa-33"/><rs ana="IXKIK">xquic</rs> con <rs ana="IXMUKANE">la madre</rs> de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">hun’ch<pc> –</pc>
 <lb n="34" id="xom-f17-s1-spa-34"/>uoen</rs> y actualmente estaba preñada, y le
 <lb n="35" id="xom-f17-s1-spa-35"/>faltaban para nacer a <rs ana="JUNAJPU">hun ahpu</rs>, y a <rs ana="XBALAMKE">xba<pc> –</pc>
-<lb n="36" id="xom-f17-s1-spa-36"/>lanque</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así sellamaban. y llegando esta
-<lb n="37" id="xom-f17-s1-spa-37"/>mugger a<rs ana="IXMUKANE">la vieja</rs> le díxo la mugger <rs ana="IXKIK">x<pc> –</pc>
+<lb n="36" id="xom-f17-s1-spa-36"/>lanque</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así sellamaban. y llegando <rs ana="IXKIK">esta
+<lb n="37" id="xom-f17-s1-spa-37"/>mugger</rs> a<rs ana="IXMUKANE">la vieja</rs> le díxo la mugger <rs ana="IXKIK">x<pc> –</pc>
 <lb n="38" id="xom-f17-s1-spa-38"/>quíc</rs>: he venido <choice><abbr type="superscription">Sa.</abbr><expan instant="false">Señora</expan></choice> <choice><abbr type="superscription">Me.</abbr><expan instant="false">Madre</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> soy su nuera, ysu
 <lb n="39" id="xom-f17-s1-spa-39"/>híja pequeña, esto díxo quando llego
 <lb n="40" id="xom-f17-s1-spa-40"/>a <rs ana="IXMUKANE">laVíeja</rs>. deadonde vienes, por ventura
