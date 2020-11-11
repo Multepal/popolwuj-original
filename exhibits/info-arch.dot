@@ -1,0 +1,30 @@
+digraph InfoArch {
+
+    rankdir=LR
+    graph [pad="1", nodesep=".5", ranksep=".5", overlap=false]
+    edge [fontsize=10, labelfloat=false]
+    node [shape="rounded"]
+
+    XOM [label=<Ximénez<br/>TEI Edition> shape=folder]
+    HTML [label=<Interactive<br/>HTML Edition>]
+    CTE [label=<Open Philology<br/>CTE Edition>]
+    DRUPAL [label=<Database of<br/>Topics and<br/>Annotations> shape=cylinder]
+    COLOP [label=<Sam Colop<br/>Poetic Editon>]
+    MAYAN1 [label=<New Yukatek<br/>Mayan Edition>]
+    MAYAN2 [label=<New K'iche<br/>Mayan Edition>]
+
+    {XOM, DRUPAL} -> HTML [label="XSLT"]
+    XOM -> DRUPAL [label=<references&nbsp;&nbsp;<br/>and&nbsp;&nbsp;<br/>annotations&nbsp;&nbsp;>]
+    DRUPAL -> XOM [label=""]
+    XOM -> CTE [label="XSLT"] 
+
+    /* XOM -> COLOP -> {MAYAN1, MAYAN2} [label="TextMap"] */
+
+    {MAYAN1, MAYAN2} -> COLOP -> XOM [label="TextMap"]
+    
+    {rank=same; HTML; CTE}
+    {rank=same; MAYAN2; MAYAN2}
+    {rank=same; XOM; DRUPAL}
+
+
+}

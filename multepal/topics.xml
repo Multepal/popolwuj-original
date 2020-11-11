@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <topics>
   <topic>
-    <title> Ch&#039;abi Q&#039;aq&#039;</title>
-    <type>topónimo</type>
-    <nid>1443</nid>
-    <key>CHABI_QAQ</key>
-    <ximenez_spa>chabícac</ximenez_spa>
-    <ximenez_quc>cabicac</ximenez_quc>
-    <description><p>Ch'abi Q'aq' is listed, together with Chi Junajpu', as one of the many communities conquered by Don Francisco Iskin Nija'ib', as recorded in <em>Utitulo rajawarem ajaw Don Francisco Iskin Nija’ib’. </em> Matsumoto (2017:189 n 136) notes that "Edmonson (1965:19) defines <em>Ajch’ab’iq’aq’, Chi Junajpu</em> as a compound toponym referring to a single settlement (compare Ghabicoh Junahpu in Alvarez Arévalo 1987:40), but Recinos (1957:72n16) identifies it as a reference to the two volcanoes now known as Fuego and Agua, both in the Department of Sacatepéquez. Carmack (2001:233, 239) also describes both <em>Chab’iq’aq’</em> ‘fire arrows’ (or <em>Tz’apiq’aq’</em> ‘closed fire’) and <em>Chwi Junajpu</em> as Nima K’iche’ calpuls. Tedlock (1996:189) translates these designations as 'Meteor, Hunahpu Place.'"</p></description>
-  </topic>
-  <topic>
-    <title> Tz&#039;oloj Che&#039;</title>
-    <type>topónimo</type>
-    <nid>1349</nid>
-    <key>TZOLOJ_CHE</key>
-    <ximenez_spa>momostenango</ximenez_spa>
-    <ximenez_quc> tzolohche</ximenez_quc>
-    <description><p>"This is the K’iche’ name for the town in Totonicapán known today by its Spanish-Nahuatl name, Santa María Chiquimula (Carmack 1981:307; Edmonson 1965:28). It was the pre-Conquest political<br />
-center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack 1981:307, 2001:224, 231–33). Although Contreras (2008:109) describes Amak Tam as the precursor settlement to Santa María Chiquimula, Amak Tam and Santa María Chiquimula are more than 20 km distant from each other on the map, and Tz’oloj Che’ is indicated as occupying a third location distinct from those of the other two towns (see Contreras 2008:fig. 36). Fox (1978:126–31, map 7) offers a brief description of the archaeology of the region." (Matsumoto 2017:176 n 87)</p></description>
-  </topic>
-  <topic>
     <title>Achaq&#039; Iboy</title>
     <type>persona</type>
     <nid>871</nid>
-    <key>ACHAQ_IBOY</key>
+    <key>ACHAQ'_IBOY</key>
     <ximenez_spa>achac yboy</ximenez_spa>
     <ximenez_quc>achac yboy</ximenez_quc>
-    <description><p>According to Christensen (2007: note 807, p266), the name Achaq Iboy, señor principal de los ajaw k'iche', means "Droppings/Backside/Buttocks Armadillo."</p></description>
+    <description><p>According to Christensen (2007: 283, note 807), the name Achaq Ib'oy, señor principal de los ajaw k'iche', means "Droppings/Backside/Buttocks Armadillo."</p></description>
   </topic>
   <topic>
     <title>Ajal Mes</title>
@@ -52,7 +33,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajal Q&#039;ana</title>
     <type>deidad</type>
     <nid>676</nid>
-    <key>AJAL_QANA</key>
+    <key>AJAL_Q'ANA</key>
     <ximenez_spa>ahal ꜫana</ximenez_spa>
     <ximenez_quc>ahal ꜫana</ximenez_quc>
     <description><p>Christenson (2007: note 236 p. 103) translates the name of this Lord of Xibalba as "Janudice Demon," following the meaning of q'ana, “yellowness, jaundice.” He also notes that like Ajal Q'ana's complement, Ajal Puj, Ajal Q'ana carries part of a name, Ajal, that "is likely a loan word from Chol, meaning “evil spirit” (Campbell 1983, 81)."</p></description>
@@ -61,7 +42,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajal Toq&#039;ob</title>
     <type>deidad</type>
     <nid>681</nid>
-    <key>AJAL_TOQOB</key>
+    <key>AJAL_TOQ'OB</key>
     <ximenez_spa>ahaltocob</ximenez_spa>
     <ximenez_quc>ahaltocob</ximenez_quc>
     <description><p>Christenson (2007: note 240, page 104) translates the diety's name as "Stabbings Demon," derived from "the root toq' (to stab, to gore)."</p>
@@ -109,7 +90,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajaw K&#039;iche&#039;</title>
     <type>linaje</type>
     <nid>822</nid>
-    <key>AJAW_KICHE</key>
+    <key>AJAW_K'ICHE'</key>
     <ximenez_spa>ahau quiche</ximenez_spa>
     <ximenez_quc>ahau quiche</ximenez_quc>
     <description><p>Christenson (2004, note 110, p. 271) notes, "The manuscript does not include the word 'K'iche'' here, referring to the Ajaw K'iche' lineage, although it is implied from the context."</p>
@@ -126,7 +107,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajaw K&#039;otuja (Don Cristóbal) (gen. 11)</title>
     <type>persona</type>
     <nid>961</nid>
-    <key>AJAW_KOTUJA_NJONCE</key>
+    <key>AJAW_K'OTUJA_NJONCE</key>
     <ximenez_spa>Ahau cotuha</ximenez_spa>
     <ximenez_quc>Ahau cotuha</ximenez_quc>
     <description><p>Eleventh generation of the Nija'ib lineage.</p>
@@ -148,7 +129,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajaw Nim Ch&#039;okoj</title>
     <type>persona</type>
     <nid>862</nid>
-    <key>AJAW_NIM_CHOKOJ</key>
+    <key>AJAW_NIM_CH'OKOJ</key>
     <ximenez_spa> ahau ním chocoh</ximenez_spa>
     <ximenez_quc>ahau nim chocoh </ximenez_quc>
     <description><p>Allen Christenson (2007: nota 889, página 286), observa que "The Nim Ch'okoj (Great Stewards) of the three principal Quiché lineages identify themselves here as the authors of the “word,” likely the Popol Vuh manuscript itself."</p>
@@ -159,7 +140,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajaw Q&#039;alel</title>
     <type>persona</type>
     <nid>853</nid>
-    <key>AJAW_QALEL</key>
+    <key>AJAW_Q'ALEL</key>
     <ximenez_spa>ahau ꜫalel</ximenez_spa>
     <ximenez_quc>ahau ꜫalel</ximenez_quc>
     <description><p>El primer señor principal de los Nija'ib: "U nab'e ajaw," entendido en inglés como "Lord Magistrate" (Christenson 2007: 301).</p>
@@ -170,7 +151,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajaw Q&#039;alel (Don Pedro de Robles) (gen. 12)</title>
     <type>persona</type>
     <nid>1489</nid>
-    <key>AJAW_QALEL_NJDOCE</key>
+    <key>AJAW_Q'ALEL_NJDOCE</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Twelfth generation of the Nija'ib lineage.</p>
@@ -178,10 +159,10 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 <p>Duodécima generación del linaje Nija'ib.</p></description>
   </topic>
   <topic>
-    <title>Ajbatenaja</title>
+    <title>Ajbatena Ja</title>
     <type>linaje</type>
     <nid>806</nid>
-    <key>AJBATENAJA</key>
+    <key>AJBATENA_JA</key>
     <ximenez_spa> ah batenab</ximenez_spa>
     <ximenez_quc>ah batenaba </ximenez_quc>
     <description><p>Christenson (2007: note 520, p. 193) translates <em>Aj B'atena Ja</em> as "They of the Ballgame Yoke House."</p>
@@ -189,25 +170,25 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 <p> </p></description>
   </topic>
   <topic>
-    <title>Ajch&#039;umilaja</title>
+    <title>Ajch&#039;umila Ja</title>
     <type>linaje</type>
     <nid>804</nid>
-    <key>AJCHUMILAJA</key>
+    <key>AJCH'UMILA_JA</key>
     <ximenez_spa> ahchamíla</ximenez_spa>
     <ximenez_quc>ah chumila </ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
   <topic>
-    <title>Ajkibaja</title>
+    <title>Ajkiba Ja</title>
     <type>linaje</type>
     <nid>805</nid>
-    <key>AJKIBAJA</key>
+    <key>AJKIBA_JA</key>
     <ximenez_spa> ahquíbaha</ximenez_spa>
     <ximenez_quc>ahquibaha </ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
   <topic>
-    <title>ajpatan</title>
+    <title>Ajpatan</title>
     <type>persona</type>
     <nid>1512</nid>
     <key>AJPATAN</key>
@@ -228,7 +209,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajpop K&#039;amja</title>
     <type>linaje</type>
     <nid>821</nid>
-    <key>AJPOP_KAMJA</key>
+    <key>AJPOP_K'AMJA</key>
     <ximenez_spa> Señores de alfambra</ximenez_spa>
     <ximenez_quc>ahpopcam </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -237,7 +218,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajpop Sotz&#039;il</title>
     <type>linaje</type>
     <nid>816</nid>
-    <key>AJPOP_SOTZIL</key>
+    <key>AJPOP_SOTZ'IL</key>
     <ximenez_spa> ahpozotzíl</ximenez_spa>
     <ximenez_quc>ah pozotzil </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -255,14 +236,14 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Ajq&#039;ukumatz</title>
     <type>persona</type>
     <nid>847</nid>
-    <key>AJQUKUMATZ</key>
+    <key>AJQ'UKUMATZ</key>
     <ximenez_spa> ahcucumatz</ximenez_spa>
     <ximenez_quc>ah cuꜫumatz </ximenez_quc>
     <description><p>Aj'qukumatz is one part of the priestly group "<em>Aj Tojil, Aj Q'ukumatz</em>,<em>" </em>which Allen Christenson (2007: 254fn742) translates as "He of Tojil, He of Cucumatz." As Christenson explains, "These are likely priests of the two major patron deities. <em>Q'ukumatz</em> (Quetzal Serpent) was one of the creator deities."</p>
 
 <div>
 <div>
-<p>Asímismo el lingüista k'iche' Sam Colop (2008: nota 334, página 251) clarifica que "Ajtojil, era el cncargado del culto a Tojil; el cuarto en rango es Ajq'ukumatz, encargado del culto a Q'ukumatz, seguido por el Nim Ch'okoj Kaweq, el 'principal de los maestros de ceremonias de los Kaweq'."</p>
+<p>Asímismo el lingüista k'iche' Sam Colop (2008: nota 333, página 251) clarifica que Ajq'ukumatz es "encargado del culto a Q'ukumatz, seguido por el Nim Ch'okoj Kaweq, el 'principal de los maestros de ceremonias de los Kaweq'".</p>
 </div>
 </div></description>
   </topic>
@@ -304,10 +285,10 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 <p>Colop (2008: nota 334, página 251) clarifica que "Ajtojil, era el cncargado del culto a Tojil; el cuarto en rango es Ajq'ukumatz, encargado del culto a Q'ukumatz, seguido por el Nim Ch'okoj Kaweq, el 'principal de los maestros de ceremonias de los Kaweq'."</p></description>
   </topic>
   <topic>
-    <title>Ajtz&#039;ikinaja</title>
+    <title>Ajtz&#039;ikina Ja</title>
     <type>linaje</type>
     <nid>798</nid>
-    <key>AJTZIKINAJA</key>
+    <key>AJTZ'IKINA_JA</key>
     <ximenez_spa> ah q,íquínaha</ximenez_spa>
     <ximenez_quc>ah q,inquina </ximenez_quc>
     <description><p>Christensen (p. 204, n. 512): "<em>Aj Tz'ikina Ja </em>(They of the Bird House) was the dominant lineage of the people today known as the Tzutuhils [Tz'utujil], who occupied the land from the southern shores of Lake Atitlán south to the cacao-growing land of the Pacific Coast. Their capital was Chiya' (now called Chutinamit), located on a small hill at the base of San Pedro Volcano just across the bay to the northwest of the modern community of Santiago Atitlán. The group was likely composed of two separate lineage groups (the <em>Ah Tziquinahas </em>and the <em>Tzutuhils</em>), which were at times openly hostiel to one another (Orellana 1984, 81; Carlsen 1997, 75). The authors of the <em>Annals of the Cakchiquels </em>stated that the Tzutuhils succeeded in temporarily expelling the Ah Tziquinahas from their citadel south of Lake Atitlán in 1521 (Recinos and Goetz 1952, 117)."</p>
@@ -321,7 +302,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <type>persona</type>
     <nid>860</nid>
     <key>AJTZIK_WINAQ</key>
-    <ximenez_spa> ahtzíc vínac</ximenez_spa>
+    <ximenez_spa>ahtzíc vínac</ximenez_spa>
     <ximenez_quc>ahtzic vinac </ximenez_quc>
     <description><p>Colop (2008: nota 335, página 251): “El segundo sería el ‘Señor pregonero’ o ‘vocero’, deviniendo su título de Ajtzij Winaq como está en <em>El Título de Totonicapán</em>”.</p>
 
@@ -368,7 +349,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Amaq&#039; Tam</title>
     <type>topónimo</type>
     <nid>755</nid>
-    <key>AMAQ_TAM</key>
+    <key>AMAQ'_TAM</key>
     <ximenez_spa>amactan</ximenez_spa>
     <ximenez_quc>amactan</ximenez_quc>
     <description><p>The area settled by the Tamub. Christenson (page 225, note 590) translates: "<em>Amaq' </em>is 'nation,' <em>T'an </em>is 'bald, lacking plumage.' Most likely, however, this is an alternate or archaic spelling for the Tamub lineage. Thus the name of the place is simply 'Nation of the Tamub.' The Tamub lineage has a significant Pokom comonent, and in that language, Tamub may be read simply as 'the descendents' (Akkeren 2000, 125). Carmack identifies this site with a series of ruins known as Cruz Che located along a slope of Telec'uch Mountain west of Hacavitz. The remains of a diety shrine still known by its ancient name, Saqirib'al (Place of Dawn), is ocated on a peak of the mountain."</p>
@@ -379,14 +360,16 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Amaq&#039; Uq&#039;in k&#039;at</title>
     <type>topónimo</type>
     <nid>756</nid>
-    <key>AMAQ_UQIN_KAT</key>
+    <key>AMAQ'_UQ'IN_K'AT</key>
     <ximenez_spa>--</ximenez_spa>
     <ximenez_quc>amac vquin cat</ximenez_quc>
-    <description><p>The area initially settled by the Ilokab lineage. </p>
+    <description><p>The area initially settled by a non-K'iche' lineage, variously interpreted by scholars as Ilokab or Tamub peoples. </p>
 
 <p>Colop (página 153, nota 247) cita el <em>Título de Totonicapán</em>, explicando que "los Ilokab estaban en un cerro llamado 'Uq'uin,' que Carmack identifica como 'una aldea en el noroeste del pueblo de San Pedro Jocolipas' y también señala que en este lugar hay un sitio arqueológico." Colop traduce el nombre <em>Uq'in</em> como un producto del término <em>q'inom</em>,  "jocote," y <em>k'at </em>como "red," añadiendo que éste es también el nombre de un día del calendario Maya. "En consecuencia, el nombre del lugar podría estar asociado al inicio de una cuenta cíclica relativa al dia <em>k'at</em>."</p>
 
-<p>Carmack also says that this was on Telec'uch Mountain, like the neighboring site of Amaq' T'an, from which it was separated by a canyon.</p></description>
+<p>Carmack (1981: 65) says that the closely related site, Amaq' U' Q'in K'at (Nation Its Frame Net)," as translated by Christenson (2003: 225fn591), was on Telec'uch Mountain, like the neighboring site of Amaq' T'an, from which it was separated by a canyon. Tele'uch, also home to ruins called Cruz Che, is located to the west of Hacavitz.</p>
+
+<p>For his part, Alan J. Christenson (2003: 225fn590) notes that Amaq' means "nation" and T'an means "bald, lacking plumage." Despite these etymological readings, he argues that "Most likely, however, this is an alternate or archaic spelling for the Tamub lineage. Thus the name of the place is simply 'Nation of the Tamub.' The Tamub lineage has a significant Pokom component, and in that language, Tamub may be read simply as 'the descendents' (Akkeren 2000, 125).</p></description>
   </topic>
   <topic>
     <title>Antonio de Remesal</title>
@@ -420,31 +403,6 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <description><p>According to Allen Christenson (2007: note 552, page 198), "In the Quiché language, this would read 'you are watched over/cared for/commissioned.' Throughout the text, the Quichés promise to watch over and care for their gods, providing them with offerings, sustenance, and worship (p. 290; lines 8344-8346, 8379-8388). Tedlock suggests that it may be derived from the Kekchi, kwilix/wilix, “swallow” (the bird) and reads the full name as Lord Swallow (D. Tedlock 1996, 297 n. 152). More recently, Akkeren (personal communication) has suggested that the Nihaib lineage originally came from the Pico de Orizaba area, known anciently by its Nahua name Awilizapan. It is possible that Awilix, the patron deity of the Nihaib derived the name of their god from this region and its principle mountain which bore the same name."</p>
 
 <p>Carmack (198: page 50) cites Edmondson (1965), claiming that Awilix is a shortening of "C'abawil Ixchel," and says, "[l]ike the Gulf Coast peoples the Quichés associated this goddess with the moon," implying that Awilix is female.</p></description>
-  </topic>
-  <topic>
-    <title>B&#039;alam Ja (Casa de Jaguares)</title>
-    <type>topónimo</type>
-    <nid>742</nid>
-    <key>BALAM_JA</key>
-    <english_name>&lt;ul&gt;&lt;li&gt;Jaguar House&lt;/li&gt;
-&lt;/ul&gt;</english_name>
-    <ximenez_spa>casa de leon tígres</ximenez_spa>
-    <ximenez_quc>balami ha</ximenez_quc>
-    <description><p>Tedlock (page 345) says that this house may be a sign of the Mayan zodiac. He also says, "Jaguar House is also the name of a people belonging to a group of thirteen allied tribes the Quichés regarded as having come (like themselves) from the east."</p>
-
-<p>B’alam ja also appears in the Nija'ib' <em>Utitulo ulew</em>, for which Matsumoto (2017:267 n 38) notes: "Carmack (1967:5) describes B’alamija as the K’iche’ name for the Aguatecans and equates it with <em>Balan naguala</em>, a settlement on the other side of the Río Negro from the territory under discussion (see map in Carmack 1967:13). According to van Akkeren (2009:84n22), the 'Balamihá [Balamija] are Ixils.'."</p></description>
-  </topic>
-  <topic>
-    <title>B&#039;alam Ki&#039;tze</title>
-    <type>deidad</type>
-    <nid>1523</nid>
-    <key>BALAM_KITZE</key>
-    <ximenez_spa>Balam qutze / Balam quítze</ximenez_spa>
-    <ximenez_quc> Balam qui tze</ximenez_quc>
-    <description><p>The Popol Wuj attests to the status of B'alam Kitze as the founder of the Kaweq lineage (Christenson 2003a:lines<br />
-4940–5208). Matsumoto (2017:201 n 189) succinctly summarizes proposals for interpretation of this name: "Christenson (2007:196n477) alternatively indicates that <em>Kitze </em>may the Mam rendering of K’iche’, although he acknowledges that “the etymology of all the progenitors’ names is obscure.” Tedlock (1996:289) suggests that Quitze may be derived from <em>k’ische </em>‘cedar’; however, he does not fully translate this name into English, leaving it instead as “Jaguar Quitze.” Carmack (1981:49), in contrast, proposes that the name come from Chontal Quite ‘forest’." </p>
-
-<p>B'alam Kitze is the only one of the four founding K'iche' progenitors who is not mentioned in the Nija'ib' K’iche’ text of the <em>Título de Quetzaltenango y Momostenango</em> (Matsumoto 2017:201 n 189).</p></description>
   </topic>
   <topic>
     <title>B&#039;ate</title>
@@ -481,17 +439,30 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Balam Aq&#039;ab</title>
     <type>deidad</type>
     <nid>705</nid>
-    <key>BALAM_AQAB</key>
+    <key>BALAM_AQ'AB</key>
     <ximenez_spa>Balam acab</ximenez_spa>
     <ximenez_quc>Balam acab</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/balam%20akab%20qeq%27%20oeste.png?itok=X8AQ2Lig" width="74" height="100" alt="National Museum of the American Indian, Washington, DC (Spring 2019). Balam Aq&#039;ab." title="Balam Aq&#039;ab&#039;s association with color symbolism and cardinal points according to Mayan cosmovision" /></image>
-    <description>Description forthcoming.</description>
+    <description><p>One of the first four K’iche' men and the founder of the Nija’ib’ division. <em>Aq'ab'</em> means 'night' and <em>b’alam </em>literally means ‘jaguar’ but as a title can describe something as ‘mighty, powerful’ (Christenson 2007:196n477). Hence, his name could be translated as “jaguar night” and “mighty jaguar.” According to van Akkeren (2003:121), however, “Aq’aab’ is just another name for the Q’eqchi people.” In Ximenez's Spanish translation, his name is conflated with Don Ikib’alam into <em>don yqui Balam Acab</em> as one name (Alvarez Arévalo 1987:41).</p></description>
+  </topic>
+  <topic>
+    <title>Balam Ja (Casa de Jaguares)</title>
+    <type>topónimo</type>
+    <nid>742</nid>
+    <key>BALAM_JA</key>
+    <english_name>&lt;ul&gt;&lt;li&gt;Jaguar House&lt;/li&gt;
+&lt;/ul&gt;</english_name>
+    <ximenez_spa>casa de leon tígres</ximenez_spa>
+    <ximenez_quc>balami ha</ximenez_quc>
+    <description><p>Tedlock (page 345) says that this house may be a sign of the Mayan zodiac. He also says, "Jaguar House is also the name of a people belonging to a group of thirteen allied tribes the Quichés regarded as having come (like themselves) from the east."</p>
+
+<p>B’alam ja also appears in the Nija'ib' <em>Utitulo ulew</em>, for which Matsumoto (2017:267 n 38) notes: "Carmack (1967:5) describes B’alamija as the K’iche’ name for the Aguatecans and equates it with <em>Balan naguala</em>, a settlement on the other side of the Río Negro from the territory under discussion (see map in Carmack 1967:13). According to van Akkeren (2009:84n22), the 'Balamihá [Balamija] are Ixils.'."</p></description>
   </topic>
   <topic>
     <title>Balam K&#039;onache&#039; (gen. 3)</title>
     <type>persona</type>
     <nid>838</nid>
-    <key>BALAM_KONACHE_KQTRES</key>
+    <key>BALAM_K'ONACHE'_KQTRES</key>
     <ximenez_spa>conache</ximenez_spa>
     <ximenez_quc>conache</ximenez_quc>
     <description><p>Third generation of the Kaweq lineage.</p>
@@ -515,6 +486,18 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 </div></description>
   </topic>
   <topic>
+    <title>Balam Ki&#039;tze&#039;</title>
+    <type>deidad</type>
+    <nid>1523</nid>
+    <key>BALAM_KI'TZE'</key>
+    <ximenez_spa>Balam qutze / Balam quítze</ximenez_spa>
+    <ximenez_quc> Balam qui tze</ximenez_quc>
+    <description><p>The Popol Wuj attests to the status of B'alam Kitze as the founder of the Kaweq lineage (Christenson 2003a:lines<br />
+4940–5208). Matsumoto (2017:201 n 189) succinctly summarizes proposals for interpretation of this name: "Christenson (2007:196n477) alternatively indicates that <em>Kitze </em>may the Mam rendering of K’iche’, although he acknowledges that “the etymology of all the progenitors’ names is obscure.” Tedlock (1996:289) suggests that Quitze may be derived from <em>k’ische </em>‘cedar’; however, he does not fully translate this name into English, leaving it instead as “Jaguar Quitze.” Carmack (1981:49), in contrast, proposes that the name come from Chontal Quite ‘forest’." </p>
+
+<p>B'alam Kitze is the only one of the four founding K'iche' progenitors who is not mentioned in the Nija'ib' K’iche’ text of the <em>Título de Quetzaltenango y Momostenango</em> (Matsumoto 2017:201 n 189).</p></description>
+  </topic>
+  <topic>
     <title>Balam Kolob</title>
     <type>linaje</type>
     <nid>810</nid>
@@ -524,10 +507,10 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <description>Description forthcoming.</description>
   </topic>
   <topic>
-    <title>Balamija&#039;</title>
+    <title>Balami Ja&#039;</title>
     <type>linaje</type>
     <nid>808</nid>
-    <key>BALAMIJA</key>
+    <key>BALAMI_JA'</key>
     <ximenez_spa>balamíja</ximenez_spa>
     <ximenez_quc>balamíja</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -550,7 +533,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Batz&#039;a (gen. 6)</title>
     <type>persona</type>
     <nid>950</nid>
-    <key>BATZA_NJSEIS</key>
+    <key>BATZ'A_NJSEIS</key>
     <ximenez_spa>Batza</ximenez_spa>
     <ximenez_quc>Batza</ximenez_quc>
     <description><p>Sixth generation of the Nija'ib lineage.</p>
@@ -645,48 +628,46 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <description><p>Charles V (1500–1558) was the ruler of the Spanish Empire from 1516–1556, the Holy Roman Empire from 1519–1556, and the Habsburg Netherlands from 1506–1555.</p></description>
   </topic>
   <topic>
-    <title>Ch&#039;ab&#039;i Tukur (Tecolote Flecha)</title>
-    <type>deidad</type>
-    <nid>683</nid>
-    <key>CHABI_TUKUR</key>
-    <ximenez_spa>saeta tecolote</ximenez_spa>
-    <ximenez_quc>saeta tecolote</ximenez_quc>
-    <description>Description forthcoming.</description>
-  </topic>
-  <topic>
     <title>Ch&#039;ab&#039;iq&#039;aq&#039;</title>
     <type>topónimo</type>
     <nid>1354</nid>
-    <key>CHABI_QAQ</key>
+    <key>CH'ABI_Q'AQ'</key>
     <ximenez_spa>chabícac</ximenez_spa>
     <ximenez_quc> cabicac</ximenez_quc>
     <description><p>"Edmonson (1965:19) defines Ch’ab’iq’aq’, Chi Junajpu as a compound toponym referring to a single settlement (compare Ghabicoh Junahpu in Alvarez Arévalo 1987:40), but Recinos (1957:72n16) identifies it as a reference to the two volcanoes now known as Fuego and Agua, both in the Department of Sacatepéquez. Carmack (2001:233, 239) also describes both Chab’iq’aq’ ‘fire arrows’ (or Tz’apiq’aq’ ‘closed fire’) and Chwi Junajpu as Nima K’iche’ calpuls. Tedlock (1996:189) translates these designations as 'Meteor, Hunahpu Place'" (Matsumoto 2017:189n136).</p></description>
   </topic>
   <topic>
-    <title>Ch&#039;amiyabaq</title>
+    <title>Ch&#039;abi Q&#039;aq&#039;</title>
+    <type>topónimo</type>
+    <nid>1443</nid>
+    <key>CH'ABI_Q'AQ'</key>
+    <ximenez_spa>chabícac</ximenez_spa>
+    <ximenez_quc>cabicac</ximenez_quc>
+    <description><p>Ch'abi Q'aq' is listed, together with Chi Junajpu', as one of the many communities conquered by Don Francisco Iskin Nija'ib', as recorded in <em>Utitulo rajawarem ajaw Don Francisco Iskin Nija’ib’. </em> Matsumoto (2017:189 n 136) notes that "Edmonson (1965:19) defines <em>Ajch’ab’iq’aq’, Chi Junajpu</em> as a compound toponym referring to a single settlement (compare Ghabicoh Junahpu in Alvarez Arévalo 1987:40), but Recinos (1957:72n16) identifies it as a reference to the two volcanoes now known as Fuego and Agua, both in the Department of Sacatepéquez. Carmack (2001:233, 239) also describes both <em>Chab’iq’aq’</em> ‘fire arrows’ (or <em>Tz’apiq’aq’</em> ‘closed fire’) and <em>Chwi Junajpu</em> as Nima K’iche’ calpuls. Tedlock (1996:189) translates these designations as 'Meteor, Hunahpu Place.'"</p></description>
+  </topic>
+  <topic>
+    <title>Ch&#039;abi Tukur (Tecolote Flecha)</title>
+    <type>deidad</type>
+    <nid>683</nid>
+    <key>CH'ABI_TUKUR</key>
+    <ximenez_spa>saeta tecolote</ximenez_spa>
+    <ximenez_quc>saeta tecolote</ximenez_quc>
+    <description>Description forthcoming.</description>
+  </topic>
+  <topic>
+    <title>Ch&#039;amiya Baq</title>
     <type>deidad</type>
     <nid>1119</nid>
-    <key>CHAMIYABAQ</key>
+    <key>CH'AMIYA_BAQ</key>
     <ximenez_spa>chamia bac</ximenez_spa>
     <ximenez_quc>chamia bac</ximenez_quc>
     <description><p>Christenson (2004: line 3666) spells the name of the god, Ch'ami'ya B'aq, and translates the meaning as "Staff Bone." In his prose translation (2007: note 226, page 101), he adds, "<em>Xbaquiyalo</em>. The likely etymology of this name is <em>x-</em> (lady), <em>baqi</em> (bone), <em>ya'</em> (water/river), <em>lo</em> (perhaps), yielding Lady Bone Water. Tedlock notes that in Yucatec, bak ha' (also “bone water”) is the snowy egret or snowy heron, and thus translates the name as “Egret Woman” (D. Tedlock 1996, 250 n. 91)."</p></description>
   </topic>
   <topic>
-    <title>Ch&#039;amiyabaq</title>
-    <type>deidad</type>
-    <nid>678</nid>
-    <key>CHAMIYABAQ</key>
-    <ximenez_spa>chamia bac</ximenez_spa>
-    <ximenez_quc>chamia bac</ximenez_quc>
-    <description><p>El nombre del dios Ch'amiyabaq significa, conforme a la explicación de Sam Colop (2011: nota 82), es "Señor de la Vara de Hueso", ya que <em>Ch'amiy </em>o <em>ch'amiya</em>, "con <em>-a</em> final como inserción vocálica, quiere decir 'vara' o 'cetro', símbolo de autoridad. <em>Baq</em> es 'hueso'." El nombre de su par, Ch'amiyajolom, significa "Señor de la Vara de Hueso."</p>
-
-<p>Christenson (2007: 116) translates the name as "Bone Staff," and the name of Ch'amiyajolom as "Skull Staff," because "As emblems of office, Quiché political and religious leaders carry staffs that are often topped with ornate silver carvings symbolizing divine power" (note 237).</p></description>
-  </topic>
-  <topic>
-    <title>Ch&#039;amiyajolom</title>
+    <title>Ch&#039;amiya Jolom</title>
     <type>deidad</type>
     <nid>1122</nid>
-    <key>CHAMIYAJOLOM</key>
+    <key>CH'AMIYA_JOLOM</key>
     <ximenez_spa>chamía holom</ximenez_spa>
     <ximenez_quc>chamiaholom</ximenez_quc>
     <description><p>Jolom means “head” and “skull” (Christenson 2007: note 631, page 233). Christenson translates the name Ch'amiyajolom as "Skull Staff," because "As emblems of office, Quiché political and religious leaders carry staffs that are often topped with ornate silver cavings symbolizing divine power" (note 237, page 116).</p>
@@ -694,19 +675,30 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 <p>Sam Colop (2011: nota 82) afirma que "<em>Ch'amiy </em>o <em>ch'amiya</em>, con <em>-a</em> final como inserción vocálica, quiere decir 'vara' o 'cetro', símbolo de autoridad' y de la misma manera <em>jolom</em> "es 'cabeza', pero en este caso es calavera'', el cual nombre será "Señor de la Vara de Calavera", y su par, Ch'amiyabaq, "Señor de la Vara de Hueso."</p></description>
   </topic>
   <topic>
-    <title>Ch&#039;amiyajolom</title>
+    <title>Ch&#039;amiya Jolom</title>
     <type>deidad</type>
     <nid>679</nid>
-    <key>CHAMIYAJOLOM</key>
+    <key>CH'AMIYA_JOLOM</key>
     <ximenez_spa>chamia holom</ximenez_spa>
     <ximenez_quc>chamia holom</ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
   <topic>
+    <title>Ch&#039;amiyabaq</title>
+    <type>deidad</type>
+    <nid>678</nid>
+    <key>CH'AMIYABAQ</key>
+    <ximenez_spa>chamia bac</ximenez_spa>
+    <ximenez_quc>chamia bac</ximenez_quc>
+    <description><p>El nombre del dios Ch'amiyabaq significa, conforme a la explicación de Sam Colop (2011: nota 82), es "Señor de la Vara de Hueso", ya que <em>Ch'amiy </em>o <em>ch'amiya</em>, "con <em>-a</em> final como inserción vocálica, quiere decir 'vara' o 'cetro', símbolo de autoridad. <em>Baq</em> es 'hueso'." El nombre de su par, Ch'amiyajolom, significa "Señor de la Vara de Hueso."</p>
+
+<p>Christenson (2007: 116) translates the name as "Bone Staff," and the name of Ch'amiyajolom as "Skull Staff," because "As emblems of office, Quiché political and religious leaders carry staffs that are often topped with ornate silver carvings symbolizing divine power" (note 237).</p></description>
+  </topic>
+  <topic>
     <title>Ch&#039;ipi Kaqulja</title>
     <type>deidad</type>
     <nid>645</nid>
-    <key>CHIPI_KAQULJA</key>
+    <key>CH'IPI_KAQULJA</key>
     <ximenez_spa>chípa caculha</ximenez_spa>
     <ximenez_quc>chípa caculha</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/Chipi.jpg?itok=EpOIc49O" width="100" height="41" title="K2208: God &quot;Chak with lightning emanating from his mouth&quot; / El dios [Chak con relámpagos lanzados de su boca.]" /></image>
@@ -718,12 +710,12 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Cha&#039;j</title>
     <type>objeto</type>
     <nid>1231</nid>
-    <key>CHAJ</key>
+    <key>CHA'J</key>
     <english_name>&lt;ul&gt;&lt;li&gt;ball&lt;/li&gt;
 &lt;li&gt;ballgame&lt;/li&gt;
 &lt;/ul&gt;</english_name>
-    <ximenez_spa></ximenez_spa>
-    <ximenez_quc></ximenez_quc>
+    <ximenez_spa>jugar a la pelota</ximenez_spa>
+    <ximenez_quc>vleuh ri chaa, chaah</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/8209%20chichen%20itza%20ball%20court.jpeg?itok=O3G7Va05" width="100" height="67" alt="Kerr #8209" title="Kerr #8209. &quot;Maya. Chichen Itza. Portion of wall of ball court. Sacrifice, beheading of ballplayer. blood.&quot; " /></image>
     <description><p>Tedlock points out that <em>cha’j</em> is used for the game ball in Xib’alb’a while <em>kik’</em><em> </em>-- which also means "blood" or "resin" --  refers only to the ball of Juajpu and Xb’alanke.  </p>
 
@@ -739,7 +731,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Chajal echa&#039; (Goddesses of the Milpa)</title>
     <type>grupo de deidades</type>
     <nid>1377</nid>
-    <key>CHAJAL_ECHA</key>
+    <key>CHAJAL_ECHA'</key>
     <ximenez_spa>al q’que guarda el bastímento</ximenez_spa>
     <ximenez_quc>chahal echa</ximenez_quc>
     <description><p>Lady Blood [<em>Ixkik’</em>] (brackets inserted to provide modern naming according to K’iche’ linguist Sam Colop) is the daughter of the lord of Xibalba Gathered Blood [<em>Kuchuma Kik’</em>]. She becomes impregnated by the skull of One Junajpu [<em>Jun Junajpu</em>] in the ballcourt where he and his brother Seven Junajpu [<em>Wuqub’ Junajpu</em>] lost to the Lords of Xibalba. As a result of this pregnancy, she escapes Xibalba to avoid facing sacrifice by the Lords. She arrives at the house of the Grandmother [<em>Ixmukane</em>] and because she bears the children of One Junajpu, the Grandmother’s son, she says, “he venido Sa.Señora Me.Madre q'que soy su nuera, ysu híja pequeña / mi xinulic lal chichu in alibla in puch alcual la lal chichu” [I’ve come Madame, my mother. I am your daughter-in-law, and your child] (17r). The Grandmother initially rejects Lady Blood, claiming that she is not her daughter-in-law, that her pregnancy “es de forniçío eso q’que tíenes en tu víentre / xa ahoxbal ri qo chapam at qaxtoq” [is a result of fornication, what you have in your womb] (17v). However, The Grandmother eventually listens and sends Lady Blood on a test to a netful of maize from the field. Lady Blood goes to the maizefield and finds only a single ear of maize in the field, sending her into despair. She thus calls “upon the guardians of the food: ‘Come, arise. Come, stand up Lady of the Day Toh [<em>Ixtoj</em>], and Lady of the Day Canil [<em>Ixq’anil</em>], Lady Cacao [Ixkakaw] and Lady of the Day Tzi [<em>Ixtz’i’</em>], you are the guardians of the food of One Batz [<em>Jun B’atz’</em>] and One Chouen [<em>Jun Chuwen</em>]’” (Christenson 2003: 137). This caused the maize to multiple plentifully, becoming so large that the animals help Lady Blood carry the overflowing netful of maize back to the house of the Grandmother. The Grandmother is skeptical of the netful and goes to inspect the maizefield, but upon return she says, “This is but a sign that you are in truth my daughter-in-law. I will surely watch your deeds, for they that are to be my grandchildren are enchanted already’” (ibid: 139).</p>
@@ -840,7 +832,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Chi Chaq&#039;</title>
     <type>topónimo</type>
     <nid>1173</nid>
-    <key>CHI_CHAQ</key>
+    <key>CHI_CHAQ'</key>
     <ximenez_spa>chíchat</ximenez_spa>
     <ximenez_quc>chiq chac</ximenez_quc>
     <description><p>One of the four divisions of the citadel of Chi K'ix. </p>
@@ -851,7 +843,7 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <title>Chi K&#039;ix</title>
     <type>topónimo</type>
     <nid>1172</nid>
-    <key>CHI_KIX</key>
+    <key>CHI_K'IX</key>
     <ximenez_spa>quix</ximenez_spa>
     <ximenez_quc>chiquix</ximenez_quc>
     <description><p>The citadel founded by the sons of the forefathers after abandoning Jaqawitz. </p>
@@ -925,15 +917,6 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 <p>Christenson (2007: note 170, page 83) disagrees with Colop. He suggests that the name Chimalmat "is almost certainly derived from the Nahuatl chimalmatl, meaning 'shield bearer,' a fairly common name for female deities. In Aztec legend, she was the mother of the Toltec priest-ruler Ce Acatl Topiltzin Quetzalcoatl. Chimalmat is also one of the names for the mother of the Aztecs’ patron god, Huitzilopochtli, as well as the female bearer of cult objects in Aztec migration accounts. Alternatively, the name may be Quiché in origin, consisting of <em>chi</em> (preposition “at, in, to, on, from, etc.) and <em>malmat</em> (Basseta: to walk with haste) or <em>malmot</em> (Coto: “to appear unexpectedly,” particularly with regard to a phantasm)."</p></description>
   </topic>
   <topic>
-    <title>Chipi Kakulja</title>
-    <type>deidad</type>
-    <nid>15</nid>
-    <key>CHIPI_CACULHA</key>
-    <ximenez_spa></ximenez_spa>
-    <ximenez_quc>chipicaculha</ximenez_quc>
-    <description>Description forthcoming.</description>
-  </topic>
-  <topic>
     <title>Chitemaj</title>
     <type>topónimo</type>
     <nid>1442</nid>
@@ -956,10 +939,10 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
 <p>Colop (página 151, nota 243) explica que "este 'pasaron del mar' no debe tomarse de manera literal. Es una figura para explicar el paso entre determinados lugares que se anegan en la época de la lluvia, o como dice Tedlock (301), 'en efecto, los nombres describen una calzada como las que cruzan lagos o áreas temporalmente inundadas para conectar varios sitios Mayas de las tierras bajas.'</p></description>
   </topic>
   <topic>
-    <title>Chomi ja&#039;</title>
+    <title>Chomi Ja&#039;</title>
     <type>persona</type>
     <nid>709</nid>
-    <key>CHOMIJA</key>
+    <key>CHOMI_JA'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;&quot;Shrimp House&quot;&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>chumíha</ximenez_spa>
@@ -979,28 +962,24 @@ center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack
     <description><p>Tedlock (1996:189) translates <em>Chulimal </em>as ‘Mirror Side’; in other sources, it appears as <em>Chulumal</em>. According to Carmack (2001:233–34; see also 1981a:251; Contreras 2008:fig. 36), <em>Chulumal </em>is a Nima K’iche’ calpul whose name translates to ‘place of urine or oxidation’. Matsumoto (2017:187 n 124) suggests that this toponym may be equivalent to the toponym <em>Chwimal </em>recorded in the <em>Utitulo rajawarem. </em>Carmack (2009:117) transcribes Chuwi’ nimal, although <em>Chuimal </em>[<em>Chwi mal</em>] appears in Brasseur de Bourbourg’s accompanying translation. Matsumoto's (2017:187 n 124) proposed etymology, <em>chuwi' mal</em> &gt; "atop the rotten pod", is based on <em>mal</em> “the [cacao] pod rotten [because of water]” (Coto 1983 [1656]:327) or “cacao pod or corncob whose beans or kernels have rotted” (Ximénez 1985:373). It appears in the colonial Spanish translation of <em>Utitulo rajawarem </em>as <em>Ghumol </em>(Alvarez Arévalo 1987:40). </p></description>
   </topic>
   <topic>
+    <title>Chuq&#039;anal</title>
+    <type>deidad</type>
+    <nid>677</nid>
+    <key>CHUQ'ANAL</key>
+    <ximenez_spa>chuꜫanal</ximenez_spa>
+    <ximenez_quc>chuꜫanal</ximenez_quc>
+    <description>Description forthcoming.</description>
+  </topic>
+  <topic>
     <title>Chuwila&#039;</title>
     <type>topónimo</type>
     <nid>1504</nid>
-    <key>CHUWILA</key>
+    <key>CHUWILA'</key>
     <ximenez_spa>chuuíla</ximenez_spa>
     <ximenez_quc>chuuila</ximenez_quc>
     <description><p>Christenson (2007: 277-278fn277) notes that <em>Chuwi' La</em>, literally "Above the Stinging Nettle," is "the site of the modern town of Chichicastenango, which at the time of the Spanish conquest was a Quiché community (as it still is today). The original Quiché version of the <em>Popol Vuh</em> manuscript was discovered here by Francisco Ximénez."</p>
 
 <p>Recinos (2012: 178fn32) observa que Chuvilá, "o Chicicastenango" tenía varios nombres en los textos coloniales, pues "Tanto en el manuscrito de estas <em>Historias del origen de los Indios </em>como en los <em>Títulos de la Casa Ixcuín-Nihaib</em>, se les llama <em>Ah-Uvilá</em> a los habitantes de este pueblo."</p></description>
-  </topic>
-  <topic>
-    <title>Cuatro Casas Grandes</title>
-    <type>linaje</type>
-    <nid>1010</nid>
-    <key>CUATRO_CASAS_GRANDES</key>
-    <ximenez_spa>quatro casas grandes</ximenez_spa>
-    <ximenez_quc></ximenez_quc>
-    <description><p>The Lords of the Four Great Houses are Ajtzik Winaq Ajaw, Lolmet Ajaw, Nim Ch'okoj Ajaw, and Jaqawitz.</p>
-
-<p>With the three Great Houses that preceed them in the text -- Kaweq, Ajaw K'iche', Nija'ib -- the final section of the <em>Popol Wuj</em> reaffirms the number seven.</p>
-
-<p>In Mayan epigraphic systems, the number seven is represented as a large scroll that passes underneath the eye and curls under the forehead. This image and its numeral signifier is repeated in several buildings of the Dzibilchaltun (Writing Upon Stone) site in Yucatán, most notably the Seven Dolls Complex. Dzibilchaltun is located 21 kilometers from the present-day center of Mérida, Yucatán. For an extensive discussion of Maya numbers, mathematics, and cosmological repetition, see Colin Renfrew and Iain Morley's edited volume <em>The Archaeology of Measurement: Comprehending Heaven, Earth and Time in Ancient Societies</em> (Cambridge: Cambridge University Press, 2010).</p></description>
   </topic>
   <topic>
     <title>Dan</title>
@@ -1230,32 +1209,6 @@ y que habló por los profetas.</p>
 <p>El "Reino de Guatemala" (que Ximénez escribe como "Reyno de Gualta.") era una división administrativa del Imperio Español, oficialmente establecido en 1609.</p></description>
   </topic>
   <topic>
-    <title>Hermanos Artesanos</title>
-    <type>grupo de deidades</type>
-    <nid>909</nid>
-    <key>HERMANOS_ARTESANOS</key>
-    <ximenez_spa>hun batz y hun chouen</ximenez_spa>
-    <ximenez_quc>hun batz hun chouen</ximenez_quc>
-    <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/JBJC_0.jpg?itok=b9YlPmwx" width="100" height="37" /></image>
-    <description><p><em>Junb’atz’ </em>y <em>Junchouen</em> son hijos gemelos de <em>Xbaquiyalo </em>y <em>Jun Junajpu</em>, pero son mejor conocidos como los Hermanos Artesanos, destacados por su sabiduría y sus habilidades en varias áreas artesanas (Recinos 1976: 60). Los sabios abuelos les enseñaban "las artes y el trabajo," tal como Sam Colop (2008: 62) traduce la expresión del idioma k'iche' al castellano, incluso las artes bellas (la música, la escritura-pintura) y las artes técnicas (la ofebrería en plata, oro y sagradas piedras preciosas como el jade). Cabe recordar que en el idioma k'iche' el dominio de las letras, mejor conocida como <em>ajtz'ib</em>, abarca toda clase de literalidades gráficas o "escritura sin letra", como así la denomina Walter Mignolo (2003: 319). Es así la razón por la cual se entiende el nombre "Aj Chuen" como "artesano" (Recinos 1949: segunda parte, nota 4, citando el<em> Diccionario de Motul</em>). Por su parte, Colop (2008: nota 71) apunta que <em>Batz'</em> es "un día del calendario" y <em>Chowen</em> "es su equivalente en idioma yucateco."</p>
-
-<p>No obstante esta notable sabiduría mecánica, la envidia que tienen los hermanos artesanos hizo que “sino q’ en ellos estuuo la venganza desus corazones / yoc qui qux maui banoh” (18r). Esta envidia viene de la entrada de Ixkik y los dos muchachos, en ese momento todavía niños. Los Hermanos Artesanos abusan de sus hermanos menores. Por no respectar las normas de la comunidad y la cultura del buen tratamiento de los hermanos menores, los Hermanos Artesanos se convierten en monos. Concluye el traductor Adrián Recinos, “De esta manera sufrieron sus corazones; así fue su pérdida y fueron destruidos Hunbatz y Hunchouén” (1976: 83).</p>
-
-<p>La historia y el significado de los nombres de los Hermanos Artesanos muestran la importante conexión cultural entre el arte y el mono en la cultura maya. El lingüista Sam Colop dice que “<em>Batz’ </em>es también un día del calendario, y Chowen es su equivalente en idioma yucateco” (2008: 62, nota 71). El historiador y lingüista Adrian Recinos cita al Dominicano fray Bartolomé de Las Casas, quien dice que “Los pintores y talladores de Yucatán invocaban a <em>Hunchevén </em>y <em>Hunahau</em>, que eran los hijos de <em>Ixchel </em>e <em>Itzamná</em> (la diosa y el dios que veneraban los mayas de la península)” (1976: 83, nota 23). Hoy en día se observa el significado del día <em>B’atz’</em> (en idioma maya k’iche’) o <em>Chuwen</em> (en maya yucateco), en el sagrado calendario de los mayas. Según apunta el señalado <em>Chol q’ij</em>, los nombres de tales días simbolizan “el destino de las personas y la continuidad con el pasado. Es el hilo del tiempo y desarrollo de la humanidad y de la naturaleza” (“El Significado de los Días…”). De hecho, se observan estas conexiones en el arte del periodo clásico (250-900 CE), por ejemplo en las dos imágenes con obras de cerámica, pintura, donde se ve los monos en el proceso de escribir en un objeto tal como un libro. En otras palabras, no es una coincidencia que los artesanos se asocian lingüísticamente con los monos en diversos pueblos mayas, incluyendo los k’iche’ y los yucatecos. Son conexiones culturales que van más allá del idioma.</p>
-
-<p>Las deidades de Junb’atz’ y Junchouen enseñan que el arte ha sido y todavía es una parte integral de la cultura maya, dado que estas culturas comparten elementos lingüísticos y prácticas espirituales. Sin embargo, el ejemplo de los Hermanos Artesanos también enseña que el soberbio no se acepta en la cultura k’iche’. Las consecuencias negativas de los celos, como las hemos observado en el caso de los Hermanos Artesanos, son de por vida.</p>
-
-<p><em>Junb’atz’ </em>and <em>Junchouen</em>, known throughout the <em>Popol Wuj </em>as the Artisan Brothers, because of their accomplishments in music, writing, and carving (of wood and stones), are the twin children of Xbaquiyalo and Jun Junajpu, from whom they may have inherited these abilities (Christenson 2007: 113).</p>
-
-<p>Despite being such wise and excellent artists, their skills go unrealized because of their envy, born with the introduction of Lady Blood (Ixkik’) and her children, the hero twins Junajpu and Xb’alanke. Their appearance causes Junb’atz’ and Junchouen to abuse and neglect their younger brothers. When the hero twins ask their older brothers to bring down the hunted birds that are stuck at the top of the tall Yellow Tree (name?), the Artisan Brothers are brought down by pride. As punishment, they are transformed into spider monkeys. In this way, their artistic mastery is limited by their violation of K’iche’ kinship customs, reducing the degree of worship they would have received. Their mistreatment of the hero twins, according to Christenson, “is a serious breach of highland Maya attitudes toward children, particularly infants” (2007: 140, note 321). It is perhaps for this reason that sixteenth-century Dominican friar Bartolomé de Las Casas reported that “All the skilled artisans…worshiped and made sacrifices to those younger sons called Huncheven and Hunahan…but although they worshiped them as divine men, they were not held as gods in general, nor superior to all others” (Christenson 2007: 147, note 346).</p>
-
-<p>Different Maya cultures associate the Artisan Brothers with the calendar. According to Christenson, “<em>B’atz’</em> is the Quiché word for the howler monkey. It is also one of the named days from the traditional highland Maya calendar” (2007: 113, note 224). In the <em>Chol Q’ij</em>, the sacred Mayan calendar, this day symbolizes “people’s destiny and the continuity with the past. It is the thread of time and the development of humankind and nature,” connecting the day with the etymology of its <em>b’atz’ </em>coming from the word for “thread” (“The Meaning of the Days…”). Yucatec Mayan linguistics also reveal a symbolic connection between artisans and monkeys. As Christenson notes, the Yucatec word “<em>Chouen</em> is derived from the Yucatec Maya word <em>chuen</em>, meaning ‘howler monkey.’ In addition, <em>aj chuen</em> is a title meaning “artisan,” a reading consistent with the artistic nature of these twins” (2007: 113, note 225). Yucatec sources call the monkey twins <em>yaxal chuen</em>, or “first artisan” (Tedlock 1996: 250). Indeed, the depiction of the twins as monkeys can be traced to artwork of the Classic Maya period (250-900 CE), where “Twin monkey scribes appear frequently…as patrons of writing” (Christenson 2007: 113, note 225).</p>
-
-<p>Scholars disagree on how to classify the artisan work of Junb’atz’ and Junchouen. For Mayanist Allen J. Christenson, the brothers’ three sets of skills, coupled into pairs – music and song, writing and sculpting, jadework and metalwork – reinforces the parallelism of the text. The specific pairing of writing with sculpture suggests that “the authors of painted codices are closely associated with those who carve inscriptions on stone monuments,” reinforcing “the view that the <em>Popol Vuh </em>is based on a painted text” (2003: 114-5, note 230). Dennis Tedlock places them in two groups of three: flautists, singers, and writers, and sculptors, jadeworkers, and metalsmiths working with gold and silver (1996: 250). For Tedlock, the connection between artisan labor and spoken or sung words points to the <em>Popol Wuj</em>’s origins as an oral tradition.</p>
-
-<p>The depiction of the Artisan Brothers in the <em>Popol Wuj</em> serves as both an appreciation for the arts and an example of the punishment for violating cultural customs in kinship relationships, no matter how talented or skilled they were. The history and etymology of their names are representations of their inherent connection to monkeys and artisans, shedding light on the mysterious existence of an oral or written pre-Hispanic <em>Popol Wuj</em>. However, no amount of artistry permits the breaking of family relationships, whose consequences, just as the Artisan Brothers experienced, transcend their own lifetime.</p></description>
-  </topic>
-  <topic>
     <title>Hombres de maíz</title>
     <type>grupo de deidades</type>
     <nid>1265</nid>
@@ -1276,19 +1229,10 @@ y que habló por los profetas.</p>
 <p>Thus, the notion of <em>hombres de maíz </em>at the center of the <em>Popol Wuj </em>is not only indicative of the spiritual significance and respect that the Maya have for maize; it also speaks to the importance of the technological advancements perfected by early Mayan communities to ensure the development and subsequent expansion of their civilization.</p></description>
   </topic>
   <topic>
-    <title>ictericia</title>
-    <type>deidad</type>
-    <nid>677</nid>
-    <key>ICTERICIA</key>
-    <ximenez_spa>chuꜫanal</ximenez_spa>
-    <ximenez_quc>chuꜫanal</ximenez_quc>
-    <description>Description forthcoming.</description>
-  </topic>
-  <topic>
-    <title>Ik&#039;ibalam</title>
+    <title>Ik&#039;i Balam</title>
     <type>deidad</type>
     <nid>707</nid>
-    <key>IKIBALAM</key>
+    <key>IK'I_BALAM</key>
     <ximenez_spa>Iquibalam</ximenez_spa>
     <ximenez_quc>Iquibalam</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/ikib%27alam%20saq%20norte.png?itok=l6Ebqt_1" width="73" height="100" alt="National Museum of the American Indian, Washington, DC (Spring 2019). Iki&#039;balam." title="Iki&#039;balam&#039;s association with color symbolism and cardinal points according to Mayan cosmovision" /></image>
@@ -1297,7 +1241,7 @@ y que habló por los profetas.</p>
 <p>The origin of the first segment of Ikib’alam's name remains obscure. Christenson (2007:196n480) transcribes Ik’i B’alam and proposes the possible K’iche’ etymology ‘wind jaguar’ (cf. K’iche’ <em>iq’</em> ‘wind’), although he allows that the name’s first segment may not even be morphologically analyzable in K’iche’. Edmonson (1965:12) translates the name as ‘moon jaguar’, whereas Carmack (1981:49) suggests that it may originate from Lowland Maya Eke, ‘black’. Tedlock (1996:289) similarly translates it as ‘Dark Jaguar’, from Proto-Ch’olan <em>ik’ </em>‘black’ (see Kaufman 2003:231; cf. K’iche’ q’eq ‘black’)."</p></description>
   </topic>
   <topic>
-    <title>Ik&#039;ibalam</title>
+    <title>Ik&#039;i Balam</title>
     <type>deidad</type>
     <nid>1522</nid>
     <key>IKIBALAM</key>
@@ -1318,7 +1262,7 @@ y que habló por los profetas.</p>
     <title>Ik&#039;oq&#039;ij</title>
     <type>topónimo</type>
     <nid>1161</nid>
-    <key>IKOQIJ</key>
+    <key>IK'OQ'IJ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Morning star / Venus (?)&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>luzero</ximenez_spa>
@@ -1332,7 +1276,7 @@ y que habló por los profetas.</p>
 
 <p>Justin Kerr's database includes some <a href="http://research.mayavase.com/kerrmaya_list.php?rowstart=10&amp;search=&amp;vase_number=&amp;date_added=&amp;vase_type=&amp;ms_number=&amp;site=&amp;icon_elements=Venus%20glyph,%20star%20glyph%20T510&amp;display=10">28 images of the Venus Star constellation</a>. Below we include one, image #3034 ("Museum number 1986.2.10 Rio Hondo style full face version of the water lily jaguar with star signs. The glyph for jaguar appears in the eyes. <a href="http://research.mayavase.com/kerrmaya_hires.php?vase=1652">See K 1652 for codex style version of this jaguar</a>.")</p>
 
-<p><img alt="Kerr #3034. Museum number 1986.2.10 Rio Hondo style full face version of the water lily jaguar with star signs. The glyph for jaguar appears in the eyes. See K 1652 for codex style version of this jaguar." class="media-element file-default" data-delta="1" data-fid="234" data-media-element="1" height="228" src="http://live-multepal.pantheonsite.io/sites/default/files/images/3034.jpeg" title="Kerr #3034. Museum number 1986.2.10 Rio Hondo style full face version of the water lily jaguar with star signs. The glyph for jaguar appears in the eyes.&quot; http://research.mayavase.com/kerrmaya_hires.php?vase=3034" typeof="foaf:Image" width="550" /></p></description>
+<p><img alt="Kerr #3034. Museum number 1986.2.10 Rio Hondo style full face version of the water lily jaguar with star signs. The glyph for jaguar appears in the eyes. See K 1652 for codex style version of this jaguar." data-delta="1" data-fid="234" data-media-element="1" height="228" title="Kerr #3034. Museum number 1986.2.10 Rio Hondo style full face version of the water lily jaguar with star signs. The glyph for jaguar appears in the eyes.&quot; http://research.mayavase.com/kerrmaya_hires.php?vase=3034" typeof="foaf:Image" width="550" class="media-element file-default" src="http://live-multepal.pantheonsite.io/sites/default/files/images/3034.jpeg" /></p></description>
   </topic>
   <topic>
     <title>Ilokab</title>
@@ -1341,7 +1285,7 @@ y que habló por los profetas.</p>
     <key>ILOKAB</key>
     <ximenez_spa>ílocab</ximenez_spa>
     <ximenez_quc>ílocab</ximenez_quc>
-    <description>Description forthcoming.</description>
+    <description><p>The Ilokab’ were “a prominent Quiche lineage in the fifteenth and sixteenth centuries associated with the day K’at” (Edmonson 1965:46; Ximénez 1985:315). At Utatlán, the Ilokab’ was the least influential lineage (Carmack 1981:163, table 6.2). The Ilokab', the Tamub’, and the Nija’ib’ “shared administration of [Chialotz Usaqib’alja]” (Carmack 2009:106n36; see Carmack 1981:157; notes 13–14).</p></description>
   </topic>
   <topic>
     <title>Istayul</title>
@@ -1424,7 +1368,7 @@ y que habló por los profetas.</p>
     <title>Ixkik&#039;</title>
     <type>deidad</type>
     <nid>688</nid>
-    <key>IXKIK</key>
+    <key>IXKIK'</key>
     <ximenez_spa> xquic</ximenez_spa>
     <ximenez_quc>xquíc </ximenez_quc>
     <description><p>Lady Blood, or <em>Ixkik’</em>, is the daughter of <em>Kuchuma Kik’ </em>(“Gathered Blood”), a Lord of Xibalba. She escapes from Xibalba after being impregnated by the skull of <em>Jun Junajpu</em>. Her encounters during her escape, and her role in the birth of the Hero Twins, <em>Junajpu </em>a <em>Xb’alanke</em>, portrays a powerful female figure in the <em>Popol Wuj </em> in face of the Lords’ desire to sacrifice her.</p>
@@ -1483,7 +1427,7 @@ y que habló por los profetas.</p>
     <title>Ixpuch&#039;</title>
     <type>deidad</type>
     <nid>728</nid>
-    <key>IXPUCH</key>
+    <key>IXPUCH'</key>
     <ximenez_spa>xpuch</ximenez_spa>
     <ximenez_quc>xpuch</ximenez_quc>
     <description><p><em>Ixpuch'</em> is one of the women sent by the enemy nations to seduce the gods of the K'iche' people, <em>Tojil, Awilix</em>, and <em>Jaqawitz</em>. Christenson provides two interpretations of this name: in one sense, it could be from the K'iche' word <em>puch'</em>, which "is 'weeping from illness or pain rather than sadness'" or from the Keqchi or Poqom languages, where "<em>puch </em>is 'washing clothes,' with the connotation of 'menstruating'" (2007: 241, note 641). For more information, <a href="http://multepal.spanitalport.virginia.edu/tema/xtajxpuch">see the entry on <em>Xtaj </em>and <em>Xpuch</em>'</a>.</p></description>
@@ -1492,7 +1436,7 @@ y que habló por los profetas.</p>
     <title>Ixq&#039;anil</title>
     <type>deidad</type>
     <nid>690</nid>
-    <key>IXQANIL</key>
+    <key>IXQ'ANIL</key>
     <ximenez_spa>xcanil</ximenez_spa>
     <ximenez_quc>xcanil</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/QanilDay.PNG?itok=NzjN2H5e" width="100" height="76" title="&quot;Cartouche&quot; day sign for Q&#039;anil. / &quot;Cartucho&quot; jeroglífico del día Q&#039;anil" /></image>
@@ -1510,10 +1454,10 @@ y que habló por los profetas.</p>
     <description><p><em>Xtaj, </em>translated as Lady Lust by Christenson, is one of the two women sent by the enemy nations to seduce the three gods of the K'iche' people, <em>Tojil, Awilix, </em>and <em>Jaqawitz</em>. According to Christenson, in the name <em>Xtaj</em>, "<em>X-</em> is the prefix indicating 'female,' or a diminuitive such as 'little.' <em>Taj </em>is 'sexual desire, lust, or promiscuity.'" (2007: 241, note 640). For more information, <a href="http://multepal.spanitalport.virginia.edu/tema/xtajxpuch">see the page on <em>Xtaj </em>and <em>Xpuch</em></a>.</p></description>
   </topic>
   <topic>
-    <title>Ixtaj and Ixpuch&#039;</title>
+    <title>Ixtaj Ixpuch&#039;</title>
     <type>grupo de deidades</type>
     <nid>1385</nid>
-    <key>XTAJ_XPUCH</key>
+    <key>IXTAJ_IXPUCH'</key>
     <ximenez_spa>xtah, xpuch</ximenez_spa>
     <ximenez_quc>xtah, xpuch</ximenez_quc>
     <description><p>When the first four K’iche’ men, Balam K’itze’, Balam Aq’ab, Majuk’utaj and Ik’ibalam, begin their sacrificial killings to the gods <em>Tojil, Awilix, </em>and <em>Jakawitz</em>, the enemies of the K’iche’ plan to defeat the K’iche’ and thus avenge the deaths of their people. Their plan involves sending two of their best maidens, <em>Xtaj </em>and <em>Xpuch’</em>, who will wash their clothes in the river where the gods are, and thus offer themselves and their bodies to the gods. As proof of their mission, the nations require the maidens to return with a sign that they indeed offered themselves to the gods. Otherwise, they will kill them upon return. The women return with three robes painted with the images of a jaguar, an eagle, and hornets, although they have failed to seduce the gods. When a lord puts on a robe, the animals come to life. The third cape, painted with hornets, severely stings one of the lords, leading the people to blame the maidens.</p>
@@ -1548,7 +1492,7 @@ y que habló por los profetas.</p>
     <title>Ixtziya&#039;</title>
     <type>deidad</type>
     <nid>692</nid>
-    <key>IXTZIYA</key>
+    <key>IXTZIYA'</key>
     <ximenez_spa> tu q&#039;eres</ximenez_spa>
     <ximenez_quc>tziya </ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/Tz%27i%27Day.PNG?itok=KX3_6BW1" width="100" height="77" title="&quot;Cartouche&quot; day sign for Tz&#039;i&#039;. / &quot;Cartucho&quot; jeroglífico del día Tz&#039;i&#039;" /></image>
@@ -1560,7 +1504,7 @@ y que habló por los profetas.</p>
     <title>Ja chi q&#039;aq&#039; (Casa de Fuego)</title>
     <type>lugar</type>
     <nid>1558</nid>
-    <key>JA_CHI_QAQ</key>
+    <key>JA_CHI_Q'AQ'</key>
     <ximenez_spa>casa de fuego</ximenez_spa>
     <ximenez_quc>ha chiꜫaꜫ</ximenez_quc>
     <description><p>One of the challenge houses in Xibalba, which only appears in the <em>Junjapu </em>and <em>Xbalamke </em>episode.</p>
@@ -1571,7 +1515,7 @@ y que habló por los profetas.</p>
     <title>Ja&#039; Simaj (Scorpion River)</title>
     <type>topónimo</type>
     <nid>1057</nid>
-    <key>JA_SIMAJ</key>
+    <key>JA'_SIMAJ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;River Scorpion&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>palos puntíagudos</ximenez_spa>
@@ -1732,7 +1676,7 @@ y su reino no tendrá fin.</p>
     <title>Jun Batz&#039;</title>
     <type>deidad</type>
     <nid>669</nid>
-    <key>JUN_BATZ</key>
+    <key>JUN_BATZ'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;One (Spider) Monkey&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>hun batz</ximenez_spa>
@@ -1743,6 +1687,32 @@ y su reino no tendrá fin.</p>
 <p>Christenson (2007: note 311, page 125) explains the ceremony as such: "This passage likely refers to female manifestations of three of the days in the traditional highland Maya calendar—<em>Toj</em>, <em>Q'anil</em>, and <em>Tz'i'</em> (Ruud van Akkeren, personal communication). These are consecutive days, although the order should be <em>Q'anil</em>, <em>Toj,</em> and then <em>Tz'i</em>'. Modern <em>aj q'ij </em>priests invoke the days of the calendar in their prayers and ceremonies as lords and attribute to them specific power to bless or to punish. Thus they conceive of the days as living beings with personalities and specific spheres of influence. <em>Toj</em> is 'tribute or payment.' Metaphorically it may also be 'punishment or illness' caused by sin."</p>
 
 <p>He continues: "In her note on <em>Toj</em>, as one of the named days in the traditional Quiché calendar, Ruth Bunzel quotes an <em>aj q'ij</em> priest collaborator: '<em>T'oj</em> (enfermedad, sickness). Symbolizes the suffering which is caused by sin. ‘This is a bad day, a day of sickness. On the day <em>t'oj</em> one burns incense in the house for the Lord of Sickness. <em>T'oj</em> is also a day for calling sickness to punish an enemy. If divination comes out in 7 <em>qanil</em>, 8 <em>toj</em>, 9 <em>ts'i'</em> it is bad. These are bad days. The content of <em>qanil</em> is corn, or the milpa, <em>toj</em> is sickness, <em>ts'i'</em>, 'dog,' some shameless act. When one has a sickness of the body that is like a worm eating the flesh, we call this <em>xu jut qanil</em>, which is a worm that is found sometimes in the milpa [maizefield]. When this worm gets into the body and eats at the flesh then it is because of these days. For this sickness comes from stealing corn or else it may be due to sorcery, for they are the days of sorcery also. For instance, if a man finds that his milpa has been robbed he goes to his milpa at midnight, breaks off an ear of corn and places a candle between the two halves, and asks San Jacinto and San Augustín, the patrons of the milpa to punish the robber, and he calls the days 7 <em>qanil</em>, 8 <em>t'oj</em>, 9 <em>ts'i'</em> to punish him. Then after a time the man who has stolen the corn will suffer from this disease, which is like cancer and ulcers. This is the meaning of these days' (Bunzel 1952, 282-283)."</p></description>
+  </topic>
+  <topic>
+    <title>Jun Batz&#039; Jun Chowen (Hermanos Artesanos)</title>
+    <type>grupo de deidades</type>
+    <nid>909</nid>
+    <key>JUN_BATZ'_JUN_CHOWEN</key>
+    <ximenez_spa>hun batz y hun chouen</ximenez_spa>
+    <ximenez_quc>hun batz hun chouen</ximenez_quc>
+    <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/JBJC_0.jpg?itok=b9YlPmwx" width="100" height="37" /></image>
+    <description><p><em>Junb’atz’ </em>y <em>Junchouen</em> son hijos gemelos de <em>Xbaquiyalo </em>y <em>Jun Junajpu</em>, pero son mejor conocidos como los Hermanos Artesanos, destacados por su sabiduría y sus habilidades en varias áreas artesanas (Recinos 1976: 60). Los sabios abuelos les enseñaban "las artes y el trabajo," tal como Sam Colop (2008: 62) traduce la expresión del idioma k'iche' al castellano, incluso las artes bellas (la música, la escritura-pintura) y las artes técnicas (la ofebrería en plata, oro y sagradas piedras preciosas como el jade). Cabe recordar que en el idioma k'iche' el dominio de las letras, mejor conocida como <em>ajtz'ib</em>, abarca toda clase de literalidades gráficas o "escritura sin letra", como así la denomina Walter Mignolo (2003: 319). Es así la razón por la cual se entiende el nombre "Aj Chuen" como "artesano" (Recinos 1949: segunda parte, nota 4, citando el<em> Diccionario de Motul</em>). Por su parte, Colop (2008: nota 71) apunta que <em>Batz'</em> es "un día del calendario" y <em>Chowen</em> "es su equivalente en idioma yucateco." El lingüística k'iche' Adrián Inés Chávez (1981: •••) afirma que <em>Batz' </em>quiere decir "mono" en el idioma k'iche' y que <em>Chowen</em> tiene el mismo significado en los idiomas mayas de las tierras bajas, por ejemplo el maya yucateco. (Aquí señalamos que el libro de Chávez (1981) utiliza la paginación de los numerales mayas.)</p>
+
+<p>No obstante esta notable sabiduría mecánica, la envidia que tienen los hermanos artesanos hizo que “sino q’ en ellos estuuo la venganza desus corazones / yoc qui qux maui banoh” (18r). Esta envidia viene de la entrada de Ixkik y los dos muchachos, en ese momento todavía niños. Los Hermanos Artesanos abusan de sus hermanos menores. Por no respectar las normas de la comunidad y la cultura del buen tratamiento de los hermanos menores, los Hermanos Artesanos se convierten en monos. Concluye el traductor Adrián Recinos, “De esta manera sufrieron sus corazones; así fue su pérdida y fueron destruidos Hunbatz y Hunchouén” (1976: 83).</p>
+
+<p>La historia y el significado de los nombres de los Hermanos Artesanos muestran la importante conexión cultural entre el arte y el mono en la cultura maya. El lingüista Sam Colop dice que “<em>Batz’ </em>es también un día del calendario, y Chowen es su equivalente en idioma yucateco” (2008: 62, nota 71). El historiador y lingüista Adrian Recinos cita al Dominicano fray Bartolomé de Las Casas, quien dice que “Los pintores y talladores de Yucatán invocaban a <em>Hunchevén </em>y <em>Hunahau</em>, que eran los hijos de <em>Ixchel </em>e <em>Itzamná</em> (la diosa y el dios que veneraban los mayas de la península)” (1976: 83, nota 23). Hoy en día se observa el significado del día <em>B’atz’</em> (en idioma maya k’iche’) o <em>Chuwen</em> (en maya yucateco), en el sagrado calendario de los mayas. Según apunta el señalado <em>Chol q’ij</em>, los nombres de tales días simbolizan “el destino de las personas y la continuidad con el pasado. Es el hilo del tiempo y desarrollo de la humanidad y de la naturaleza” (“El Significado de los Días…”). De hecho, se observan estas conexiones en el arte del periodo clásico (250-900 CE), por ejemplo en las dos imágenes con obras de cerámica, pintura, donde se ve los monos en el proceso de escribir en un objeto tal como un libro. En otras palabras, no es una coincidencia que los artesanos se asocian lingüísticamente con los monos en diversos pueblos mayas, incluyendo los k’iche’ y los yucatecos. Son conexiones culturales que van más allá del idioma.</p>
+
+<p>Las deidades de Junb’atz’ y Junchouen enseñan que el arte ha sido y todavía es una parte integral de la cultura maya, dado que estas culturas comparten elementos lingüísticos y prácticas espirituales. Sin embargo, el ejemplo de los Hermanos Artesanos también enseña que el soberbio no se acepta en la cultura k’iche’. Las consecuencias negativas de los celos, como las hemos observado en el caso de los Hermanos Artesanos, son de por vida.</p>
+
+<p><em>Junb’atz’ </em>and <em>Junchouen</em>, known throughout the <em>Popol Wuj </em>as the Artisan Brothers, because of their accomplishments in music, writing, and carving (of wood and stones), are the twin children of Xbaquiyalo and Jun Junajpu, from whom they may have inherited these abilities (Christenson 2007: 113).</p>
+
+<p>Despite being such wise and excellent artists, their skills go unrealized because of their envy, born with the introduction of Lady Blood (Ixkik’) and her children, the hero twins Junajpu and Xb’alanke. Their appearance causes Junb’atz’ and Junchouen to abuse and neglect their younger brothers. When the hero twins ask their older brothers to bring down the hunted birds that are stuck at the top of the tall Yellow Tree (name?), the Artisan Brothers are brought down by pride. As punishment, they are transformed into spider monkeys. In this way, their artistic mastery is limited by their violation of K’iche’ kinship customs, reducing the degree of worship they would have received. Their mistreatment of the hero twins, according to Christenson, “is a serious breach of highland Maya attitudes toward children, particularly infants” (2007: 140, note 321). It is perhaps for this reason that sixteenth-century Dominican friar Bartolomé de Las Casas reported that “All the skilled artisans…worshiped and made sacrifices to those younger sons called Huncheven and Hunahan…but although they worshiped them as divine men, they were not held as gods in general, nor superior to all others” (Christenson 2007: 147, note 346).</p>
+
+<p>Different Maya cultures associate the Artisan Brothers with the calendar. According to Christenson, “<em>B’atz’</em> is the Quiché word for the howler monkey. It is also one of the named days from the traditional highland Maya calendar” (2007: 113, note 224). In the <em>Chol Q’ij</em>, the sacred Mayan calendar, this day symbolizes “people’s destiny and the continuity with the past. It is the thread of time and the development of humankind and nature,” connecting the day with the etymology of its <em>b’atz’ </em>coming from the word for “thread” (“The Meaning of the Days…”). Yucatec Mayan linguistics also reveal a symbolic connection between artisans and monkeys. As Christenson notes, the Yucatec word “<em>Chouen</em> is derived from the Yucatec Maya word <em>chuen</em>, meaning ‘howler monkey.’ In addition, <em>aj chuen</em> is a title meaning “artisan,” a reading consistent with the artistic nature of these twins” (2007: 113, note 225). Yucatec sources call the monkey twins <em>yaxal chuen</em>, or “first artisan” (Tedlock 1996: 250). Indeed, the depiction of the twins as monkeys can be traced to artwork of the Classic Maya period (250-900 CE), where “Twin monkey scribes appear frequently…as patrons of writing” (Christenson 2007: 113, note 225). For an analysis of the brothers' (or brother's) role in political rivalries between the Kaweq lineage and the ruling dynasties of Verapaz, see van Akkeren (2003).</p>
+
+<p>Scholars disagree on how to classify the artisan work of Junb’atz’ and Junchouen. For Mayanist Allen J. Christenson, the brothers’ three sets of skills, coupled into pairs – music and song, writing and sculpting, jadework and metalwork – reinforces the parallelism of the text. The specific pairing of writing with sculpture suggests that “the authors of painted codices are closely associated with those who carve inscriptions on stone monuments,” reinforcing “the view that the <em>Popol Vuh </em>is based on a painted text” (2003: 114-5, note 230). Dennis Tedlock places them in two groups of three: flautists, singers, and writers, and sculptors, jadeworkers, and metalsmiths working with gold and silver (1996: 250). For Tedlock, the connection between artisan labor and spoken or sung words points to the <em>Popol Wuj</em>’s origins as an oral tradition.</p>
+
+<p>The depiction of the Artisan Brothers in the <em>Popol Wuj</em> serves as both an appreciation for the arts and an example of the punishment for violating cultural customs in kinship relationships, no matter how talented or skilled they were. The history and etymology of their names are representations of their inherent connection to monkeys and artisans, shedding light on the mysterious existence of an oral or written pre-Hispanic <em>Popol Wuj</em>. However, no amount of artistry permits the breaking of family relationships, whose consequences, just as the Artisan Brothers experienced, transcend their own lifetime.</p></description>
   </topic>
   <topic>
     <title>Jun Chowen</title>
@@ -1758,21 +1728,7 @@ y su reino no tendrá fin.</p>
 
 <p>Iconographic evidence supports the traditional connection between Jun Chowen, master artisan, and the act of writing, as represented in monkey scribes:</p>
 
-<div class="media media-element-container media-default"><div class="ds-3col-equal file file-image file-image-jpeg view-mode-default clearfix">
-
-  
-  <div class="group-left">
-    <a href="https://multepal.spanitalport.virginia.edu/sites/default/files/images/2870c%20monkey%20scribe.jpeg" title="Kerr #2870c. &quot;Maya. stone. height 55.6 cm. Excavated Copan structure 9N-82. Monkey scribe, Pauahtun. He sits with paint brush and shell paint container. Published The Blood of Kings p. 151. See 2870b &amp; a for other views&quot;" class="colorbox" data-colorbox-gallery="gallery-all-OC19PiwlBg8" data-cbox-img-attrs="{&quot;title&quot;: &quot;Kerr #2870c. &quot;Maya. stone. height 55.6 cm. Excavated Copan structure 9N-82. Monkey scribe, Pauahtun. He sits with paint brush and shell paint container. Published The Blood of Kings p. 151. See 2870b &amp; a for other views&quot;&quot;, &quot;alt&quot;: &quot;Kerr #2870c&quot;}"><img class="media-element file-default img-responsive" data-delta="1" alt="Kerr #2870c" title="Kerr #2870c. &quot;Maya. stone. height 55.6 cm. Excavated Copan structure 9N-82. Monkey scribe, Pauahtun. He sits with paint brush and shell paint container. Published The Blood of Kings p. 151. See 2870b &amp; a for other views&quot;" src="https://multepal.spanitalport.virginia.edu/sites/default/files/styles/medium/public/images/2870c%20monkey%20scribe.jpeg?itok=ReMluGx3" width="173" height="220" /></a>  </div>
-
-  <div class="group-middle">
-      </div>
-
-  <div class="group-right">
-      </div>
-
-</div>
-
-</div></description>
+<p><img alt="Kerr #2870c" class="media-element file-default" data-delta="1" data-fid="219" data-media-element="1" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/medium/public/images/2870c%20monkey%20scribe.jpeg?itok=ReMluGx3" title="Kerr #2870c. &quot;Maya. stone. height 55.6 cm. Excavated Copan structure 9N-82. Monkey scribe, Pauahtun. He sits with paint brush and shell paint container. Published The Blood of Kings p. 151. See 2870b &amp;amp; a for other views&quot;" /></p></description>
   </topic>
   <topic>
     <title>Jun Junajpu</title>
@@ -1954,7 +1910,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ajolom</title>
     <type>deidad</type>
     <nid>630</nid>
-    <key>KAJOLOM</key>
+    <key>K'AJOLOM</key>
     <ximenez_spa>qaholom</ximenez_spa>
     <ximenez_quc>qaholom</ximenez_quc>
     <description><p>Colop (2008: nota 2, página 201) señala que el nombre <em>K'ajolom</em> "viene de <em>k'ajol</em>, 'niño' o 'hijo de varón'", y que en esta manera el dios K'ajolom forma la necesaria parte complimentaria a la diosa Alom, cuyo nombre "viene de <em>ali</em>, 'niña'". Sigue el destacado traductor: "La partícula <em>-om</em> es un agentivo que hace referencia a su calidad de mujer que 'concibe' y al varón que 'engendra', respectivamente. Éstos son adjetivos que hacen referencia a la pareja creadora en una lectura antropomórfica".</p>
@@ -1965,7 +1921,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ayala&#039;</title>
     <type>topónimo</type>
     <nid>749</nid>
-    <key>KAYALA</key>
+    <key>K'AYALA'</key>
     <ximenez_spa>cayala</ximenez_spa>
     <ximenez_quc>cayala</ximenez_quc>
     <description><p>One of the places (along with Paxil) where maize originates.</p>
@@ -1980,7 +1936,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;enech Ajaw</title>
     <type>deidad</type>
     <nid>714</nid>
-    <key>KENECH_AJAW</key>
+    <key>K'ENECH_AJAW</key>
     <ximenez_spa>quenech, ahau</ximenez_spa>
     <ximenez_quc>quenech, ahau</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -1989,7 +1945,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ikab</title>
     <type>persona</type>
     <nid>1540</nid>
-    <key>KIKAB</key>
+    <key>K'IKAB</key>
     <ximenez_spa>Quícab</ximenez_spa>
     <ximenez_quc>Quicab</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -1998,7 +1954,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ikab (gen. 10)</title>
     <type>persona</type>
     <nid>1468</nid>
-    <key>KIKAB_KQDIEZ</key>
+    <key>K'IKAB_KQDIEZ</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Tenth generation of the Kaweq lineage.</p>
@@ -2009,7 +1965,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ikab (gen. 7)</title>
     <type>persona</type>
     <nid>1507</nid>
-    <key>KIKAB_KQSIETE</key>
+    <key>K'IKAB_KQSIETE</key>
     <ximenez_spa>ꜫae quicab</ximenez_spa>
     <ximenez_quc>eꜫaꜫ quicab</ximenez_quc>
     <description><p>Recinos (2012: 179fn44) observa que <em>Cag-Quicab</em>, "de muchos brazos, interpreta Ximénez. Puede ser el de las manos de fuego."</p>
@@ -2024,7 +1980,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;o&#039;ajaw (gen. 2)</title>
     <type>persona</type>
     <nid>844</nid>
-    <key>KOAJAW_AKDOS</key>
+    <key>K'O'AJAW_AKDOS</key>
     <ximenez_spa>qoahau</ximenez_spa>
     <ximenez_quc>qoahau</ximenez_quc>
     <description><p>Second generation of the Ajaw K'iche' lineage. Allen Christenson (2007: 256) renders the name of the son of Majuk'utaj as "Co Ahau."</p>
@@ -2035,7 +1991,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;o&#039;akul</title>
     <type>linaje</type>
     <nid>939</nid>
-    <key>KOAKUL</key>
+    <key>K'O'AKUL</key>
     <ximenez_spa>Coacul</ximenez_spa>
     <ximenez_quc>Coacul</ximenez_quc>
     <description><p>Son of Balam Aq'ab, the founder of the Nija'ib' lineage. Translators interpret the members of the second generation in different ways.</p>
@@ -2052,7 +2008,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;o&#039;akul (gen. 2)</title>
     <type>persona</type>
     <nid>1477</nid>
-    <key>KOAKUL_NJDOS</key>
+    <key>K'O'AKUL_NJDOS</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Second generation of the Nija'ib lineage.</p>
@@ -2063,7 +2019,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;o&#039;akutek (gen. 2)</title>
     <type>persona</type>
     <nid>843</nid>
-    <key>KOAKUTEK_NJDOS</key>
+    <key>K'O'AKUTEK_NJDOS</key>
     <ximenez_spa>qoacutec</ximenez_spa>
     <ximenez_quc>qoacutec</ximenez_quc>
     <description><p>Second generation of the Nija'ib lineage.</p>
@@ -2074,7 +2030,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ochajuj</title>
     <type>linaje</type>
     <nid>943</nid>
-    <key>KOCHAJUJ</key>
+    <key>K'OCHAJUJ</key>
     <ximenez_spa>cochahuh</ximenez_spa>
     <ximenez_quc>cochahuh</ximenez_quc>
     <description><p>Christenson (2007: note 871, p. 283) translates <em>K'o Chajuj</em> as "Lord Guardian."</p>
@@ -2085,7 +2041,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ochajuj (gen. 3)</title>
     <type>persona</type>
     <nid>1479</nid>
-    <key>KOCHAJUJ_NJTRES</key>
+    <key>K'OCHAJUJ_NJTRES</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Third generation of the Nija'ib lineage.</p>
@@ -2096,7 +2052,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ojaj</title>
     <type>linaje</type>
     <nid>813</nid>
-    <key>KOJAJ</key>
+    <key>K'OJAJ</key>
     <ximenez_spa>cohah</ximenez_spa>
     <ximenez_quc>cohah</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2105,7 +2061,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;oka&#039;ib</title>
     <type>persona</type>
     <nid>840</nid>
-    <key>KOKAIB</key>
+    <key>K'OKA'IB</key>
     <ximenez_spa> qocaíb</ximenez_spa>
     <ximenez_quc>qocaib </ximenez_quc>
     <description><div>
@@ -2132,7 +2088,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;okamel (gen. 7)</title>
     <type>persona</type>
     <nid>1000</nid>
-    <key>KOKAMEL_AKSIETE</key>
+    <key>K'OKAMEL_AKSIETE</key>
     <ximenez_spa>Cocamel</ximenez_spa>
     <ximenez_quc>Cocamel</ximenez_quc>
     <description><p>Seventh generation of the Ajaw K'iche' lineage.</p>
@@ -2147,7 +2103,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;okosom (gen. 4)</title>
     <type>persona</type>
     <nid>993</nid>
-    <key>KOKOSOM_AKCUATRO</key>
+    <key>K'OKOSOM_AKCUATRO</key>
     <ximenez_spa>Cocozom</ximenez_spa>
     <ximenez_quc>Cocozom</ximenez_quc>
     <description><p>Fourth generation of the Ajaw K'iche' lineage.</p>
@@ -2162,7 +2118,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;oqawib</title>
     <type>persona</type>
     <nid>1492</nid>
-    <key>KOQAWIB</key>
+    <key>K'OQAWIB</key>
     <ximenez_spa>qocauíb</ximenez_spa>
     <ximenez_quc>qocavib chic</ximenez_quc>
     <description><div>
@@ -2181,7 +2137,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;oqawib (gen. 2)</title>
     <type>persona</type>
     <nid>1453</nid>
-    <key>KOQAWIB_KQDOS</key>
+    <key>K'OQAWIB_KQDOS</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Second generation of the Kaweq lineage.</p>
@@ -2192,7 +2148,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otk&#039;owach (Escarbador)</title>
     <type>animal</type>
     <nid>649</nid>
-    <key>KOTKOWACH</key>
+    <key>K'OTK'OWACH</key>
     <ximenez_spa> cotcovach</ximenez_spa>
     <ximenez_quc>cotcovach </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2201,7 +2157,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otuja</title>
     <type>persona</type>
     <nid>1543</nid>
-    <key>KOTUJA</key>
+    <key>K'OTUJA</key>
     <ximenez_spa>Cotuha</ximenez_spa>
     <ximenez_quc>Cotuha</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2210,7 +2166,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otuja (gen. 4)</title>
     <type>persona</type>
     <nid>867</nid>
-    <key>KOTUJA_KQCUATRO</key>
+    <key>K'OTUJA_KQCUATRO</key>
     <ximenez_spa>cotuha</ximenez_spa>
     <ximenez_quc>cotuha</ximenez_quc>
     <description><p><em>K'o Tuja</em> means "Lord Sweatbath" (Christenson 2007: note 874, p. 283).</p>
@@ -2223,7 +2179,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otuja (gen. 5)</title>
     <type>persona</type>
     <nid>1458</nid>
-    <key>KOTUJA_KQCINCO</key>
+    <key>K'OTUJA_KQCINCO</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Fifth generation of the Kaweq lineage.</p>
@@ -2234,7 +2190,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otuja (gen. 5)</title>
     <type>persona</type>
     <nid>1482</nid>
-    <key>KOTUJA_NJCINCO</key>
+    <key>K'OTUJA_NJCINCO</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Fifth generation of the Nija'ib lineage.</p>
@@ -2245,7 +2201,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otuja (gen. 8)</title>
     <type>persona</type>
     <nid>953</nid>
-    <key>KOTUJA_NJOCHO</key>
+    <key>K'OTUJA_NJOCHO</key>
     <ximenez_spa>Cotuha</ximenez_spa>
     <ximenez_quc>Cotuha</ximenez_quc>
     <description><p><em>K'o Tuja</em> means "Lord Sweatbath" (Christenson 2007: note 874, p. 283). The name of the 8th Lord of the Nija'ib family line repeats from the 5th generation.</p>
@@ -2258,7 +2214,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otz&#039;ibaja</title>
     <type>linaje</type>
     <nid>945</nid>
-    <key>KOTZIBAJA</key>
+    <key>K'OTZ'IBAJA</key>
     <ximenez_spa>cotzíbaha</ximenez_spa>
     <ximenez_quc>cotzibaha</ximenez_quc>
     <description><p>Según apunta Sam Colop (2008: nota 395, página 216), <em>ko'</em> señala el estado noble del señor principal de los Nija'ib, mientras la voz k'iche' <em>tz'iba-aj </em>significa "casa de la pintura" o "casa de la escritura".</p>
@@ -2269,7 +2225,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;otz&#039;ibaja (gen. 3)</title>
     <type>persona</type>
     <nid>1480</nid>
-    <key>KOTZIBAJA_NJTRES</key>
+    <key>K'OTZ'IBAJA_NJTRES</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>Third generation of the Nija'ib lineage.</p>
@@ -2280,7 +2236,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;oyabakoj (gen. 8)</title>
     <type>persona</type>
     <nid>1001</nid>
-    <key>KOYABAKOJ_AKOCHO</key>
+    <key>K'OYABAKOJ_AKOCHO</key>
     <ximenez_spa>Coyabacoh</ximenez_spa>
     <ximenez_quc>Coyabacoh</ximenez_quc>
     <description><p>Eighth generation of the Ajaw K'iche' lineage.</p>
@@ -2295,7 +2251,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ulba</title>
     <type>topónimo</type>
     <nid>1177</nid>
-    <key>KULBA</key>
+    <key>K'ULBA</key>
     <ximenez_spa>culba</ximenez_spa>
     <ximenez_quc>culba</ximenez_quc>
     <description><p>One of the four divisions of the citadel of Chi K'ix</p>
@@ -2306,7 +2262,7 @@ y su reino no tendrá fin.</p>
     <title>K&#039;ulku Siwan (Barranco ruidoso)</title>
     <type>topónimo</type>
     <nid>735</nid>
-    <key>KULKU_SIWAN</key>
+    <key>K'ULKU_SIWAN</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Murmuring Canyon&lt;/li&gt;
 &lt;li&gt;Gurgling Canyon&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -2323,22 +2279,22 @@ y su reino no tendrá fin.</p>
     <title>Ka&#039;</title>
     <type>herramienta</type>
     <nid>1257</nid>
-    <key>KA</key>
+    <key>KA'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;grindstone&lt;/li&gt;
 &lt;li&gt;metate&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/mexilore.jpg?itok=QQDUAY-u" width="100" height="90" /></image>
-    <description><p><img alt="http://research.mayavase.com/kerrmaya_hires.php?vase=1272" data-delta="1" data-fid="209" data-media-element="1" height="450" title="http://research.mayavase.com/kerrmaya_hires.php?vase=1272. Kerr #1272: &quot;Plate. Woman grinding on a metate with mano. A man smoking watches. She could be grinding either corn for masa or tobacco.&quot;" typeof="foaf:Image" width="450" class="media-element file-default" src="http://live-multepal.pantheonsite.io/sites/default/files/images/1272.jpeg" /></p>
+    <description><p><img alt="http://research.mayavase.com/kerrmaya_hires.php?vase=1272" class="media-element file-default" data-delta="1" data-fid="209" data-media-element="1" height="450" src="http://live-multepal.pantheonsite.io/sites/default/files/images/1272.jpeg" title="http://research.mayavase.com/kerrmaya_hires.php?vase=1272. Kerr #1272: &quot;Plate. Woman grinding on a metate with mano. A man smoking watches. She could be grinding either corn for masa or tobacco.&quot;" typeof="foaf:Image" width="450" /></p>
 
-<p><img alt="http://research.mayavase.com/portfolio_hires.php?search=metate&amp;amp;date_added=&amp;amp;image=5177ff&amp;amp;display=8&amp;amp;rowstart=0" data-delta="2" data-fid="210" data-media-element="1" height="281" title="http://research.mayavase.com/portfolio_hires.php?search=metate&amp;amp;date_added=&amp;amp;image=5177ff&amp;amp;display=8&amp;amp;rowstart=0. Kerr Portfolio #5177, &quot;http://research.mayavase.com/portfolio_hires.php?search=metate&amp;amp;date_added=&amp;amp;image=5177ff&amp;amp;display=8&amp;amp;rowstart=0&quot;" typeof="foaf:Image" width="450" class="media-element file-default" src="http://live-multepal.pantheonsite.io/sites/default/files/images/5177ff.jpeg" /></p></description>
+<p><img alt="http://research.mayavase.com/portfolio_hires.php?search=metate&amp;amp;date_added=&amp;amp;image=5177ff&amp;amp;display=8&amp;amp;rowstart=0" class="media-element file-default" data-delta="2" data-fid="210" data-media-element="1" height="281" src="http://live-multepal.pantheonsite.io/sites/default/files/images/5177ff.jpeg" title="http://research.mayavase.com/portfolio_hires.php?search=metate&amp;amp;date_added=&amp;amp;image=5177ff&amp;amp;display=8&amp;amp;rowstart=0. Kerr Portfolio #5177, &quot;http://research.mayavase.com/portfolio_hires.php?search=metate&amp;amp;date_added=&amp;amp;image=5177ff&amp;amp;display=8&amp;amp;rowstart=0&quot;" typeof="foaf:Image" width="450" /></p></description>
   </topic>
   <topic>
     <title>Ka&#039;ib&#039; K&#039;ajolab&#039; (Dos Muchachos)</title>
     <type>deidad</type>
     <nid>666</nid>
-    <key>KAIB_KAJOLAB</key>
+    <key>KA'IB_K'AJOLAB</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Two Boys&lt;/li&gt;
 &lt;li&gt;Hero Twins&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -2401,10 +2357,23 @@ y su reino no tendrá fin.</p>
 </div></description>
   </topic>
   <topic>
+    <title>Kajib unim ja (Cuatro Casas Grandes)</title>
+    <type>linaje</type>
+    <nid>1010</nid>
+    <key>KAJIB_UNIM_JA</key>
+    <ximenez_spa>quatro casas grandes</ximenez_spa>
+    <ximenez_quc></ximenez_quc>
+    <description><p>The Lords of the Four Great Houses are Ajtzik Winaq Ajaw, Lolmet Ajaw, Nim Ch'okoj Ajaw, and Jaqawitz.</p>
+
+<p>With the three Great Houses that preceed them in the text -- Kaweq, Ajaw K'iche', Nija'ib -- the final section of the <em>Popol Wuj</em> reaffirms the number seven.</p>
+
+<p>In Mayan epigraphic systems, the number seven is represented as a large scroll that passes underneath the eye and curls under the forehead. This image and its numeral signifier is repeated in several buildings of the Dzibilchaltun (Writing Upon Stone) site in Yucatán, most notably the Seven Dolls Complex. Dzibilchaltun is located 21 kilometers from the present-day center of Mérida, Yucatán. For an extensive discussion of Maya numbers, mathematics, and cosmological repetition, see Colin Renfrew and Iain Morley's edited volume <em>The Archaeology of Measurement: Comprehending Heaven, Earth and Time in Ancient Societies</em> (Cambridge: Cambridge University Press, 2010).</p></description>
+  </topic>
+  <topic>
     <title>Kak&#039;ix Tukur (Tecolote Guacamaya)</title>
     <type>deidad</type>
     <nid>685</nid>
-    <key>KAKIX_TUKUR</key>
+    <key>KAK'IX_TUKUR</key>
     <ximenez_spa>guacamaya tecolote</ximenez_spa>
     <ximenez_quc>guacamaya tecolote</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2413,7 +2382,7 @@ y su reino no tendrá fin.</p>
     <title>Kak&#039;ixa Ja&#039;</title>
     <type>persona</type>
     <nid>711</nid>
-    <key>KAKIXAJA</key>
+    <key>KAK'IXA_JA'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;&quot;Macaw House&quot;&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>caqúíxa ha</ximenez_spa>
@@ -2427,7 +2396,7 @@ y su reino no tendrá fin.</p>
     <title>Kamalotz&#039; (murciélagos decapitadores)</title>
     <type>deidad</type>
     <nid>650</nid>
-    <key>KAMALOTZ</key>
+    <key>KAMALOTZ'</key>
     <ximenez_spa>camalotz</ximenez_spa>
     <ximenez_quc>camalotz</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2451,7 +2420,7 @@ y su reino no tendrá fin.</p>
     <ximenez_spa> ꜫaꜫabe</ximenez_spa>
     <ximenez_quc>colorado </ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/elk%27in%20%28codex%20madrid%20108b%29.png?itok=_pXRzcUM" width="100" height="84" alt="elk&#039;in (lak&#039;iin)" title="elk&#039;in (lak&#039;iin | este | east)" /></image>
-    <description><p>When the Hero Twins first arrive at the crossroads of Xilbaba, they face four possible paths: the red way, black way, white way, and yellow way. Ximénez calls them, in colonial K'iche', "hun ꜫaꜫabe, hun cut queca be, zaqui be hun, hun cut eana be cahib be" (14r); he translates these names straightforwardly into Spanish as "camino rojo," "camino negro," "camino blanco," and "camino amarillo." When the twins emerge from Xibalba, the "camino amarillo" (yellow road/cahib be) becomes a "camino verde" (green road/raxa be), indicating an important relationship between color, space, and time (23v).</p>
+    <description><p>When the Hero Twins first arrive at the crossroads of Xilbaba, they face four possible paths: the red way, black way, white way, and yellow way. In Maya cosmovision, the color red represents power and authority (Ajpub' Pablo García Ixmatá 2010: 227). For his part, Ximénez calls them, in colonial K'iche', "hun ꜫaꜫabe, hun cut queca be, zaqui be hun, hun cut eana be cahib be" (14r); he translates these names straightforwardly into Spanish as "camino rojo," "camino negro," "camino blanco," and "camino amarillo." When the twins emerge from Xibalba, the "camino amarillo" (yellow road/cahib be) becomes a "camino verde" (green road/raxa be), indicating an important relationship between color, space, and time (23v).</p>
 
 <p>Each physical route at the cross-roads leads to a different spiritual path, one that is brought into order by a particular divine force. <a href="http://live-multepal.pantheonsite.io/content/cuatro-en-espacio-y-tiempo">The four-part division into the cardinal points reflects the four "cornerings," "sidings," "measurings," and "stakings" of the world, as understood in Maya cosmology as an act of creation, or coming into being</a>. For example, the opening lines of the <em>Popol Wuj</em> use parallel structure to describe the four corners of the earth. Allen Christenson notes that the balanced quatrain's "four-fold symmetry" might be one way in which the aesthetics of the text mirror "the four-fold nature of the universe" (<em>Literal Poetic Translation</em>, fn10p15). The key lines are, in Christenson, "Its four cornerings, / Its four sidings, / Its measurings, / Its four stakings", ll. 66-69.</p>
 
@@ -2475,7 +2444,7 @@ y su reino no tendrá fin.</p>
     <title>Kaqa palo ja&#039;</title>
     <type>persona</type>
     <nid>708</nid>
-    <key>KAQAPALOJA</key>
+    <key>KAQA_PALO_JA'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;&quot;Sky Sea Horse&quot;&lt;/li&gt;
 &lt;li&gt;&quot;Red Sea Turtle&quot;&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -2510,9 +2479,17 @@ y su reino no tendrá fin.</p>
     <key>KAQULJA_JUN_RAQAN</key>
     <ximenez_spa>caculha huracan</ximenez_spa>
     <ximenez_quc>caculha huracan</ximenez_quc>
-    <description><p><em>Kaqulja Jun Raqan </em>is one of the gods that makes up the Heart of Sky [<em>Uk'u'x Kaj</em>]. Tedlock (1996: 224, note 65) explains that "The term for thunderbolt is <em>kaqulja </em>[caculha], referring to a shaft of lighting (with accompanying thunder), as contrasted with <em>koyopa</em>, referring to sheet lighting seen in the distance (without visible shafts or adubile thunder). Thunderbolt is a fitting addition to the name Hurrican (or 'one-legged') not only because hurricanes bring violent thunderstorms, but because lighting that strikes the ground is typically concentrated in one main shaft."</p>
+    <description><p>Sobre la compleja identidad de esta figura divina, el notable lingüísta k'iche' Sam Colop (2008: 26-27n21) observa que "El manuscrito dice <em>Uk'u'x Kaj</em>, literalmente 'Corazón del Cielo': huracán que Ximénez traduce como 'un pie' debido a que la palabra se compone de <em>jun</em>, 'uno' y <em>raqan</em>, 'su -- pie'. Sin embargo, el significado de <em>raqan</em> es más amplio, en el diccionario de Coto se utiliza para designar cosas grandes, largas o altas. De hecho, en Coto, la paalbra para decir 'gigante' está asociado a <em>hu rapah r'aqan</em>. De ahí que Brinton (1890: 122) sugiere que esa palabra hace referencia a la fuerza y poder de las tormentas tropicales, conocidas como huracanes. Es más Brinton propone que ese termino maya pasó a las Antillas donde la escucharon los navegantes europeos y luego pasó a formar parte del vocabulario de las lenguas indoeuropeas. <em>Kaqulja</em> es 'rayo', que implica la luz (relámpago) y trueno, mientras que <em>Koyopa</em> significa la luz pero sin snido o relámpago visto a distancia. <em>Ch'ip</em> se dice 'al ultimo' de las hijas o hijos y <em>Raxa</em> quiere decir 'verde, tierno, fresco' o como agrega Ximénez: 'cosa hermosa'. De esa cuenta <em>Kaqlja Jun Raqan</em> equivale a 'Rayo huracán' o sea fuerza poderosa; <em>Ch'ipa Kaqlja</em> (más adelante se escribe <em>ch'ipi</em>), literalmente 'Rayo más joven', fuerza en potencia y <em>Raxa Kaqlja</em> 'Raya hermoso' como la hermosura de su contraparte envueltos en plumas de quetzal en el mar reposado. Nótese que a 'Corazón del Cielo' se le identifica como 'Huracán', que implica su fuerza acuática en un espacio donde sólo existía el mar y el Cielo y luego se enumeran tres manifestaciones de sa fuerza". Por su parte el lingüista Adrián Recinos (1976: 31, nota 4) traduce su nombre como "rayo de una pierna, o sea el relámpago".</p>
 
-<p><em>Kaqulja Jun Raqan </em>es uno de los dioses que componen el dios <em>Uk'u'x Kaj</em>. El lingüista Adrián Recinos (1976: 31, nota 4) traduce su nombre como "rayo de una pierna, o sea el relámpago". El destacado lingüista Sam Colop (2008: 26-27, nota 21) agrega que "<em>Kaqulja </em>es 'rayo', que implica la luz (relámpago) y trueno, mientras que <em>Koyopa </em>significa la luz pero sin sonido o relámpago visto a distancia.... De esa cuenta <em>Kaqulja Jun Raqan </em>equivale a 'Rayo huracán' o sea fuerza poderosa".</p></description>
+<div>
+<div>
+<p>Alan Christenson (2007: 70n62) charts a similarly complex etymology, noting "The etymology of this god’s name is too complex and obscure to give a definitive translation. In its simplest interpretation, Juraqan means “One Leg.” Belief in a one-legged god was widespread throughout Precolumbian Mesoamerica. An important example was the Maya god K'awil (God GII of the Palenque Triad, who was often depicted with one anthropomorphic foot and the other a serpent), associated with kingship and the sky. Raqan, however, may also refer to the length or height of an object. The following line uses the name to refer to a bolt of lightning as a long flash of light. Coto interprets raqan as something “long or gigantic in size.” According to Dennis Tedlock’s Quiché collaborators, “leg” may also be used as a means of counting animate things, in the same way that we refer to the counting of “head” of cattle. “One Leg” might therefore mean “one of a kind” (D. Tedlock 1983a, 138). The god’s name would thus refer to his unique nature as the essential power of the sky. In addition, the homophonous word huracán was used along the Gulf Coast of Mexico and the West Indies to refer to powerful swirling winds. The modern English hurricane may be derived from the Taino version of this word (Recinos 1950, 83 n. 7; Hunt 1977, 242; D. Tedlock 1996, 223). This interpretation is consistent with the god’s nature as the “heart of the sky,” the eye of the hurricane forming the divine axis around which time and creation revolve in endless repetitive cycles of birth and destruction."</p>
+
+<p>After a thorough morphoemic analysis, Christenson (2007: 71n65) reflects on the symbolic properties of the three-pronged creator god. Thunderbolt Hurricane (Juraqan), Youngest Thunderbolt (Ch'i'pi Kaqulja), and Sudden Thunderbolt (Raxa Kaqulja) "comprise the power of the sky, symbolized by various aspects of the thunderbolt. Thunderstorms combine the elements of water (rain) and fire (lightning), which Quichés see as essential to all life. Lightning is also considered the force that fertilizes the earth and promotes the growth of crops. In modern Quiché society, lightning is believed to be the inspirational force of the sky. Modern aj q'ij priests take note of sensations within their bodies, which they call “lightning in the blood,” and interpret them as revelatory messages (B. Tedlock 1982, 133-147). Although Quiché gods are normally named in pairs, there are occasional appearances of a trinity, as in this case. The principal gods of the three ruling Quiché lineages were Tohil, Auilix, and Hacavitz (see p. 223). Quiché temples generally had three entrances (for reconstruction drawings of such temples, see Carmack 1981, 270, 273). The idea of a trinity in Maya cosmology may be very ancient. The largest of the Maya centers built prior to the birth of Christ was El Mirador, located in the central Petén rain forest of Guatemala. Characteristic of its temples was a unique triadic pattern consisting of huge platforms, each surmounted by three pyramids."</p>
+
+<p>Dennis Tedlock (1996: 224, note 65) offers a concise gloss, one that emphasizes unique aspects of thunder that appear in Maya cosmology. He writes, "The term for thunderbolt is <em>kaqulja </em>[caculha], referring to a shaft of lighting (with accompanying thunder), as contrasted with <em>koyopa</em>, referring to sheet lighting seen in the distance (without visible shafts or adubile thunder). Thunderbolt is a fitting addition to the name Hurrican (or 'one-legged') not only because hurricanes bring violent thunderstorms, but because lighting that strikes the ground is typically concentrated in one main shaft."</p>
+</div>
+</div></description>
   </topic>
   <topic>
     <title>Kaweq</title>
@@ -2566,7 +2543,7 @@ y su reino no tendrá fin.</p>
     <title>Ke&#039;ema (gen. 10)</title>
     <type>persona</type>
     <nid>959</nid>
-    <key>KEEMA_NJDIEZ</key>
+    <key>KE'EMA_NJDIEZ</key>
     <ximenez_spa>quema</ximenez_spa>
     <ximenez_quc>queema</ximenez_quc>
     <description><p>Tenth generation of the Nija'ib lineage.</p>
@@ -2581,13 +2558,13 @@ y su reino no tendrá fin.</p>
     <title>Kik&#039;</title>
     <type>objeto</type>
     <nid>1230</nid>
-    <key>KIK</key>
+    <key>KIK'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;rubber ball&lt;/li&gt;
 &lt;li&gt;blood&lt;/li&gt;
 &lt;li&gt;sap&lt;/li&gt;
 &lt;li&gt;resin&lt;/li&gt;
 &lt;/ul&gt;</english_name>
-    <ximenez_spa>quic</ximenez_spa>
+    <ximenez_spa>quic, la pelota, la pelota de vle</ximenez_spa>
     <ximenez_quc>quic</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/1288.jpeg?itok=Z3yWUTfZ" width="100" height="36" alt="Kerr #1288" title="Kerr #1288. &quot;Ball game with Hun Hunahpú and journey to Xibalba.&quot; http://research.mayavase.com/kerrmaya_hires.php?vase=1288" /></image>
     <description><p>The Mesoamerican ball game famously provides the central mode of conflict between Xib’alb’a and the two sets of brothers in the <em>Popl Wuj</em>. Although the exact rules and purpose of the game are unknown, it is clear that it held significance far beyond that of a simply recreational activity. Whittington asserts that, due to the game’s prevalence in the <em>Popol Wuj</em>, “this story of creation and activities of the gods and humanity becomes inseparable from the ballgame.” As the game is both a physical space and a practice shared by humans and Xibalbans, it seems to hold a deep ceremonial role in Mesoamerican cosmovisions.</p>
@@ -2615,10 +2592,10 @@ y su reino no tendrá fin.</p>
 <p>Furthermore, the Lords of Xib’alb’a are quite pleased with the aroma produced from the sacrificial burning of the supposed heart. Blood sacrifices being an important practice in the Maya world connecting humans to deities, the ability of the sap to fool the Lords in sacrifice may point to the significance of rubber as a material which allows humans to interact with and appease supernatural entities.</p></description>
   </topic>
   <topic>
-    <title>Kik&#039; a&#039;</title>
+    <title>Kik&#039; a&#039; (río de sangre)</title>
     <type>topónimo</type>
     <nid>1058</nid>
-    <key>KIK_A</key>
+    <key>KIK'_A'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Blood River&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>río q’ era de sangre</ximenez_spa>
@@ -2632,7 +2609,7 @@ y su reino no tendrá fin.</p>
     <title>Kik&#039; Re</title>
     <type>deidad</type>
     <nid>697</nid>
-    <key>KIK_RE</key>
+    <key>KIK'_RE</key>
     <ximenez_spa>quíc xíc</ximenez_spa>
     <ximenez_quc>quíc xíc</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2641,7 +2618,7 @@ y su reino no tendrá fin.</p>
     <title>Kik&#039; Rixk&#039;aq</title>
     <type>deidad</type>
     <nid>698</nid>
-    <key>KIK_RIXKAQ</key>
+    <key>KIK'_RIXK'AQ</key>
     <ximenez_spa>quíc ríx ꜫaꜫ</ximenez_spa>
     <ximenez_quc>quíc ríx ꜫaꜫ</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2674,7 +2651,7 @@ y su reino no tendrá fin.</p>
     <title>Kuchuma Kik&#039;</title>
     <type>deidad</type>
     <nid>13</nid>
-    <key>KUCHUMA_KIK</key>
+    <key>KUCHUMA_KIK'</key>
     <ximenez_spa>cuchumaquic</ximenez_spa>
     <ximenez_quc>cuchumaquic</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2774,7 +2751,7 @@ y su reino no tendrá fin.</p>
     <title>Lotz kik&#039; (sangre de sacrificio)</title>
     <type>deidad</type>
     <nid>696</nid>
-    <key>LOTZ_KIK</key>
+    <key>LOTZ_KIK'</key>
     <ximenez_spa>lotzquíc</ximenez_spa>
     <ximenez_quc>lotzquíc</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2783,17 +2760,17 @@ y su reino no tendrá fin.</p>
     <title>Majuk&#039;utaj</title>
     <type>deidad</type>
     <nid>706</nid>
-    <key>MAJUKUTAJ</key>
+    <key>MAJUK'UTAJ</key>
     <ximenez_spa>Mahucutah</ximenez_spa>
     <ximenez_quc>Mahucutah</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/maju%20kutaj%20q%27an%20sur.jpg?itok=jZ2o4p43" width="75" height="100" alt="National Museum of the American Indian, Washington, DC (Spring 2019). Majuk&#039;utaj." title="Majuk&#039;utaj, one of the founders of the K&#039;iche&#039; community, is associated with color symbolism and the cardinal points according to Mayan cosmovision" /></image>
     <description><p>Christenson (2007: note 479, p. 184) notes that name of this deity is "problematic." As he explains, "Carmack believes that it is derived from the lowland Maya word for 'Traveler,' or 'One Who Does Not Stay' (Carmack 1981, 49). Tedlock translates it as 'Not Right Now' based on the Quiché <em>ma</em>, 'not,' and <em>jukotaj</em>, 'right away/in a moment' (Basseta). Akkeren (personal communication) suggests that the name is derived from the Mam <em>jukotaj</em> (elder, eminent one). Coto lists <em>hu cotah</em> as 'one crown, ring, or similar round object' (Coto 1983, 474). In many highland Maya languages, such as Tz’utujil, the prefix <em>Ma</em> may be honorific, meaning something like 'mister, or sir.'"</p></description>
   </topic>
   <topic>
-    <title>Majukutaj Hombre</title>
+    <title>Majuk&#039;utaj Hombre</title>
     <type>persona</type>
     <nid>987</nid>
-    <key>MAJUKUTAJ_HOMBRE</key>
+    <key>MAJUK'UTAJ_HOMBRE</key>
     <ximenez_spa>Mahucutah. el primer hombre</ximenez_spa>
     <ximenez_quc>Mahucutah nabe vinac</ximenez_quc>
     <description><p>Christenson (2007: note 479, p. 184) translates the name of the deity, from whom the first grandfather of the K'iche' line takes his name, as "problematic." As he explains, "Carmack believes that it is derived from the lowland Maya word for 'Traveler,' or 'One Who Does Not Stay' (Carmack 1981, 49). Tedlock translates it as 'Not Right Now' based on the Quiché <em>ma</em>, 'not,' and <em>jukotaj</em>, 'right away/in a moment' (Basseta). Akkeren (personal communication) suggests that the name is derived from the Mam <em>jukotaj</em> (elder, eminent one). Coto lists <em>hu cotah</em> as 'one crown, ring, or similar round object' (Coto 1983, 474). In many highland Maya languages, such as Tz’utujil, the prefix <em>Ma</em> may be honorific, meaning something like 'mister, or sir.'"</p></description>
@@ -2828,10 +2805,10 @@ y su reino no tendrá fin.</p>
     <description><p>Mary, whom Ximénez refers to as "SSma." (<em>Santíssima</em>, Most Holy) or "Ma. SSma." (<em>Madre Santíssima</em>, Most Holy Mother), is the human mother of Jesus Christ. She is also known as the "Blessed Virgin Mary," having conceived Jesus of the Holy Spirit.</p></description>
   </topic>
   <topic>
-    <title>Me&#039;awn</title>
+    <title>Me&#039;awan</title>
     <type>topónimo</type>
     <nid>731</nid>
-    <key>MEAWN</key>
+    <key>ME'AWAN</key>
     <ximenez_spa>meauan</ximenez_spa>
     <ximenez_quc>meauan</ximenez_quc>
     <description><p>Sipakna is crushed under this mountain after being tricked by Hunahpu and Xbalanque. Christenson (page 105, note 202) says of it, "Meauan was identified by Brasseur and Recinos as a mountain west of Rabinal, Guatemala. It is likely the mountain known today as Miagua, located some 20 km. northwest of Rabinal and bordering the Chixoy river. If this identification is correct, Akkeren suggests that that Meauan may be a contracted form of <em>me'al ajaw </em>(daughter lord), the Quiché version of the Kekchi origin of the town's name, Rab'inal (Place of the Lord's Daughter).</p>
@@ -2856,7 +2833,7 @@ y su reino no tendrá fin.</p>
     <title>Mixk&#039;ina&#039;</title>
     <type>herramienta</type>
     <nid>1253</nid>
-    <key>MIXKINA</key>
+    <key>MIXK'INA'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;hoe&lt;/li&gt;
 &lt;li&gt;pickaxe&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -2904,7 +2881,7 @@ y su reino no tendrá fin.</p>
     <title>Nija&#039;ib</title>
     <type>linaje</type>
     <nid>823</nid>
-    <key>NIJAIB</key>
+    <key>NIJA'IB</key>
     <ximenez_spa> níhaíbab</ximenez_spa>
     <ximenez_quc>nihaibab </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2913,7 +2890,7 @@ y su reino no tendrá fin.</p>
     <title>Nija&#039;ib&#039;</title>
     <type>linaje</type>
     <nid>1401</nid>
-    <key>NIJAIB</key>
+    <key>NIJA'IB</key>
     <ximenez_spa>níhaíbab</ximenez_spa>
     <ximenez_quc>nihaibab</ximenez_quc>
     <description><p>The Nija'ib' lineage of the K'iche' are the protagonists in at least six known land titles or <em>títulos</em>, which have been published in various forms and combinations by Recinos (1957), Carmack (1973, 2009), Crespo Morales (1968),  Alvarez Arévalo (1987), Ochoa Garcia (2016), and Matsumoto (2017). The latter publication provides the most comprehensive bibliography, ethnohistorical context, and linguistic analysis to date for five of these documents.</p>
@@ -2924,7 +2901,7 @@ y su reino no tendrá fin.</p>
     <title>Nik&#039;aqaj Taq&#039;aj</title>
     <type>deidad</type>
     <nid>720</nid>
-    <key>NIKAQAJ_TAQAJ</key>
+    <key>NIK'AQAJ_TAQ'AJ</key>
     <ximenez_spa> nícahtacah</ximenez_spa>
     <ximenez_quc>nicacahtacah </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -2933,7 +2910,7 @@ y su reino no tendrá fin.</p>
     <title>Nim Ch&#039;okoj</title>
     <type>oficio</type>
     <nid>1570</nid>
-    <key>NIM_CHOKOJ</key>
+    <key>NIM_CH'OKOJ</key>
     <ximenez_spa>Grande Junta, y combíte</ximenez_spa>
     <ximenez_quc>Nim chocoh</ximenez_quc>
     <description><p>Closely related to the Nim Ch'okoj lineage, Nim Ch'okoj, notes Ruud van Akkeren (2001: 241), is "the name of an office. Each chinamit had a Nim Ch’okoj office. ... The three chinamit of Q’umarkaj-Utatlan were the ruling Kaweq, which consisted of nine lineages, the Nijaib’, and the Ajaw K’iche’." The nature of this office, however, is far from clear. Van Akkeren (2001: 242) explains, "Nim causes no problem: It means “great.” Tedlock derives the meaning of “Ch’okoj” from a gloss given by Ximénez: chocoh (wedding or banquet) (Ximénez 1985:200). He follows Edmonson (1971:1677–1678) in this interpretation. Tedlock compares the Nim Ch’okoj to modern “father-mothers,” or heads of lineages, in the highlands who are important matchmakers and generally known for their eloquence. Hence, he translates Nim Ch’okoj as “Great Toastmaster” or “Master of Ceremony” (Tedlock 1996:57)," highlighting a ceremonial connection with commanding speech and the taking of beverages. Sam Colop, cited below, sees a similar association with the consumption of ceremonial drink, in this case, chocolate, and the rhetorical skills of the Nim Ch'okoj.</p>
@@ -2950,7 +2927,7 @@ y su reino no tendrá fin.</p>
     <title>Nim Ch&#039;okoj Kaweq</title>
     <type>persona</type>
     <nid>848</nid>
-    <key>NIM_CHOKOJ_KAWEQ</key>
+    <key>NIM_CH'OKOJ_KAWEQ</key>
     <ximenez_spa> ním chocoh cuec</ximenez_spa>
     <ximenez_quc>nim chocoh cavec </ximenez_quc>
     <description><p>Whereas Christenson(2003) identifies the ch'okoj as someone "charged with providing the food and drinks for state functions, as well as making pronouncements and public discourses" (269), Tedlock highlights the potentially political play on words, noting that "ch'okoj" places emphasis on the act of sitting itself, thus suggesting that the Totonicapán authors mockingly refer to him as a "Master of Sitting" rather than a "Master of Ceremonies." </p></description>
@@ -2959,7 +2936,7 @@ y su reino no tendrá fin.</p>
     <title>Nim Ch&#039;okoj Nija&#039;ib</title>
     <type>persona</type>
     <nid>857</nid>
-    <key>NIM_CHOKOJ_NIJAIB</key>
+    <key>NIM_CH'OKOJ_NIJAIB</key>
     <ximenez_spa> ním chocoh níhaíb</ximenez_spa>
     <ximenez_quc>nimchocoh nihaibab </ximenez_quc>
     <description><p>Christenson (2007: note 254, p. 256): "Great Steward Nijaibs." In the body of the text, he translates the name as "Great Steward of the Nihaibs."</p>
@@ -2970,7 +2947,7 @@ y su reino no tendrá fin.</p>
     <title>Nim Xo&#039;l</title>
     <type>topónimo</type>
     <nid>752</nid>
-    <key>NIM_XOL</key>
+    <key>NIM_XO'L</key>
     <ximenez_spa></ximenez_spa>
     <ximenez_quc></ximenez_quc>
     <description><p>A place passed through by the K'iche's on their way to Chi Pixab'. </p>
@@ -2997,7 +2974,7 @@ y su reino no tendrá fin.</p>
     <title>Nima Ch&#039;okoj</title>
     <type>persona</type>
     <nid>872</nid>
-    <key>NIMA_CHOKOJ</key>
+    <key>NIMA_CH'OKOJ</key>
     <ximenez_spa>nim chocoh</ximenez_spa>
     <ximenez_quc>nim chocoh</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3006,7 +2983,7 @@ y su reino no tendrá fin.</p>
     <title>Nima K&#039;amja</title>
     <type>persona</type>
     <nid>856</nid>
-    <key>NIMA_KAMJA</key>
+    <key>NIMA_K'AMJA</key>
     <ximenez_spa>nima camha</ximenez_spa>
     <ximenez_quc>nima camha</ximenez_quc>
     <description><p>Colop (2008: nota 355, página 252): señala que el nombre de este señor principal de los Nija'ib quiere decir "principal en línea de sucesión."</p>
@@ -3017,7 +2994,7 @@ y su reino no tendrá fin.</p>
     <title>Nima Lolmet Ye&#039;oltux</title>
     <type>persona</type>
     <nid>859</nid>
-    <key>NIMA_LOLMET_YEOLTUX</key>
+    <key>NIMA_LOLMET_YE'OLTUX</key>
     <ximenez_spa> níma lolmet yeoltux</ximenez_spa>
     <ximenez_quc>nima lolmet yeoltux </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3026,7 +3003,7 @@ y su reino no tendrá fin.</p>
     <title>Nu&#039; Siwan (Barranco agitado)</title>
     <type>topónimo</type>
     <nid>734</nid>
-    <key>NU_SIWAN</key>
+    <key>NU'_SIWAN</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Trembling Canyon&lt;/li&gt;
 &lt;li&gt;Rustling Canyon&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -3069,6 +3046,15 @@ y su reino no tendrá fin.</p>
 <p>Duodécima generación del linaje Kaweq.</p></description>
   </topic>
   <topic>
+    <title>Oxib&#039; ri nim ja (Tres Casas Grandes)</title>
+    <type>linaje</type>
+    <nid>824</nid>
+    <key>OXIB_RI_NIM_JA</key>
+    <ximenez_spa>tres casas grandes</ximenez_spa>
+    <ximenez_quc>oxib ri nimha</ximenez_quc>
+    <description><p>Three family lines represent the Three Great Houses of the <em>Popol Wuj</em>: Kaweq, Ajaw K'iche', Nija'ib.</p></description>
+  </topic>
+  <topic>
     <title>Pa Awilix (Lugar de Awilix)</title>
     <type>topónimo</type>
     <nid>830</nid>
@@ -3083,7 +3069,7 @@ y su reino no tendrá fin.</p>
     <title>Pa Maka&#039;</title>
     <type>topónimo</type>
     <nid>1505</nid>
-    <key>PA_MAKA</key>
+    <key>PA_MAKA'</key>
     <ximenez_spa>ꜩacualpa</ximenez_spa>
     <ximenez_quc>pamaca </ximenez_quc>
     <description><p>Recinos (2012: 178fn34) define "<em>Panacá</em>, hoy <em>Zacualpa</em>" como un "pueblo del departamento del Quiché." Colop (2008: 200fn342) apunta que Pa Maka' significa "literalmente 'donde se recoge agua'", no obstante "es lo que actualmente se conoce como el antiguo sitio dond se ubicó Zacualpa, a dos kilómetros al sureste del actual pueblo," así citando a Dennis Tedlock (1996: 357).</p>
@@ -3107,14 +3093,13 @@ y su reino no tendrá fin.</p>
     <title>Pach&#039; q&#039;ab&#039;</title>
     <type>objeto</type>
     <nid>1234</nid>
-    <key>PACH_QAB</key>
+    <key>PACH'_Q'AB</key>
     <english_name>&lt;ul&gt;&lt;li&gt;armguard&lt;/li&gt;
 &lt;/ul&gt;</english_name>
-    <ximenez_spa></ximenez_spa>
-    <ximenez_quc></ximenez_quc>
+    <ximenez_spa>la pala</ximenez_spa>
+    <ximenez_quc>pachcab</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/1209.jpeg?itok=wiEfDYj8" width="100" height="45" alt="Kerr #1209" title="Kerr #1209: &quot;Ball game inside ball-court.&quot; http://research.mayavase.com/kerrmaya_hires.php?vase=1209" /></image>
-    <description><p>Christenson (2007: note 245, page 106) notes that "Depictions of Precolumbian ballplayers in ancient Maya art often show the lower arms wrapped with<br />
-a protective device." Image #1209 above, "Ball game inside ball-court," from Justin Kerr's database of Maya vases, offers one such example.</p>
+    <description><p>Christenson (2007: note 245, page 106) notes that "Depictions of Precolumbian ballplayers in ancient Maya art often show the lower arms wrapped with a protective device." Image #1209 above, "Ball game inside ball-court," from Justin Kerr's database of Maya vases, offers one such example.</p>
 
 <p>Arm protectors are one of the five fine objects that adorn the Hero Twins as they journey to Xibalba.</p>
 
@@ -3124,13 +3109,13 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <title>Pak&#039;am</title>
     <type>deidad</type>
     <nid>702</nid>
-    <key>PAKAM</key>
+    <key>PAK'AM</key>
     <ximenez_spa> xulupacam</ximenez_spa>
     <ximenez_quc>xulupacam </ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
   <topic>
-    <title>palow</title>
+    <title>Palow</title>
     <type>lugar</type>
     <nid>1342</nid>
     <key>PALOW</key>
@@ -3199,7 +3184,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <title>Popol Winaq chi T&#039;uy</title>
     <type>persona</type>
     <nid>849</nid>
-    <key>POPOL_WINAQ_CHI_TUY</key>
+    <key>POPOL_WINAQ_CHI_T'UY</key>
     <ximenez_spa> popol vínac</ximenez_spa>
     <ximenez_quc>popol vinac </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3208,7 +3193,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
     <title>Popol Winaq pa Jom Tzalatz&#039;</title>
     <type>persona</type>
     <nid>851</nid>
-    <key>POPOL_WINAQ_PA_JOM_TZALATZ</key>
+    <key>POPOL_WINAQ_PA_JOM_TZALATZ'</key>
     <ximenez_spa> popol vínac pahom tzalatz</ximenez_spa>
     <ximenez_quc>popol vinacm pahom tzalatz </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3227,8 +3212,7 @@ a protective device." Image #1209 above, "Ball game inside ball-court," from Jus
 <p>El destacado lingüista k'iche' Sam Colop (2008: 18) comenta la historia del nombre del texto en la comunidad maya k'iche' y otros pueblos mayas. Observa que en los idiomas de las tierras bajas mayas, como lo es el caso del maya yucateco, encontramos "las palabras <em>popol</em>, <em>popol na</em>, 'edificio municipal en tiempos coloniales'. En el diccionario 'cakchiquel español' de Saenz de Santamaría (1940), encontramos <em>po pol</em>, <em>popol wa'im</em>, que<br />
 traduce como 'comida popular' y concretamente: <em>Popol Wuj</em>, 'el libro del comun; el libro del pueblo; el libro del consejo'. En el diccionario q'eqchi' de Haeserijn encontramos <em>poopolc</em> <em>oma</em> 'cabildo, juzgado, autoridades civiles'. Es decir que la palabra <em>popol</em> siempre ha existido, coma el termino <em>pop</em>."</p>
 
-<p>Si hay una duda en cuanto al nombre, afirma Colop (2008: 18), esta sugiere de la ortografía del padre Ximénez y no del vocabulario del pueblo maya k'iche'. Escribe pues, "En los folios lr y 54r de la copia que hizo Francisco Ximénez se lee <em>popo vuh</em> y<em> popolv uh</em> respectivamente, esto hizo proponer a don Adrián Inés Chávez, uno de los traductores de origen k'iche', quien la primera mención la segunda vocal estaba de más. El error del copista fue omitir la letra -<em>l</em>, como consta en el folio 54r y otras páginas del mismo texto donde aparece la palabra <em>popol</em> como en <em>popolw inaq</em> (cuatro veces), <em>ajpopol</em> (dos veces). En la <em>Primera parte del Tesoro e las lenguas Cakchiquel, Quiché y Zutuhil</em> (sic) del mismo Ximénez encontramos las palabras <em>popol</em>, "cabildo"; <em>popolij</em>," consultar en cabildo". En el <em>Titulo Yax</em> se encuentra la palabra <em>popol</em>, como en <em>El Titulo de Totonicapán </em>se encuentran las palabras <em>ajpopol.</em> En el <em>Vocabulario en lengua quiche</em> de Basseta (ca. 1698) encontramos las palabras <em>popol ech</em>, <em>popol tzij</em>, que traduce como 'cosa común';<em> popolj a</em>, 'cabildo, casa de consejo'; <em>popolu lew</em>, 'baldío'; <em>popol k'ayij</em>, "almoneda". En el diccionario kaqchikel de Coto encontramos las palabras <em>popolt zij,</em> 'acuerdo , consejo';<em> popolu lew</em>, 'heredad'; <em>popola jawa·</em>, 'principales', también están las frases <em>popol wa'im</em>, <em>popol samaj</em>, <em>popolij</em>, etcétera. Nótese aquí que la copia del manuscrito del <em>Titulo de Totonicapá</em><em>n</em> es contemporánea a la transcripción del <em>Popol Wuj</em> que Ximénez traduciría siglo y medio después. Asimismo que los trabajos de Basseta y Coto antecedieron<br />
-la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuentes anteriores."</p>
+<p>Si hay una duda en cuanto al nombre, afirma Colop (2008: 18), esta sugiere de la ortografía del padre Ximénez y no del vocabulario del pueblo maya k'iche'. Escribe pues, "En los folios lr y 54r de la copia que hizo Francisco Ximénez se lee <em>popo vuh</em> y<em> popolv uh</em> respectivamente, esto hizo proponer a don Adrián Inés Chávez, uno de los traductores de origen k'iche', quien la primera mención la segunda vocal estaba de más. El error del copista fue omitir la letra -<em>l</em>, como consta en el folio 54r y otras páginas del mismo texto donde aparece la palabra <em>popol</em> como en <em>popolw inaq</em> (cuatro veces), <em>ajpopol</em> (dos veces). En la <em>Primera parte del Tesoro e las lenguas Cakchiquel, Quiché y Zutuhil</em> (sic) del mismo Ximénez encontramos las palabras <em>popol</em>, "cabildo"; <em>popolij</em>," consultar en cabildo". En el <em>Titulo Yax</em> se encuentra la palabra <em>popol</em>, como en <em>El Titulo de Totonicapán </em>se encuentran las palabras <em>ajpopol.</em> En el <em>Vocabulario en lengua quiche</em> de Basseta (ca. 1698) encontramos las palabras <em>popol ech</em>, <em>popol tzij</em>, que traduce como 'cosa común';<em> popolj a</em>, 'cabildo, casa de consejo'; <em>popolu lew</em>, 'baldío'; <em>popol k'ayij</em>, "almoneda". En el diccionario kaqchikel de Coto encontramos las palabras <em>popolt zij,</em> 'acuerdo , consejo';<em> popolu lew</em>, 'heredad'; <em>popola jawa·</em>, 'principales', también están las frases <em>popol wa'im</em>, <em>popol samaj</em>, <em>popolij</em>, etcétera. Nótese aquí que la copia del manuscrito del <em>Titulo de Totonicapá</em><em>n</em> es contemporánea a la transcripción del <em>Popol Wuj</em> que Ximénez traduciría siglo y medio después. Asimismo que los trabajos de Basseta y Coto antecedieron la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuentes anteriores."</p>
 
 <p> </p></description>
   </topic>
@@ -3236,7 +3220,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Puj chi ja&#039;</title>
     <type>topónimo</type>
     <nid>1059</nid>
-    <key>PUJ_CHI_JA</key>
+    <key>PUJ_CHI_JA'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;River of pus&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>--</ximenez_spa>
@@ -3277,7 +3261,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;alel Achij</title>
     <type>persona</type>
     <nid>873</nid>
-    <key>QALEL_ACHIJ</key>
+    <key>Q'ALEL_ACHIJ</key>
     <ximenez_spa> v ꜫalel achih</ximenez_spa>
     <ximenez_quc>ꜫalel achih </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3286,7 +3270,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;alel Ajaw</title>
     <type>linaje</type>
     <nid>819</nid>
-    <key>QALEL_AJAW</key>
+    <key>Q'ALEL_AJAW</key>
     <ximenez_spa> ꜫalel ahau</ximenez_spa>
     <ximenez_quc>ꜫalelahau </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3295,7 +3279,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;alel K&#039;amja</title>
     <type>persona</type>
     <nid>855</nid>
-    <key>QALEL_KAMJA</key>
+    <key>Q'ALEL_K'AMJA</key>
     <ximenez_spa> calecamha</ximenez_spa>
     <ximenez_quc>cale camha </ximenez_quc>
     <description><p>Este tercer señor de los Nija'ib tiene un nombre que significa "ministro o capitán", del cual se deduce su importante rol "en función de canciller" (Colop 2008: nota 335, página 251-2).</p>
@@ -3306,7 +3290,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;alel Saqik</title>
     <type>persona</type>
     <nid>865</nid>
-    <key>QALEL_SAQIK</key>
+    <key>Q'ALEL_SAQIK</key>
     <ximenez_spa>ꜫalel zaquic</ximenez_spa>
     <ximenez_quc>ꜫalel zaquic</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3315,7 +3299,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;ana b&#039;e (camino amarillo)</title>
     <type>topónimo</type>
     <nid>739</nid>
-    <key>QANA_BE</key>
+    <key>Q'ANA_BE</key>
     <ximenez_spa>amarillo</ximenez_spa>
     <ximenez_quc>ꜫana</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/Palenque%20Temple%20XIX%20D4%20k%27an.jpg?itok=A7-KGVR1" width="100" height="96" alt="k&#039;an. Photo credit: Jorge Pérez de Lara (in Stuart 2005: 209)" title="Palenque Temple XIX, West Passage, glyph D4 (k&#039;an + yax = tz&#039;ak)" /></image>
@@ -3335,7 +3319,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;aq&#039; Laqam (gen. 3)</title>
     <type>persona</type>
     <nid>990</nid>
-    <key>QAQ_LAQAM_AKTRES</key>
+    <key>Q'AQ'_LAQAM_AKTRES</key>
     <ximenez_spa>Caꜫlacan</ximenez_spa>
     <ximenez_quc>Caꜫlacan</ximenez_quc>
     <description><p>Third generation of the Ajaw K'iche' lineage.</p>
@@ -3350,11 +3334,11 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;eqa b&#039;e (camino negro)</title>
     <type>topónimo</type>
     <nid>737</nid>
-    <key>QEQA_BE</key>
+    <key>Q'EQA_BE</key>
     <ximenez_spa> queca be</ximenez_spa>
     <ximenez_quc>uno negro </ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/och%20k%27in.png?itok=h6vaw1Dq" width="100" height="90" alt="oeste" title="ochk&#039;ihn / oeste / west" /></image>
-    <description><p>The black path ("camino negro" or "queca be," in Ximénez's script) is one of the four cosmic routes of the universe ("cahib be"); along with the red path ("camino rojo" or "ꜫaꜫabe"), white path ("camino blanco" or "zaqui be") and yellow path ("camino amarillo" or "cut eana be"), these routes represent the spiritual pathways and cardinal points of the K'iche' cosmovisión (14r).</p>
+    <description><p>The black path ("camino negro" or "queca be," in Ximénez's script) is one of the four cosmic routes of the universe ("cahib be"); along with the red path ("camino rojo" or "ꜫaꜫabe"), white path ("camino blanco" or "zaqui be") and yellow path ("camino amarillo" or "cut eana be"), these routes represent the spiritual pathways and cardinal points of the K'iche' cosmovisión (14r). In this tradition, the color black represents danger (Ajpub' Pablo García Ixmatá 2010: 227).</p>
 
 <p>Each physical route at the cross-roads ("cruzíjada" or "pacahib xalcat be") leads to a different spiritual path, one that is brought into order by a particular divine force. <a href="http://live-multepal.pantheonsite.io/content/cuatro-en-espacio-y-tiempo">The four-part division into the cardinal points reflects the four "cornerings," "sidings," "measurings," and "stakings" of the world, as understood in Maya cosmology as an act of creation, or coming into being</a>. For example, the opening lines of the <em>Popol Wuj</em> use parallel structure to describe the four corners of the earth. Allen Christenson notes that the balanced quatrain's "four-fold symmetry" might be one way in which the aesthetics of the text mirror "the four-fold nature of the universe" (<em>Literal Poetic Translation</em>, fn10p15). The key lines are, in Christenson, "Its four cornerings, / Its four sidings, / Its measurings, / Its four stakings", ll. 66-69.</p>
 
@@ -3374,7 +3358,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;equma Ja (Casa Oscura)</title>
     <type>topónimo</type>
     <nid>740</nid>
-    <key>QEQUMA_JA</key>
+    <key>Q'EQUMA_JA</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Darkness House&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>casa obscura, casa de obscuridad</ximenez_spa>
@@ -3388,7 +3372,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;ukumatz</title>
     <type>deidad</type>
     <nid>635</nid>
-    <key>QUKUMATZ</key>
+    <key>Q'UKUMATZ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Plumed Serpent&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>gucumatz</ximenez_spa>
@@ -3399,7 +3383,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;ukumatz (gen. 5)</title>
     <type>persona</type>
     <nid>866</nid>
-    <key>QUKUMATZ_KQCINCO</key>
+    <key>Q'UKUMATZ_KQCINCO</key>
     <ximenez_spa>gucumatz</ximenez_spa>
     <ximenez_quc>gucumatz</ximenez_quc>
     <description><p>Fifth generation of the Kaweq lineage.</p>
@@ -3410,7 +3394,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Q&#039;umaraq Aj</title>
     <type>topónimo</type>
     <nid>1261</nid>
-    <key>QUMARAQ_AJ</key>
+    <key>Q'UMARAQ_AJ</key>
     <ximenez_spa>cumarcaaj</ximenez_spa>
     <ximenez_quc>cumarca ah</ximenez_quc>
     <description><p>Christenson (2007: note 732, page 251) translates the name of the settlement <em>Q'umarkaj</em> as "Ancient/Rotten Canes/Reeds." He explains: "The name of this citadel has generally been translated 'Place of Rotten Canes' (Recinos 1950, 215, D. Tedlock 1996, 183). <em>Q'umarik</em>, however, also refers to something ancient, while aj can be used for a wide variety of reeds. The more likely translation of the citadel is thus 'Place of Ancient Reeds.' This ties the city figuratively with the ancient place of their origin at Tulan (Place of Reeds). Following the Spanish conquest, Cumarcah was renamed Utatlan by the Tlaxcalan allies of the invaders. In the Tlaxcalan dialect of Nahuatl, this name means 'among the reeds,' a close translation of the Quiché name (Carmack 1981, 143). Cumarcah was the capital of the Nima Quichés.</p>
@@ -3422,7 +3406,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <type>deidad</type>
     <nid>723</nid>
     <key>QUETZALCÓATL</key>
-    <ximenez_spa> quítzalcuat</ximenez_spa>
+    <ximenez_spa>quítzalcuat</ximenez_spa>
     <ximenez_quc>quitzalcuat </ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
@@ -3508,7 +3492,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Rajtz&#039;alam Achij</title>
     <type>persona</type>
     <nid>875</nid>
-    <key>RAJTZALAM_ACHIJ</key>
+    <key>RAJTZ'ALAM_ACHIJ</key>
     <ximenez_spa> rahtzalam achíh</ximenez_spa>
     <ximenez_quc>rahtzalam achih </ximenez_quc>
     <description>Description forthcoming.</description>
@@ -3521,7 +3505,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <ximenez_spa>verde</ximenez_spa>
     <ximenez_quc>verde</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/Palenque%20Temple%20XIX%20D4%20yax.jpg?itok=bEzaI1NX" width="100" height="96" alt="yax" title="yax: blue/green color signifier from Temple XIX, Palenque (note k&#039;an to the far right)" /></image>
-    <description><p>The "green way" is unlike the other four cosmic routes of the universe -- the red way (camino rojo/ꜫaꜫabe, or kaq bej in modern orthograph), black way (camino negro/queca be/q’eq bej), white way (camino blanco/zaqui be/saq bej), and yellow way (camino amarillo/ꜫana be/q’än bej).</p>
+    <description><p>The "green way" is unlike the other four cosmic routes of the universe -- the red way (camino rojo/ꜫaꜫabe, or kaq bej in modern orthograph), black way (camino negro/queca be/q’eq bej), white way (camino blanco/zaqui be/saq bej), and yellow way (camino amarillo/ꜫana be/q’än bej). In linguistic and cultural terms, green (<em>rax</em> in K'iche', <em>yaax</em> in Yukatek) represents newness or "primary" states within Maya cosmovision (Ajpub' Pablo García Ixmatá 2010: 227).</p>
 
 <p><a href="http://live-multepal.pantheonsite.io/content/cuatro-en-espacio-y-tiempo">These four routes refer to the four cardinal points; the color symbolism often aligns with particular directions</a>. In hieroglyphic writing traditions from Mesoamerica, we often find that red is associated with the east; black, the west; white, the north; yellow, the south (Johnson 2013: 242). Although these colors refer to much more than cardinal points, there is a core geographic orientation (Houston et al. 2009; Tokovinine 2012). In other words, because each cardinal direction is linked to specific color symbolisms, color serves as a mechanism through which Maya speakers situate themselves in geographic or physical space and connect with the spirit world of the nawales (May K’iche’ Winaq B’elejeb’ Aj | unión de escritores mayas, <em>Raxalaj mayab' k'aslemalil | Cosmovisión maya, plenitud de la vida</em>, esp. 30-33).</p>
 
@@ -3622,6 +3606,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <key>SANTA_CRUZ</key>
     <ximenez_spa>Sta Cruz</ximenez_spa>
     <ximenez_quc>Sta. Cruz</ximenez_quc>
+    <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/mapa%20santa%20cruz%20del%20quiche%CC%81.png?itok=xdtWnMgF" width="100" height="53" alt="Santa Cruz del Quiché" title="Mapa: Santa Cruz ubi&#039;" /></image>
     <description><p>Christenson (2007: note 892, page 287) helpfully glosses the history of the place name and its role in the Spanish conquest of Mesoamerica. He writes: "Bishop Francisco Marroquín blessed the ruins of Cumarcah in 1539, renaming it Santa Cruz (Spanish: 'Holy Cross'). In about 1555, the Spaniards founded a new administrative center three miles to the east, which they also named Santa Cruz del Quiché (Spanish: Holy Cross of the Quiché). This was likely carried out under the direction of Alonso de Zorita who administered affairs in various Guatemalan provinces beginning in March 1555, including the area of Utatlan. Akkeren suggests that this compilation of the <em>Popol Vuh</em> was carried out in conjunction with the abandonment of the old capital (Akkeren 2003). The resettlement process, which the Spaniards called congregación (congregation), followed a uniform pattern throughout Guatemala (García Peláez 1943, 161-166; Betancor and Arboleda 1964). First, a church was erected at the center of the proposed site fronted by an open plaza, or atrio, for large assemblies to gather for public ceremonies and indoctrination. The rest of the town was organized into squares divided by streets laid out to the cardinal directions. While the new settlement was under construction, families planted their maize on plots the Spaniards assigned to them in the nearby countryside. When the crops were ready to harvest, the older Precolumbian structures were destroyed to prevent reoccupation, and the people moved into their new homes. Christian missionaries staged elaborate dances and festivals to celebrate the event 'so that they would forget their ancient dwellings' (García Peláez 1943, 163)."</p></description>
   </topic>
   <topic>
@@ -3658,9 +3643,9 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <ximenez_spa> zaqui</ximenez_spa>
     <ximenez_quc>blanco </ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/sak%20co%CC%81dice%20madrid%20108.png?itok=lSQzNEbt" width="100" height="87" alt="Sak (white): Códice Madrid 108A" title="Sak (white): Códice Madrid 108A" /></image>
-    <description><p>The white way ("camino blanco" or "zaqui be" in Ximénez's script) is one of the four cosmic routes of the universe ("cahib be"); along with the red path ("camino rojo" or "ꜫaꜫabe"), black path ("camino negro" or "queca be"), and yellow path ("camino amarillo" or "cut eana be"), these routes represent the spiritual pathways and cardinal points of the K'iche' cosmovisión (14r).</p>
+    <description><p>The white way ("camino blanco" or "zaqui be" in Ximénez's script) is one of the four cosmic routes of the universe ("cahib be"); along with the red path ("camino rojo" or "ꜫaꜫabe"), black path ("camino negro" or "queca be"), and yellow path ("camino amarillo" or "cut eana be"), these routes represent the spiritual pathways and cardinal points of the K'iche' cosmovisión (14r). As Ajpub' Pablo García Ixmatá (2010: 227) notes, the color white represents "aid" or "assistance" in K'iche' Maya cosmology.</p>
 
-<p>Each physical route at the cross-roads ("cruzíjada" or "pacahib xalcat be") leads to a different spiritual path, one that is brought into order by a particular divine force. <a href="http://live-multepal.pantheonsite.io/content/cuatro-en-espacio-y-tiempo">The four-part division by cardinal points reflects the four "cornerings," "sidings," "measurings," and "stakings" of the world, as understood in Maya cosmology</a>. For example, the opening lines of the <em>Popol Wuj</em> use parallel structure to describe the four corners of the earth. Allen Christenson notes that the balanced quatrain's "four-fold symmetry" might be one way in which the aesthetics of the text mirror "the four-fold nature of the universe" (<em>Literal Poetic Translation</em>, fn10p15). The key lines are, in Christenson, "Its four cornerings, / Its four sidings, / Its measurings, / Its four stakings", ll. 66-69.</p>
+<p>Each physical route at the cross-roads ("cruzíjada" or "pacahib xalcat be") leads to a different spiritual path, one that is brought into order by a particular divine force. <a href="http://multepal.spanitalport.virginia.edu/content/cuatro-en-espacio-y-tiempo">The four-part division by cardinal points reflects the four "cornerings," "sidings," "measurings," and "stakings" of the world, as understood in Maya cosmology</a>. For example, the opening lines of the <em>Popol Wuj</em> use parallel structure to describe the four corners of the earth. Allen Christenson notes that the balanced quatrain's "four-fold symmetry" might be one way in which the aesthetics of the text mirror "the four-fold nature of the universe" (<em>Literal Poetic Translation</em>, fn10p15). The key lines are, in Christenson, "Its four cornerings, / Its four sidings, / Its measurings, / Its four stakings", ll. 66-69.</p>
 
 <p>In Sam Colop's translation of the text, we find similar expressions of these markings in cosmological terms: "Es grande su descripción / y el relato de cómo se terminó de crear todo el Cielo y la Tierra: / sus cuatro esquinas / sus cuatro lados, / su medici[on / sus cuatro ángulos / en las cuatro esquinas / en los cuatro lados, como se dice por parte de Tz'aqol, Bitol" (2-3). Compare with Ximénez: "ronohel cah vleu, vcah tzucuxic, vcah xucutaxic retaxic, vcah cheexic"/"q’ seacabo de formar todo el cielo, y la tierra, su ser cuadrado, su ser repartido en cuatro partes, su ser señalado, su ser amojonado con estacas, su ser medido a mecates, o cuerdas, y su ser estirada la cuerda en el zielo, y en la tierra; q’es dicho de cuatro esquinas, y cuatro lados por el formador, y criador" (1r). De esta forma el destacado historiador k'iche' señala que el texto sagrado suele hablar de los cuatro caminos (rojo, negro, blanco, amarillo) "según el orden cósmico con que se nombran los cuatro lados del Universo: Oriente, Poniente, Norte y Sur" (2011: nota 149, página 221).</p>
 
@@ -3682,11 +3667,13 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <ximenez_spa>Zaquinima tzÿz</ximenez_spa>
     <ximenez_quc>Zaquinima tzÿz</ximenez_quc>
     <image><img class="img-responsive" src="http://multepal.spanitalport.virginia.edu/sites/default/files/styles/thumbnail/public/R45%20lidded%20bowl%20hix%20coati.jpg?itok=spWR4QsK" width="100" height="98" alt="Glyph of Hix (coati) explained by Looper and Polyukhovych, &quot;Five Inscribed El Zotz-Style Vessels in the Fralin Museum of Art&quot; (2016: 15). Cylinder vessel, Fralin Museum of Art 1980.56.2." title="Detail of Hix (coati), Cylinder vessel, Fralin Museum of Art 1980.56.2." /></image>
-    <description><p>Christenson (2007: note 17, p. 52) translates the name<em> Saqi Nima Aq</em> as "Great White Peccary"; Colop (2008) pairs <em>Saqi Nima Aq </em>with the word <em>Sis</em> in the following line, while Christenson treats them as separate but related references for Xpiyacoc and Xmucane.</p>
+    <description><p>Translators of the <em>Popol Wuj </em>do not agree on how to interpret the role of this aged figure, who is sometimes called "nimac" or "zaquínímac" (Ximénez 4r, 7r), for the masculine element ("el viejo"), and "nima sis" or "zaquíníma zíz" for the feminine ("la vieja"). Here we gloss two major interpretations by translators Sam Colop and Alan J. Christenson.</p>
 
-<p>Christenson explains the etymologies and symbolism as such: "The word saqi may be translated as 'light, bright, or white.' Later in the text (p. 98; line 1055), this same god is described as having very white hair due to his advanced age; thus 'white' is the most likely translation here. In that same passage, 'Great White Peccary' is given as one of the names or titles of the patriarchal creator god Xpiyacoc mentioned in the next paragraph. There are two species of peccary, or wild pig, living in Central America—<em>Peccari angulatus yucatanensis</em> (Collared Peccary) and <em>Tayassu pecari </em>(White-lipped Peccary). The latter is perhaps intended here because it is the larger of the two and is decorated with white facial markings." In his next note, Christenson (2007: 52fn18) adds that <em>Sis</em> (Coati) is another name for Xmucame. "The coati, or coatimundi, which inhabits tropical Central America is <em>Nasua narica yucatanica</em>. It is a raccoonlike animal with a long tail and a long, pointed, flexible snout." Images of female coatis appear in Pre-Columbian artwork from the Maya world, such as the glyph of Hix (Coati) that is detailed in a cylindrical vessel held at the Fralin Museum of Art at the University of Virginia (#1980.56.2).</p>
+<p>En cuanto a la primera mención del divino <em>Saqi Nima Aq</em>, Sam<em> </em>Colop (2008: nota 4, página 201) observa que "los adjetivos <em>saqi nim</em>, 'blanco grande', están omitidos del segundo verso paralelo; pero líneas más adelante aparecen completos. Aquí la referencia zoomórfica es más directa y aclara que son la pareja de ancianos (tiempo) que acompañal el proceso de creación. Son los mismos que acompañan a Junajpu y Xbalamke a vender a Wuqub Kak'ix. Recinos (1953: 82) relaciona a <em>Saqi Nim Sis</em> como 'diosa madre' y a <em>Saqi Nim Aq</em> como su 'consorte'". En la versión poética publicada en k'iche', Colop (1999: 30) vincula los términos así: "Nim Aq, / Nima Sis."</p>
 
-<p>En cuanto a la primera mención del divino <em>Saqi Nima Aq</em>, Sam<em> </em>Colop (2008: nota 4, página 201) observa que "los adjetivos <em>saqi nim</em>, 'blanco grande', están omitidos del segundo verso paralelo; pero líneas más adelante aparecen completos. Aquí la referencia zoomórfica es más directa y aclara que son la pareja de ancianos (tiempo) que acompañal el proceso de creación. Son los mismos que acompañan a Junajpu y Xbalamke a vender a Wuqub Kak'ix. Recinos (1953: 82) relaciona a <em>Saqi Nim Sis</em> como 'diosa madre' y a <em>Saqi Nim Aq</em> como su 'consorte'".</p></description>
+<p>For his part, Christenson (2007: note 17, p. 52) translates the name<em> Saqi Nima Aq</em> as "Great White Peccary", noting, in literal poetic translation (2008: 39n26), that "This is also a chiastic arrangement of the titles of the creator couple, rather than a pair of separate couplets." In other words, Christenson treats Nim Aq and Nima Sis as separate but related references for Xpiyacoc and Xmucane. He explains the etymologies and symbolism as such: "The word saqi may be translated as 'light, bright, or white.' Later in the text (2007: p. 98; line 1055), this same god is described as having very white hair due to his advanced age; thus 'white' is the most likely translation here. In that same passage, 'Great White Peccary' is given as one of the names or titles of the patriarchal creator god Xpiyacoc mentioned in the next paragraph. There are two species of peccary, or wild pig, living in Central America—<em>Peccari angulatus yucatanensis</em> (Collared Peccary) and <em>Tayassu pecari </em>(White-lipped Peccary). The latter is perhaps intended here because it is the larger of the two and is decorated with white facial markings." In his next note, Christenson (2007: 52fn18) adds that <em>Sis</em> (Coati) is another name for Xmucame. "The coati, or coatimundi, which inhabits tropical Central America is <em>Nasua narica yucatanica</em>. It is a raccoonlike animal with a long tail and a long, pointed, flexible snout." Images of female coatis appear in Pre-Columbian artwork from the Maya world, such as the glyph of Hix (Coati) that is detailed in a cylindrical vessel held at the Fralin Museum of Art at the University of Virginia (#1980.56.2).</p>
+
+<p> </p></description>
   </topic>
   <topic>
     <title>Saqik</title>
@@ -3744,19 +3731,6 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
 <p><em>Please note that our use of the label "deidad" applies to supernatural agents in general.</em></p></description>
   </topic>
   <topic>
-    <title>Serpiente Emplumada</title>
-    <type>deidad</type>
-    <nid>648</nid>
-    <key>SERPIENTE_EMPLUMADA</key>
-    <ximenez_spa> tepeu y gucumatz</ximenez_spa>
-    <ximenez_quc>tepeu qucumatz </ximenez_quc>
-    <description><p>Most translators (Christenson 2007: 17, lines 145-146; Recinos 2012: 23) translate the concept of the name "serpiente emplumada" (feathered serpent) into the proper name of the divine figure Q'ukumatz (or Gucumatz, in Recinos's orthography), more commonly known as the Mesoamerican god, Quetzalcoatl. But K'iche' translator and scholar Sam Colop offers a different interpretation, which we represent below in Spanish. English-language readers will find that Dennis Tedlock's translation is close to Colop's, in that Tedlock distinguishes between "Sovereign Plumed Serpent", or Quetzalcoatl, and the "Plumed Serpent," mentioned here. Tedlock (1996: 64) writes, "They are there, they are enclosed in quetzal feathers, in blue-green. Thus the name, 'Plumed Serpent.'" In an endnote (#64, page 222) he adds: "This is <em>pa q'uq', </em><em>pa raxon</em>, in which <em>q'uq' </em>is the primary term for quetzal or its feathers and <em>raxon</em> is identified by PG [Pantaléon de Guzmán, <em>Compendio de nombres en lengva cakchiqvel</em>, ed. René Acuña. México (UNAM, 1984)] as an alternative term for the same thing. <em>Raxon</em> is a nomal form of <em>rax</em>, a color adjective covering the blue to green range."</p>
-
-<p>En vez de escribir el nombre del dios creador "Q'ukumatz," Sam Colop (2011: página 26) prefiere expresar el nombre así: "Dimanaban luz / estando en vueltos de plumas de quetzal / en plumas azules / de ahí la nominación de 'Serpiente Emplumada.'" Explica la traducción de esta manera en las notas al pie (notas 18-19, página 204): “El texto k’iche’ dice <em>saqtetoj e k’o wi</em> donde <em>saqtetoj</em> quiere decir ‘luz que sale de entre las plumas’ donde estaban envueltos. Ésta es una lectura inversa fundada en Basseta quien traduce <em>saqteoj</em> como ‘la claridad que entrap or los risquieros’, es decir entre los resquicios. Asimismo, el texto literalmente dice que estaban ‘enterrados’ entre plumas verdes y azules. La palabra <em>q’uq’</em> significa quetzal, pero también así se llaman sus plumas. <em>Razxon</em> es otra ave de plumas color azul que está asociada al quetzal. En el diccionario de Basseta se dice: ‘<em>Q’uq’</em>: la pluma verde y el pájaro que le cría. <em>Raxon</em>: pluma azul y el pájaro.”</p>
-
-<p>De esta forma Colop (2011: nota 19, página 205) observa que en la siguiente línea, "Aquí se aclara por qué se dice 'Serpiente Emplumada.' Es por la luz o blancura que escapa de entre las plumas de quetzal en medio de la oscuridad. Si vemos a esta ave de frente, debajo de sus plumas verdes tiene unas blancas y en k'iche' la palabra para 'luz' es la misma que para 'blanco.' La metáfora, entonces, está asociada al ave."</p></description>
-  </topic>
-  <topic>
     <title>Silisib</title>
     <type>topónimo</type>
     <nid>833</nid>
@@ -3803,7 +3777,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Sotz&#039;i Ja (Casa de los Murciélagos)</title>
     <type>topónimo</type>
     <nid>743</nid>
-    <key>SOTZI_JA</key>
+    <key>SOTZ'I_JA</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Bat House&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>casa de murzíelagos</ximenez_spa>
@@ -3834,7 +3808,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Su&#039;</title>
     <type>objeto</type>
     <nid>1255</nid>
-    <key>SU</key>
+    <key>SU'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;flute&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa></ximenez_spa>
@@ -4004,10 +3978,23 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
 <p>Interestingly, Mayan phonetic accommodations of sounds from Nahuatl, seen here in the yoking together of the deity names, emerges within a long history of graphic writing systems and cultural contact. According to Tedlock (1996: 23), "The writing in Post-classic books, as compared with Classic writing, shows an increased reliance on phonetic signs, including the use of distinctly Mayan signs to spell out words borrowed from Nahua."</p></description>
   </topic>
   <topic>
+    <title>Tepew Q&#039;ukumatz (Serpiente Emplumada)</title>
+    <type>deidad</type>
+    <nid>648</nid>
+    <key>TEPEW_QUKUMATZ</key>
+    <ximenez_spa> tepeu y gucumatz</ximenez_spa>
+    <ximenez_quc>tepeu qucumatz </ximenez_quc>
+    <description><p>Most translators (Christenson 2007: 17, lines 145-146; Recinos 2012: 23) translate the concept of the name "serpiente emplumada" (feathered serpent) into the proper name of the divine figure Q'ukumatz (or Gucumatz, in Recinos's orthography), more commonly known as the Mesoamerican god, Quetzalcoatl. But K'iche' translator and scholar Sam Colop offers a different interpretation, which we represent below in Spanish. English-language readers will find that Dennis Tedlock's translation is close to Colop's, in that Tedlock distinguishes between "Sovereign Plumed Serpent", or Quetzalcoatl, and the "Plumed Serpent," mentioned here. Tedlock (1996: 64) writes, "They are there, they are enclosed in quetzal feathers, in blue-green. Thus the name, 'Plumed Serpent.'" In an endnote (#64, page 222) he adds: "This is <em>pa q'uq', </em><em>pa raxon</em>, in which <em>q'uq' </em>is the primary term for quetzal or its feathers and <em>raxon</em> is identified by PG [Pantaléon de Guzmán, <em>Compendio de nombres en lengva cakchiqvel</em>, ed. René Acuña. México (UNAM, 1984)] as an alternative term for the same thing. <em>Raxon</em> is a nomal form of <em>rax</em>, a color adjective covering the blue to green range."</p>
+
+<p>En vez de escribir el nombre del dios creador "Q'ukumatz," Sam Colop (2011: página 26) prefiere expresar el nombre así: "Dimanaban luz / estando en vueltos de plumas de quetzal / en plumas azules / de ahí la nominación de 'Serpiente Emplumada.'" Explica la traducción de esta manera en las notas al pie (notas 18-19, página 204): “El texto k’iche’ dice <em>saqtetoj e k’o wi</em> donde <em>saqtetoj</em> quiere decir ‘luz que sale de entre las plumas’ donde estaban envueltos. Ésta es una lectura inversa fundada en Basseta quien traduce <em>saqteoj</em> como ‘la claridad que entrap or los risquieros’, es decir entre los resquicios. Asimismo, el texto literalmente dice que estaban ‘enterrados’ entre plumas verdes y azules. La palabra <em>q’uq’</em> significa quetzal, pero también así se llaman sus plumas. <em>Razxon</em> es otra ave de plumas color azul que está asociada al quetzal. En el diccionario de Basseta se dice: ‘<em>Q’uq’</em>: la pluma verde y el pájaro que le cría. <em>Raxon</em>: pluma azul y el pájaro.”</p>
+
+<p>De esta forma Colop (2011: nota 19, página 205) observa que en la siguiente línea, "Aquí se aclara por qué se dice 'Serpiente Emplumada.' Es por la luz o blancura que escapa de entre las plumas de quetzal en medio de la oscuridad. Si vemos a esta ave de frente, debajo de sus plumas verdes tiene unas blancas y en k'iche' la palabra para 'luz' es la misma que para 'blanco.' La metáfora, entonces, está asociada al ave."</p></description>
+  </topic>
+  <topic>
     <title>Tinamit K&#039;iche&#039;</title>
     <type>topónimo</type>
     <nid>1038</nid>
-    <key>TINAMIT_KICHE</key>
+    <key>TINAMIT_K'ICHE'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Quiché Citadel&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>el pueblo de quiche</ximenez_spa>
@@ -4028,16 +4015,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
 
 <p>In contrast, Coe and Houston (2015: 226) reference "the Temple of Tojil, a Jaguar deity connected with the sun and rain."</p>
 
-<p><img alt="" class="media-element file-default" data-delta="1" data-fid="228" data-media-element="1" height="177" src="http://multepal.spanitalport.virginia.edu/sites/default/files/tojil%202.jpg" title="" width="272" /></p></description>
-  </topic>
-  <topic>
-    <title>tres Casas Grandes</title>
-    <type>linaje</type>
-    <nid>824</nid>
-    <key>TRES_CASAS_GRANDES</key>
-    <ximenez_spa>tres casas grandes</ximenez_spa>
-    <ximenez_quc>tres casas grandes</ximenez_quc>
-    <description><p>Three family lines represent the Three Great Houses of the <em>Popol Wuj</em>: Kaweq, Ajaw K'iche', Nija'ib.</p></description>
+<p><img alt="" data-delta="1" data-fid="228" data-media-element="1" height="177" title="" width="272" class="media-element file-default" src="http://multepal.spanitalport.virginia.edu/sites/default/files/tojil%202.jpg" /></p></description>
   </topic>
   <topic>
     <title>Tujal Ja</title>
@@ -4076,7 +4054,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Tz&#039;aqol</title>
     <type>deidad</type>
     <nid>627</nid>
-    <key>TZAQOL</key>
+    <key>TZ'AQOL</key>
     <english_name>&lt;ul&gt;&lt;li&gt;&quot;Maker&quot;&lt;/li&gt;
 &lt;li&gt;&quot;Framer&quot;&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -4090,22 +4068,32 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
 <p>In the text proper, Christenson (2007: note 12, p. 51) writes, "<em>Tz'aqol</em> (Framer) refers to one who makes something by putting things together (i.e., a building from stone or adobe, a meal from various ingredients, or a woven cloth from individual threads)."</p></description>
   </topic>
   <topic>
+    <title>Tz&#039;oloj Che&#039;</title>
+    <type>topónimo</type>
+    <nid>1349</nid>
+    <key>TZ'OLOJ_CHE'</key>
+    <ximenez_spa>momostenango</ximenez_spa>
+    <ximenez_quc>tzolohche</ximenez_quc>
+    <description><p>"This is the K’iche’ name for the town in Totonicapán known today by its Spanish-Nahuatl name, Santa María Chiquimula (Carmack 1981:307; Edmonson 1965:28). It was the pre-Conquest political<br />
+center of the Tamub’ K’iche’ and constituted one of their calpuls (Carmack 1981:307, 2001:224, 231–33). Although Contreras (2008:109) describes Amak Tam as the precursor settlement to Santa María Chiquimula, Amak Tam and Santa María Chiquimula are more than 20 km distant from each other on the map, and Tz’oloj Che’ is indicated as occupying a third location distinct from those of the other two towns (see Contreras 2008:fig. 36). Fox (1978:126–31, map 7) offers a brief description of the archaeology of the region." (Matsumoto 2017:176 n 87)</p></description>
+  </topic>
+  <topic>
     <title>Tz&#039;u&#039;m</title>
     <type>objeto</type>
     <nid>1233</nid>
-    <key>TZUM</key>
+    <key>TZ'U'M</key>
     <english_name>&lt;ul&gt;&lt;li&gt;kilt&lt;/li&gt;
 &lt;li&gt;hide&lt;/li&gt;
 &lt;/ul&gt;</english_name>
-    <ximenez_spa></ximenez_spa>
-    <ximenez_quc></ximenez_quc>
+    <ximenez_spa>el cuero</ximenez_spa>
+    <ximenez_quc>q’uum</ximenez_quc>
     <description><p>As Allen Christenson (2007: 106) explains, athletic prowess is symbolically passed down to the Hero Twins from their fathers through the physical objects used to play the ballgame (<em>kik'</em>): yokes (<em>b'ate),</em> kilts or hides (<em>tz’u’m)</em>, armguards (<em>pach' q'ab')</em>, panaches of feather (<em>yachwach</em>), headbands (<em>wach sot</em>), and the ball itself (<em>kik’</em> or <em>cha’j</em>). These are collectively called their “implements” (<em>chokonisan</em>) or “equipment” (<em>etz’ab’al)</em>. </p></description>
   </topic>
   <topic>
     <title>Tz&#039;ununi Ja&#039;</title>
     <type>persona</type>
     <nid>710</nid>
-    <key>TZUNUNIJA</key>
+    <key>TZ'UNUNI_JA'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;&quot;Hummingbird House&quot;&lt;/li&gt;
 &lt;li&gt;&quot;Water Hummingbird&quot;&lt;/li&gt;
 &lt;/ul&gt;</english_name>
@@ -4120,7 +4108,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Tz&#039;utuja</title>
     <type>lugar</type>
     <nid>864</nid>
-    <key>TZUTUJA</key>
+    <key>TZ'UTUJA</key>
     <ximenez_spa> Sor. tzutuha</ximenez_spa>
     <ximenez_quc>ahau tzutuha </ximenez_quc>
     <description><p>According to Carmack (2001:126, 224–27), <em>Tz’utuja’</em> is the name of a mountain named for the Tamub’ calpul <em>Tz’utub’aja</em>, whose name translates to ‘houses of the maize flower’. He identifies the toponym Tz’utub’aja with a place on the K’iche’ plains to the northeast of San Sebastián Lemoa in the Department of El Quiché, Guatemala (Carmack 1981:fig. 3.5).</p></description>
@@ -4129,7 +4117,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Ub&#039;aqib&#039;al q&#039;aq&#039;</title>
     <type>objeto</type>
     <nid>1256</nid>
-    <key>BAQ_QAQ</key>
+    <key>BAQ_Q'AQ'</key>
     <english_name>&lt;ul&gt;&lt;li&gt;twist drill&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa></ximenez_spa>
@@ -4140,7 +4128,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Uch&#039;abaja</title>
     <type>linaje</type>
     <nid>803</nid>
-    <key>UCHABAJA</key>
+    <key>UCH'ABAJA</key>
     <ximenez_spa>vchabaha</ximenez_spa>
     <ximenez_quc>vchabaha</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -4149,7 +4137,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Uchuch K&#039;amja</title>
     <type>persona</type>
     <nid>852</nid>
-    <key>UCHUCH_KAMJA</key>
+    <key>UCHUCH_K'AMJA</key>
     <ximenez_spa>vchuchcamha</ximenez_spa>
     <ximenez_quc>vchuchcamha</ximenez_quc>
     <description><p>Christenson (2007: note 752, p. 256): "<em>U Chuch K'am Ja</em> (Its Mother Reception House)."</p>
@@ -4157,10 +4145,21 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
 <p>Colop (2008: nota 355, página 252) añade que el nombre de esta quinta persona en la línea de sucesión de los Nija'ib significa "asesora" o "consejera de cancillería".</p></description>
   </topic>
   <topic>
+    <title>Uk&#039;u&#039;x Cho (Corazón del lago)</title>
+    <type>deidad</type>
+    <nid>637</nid>
+    <key>UK'U'X_CHO</key>
+    <ximenez_spa> vguxcho</ximenez_spa>
+    <ximenez_quc>vqux cho </ximenez_quc>
+    <description><p>En el actual idioma k'iche', se escribe el título "corazón del lago", según apunta Sam Colop en su versión poética del texto (1999: 2), "Uk'ux Cho." De forma paralela, el título "corazón del mar", el cual también se refiere al poder del dios creador Q'ukumatz, será "Uk'ux Palo."</p>
+
+<p>Christenson (2007: note 21, page 53) connects these sacred attributes, "Heart of the Lake, Heart of the Sky," with what are perhaps "titles for Sovereign and Quetzal Serpent, who are associated with water (see p. 68; lines 140-143; Recinos and Goetz 1953b, 76). <em>K'ux</em> may refer to either 'heart' or 'spirit.' This pair of deities thus embodies the inward powers of large, standing bodies of water. The <em>Popol Vuh</em> states that prior to the creation the world consisted of a vast expanse of placid waters from which all things emerged (p. 67; lines 129-136).</p></description>
+  </topic>
+  <topic>
     <title>Uk&#039;u&#039;x Kaj</title>
     <type>deidad</type>
     <nid>643</nid>
-    <key>UKUX_KAJ</key>
+    <key>UK'U'X_KAJ</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Heart of Sky&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa> el corazon de el zielo, q’se llama huracan</ximenez_spa>
@@ -4171,43 +4170,32 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Uk&#039;u&#039;x Kaj Uk&#039;u&#039;x Ulew</title>
     <type>deidad</type>
     <nid>647</nid>
-    <key>UKUX_KAJ_UKUX_ULEW</key>
+    <key>UK'U'X_KAJ_UK'U'X_ULEW</key>
     <ximenez_spa>el corazon de el zielo, y el corazon de la tierra</ximenez_spa>
     <ximenez_quc>el corazon de el zielo, y el corazon de la tierra</ximenez_quc>
     <description>Description forthcoming.</description>
   </topic>
   <topic>
-    <title>Uk&#039;u&#039;x Ulew</title>
-    <type>deidad</type>
-    <nid>1035</nid>
-    <key>UKUX_ULEW</key>
-    <english_name>&lt;ul&gt;&lt;li&gt;Heart of Earth&lt;/li&gt;
-&lt;/ul&gt;</english_name>
-    <ximenez_spa></ximenez_spa>
-    <ximenez_quc>cah vlew</ximenez_quc>
-    <description><p>Ximénez also writes <em>vqux vleu</em> (Folio 2r; Christenson Prose, p. 73).</p></description>
-  </topic>
-  <topic>
-    <title>Uk&#039;ux Cho (Corazón del lago)</title>
-    <type>deidad</type>
-    <nid>637</nid>
-    <key>UKUX_CHO</key>
-    <ximenez_spa> vguxcho</ximenez_spa>
-    <ximenez_quc>vqux cho </ximenez_quc>
-    <description><p>En el actual idioma k'iche', se escribe el título "corazón del lago", según apunta Sam Colop en su versión poética del texto (1999: 2), "Uk'ux Cho." De forma paralela, el título "corazón del mar", el cual también se refiere al poder del dios creador Q'ukumatz, será "Uk'ux Palo."</p>
-
-<p>Christenson (2007: note 21, page 53) connects these sacred attributes, "Heart of the Lake, Heart of the Sky," with what are perhaps "titles for Sovereign and Quetzal Serpent, who are associated with water (see p. 68; lines 140-143; Recinos and Goetz 1953b, 76). <em>K'ux</em> may refer to either 'heart' or 'spirit.' This pair of deities thus embodies the inward powers of large, standing bodies of water. The <em>Popol Vuh</em> states that prior to the creation the world consisted of a vast expanse of placid waters from which all things emerged (p. 67; lines 129-136).</p></description>
-  </topic>
-  <topic>
-    <title>Uk&#039;ux Palo (Corazón del mar)</title>
+    <title>Uk&#039;u&#039;x Palo (Corazón del mar)</title>
     <type>deidad</type>
     <nid>638</nid>
-    <key>UKUX_PALO</key>
+    <key>UK'U'X_PALO</key>
     <ximenez_spa> vguxpalo</ximenez_spa>
     <ximenez_quc>vqux palo </ximenez_quc>
     <description><p>En el actual idioma k'iche', se escribe el título "corazón del mar", según apunta Sam Colop en su versión poética del texto (1999: 2), "Uk'ux Palo." De forma paralela, el título "corazón del lago", el cual también se refiere al poder del dios creador Q'ukumatz, será "Uk'ux Cho."</p>
 
 <p>Christenson (2007: note 21, page 53) connects these sacred attributes, "Heart of the Lake, Heart of the Sky," with what are perhaps "titles for Sovereign and Quetzal Serpent, who are associated with water (see p. 68; lines 140-143; Recinos and Goetz 1953b, 76). <em>K'ux</em> may refer to either 'heart' or 'spirit.' This pair of deities thus embodies the inward powers of large, standing bodies of water. The <em>Popol Vuh</em> states that prior to the creation the world consisted of a vast expanse of placid waters from which all things emerged (p. 67; lines 129-136)."</p></description>
+  </topic>
+  <topic>
+    <title>Uk&#039;u&#039;x Ulew</title>
+    <type>deidad</type>
+    <nid>1035</nid>
+    <key>UK'U'X_ULEW</key>
+    <english_name>&lt;ul&gt;&lt;li&gt;Heart of Earth&lt;/li&gt;
+&lt;/ul&gt;</english_name>
+    <ximenez_spa></ximenez_spa>
+    <ximenez_quc>cah vlew</ximenez_quc>
+    <description><p>Ximénez also writes <em>vqux vleu</em> (Folio 2r; Christenson Prose, p. 73).</p></description>
   </topic>
   <topic>
     <title>una persona</title>
@@ -4261,7 +4249,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Utza&#039;m Achij</title>
     <type>persona</type>
     <nid>876</nid>
-    <key>UTZAM_ACHIJ</key>
+    <key>UTZA'M_ACHIJ</key>
     <alternate_names>&lt;ul&gt;&lt;li&gt;U Tza&#039;m Achij&lt;/li&gt;
 &lt;/ul&gt;</alternate_names>
     <ximenez_spa> v tzamachíh</ximenez_spa>
@@ -4300,7 +4288,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Wajxaqib K&#039;am (gen. 10)</title>
     <type>persona</type>
     <nid>878</nid>
-    <key>WAJXAQIB_KAM_KQDIEZ</key>
+    <key>WAJXAQIB_K'AM_KQDIEZ</key>
     <ximenez_spa>Vahxaquí caam</ximenez_spa>
     <ximenez_quc>Vahxaqui caam </ximenez_quc>
     <description><p>Tenth generation of the Kaweq lineage.</p>
@@ -4388,7 +4376,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Wuqub Kak&#039;ix</title>
     <type>deidad</type>
     <nid>654</nid>
-    <key>WUQUB_KAKIX</key>
+    <key>WUQUB_KAK'IX</key>
     <english_name>&lt;ul&gt;&lt;li&gt;Seven Macaw&lt;/li&gt;
 &lt;/ul&gt;</english_name>
     <ximenez_spa>vvcub caquix</ximenez_spa>
@@ -4418,7 +4406,7 @@ la traducción de Ximénez y, en el caso de Coto, es claro que se basó en fuent
     <title>Wuqub No&#039;j (gen. 11)</title>
     <type>persona</type>
     <nid>879</nid>
-    <key>WUQUB_NOJ_KQONCE</key>
+    <key>WUQUB_NO'J_KQONCE</key>
     <ximenez_spa>Vucub noh</ximenez_spa>
     <ximenez_quc>Vucub noh</ximenez_quc>
     <description><p>With Kuwatepech, Wuqub' No'j forms the 11th generation of the Kaweq family, part of the K'iche' community. </p>
@@ -4439,7 +4427,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
 <p>Perhaps in order to present a united front against the Spanish threat, Vucub Noh negotiated peace with the Cakchiquel lord Belehe Qat in 1522, ending the protracted war that had raged between the two nations since the time of Lord Quicab (Recinos and Goetz 1953, 118). This cessation of hostilities did not, however, prevent the Cakchiquels from allying themselves with the invading Spaniards against the Quichés.</p></description>
   </topic>
   <topic>
-    <title>Xajb’akej</title>
+    <title>Xajbakyej</title>
     <type>topónimo</type>
     <nid>1353</nid>
     <key>XAJBAKYEJ</key>
@@ -4448,7 +4436,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
     <description><p>Recinos (1957:72n7) suggests that this place corresponds to the village Sajbaquiej in the municipality of Chichicastenango. Carmack (2001:233–34) characterizes it as a Nima K’iche’ calpul and translates its name as ‘deer bath’. In contrast, Tedlock (1996:189) translates the toponym “Deer Dance Plaza,” presumably interpreting <em>xajb’a</em> as an apocopated form of <em>xajb’al</em>, lit. 'place for dancing'. This designation also appears in a list of K’iche’ patrol groups elsewhere in the <em>Popol Wuj</em> (see Christenson 2003a:line 8094). In fact, both <em>xaj</em>- and <em>xoj</em>- are roots meaning ‘dance’ in modern K’iche’ (Ajpacaja Tum et al. 1996:491, 501). As Matsumoto (2017:187n127) notes, although the toponym is written with initial <em>xa</em>- in both the<em> Popol Wuj</em> and the <em>Historia K’iche’</em> (Recinos 1957:72n7), it appears with initial xo- in the Nija'ib' text <em>Utitulo rajawarem</em> (see Matsumoto 2017:187).</p></description>
   </topic>
   <topic>
-    <title>Xbalanke</title>
+    <title>Xbalamke</title>
     <type>deidad</type>
     <nid>10</nid>
     <key>XBALAMKE</key>
@@ -4498,7 +4486,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
     <title>Xik&#039;</title>
     <type>deidad</type>
     <nid>1559</nid>
-    <key>XIK</key>
+    <key>XIK'</key>
     <ximenez_spa>xíc</ximenez_spa>
     <ximenez_quc>xic</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -4581,7 +4569,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
     <title>Ya&#039;xkanul</title>
     <type>deidad</type>
     <nid>663</nid>
-    <key>YAXKANUL</key>
+    <key>YA'XKANUL</key>
     <ximenez_spa>yaxcanul</ximenez_spa>
     <ximenez_quc>yaxcanul</ximenez_quc>
     <description>Description forthcoming.</description>
@@ -4622,7 +4610,7 @@ a great stench, so that the limbs fell to pieces in four or five days' (Landa 19
     <title>Yakolatam Utza&#039;m Pop Saqlatol</title>
     <type>persona</type>
     <nid>858</nid>
-    <key>YAKOLATAM_UTZAM_POP_SAQLATOL</key>
+    <key>YAKOLATAM_UTZA'M_POP_SAQLATOL</key>
     <ximenez_spa>yacolatam</ximenez_spa>
     <ximenez_quc>yacolatam</ximenez_quc>
     <description><p>Christenson renders the name as "Yacolatam (Corner of the Reed Mat) Zaclatol," noting that Ximénez's use of the name, <em>Yakolatam, U Tza'm Pop Zaklatol</em> represents "a singular instance in the <em>Popol Vuh</em> text where a Nahua language title is supplied with a Quiché translation by the authors. Yakolatam is derived from the Nahua <em>yacatl</em> (point, edge) and <em>tam </em>(leaves). This is followed by a comma in the manuscript, a fairly rare grammatical mark which in this case may indicate a pause for the authors to give a translation of the preceding word into Quiché. <em>U tza'm pop</em> (Quiché: its nose/point/edge/border reed mat) is a rough translation of <em>yakolatam</em>. <em>Zaklatol</em> is a combination of the Nahua <em>zacatl</em> (grass) and <em>tollin</em> (reed), a translation of the preceding <em>pop</em> (reed mat)" (2007: note 756, p. 256).</p>

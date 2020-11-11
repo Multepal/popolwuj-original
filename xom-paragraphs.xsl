@@ -217,7 +217,11 @@
     <xsl:template match="tei:del">
         <span class="del {@rend}"><xsl:apply-templates /></span>
     </xsl:template>
-
+    
+    <xsl:template match="tei:choice">
+        <span class="expan"><xsl:value-of select="tei:expan/text()"/></span>
+    </xsl:template>
+   
     <!--
     <xsl:template match="text()">
         <xsl:value-of select="normalize-space()" />

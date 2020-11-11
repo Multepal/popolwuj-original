@@ -35,10 +35,12 @@ the encoding description are described in section 2.3 The Encoding Description b
 <!-- projectDesc: Describes in detail the aim or purpose for which an electronic file was encoded, 
 together with any other relevant information concerning the process by which it was assembled or 
 collected. -->
+ <p></p>
 </projectDesc>
 <editorialDecl>
 <!-- editorialDecl: Provides details of the editorial practices applied during the encoding of 
 a text. -->
+ <p></p>
 </editorialDecl>
 </encodingDesc>
 <profileDesc>

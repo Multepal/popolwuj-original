@@ -22,6 +22,7 @@ for export in exports.keys():
     print(url)
     r = requests.get(url)
     out_file = exports[export]['file']
+    print('out_file', out_file)
     if os.path.exists(out_file):
         os.system('mv {0} {0}.tmp'.format(out_file))
     with open(out_file, 'w') as out:
