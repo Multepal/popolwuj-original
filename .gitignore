@@ -7,6 +7,10 @@
 .idea/dbnavigator.xml
 .idea/*
 facsimiles/.DS_Store
+<<<<<<< HEAD
 multepal/snippets.xml.tmp
 multepal/topics.xml.tmp
 .idea/workspace.xml
+=======
+
+>>>>>>> 9894c95846abbc7dd02bf75ad37ba89207aef7b3
