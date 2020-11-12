@@ -6,11 +6,8 @@
 .idea/misc.xml
 .idea/dbnavigator.xml
 .idea/*
+.vscode/*
 facsimiles/.DS_Store
-<<<<<<< HEAD
-multepal/snippets.xml.tmp
-multepal/topics.xml.tmp
-.idea/workspace.xml
-=======
-
->>>>>>> 9894c95846abbc7dd02bf75ad37ba89207aef7b3
+popol-wuj.xpr
+workspace.xml
+settings.json
