@@ -75,6 +75,11 @@ p {
     color:lightgrey;
 }
 
+.lb-marker {
+    color:lightgreen;
+}
+
+
 div.quc .pb {
     float: left;
     margin-left: -1in;

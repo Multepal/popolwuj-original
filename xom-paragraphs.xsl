@@ -160,6 +160,8 @@
         </xsl:for-each>
 
         <xsl:text>__LB__</xsl:text>
+        <span class="lb-marker">/</span>
+
 
         <!-- DOES NOT WORK AS EXPECTED
         <xsl:choose>
