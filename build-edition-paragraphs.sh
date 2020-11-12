@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+# Before running this, run multepal/get-content.py from that directory.
+
 echo "Add line ids to TEI source ..."
 ./xom-all-flat-mod-pnums.py;
 
