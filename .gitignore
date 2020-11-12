@@ -1,13 +1,4 @@
-.idea/workspace.xml
-.idea/dbnavigator.xml
-.idea/workspace.xml
-.idea/vcs.xml
-.idea/codeStyles/Project.xml
-.idea/misc.xml
-.idea/dbnavigator.xml
-.idea/*
-.vscode/*
-facsimiles/.DS_Store
+.idea/
+.vscode/
+**/.DS_Store
 popol-wuj.xpr
-workspace.xml
-settings.json
