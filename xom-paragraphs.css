@@ -71,6 +71,10 @@ p {
     */
 }
 
+.pb-marker {
+    color:lightgrey;
+}
+
 div.quc .pb {
     float: left;
     margin-left: -1in;

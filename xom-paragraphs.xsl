@@ -192,6 +192,7 @@
             <xsl:value-of select="concat($folio,$sidex)"/>
             <xsl:text> &#8212;</xsl:text>
         </a>
+        <span class"pb-marker">|</span>
     </xsl:template>
     
     <xsl:template match="tei:note">
