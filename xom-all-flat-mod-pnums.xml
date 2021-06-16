@@ -3660,7 +3660,7 @@ cap.
 <lb n="46"/>ronohel amac <rs ana="RABINALEB">rabinaleb</rs>, <rs ana="KAQCHIKELEB">ca<pc> –</pc>
 <lb n="47"/>echequeleb</rs>, <rs ana="AJTZ'IKINA_JA">ahq,iquina ha</rs>, ruq
 <pb xml:id="xom-f36-s1"/>
-<lb n="1"/>yaquivinac vbi vacamic. chiri
+<lb n="1"/><rs ana="YAKI">yaquivinac</rs> vbi vacamic. chiri
 <lb n="2"/>cut xhalcatih v qhabal ri a<pc> –</pc>
 <lb n="3"/>mac halahoh qui qhabal xuxic
 <lb n="4"/>maui calah chic xquitao chi qui<pc> –</pc>
@@ -4160,19 +4160,19 @@ cap.
 <lb n="2"/>avion e qovi ta mi xzaquiric xe<pc> –</pc>
 <lb n="3"/>qha chire rahquixb, rahcahb ya
 <lb n="4"/>qui vinac xavi xere <rs ana="TOJIL">tohil</rs> vbi vca<pc> –</pc>
-<lb n="5"/>bavil <rs ana="YAKI_TEPEW">yaqui</rs> vinac <rs ana="YOLKWAT">yolcuat</rs> <rs ana="QUETZALCÓATL">qui<pc> –</pc>
+<lb n="5"/>bavil <rs ana="YAKI">yaqui vinac</rs> <rs ana="YOLKWAT">yolcuat</rs> <rs ana="QUETZALCÓATL">qui<pc> –</pc>
 <lb n="6"/>ꜩalcuat</rs> vbi xcahach chila chu<pc> –</pc>
 <lb n="7"/><rs ana="TULÁN">tulan</rs> chi zuy va are cachelic
 <lb n="8"/>vloc arepuch vꜩacat ca vach
 <lb n="9"/>ta xohpetic xeqha chiquibil quib
 <lb n="10"/>ta xqinatah chiapanoc caꜩ qui
-<lb n="11"/>chac ri <rs ana="YAKI_TEPEW">yaqui</rs> vinac rixzaqui<pc> –</pc>
+<lb n="11"/>chac ri <rs ana="YAKI">yaqui vinac</rs> rixzaqui<pc> –</pc>
 <lb n="12"/>ric chila <rs ana="MEXICO">Mexico</rs> vbinaam va
 <lb n="13"/>camic qo chi nai puch chahcar
 <lb n="14"/>vinac xquicanah chila rele<pc> –</pc>
 <lb n="15"/>bal quih <rs ana="TEPEW_OLOMAN">tepeu oliman</rs> quibi
 <lb n="16"/>xeca canah canoc xeqha nim
-<lb n="17"/>vcatat qui qux chiri chuvi <rs ana="MT.JAQAWITZ">ha<pc> –</pc>
+<lb n="17"/>vcatat qui qux chiri chuvi <rs ana="JAQAWITZ_JUYUB">ha<pc> –</pc>
 <lb n="18"/>caviꜩ</rs> xavi quehe caquiban ri
 <lb n="19"/>rech <rs ana="TAMUB">tamub</rs> <rs ana="ILOKAB">ilocab</rs> xavi xere
 <lb n="20"/>eqo vi chiri paquechelah amac
@@ -5258,7 +5258,7 @@ cap.
 <lb n="28"/>ralaxic ahauab rumal ral v
 <lb n="29"/>qahol. taxqiuaric ahzivan, ah<pc> –</pc>
 <lb n="30"/>tinamit ruq naipuch. mana
-<lb n="31"/>xata qui quehexul quiyaquib
+<lb n="31"/>xata qui quehexul qui<rs ana="YAKI">yaquib</rs>
 <lb n="32"/>ronohel amac ca labal cut
 <lb n="33"/>xcahvi vzivan vtinamit ca
 <lb n="34"/>rumal qui naual ahauab xe
@@ -5626,7 +5626,7 @@ cap.
 <lb n="37"/>uab vae cute xchivachin vvach
 <lb n="38"/>chuhuhunal ahauabva.
 <lb n="39"/>cate xchivachin vvach huhun chuhu<pc> –</pc>
-<lb n="40"/>hunal ahauab quiche
+<lb n="40"/>hunal <rs ana="AJAW_K'ICHE'">ahauab quiche</rs>
 </p>
 <p>
 <lb n="41" rend="indent"/><rs ana="BALAM_KI'TZE'"><hi rend="large">B</hi>alam quiꜩe</rs> vxe nabal <rs ana="KAWEQ">cavi
@@ -5727,7 +5727,7 @@ cap.
 <lb n="41" rend="hanging" />ba hun vnimha.
 </p>
 <p>
-<lb n="42"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
+<lb n="42"/><rs ana="TEPEW_YAKI"><hi rend="large">T</hi>epeu iaqui</rs> hun vnimha
 </p>
 <p xml:id="p90">
 <lb n="43" rend="indent" /><hi rend="large">A</hi>re curi bele heb <rs ana="SAQIK">chinamit</rs> chi<pc> –</pc>
@@ -9433,7 +9433,7 @@ perhaps priests not deities?</note>
 <lb n="43"/>edra nuestros prímeros padres, y ma<pc> –</pc>
 <lb n="44"/>dres. y estando ya cansados allí de
 <lb n="45"/>aguardar al sol, eran ya muchos todos
-<lb n="46"/>los pueblos con el los de yaquí. con estos
+<lb n="46"/>los pueblos con el los <rs ana="YAKI">de yaquí</rs>. con estos
 <lb n="47"/>dígnos derespecto y veneraçíon. ea,
 <lb n="48"/>vamos díxeron a buscar, y vamos a 
 <lb n="49"/><lb/>
@@ -9989,14 +9989,14 @@ perhaps priests not deities?</note>
 <pb corresp="xom-f41-s1"/>
 <lb n="1"/>paríentes, y hermanos. a<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> ya vímos al
 <lb n="2"/>sol,y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> a<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> ya nos amaneçío? díxeron a
-<lb n="3"/>sus compañeros, los de <rs ana="YAKI_TEPEW">yaquí</rs>, y así mes<pc> –</pc>
-<lb n="4"/>mo es <rs ana="TOJIL">tohíl</rs> su ídolo de los de <rs ana="YAKI_TEPEW">yaquí</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="3"/>sus compañeros, los de <rs ana="YAKI">yaquí</rs>, y así mes<pc> –</pc>
+<lb n="4"/>mo es <rs ana="TOJIL">tohíl</rs> su ídolo de los de <rs ana="YAKI">yaquí</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="5"/>se llaman: <rs ana="YOLKWAT">yolcuat</rs>. <rs ana="QUETZALCÓATL">quíꜩalcuat</rs> y nos
 <lb n="6"/>dívídímos alla en <rs ana="TULÁN">tulanzu</rs>, y esta fue
 <lb n="7"/>nuestra salída juntos para aca, y es<pc> –</pc>
 <lb n="8"/>te es nuestro ser cabales díxeron en
 <lb n="9"/>tresí, quando se acordaron desus
-<lb n="10"/>paríentes de alla los de <rs ana="YAKI_TEPEW">yaquí</rs> los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les
+<lb n="10"/>paríentes de alla los de <rs ana="YAKI">yaquí</rs> los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les
 <lb n="11"/>amaneçío alla en <rs ana="MEXICO">Mexíco</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así se lla<pc> –</pc>
 <lb n="12"/>ma agora. y tambíen parte de la gen
 <lb n="13"/>te sequedo alla en el oríente <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
@@ -11453,7 +11453,7 @@ perhaps priests not deities?</note>
 <lb n="35"/>neraçíones de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y víejos <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de<pc> –</pc>
 <lb n="36"/>los calpules todos. y aquí se contara de
 <lb n="37"/>cada vno de por sí, cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>
-<lb n="38"/>de el quiche
+<lb n="38"/>de <rs ana="AJAW_K'ICHE'">el quiche</rs>
 </p>
 <lb/>
 <lb/>
@@ -11555,7 +11555,7 @@ perhaps priests not deities?</note>
 <lb n="40"/>de vna casa grande.
 </p>
 <p>
-<lb n="41"/><rs ana="YAKI_TEPEW"><hi rend="large">T</hi>epeu yaquí</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
+<lb n="41"/><rs ana="TEPEW_YAKI"><hi rend="large">T</hi>epeu yaquí</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 </p>
 <p corresp="#p90">
 <lb n="42"/>y estos son los nueue <rs ana="SAQIK">chínamítales</rs> de
