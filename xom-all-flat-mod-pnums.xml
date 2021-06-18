@@ -3001,8 +3001,8 @@ cap.
 <lb n="15"/>chibanan ta qui vach ta
 <lb n="16"/>qui xeilic rumal <rs ana="XIBALBA">xibalba</rs> hala
 <lb n="17"/>chicut xquibano xa <rs ana="XAJOJ_PUJUY">xahoh puhuy</rs>
-<lb n="18"/><rs ana="XAJOJ_KUX">xahoh cux</rs> xayboy xqui xa
-<lb n="19"/>ho xa xꜩul, xa chitic xqui xah
+<lb n="18"/><rs ana="XAJOJ_KUX">xahoh cux</rs> <rs ana="IB'OY">xayboy</rs> xqui xa
+<lb n="19"/>ho xa <rs ana="XTZUL">xꜩul</rs>, xa <rs ana="CH'ITIK">chitic</rs> xqui xah
 <lb n="20"/>chic quiia maihabal xquiban
 <lb n="21"/>chic xquiporoh ha queheri qui
 <lb n="22"/>ꜩih chicatic libah chicut chivi<pc> –</pc>
@@ -3089,8 +3089,8 @@ cap.
 </note>
 <lb n="1"/>ri <rs ana="XIBALBA">xibalba</rs> xepulic ecayel ro
 <lb n="2"/>nohel cut xquixaho <rs ana="XAJOJ_PUJUY">xquixah
-<lb n="3"/>cux</rs>, <rs ana="XAJOJ_PUJUY">xquixah puhuy</rs>, xquixah
-<lb n="4"/>yboy xqha cu ahau chique
+<lb n="3"/>cux</rs>, <rs ana="XAJOJ_PUJUY">xquixah puhuy</rs>, <rs ana="IB'OY">xquixah
+<lb n="4"/>yboy</rs> xqha cu ahau chique
 <lb n="5"/>chipuzu ri nu ꜩÿ chicaztah chi
 <lb n="6"/>vvach ivvmal xevqhaxic ve
 <lb n="7"/>xeqha. ta xquipuz ꜩÿ xqaztai
@@ -8834,8 +8834,8 @@ perhaps priests not deities?</note>
 <lb n="16"/>portançia en sus caras, y entonces fu<pc> –</pc>
 <lb n="17"/>eron vistos por <rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs>, y poco
 <lb n="18"/>era lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>haçían, solo <rs ana="XAJOJ_PUJUY">el bayle de el pahuy</rs>
-<lb n="19"/><rs ana="XAJOJ_PUJUY">dela comadreja</rs>, y del armado, y
-<lb n="20"/>del Xꜩul, y de chitíc. era lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>baíla<pc> –</pc>
+<lb n="19"/><rs ana="XAJOJ_PUJUY">dela comadreja</rs>, y <rs ana="IB'OY">del armado</rs>, y
+<lb n="20"/><rs ana="XTZUL">del Xꜩul</rs>, y <rs ana="CH'ITIK">de chitíc</rs>. era lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>baíla<pc> –</pc>
 <lb n="21"/>ban; y después hícíeron muchos
 <lb n="22"/>prodígíos, quemaron la casa, como
 <lb n="23"/>sí çiertamente se quemara, y luego
@@ -11231,7 +11231,7 @@ perhaps priests not deities?</note>
 <lb n="21"/>el Rey de los de <rs ana="KAWEQ">cauíquíb</rs>. y otros dos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="22"/>vno se llamaba quema. de los de <rs ana="KE'EMA">níha<pc> –</pc>
 <lb n="23"/>íb</rs>, y otro <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="ACHAQ'_IBOY">achac yboy</rs> de
-<lb n="24"/>los de ahau quíche. y estos eran los
+<lb n="24"/>los de <rs ana="AJAW_K'ICHE'">ahau quíche</rs>. y estos eran los
 <lb n="25"/>nombres de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>los embíaron
 <lb n="26"/>y luego se fueron los vasallos a los mon<pc> –</pc>
 <lb n="27"/>tes, en cada vno de los çerros, y fueron
