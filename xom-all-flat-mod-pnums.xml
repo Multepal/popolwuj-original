@@ -2061,11 +2061,11 @@ cap.
 <lb n="11"/>are curi hun chic xaloc chu pu<pc> –</pc>
 <lb n="12"/>quih vvebalche puholom que<pc> –</pc>
 <lb n="13"/>he uiri quiꜩih catohcheenel ta
-<lb n="14"/>xil rumal catit catecut queva<pc> –</pc>
+<lb n="14"/>xil rumal <rs ana="IXMUKANE">catit</rs> catecut queva<pc> –</pc>
 <lb n="15"/>ic maquiꜩih abixic chiquibano
 <lb n="16"/>xaloc chibe yaoc qui va taxebe 
 <lb n="17"/>cut chicochoch quiꜩih mixohco<pc> –</pc>
-<lb n="18"/>ꜩic ixcatit queqha queoponic xa 
+<lb n="18"/>ꜩic <rs ana="IXMUKANE">ixcatit</rs> queqha queoponic xa 
 <lb n="19"/>loc chiqui qui quih, chiquiiuc puch
 <lb n="20"/>cacan, qui eab chuvach catit taxe 
 <lb n="21"/>be chicut chu ca quih xeopon
@@ -2075,9 +2075,9 @@ cap.
 <lb n="25"/>oponic. apa chinac cohmichouic 
 <lb n="26"/>xeqha cut are cut quebanou ri
 <lb n="27"/>ronohel chuti chicop nima chicop
-<lb n="28"/>coh balam, queh, vmul, iac, vtiu
+<lb n="28"/><rs ana="KOJ">coh</rs> <rs ana="B'ALAM">balam</rs>, queh, <rs ana="UMUL">vmul</rs>, <rs ana="YAK">iac</rs>, <rs ana="UTIW">vtiu</rs>
 <note resp="editor">Does this work for glottal at the subscript position? Or should I use OSU's "q,iquin"? </note>
-<lb n="29"/>ae, ziz chuti <abbr>q<hi rend="subscript">'</hi></abbr>iquin, nima <abbr>q<hi rend="subscript">'</hi></abbr>iquin
+<lb n="29"/><rs ana="AQ">ae</rs>, <rs ana="SIS">ziz</rs> chuti <abbr>q<hi rend="subscript">'</hi></abbr>iquin, nima <abbr>q<hi rend="subscript">'</hi></abbr>iquin
 <lb n="30"/>are xebanouic xahun acab xqui<pc> –</pc>
 <lb n="31"/>bano cate chicut xquitiquiba
 <lb n="32"/>chic abixic. xaui xuban chirib 
@@ -3781,7 +3781,7 @@ cap.
 <lb n="18"/>hun cochoch, xa pu hun cahuyu<pc> –</pc>
 <lb n="19"/>bal ta xix ꜩaquic, ta xixbitic
 <lb n="20"/>chi tocobah ta cu cavach xeqha
-<lb n="21"/>cut naqui 􀁳􀁳chi yao chique
+<lb n="21"/>cut naqui <abbr type="superscription">laqu</abbr><del type="strike-through" instant="false" status="unremarkable">noqu<unclear reason="illegible" instant="false">--</unclear></del>chi yao chique
 <lb n="22"/>chicatocobah cu ivach xevqhax
 <lb n="23"/>cut vꜩ chicaya puvac chive xe
 <lb n="24"/>qha curi amac maui cacah ri pu<pc> –</pc>
@@ -4090,7 +4090,7 @@ cap.
 <lb n="28"/>catah vloc pabeya pazivan xe
 <lb n="29"/>qoheic ꜩam tachuyub, xahun xqui<pc> –</pc>
 <lb n="30"/>xevi qui vach chila xelvi vloc
-<lb n="31"/>quih, cate ta xeoquic coh balam
+<lb n="31"/>quih, cate ta xeoquic <rs ana="KOJ">coh</rs> <rs ana="B'ALAM">balam</rs>
 <lb n="32"/>nabe cut xoc ri q,iquin quele
 <lb n="33"/>ꜩu vbi. quiꜩih chi xquicot rono<pc> –</pc>
 <lb n="34"/>hel chicop xquirip qui xic, cot
@@ -9905,7 +9905,7 @@ perhaps priests not deities?</note>
 <lb n="12"/>y entonçes desataron los tres dones, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>&gt;
 <lb n="13"/>auían pensado en sus corazones. y el
 <lb n="14"/>ínçíenso <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>traía <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs> se lla<pc> –</pc>
-<lb n="15"/>maba míxtam pom. y el Segundo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>&gt;
+<lb n="15"/>maba míxtam pom. y el Segundo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> 
 <lb n="16"/>traía <rs ana="BALAM_AQ'AB">balam acab</rs> sellamaba: cauíz<pc> –</pc>
 <lb n="17"/>tan pom. y el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>traía <rs ana="MAJUK'UTAJ">mahucutah</rs> se
 <lb n="18"/>llamaba: cabauíl pom. y aquellos tres
