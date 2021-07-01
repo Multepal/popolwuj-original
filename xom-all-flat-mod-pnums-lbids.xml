@@ -66,7 +66,7 @@ cap.
 <lb /><rs ana="DIOS">Díos</rs>
 </note>
 <lb n="1" id="xom-f01-s1-quc-1"/><hi rend="very-large">ARE V XE OHER</hi>
-<lb n="2" rend="hanging"/>Ꜩih varal Quiche vbi.
+<lb n="2" rend="hanging"/>Ꜩih varal <rs ana="TINAMIT_K'ICHE'">Quiche</rs> vbi.
 </p>
 <p xml:id="p02">
 <lb n="3" rend="indent"/><hi rend="large">V</hi>aral xchicaꜩibah vi xchica<pc> –</pc>
@@ -5920,7 +5920,7 @@ cap.
 <p corresp="#p01">
 <pb corresp="xom-f01-s1"/>
 <lb n="1" id="xom-f01-s1-spa-1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
-<lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
+<lb n="2" rend="indent"/>antiguas historias aqui en <rs ana="TINAMIT_K'ICHE'">el quiche</rs>.
 </p>
 <p corresp="#p02">
 <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
