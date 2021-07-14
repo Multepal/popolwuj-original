@@ -2829,6 +2829,19 @@ y su reino no tendrá fin.</p>
 <p>Mayanist scholar Allen J. Christenson translates the name <em>Kik' Rixk'aq</em>, as "Bloody Claws" and <em>Kik' Re</em> as "Bloody Teeth." </p></description>
   </topic>
   <topic>
+    <title>Kik&#039; Ya&#039;</title>
+    <type>topónimo</type>
+    <nid>1787</nid>
+    <key>KIK'_YA</key>
+    <english_name>&lt;ul&gt;&lt;li&gt;Blood River&lt;/li&gt;
+&lt;/ul&gt;</english_name>
+    <ximenez_spa>otro de sangre</ximenez_spa>
+    <ximenez_quc>quiquia</ximenez_quc>
+    <description><p><em>Kik' ya' </em>(río de sangre) es, junto con <em>puj ya'</em> (río de agua podrida), uno de los dos ríos principales de Xibalba. Su nombre deriva de <em>kik'</em> (sangre) y <em>ya'</em> (agua), pero por el contexto se entiene que el agua es un río.</p>
+
+<p><em>Kik' ya</em> (river of blood) is, alongside <em>puj ya'</em> (river of rotten water), one of the two main rivers of Xibalba. Its name is derived from the terms <em>kik</em>' (blood) and <em>ya' </em>(water). From the descriptions in the text, it is clear that <em>kik' ya'</em> is a river rather than an ocean or lake.</p></description>
+  </topic>
+  <topic>
     <title>Koj</title>
     <type>animal</type>
     <nid>1754</nid>
@@ -3506,6 +3519,19 @@ traduce como 'comida popular' y concretamente: <em>Popol Wuj</em>, 'el libro del
     <description><p>A river of pus crossed by <em>Jun Junajpu</em> and <em>Wuqub Junajpu </em>appears in all the translated versions, but not in Ximenez's Spanish manuscript (folio 14r). Both Christenson (Literal Poetic, page 72, note 45) and Colop (page 68, note 96) assert that the K'iche' manuscript's <em>puch </em>is a scribal error<em> </em>for <em>puj </em>"pus." This may have caused Ximénez confusion during the translation.</p>
 
 <p>Los hermanos Jun Junajpu y Wuqub Junajpu cruzan un río de pus al entrar a Xibalba. A pesar de esta traducción, Ximénez y Recinos no parecen interpretar esta parte de tal manera. Ximénez no incluye este río en su traducción ya que solo muestra el río de sangre. Colop (2008: 68, nota 96) relata que "Esta identificación de 'agua podrida' es porque en el texto k'iche' en folio 14r y 23v en la transcripción de Ximénez se hace mención de los mismos ríos. Si bien en la primera identificación se transcribió <em>puch</em> por <em>puh</em>, es obvio que la referencia es hacia el mismo río que Ximénez traduce la segunda vez como 'rio de materia'". Dado esta referencia de Ximénez, se entiende mejor la traducción Recinos (1976: 66) "río solamente de agua".</p></description>
+  </topic>
+  <topic>
+    <title>Puj Ya&#039;</title>
+    <type>topónimo</type>
+    <nid>1788</nid>
+    <key>PUJ_YA'</key>
+    <english_name>&lt;ul&gt;&lt;li&gt;Pus River&lt;/li&gt;
+&lt;/ul&gt;</english_name>
+    <ximenez_spa>río de materia</ximenez_spa>
+    <ximenez_quc>puhia</ximenez_quc>
+    <description><p><em>Puj ya' </em>(río de agua podrida) es, junto con <em>kik' ya'</em> (río de sangre), uno de los dos ríos principales de Xibalba. Su nombre deriva de <em>puj</em> (podre/podrido) y <em>ya'</em> (agua), pero por el contexto se entiene que el agua es un río.</p>
+
+<p><em>Puj ya</em> (river of pus/dirt) is, alongside <em>kik' ya'</em> (river of blood), one of the two main rivers of Xibalba. Its name is derived from the terms <em>puj</em> (pus/dirty) and <em>ya' </em>(water). From the descriptions in the text, it is clear that <em>puj</em><em> ya'</em> is a river rather than an ocean or lake.</p></description>
   </topic>
   <topic>
     <title>Pujuyu</title>
@@ -4199,6 +4225,19 @@ traduce como 'comida popular' y concretamente: <em>Popol Wuj</em>, 'el libro del
     <ximenez_spa>tamub</ximenez_spa>
     <ximenez_quc>tamub</ximenez_quc>
     <description>Description forthcoming.</description>
+  </topic>
+  <topic>
+    <title>Tap</title>
+    <type>animal</type>
+    <nid>1790</nid>
+    <key>TAP</key>
+    <english_name>&lt;ul&gt;&lt;li&gt;Crab&lt;/li&gt;
+&lt;/ul&gt;</english_name>
+    <ximenez_spa>cangrejo</ximenez_spa>
+    <ximenez_quc>tap</ximenez_quc>
+    <description><p><em>Tap</em> (cangrejo) es uno de los animales mencionados en las invocaciones iniciales del texto k'iche' y juega un rol importante en el inframundo de Xibalba, donde los dos muchachos (<em>ka'ib k'ajolab</em>) batallan con Sipakna y su padre, Wuqub Kak'ix.</p>
+
+<p><em>Tap</em> (crab) is one of the animals mentioned in the opening invocations of the <em>Popol Wuj</em>. The animal also plays an important role in Xibalba, where the Hero Twins (<em>ka'ib k'ajolab</em>) battle against the old guard, Sipakna and his father, Wuqub Kak'ix.</p></description>
   </topic>
   <topic>
     <title>Tekum</title>
