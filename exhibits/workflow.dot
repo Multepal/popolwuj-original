@@ -1,0 +1,48 @@
+digraph G {
+
+    // Data Files
+    node [shape="folder"]
+    raw_text [label="Source\nfiles"]
+    encoded_text [label="TEI\nEncoded\nfiles"]
+    annoted_text [label="TEI with\nInternal RS\nAnnotations"]
+    // commentary [label="External\nComments"]
+    merged_text [label="Merged XML"]
+    html_version [label="HTML\nVersion"]
+    cts_version [label="CTS\nVersion"]
+    topic_xml [label="Bespoke\nTopic XML"]
+
+    // Database 
+    node [shape="cylinder"]
+    topic_db [label="DB\n(Drupal)"]
+    
+    // Code XSLT + Python
+    node [shape="parallelogram"]
+    T0 [label="1 Export\nto XML\n(Python)"]
+    T1 [label="2 Merge XML\n(XSLT)"]
+    T2 [label="3 Generate HTML\n(XSLT + Python)"]
+    T3 [label="4 Generate CTS\n(XSLT)"]
+
+    // Activities (labor)
+    node [shape="octagon"]
+    encoding
+    annotating
+    commenting
+
+    // Links
+    edge [style="dotted"]
+    topic_db -> annoted_text [label="comments\nto lines"]
+    annoted_text -> topic_db  [label="annotations\nto topics"]
+
+    // Flow
+    edge [style="line"]
+    raw_text -> encoding -> encoded_text
+    encoded_text -> annotating -> annoted_text
+    commenting -> topic_db
+    topic_db -> T0 -> topic_xml
+    {annoted_text; topic_xml} -> T1 -> merged_text
+    
+    merged_text -> T2 -> html_version
+    merged_text -> T3 -> cts_version
+
+
+}

@@ -1,0 +1,35 @@
+digraph G {
+
+    fontname=arial
+    fontsize=14
+    label=<<br/>Genetic Diagram of<br/>the Multepal Edition of the <i>Popol Wuj</i>>
+    
+
+    node [shape="rectangle" color="beige" style="filled" fontname=arial border=gray]
+    edge [color="gray"]
+    
+    CHT [label=<Christiansen<br/>text> shape="rectangle"]
+    TEI [label=<Structural<br/>TEI> shape="rectangle"]
+    GHE [label=<Semantic<br/>TEI> shape="rectangle"]
+    PET [label=<Paragraphs<br/>TEI> shape="rectangle"]
+    MUL [label=<Multepal> shape="rectangle"]
+    TPX [label=<Exported<br/>data<br/>as XML> shape="rectangle"]
+    PTE [label=<Paragraphs<br/>and Topics<br/> Edition> shape="rectangle"]
+
+    T1 [label=<Scrape<br/>and Prepare> shape="ellipse"]
+    T2 [label=<Student<br/>Markup> shape="ellipse"]
+    T3 [label=<Raf<br/>Reworking> shape="ellipse"]
+    T4 [label=<Python<br/>and XSLT> shape="ellipse"]
+    T5 [label=<Student Research<br/>and writing> shape="ellipse"]
+    T6 [label=<Site editing> shape="ellipse"]
+
+
+    CHT -> T1 -> TEI -> T2 -> GHE -> T3 -> PET
+    T2 -> MUL [label=<<i>a</i>>]
+    MUL -> T2 [label=<<i>b</i>>]
+    T5 -> MUL
+    MUL -> TPX -> T4
+    PET -> T4 -> PTE
+    T6 -> PTE
+
+}
