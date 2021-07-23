@@ -1,8 +1,4 @@
-.idea/
-.vscode/
+**/.idea/*
+**/.vscode/*
 **/.DS_Store
 popol-wuj.xpr
-.idea/workspace.xml
-.vscode/settings.json
-.idea/workspace.xml
-.vscode/settings.json
