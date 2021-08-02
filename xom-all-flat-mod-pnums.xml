@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0"
-     xmlns:xi="http://www.w3.org/2001/XInclude"
-     xmlns:xml="http://www.w3.org/XML/1998/namespace">
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.tei-c.org/ns/1.0 
+     https://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_lite.xsd"
+     xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
