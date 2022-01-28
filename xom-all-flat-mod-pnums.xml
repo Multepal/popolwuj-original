@@ -3477,27 +3477,28 @@ cap.
 <lb n="33"/>quxvleu</rs> taxqohe chi cut quiculel qui<pc> –</pc>
 <lb n="34"/>xoquil puch xuxic xavi ca bauil xnao<pc> –</pc>
 <lb n="35"/>hinchic quehe ri xapa varam <del rend="scribble" instant="false" status="unremarkable">xquicam</del>
-<lb n="36"/>xquicam vi quiꜩih e hebel chi ixoc qo
+<lb n="36"/>xquicam vi quiꜩih e hebel chi <rs ana="IXOQ_AJAWAB">ixoc</rs> qo
 <lb n="37"/>ruq <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs> <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
-<lb n="38"/>cutah</rs> <rs ana="IK'I_BALAM">iquibalam</rs>, qo chi quixoquil ta
+<lb n="38"/>cutah</rs> <rs ana="IK'I_BALAM">iquibalam</rs>, qo chi <rs ana="IXOQ_AJAWAB">quixoquil</rs> ta
 <lb n="39"/>qui xeqaztahic anim xquicot chic qui
-<lb n="40"/>qux rumal qui culel are cu qui bi
-<lb n="41"/>quixoquil va. <rs ana="KAQA_PALO_JA'">caha paluna</rs> vbi rixo<pc> –</pc>
+<lb n="40"/>qux rumal <rs ana="IXOQ_AJAWAB">qui culel</rs> are cu qui bi
+<lb n="41"/><rs ana="IXOQ_AJAWAB">quixoquil</rs> va. <rs ana="KAQA_PALO_JA'">caha paluna</rs> vbi rixo<pc> –</pc>
 <lb n="42"/>quil <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs> <rs ana="CHOMI_JA'">chomiha</rs> vbi rixo<pc> –</pc>
 <lb n="43"/>quil <rs ana="BALAM_AQ'AB">balam acab</rs>. <rs ana="TZ'UNUNI_JA'">ꜩununiha</rs> vbi ri xo<pc> –</pc>
 <lb n="44"/>quil <rs ana="MAJUK'UTAJ">mahucutah</rs>. <rs ana="KAK'IXA_JA'">caquixaha</rs> vbi rixo<pc> –</pc>
-<lb n="45"/>quil <rs ana="IK'I_BALAM">iquibalam</rs>. are cut vbi quixo<pc> –</pc>
-<lb n="46"/>quil ri e xoccahauab xevxic epo<pc> –</pc>
+<lb n="45"/>quil <rs ana="IK'I_BALAM">iquibalam</rs>. are cut vbi <rs ana="IXOQ_AJAWAB">quixo<pc> –</pc>
+<lb n="46"/>quil</rs> ri e xoccahauab xevxic epo<pc> –</pc>
 <lb n="47"/>colvinac chutiamac nima a mac are
-<note resp="editor">there's also a 23. at the bottom left, not sure how to mark</note>
+<note  rend="margin-left" anchored="true">
+<num rend="large">23</num></note>
 <pb xml:id="xom-f34-s2"/>
 <note  rend="margin-left" anchored="true">
 <num rend="large">34</num>
 </note>
-<lb n="1"/>cut vxe quech ri oh <rs ana="AJAW_K'ICHE'">quiche</rs> vinac
+<lb n="1"/>cut vxe quech ri oh <rs ana="AJAW_K'ICHE'">quiche vinac</rs>
 <lb n="2"/>ꜩaꜩ cut xuxic ri ahquix ahcahb
 <lb n="3"/>mana xa e cahib chic xuxic xere
-<lb n="4"/>cahib ri qui chuch oh <rs ana="AJAW_K'ICHE'">quiche</rs> vinac
+<lb n="4"/>cahib ri qui <rs ana="IXOQ_AJAWAB">chuch oh</rs> <rs ana="AJAW_K'ICHE'">quiche vinac</rs>
 <lb n="5"/>halahoh chi quibi chi qui huhunal
 <lb n="6"/>ta xpocotahic chila chirelebal quih
 <lb n="7"/>qui vbi xuxic ri vinac <rs ana="TEPEW_OLOMAN">tepeu, olo<pc> –</pc>
@@ -3519,7 +3520,7 @@ cap.
 <lb n="23"/>hun tecpan ruq<rs ana="RABINALEB" type="toponym">rabinaleb</rs>, <rs ana="KAQCHIKELEB">caechi<pc> –</pc>
 <lb n="24"/>queleb</rs>, <rs ana="AJTZ'IKINA_JA">ah q,inquina ha</rs>, ruq puch
 <lb n="25"/><rs ana="SAQAJIB">zacahib</rs>, ruq naipuch <rs ana="LAKAMIB">lamaquib</rs>,
-<lb n="26"/><rs ana="KUMATZ">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhal ha</rs> <rs ana="UCH'ABAJA">vchabaha</rs>, <rs ana="AJCH'UMILA_JA">ah chu<pc> –</pc>
+<lb n="26"/><rs ana="KUMATZ_AMAQ'">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhal ha</rs> <rs ana="UCH'ABAJA">vchabaha</rs>, <rs ana="AJCH'UMILA_JA">ah chu<pc> –</pc>
 <lb n="27"/>mila ha</rs> ruq <rs ana="AJKIBA_JA">ahquibaha</rs>, <rs ana="AJBATENA_JA">ah batenaba</rs>
 <lb n="28"/><rs ana="AKUL_WINAQ">acul vinac</rs> <rs ana="BALAM_JA">balamiha</rs> <rs ana="KANCHAJELEB">canchahe leb</rs><pc> –</pc>
 <lb n="29"/><rs ana="BALAM_KOLOB">balam colob</rs>. xere cut vnimaquil
@@ -4078,9 +4079,9 @@ cap.
 <lb n="29"/>qoheic ꜩam tachuyub, xahun xqui<pc> –</pc>
 <lb n="30"/>xevi qui vach chila xelvi vloc
 <lb n="31"/>quih, cate ta xeoquic <rs ana="KOJ">coh</rs> <rs ana="B'ALAM">balam</rs>
-<lb n="32"/>nabe cut xoc ri <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs> quele
-<lb n="33"/>ꜩu vbi. quiꜩih chi xquicot rono<pc> –</pc>
-<lb n="34"/>hel chicop xquirip qui xic, cot
+<lb n="32"/>nabe cut xoc ri <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs> <rs ana="K'ELETZU">quele
+<lb n="33"/>ꜩu</rs> vbi. quiꜩih chi xquicot rono<pc> –</pc>
+<lb n="34"/>hel chicop xquirip qui xic, <rs ana="K'OTAL">cot</rs>
 <lb n="35"/>zaccuch chuti <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi>iquin</abbr></rs> nima <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi>iquin</abbr></rs>.
 <lb n="36"/>e cu xucuxuxinac ri ah quixb,
 <lb n="37"/>ah cahb nim quequicotic ruq rah
@@ -4310,13 +4311,13 @@ cap.
 <lb n="19"/>quel xquihic vcoc puchi ri a<pc> –</pc>
 <lb n="20"/>bah. macu quiꜩih ta chiabah
 <lb n="21"/>chuxic queheri e huhun chi qa<pc> –</pc>
-<lb n="22"/>holab ta quevlic. xequi cot chic
+<lb n="22"/>holab ta quevlic. xequi <rs ana="K'OTAL">cot</rs> chic
 <lb n="23"/>chirech ri qui quiquel ahquixb
 <lb n="24"/>ahcahb. taxpe chicut retal qui
 <lb n="25"/>banoh ri chi chaconisah quihe are
 <lb n="26"/>icolbal ivib. chila xpe vi chi <rs ana="TULÁN">tu<pc> –</pc>
 <lb n="27"/>lan</rs> ta xoh icam vloc xevqhax
-<lb n="28"/>cut taxya vloc ri q,um pa <rs ana="SILISIB">zili<pc> –</pc>
+<lb n="28"/>cut taxya vloc ri <abbr>q<hi rend="subscript">,</hi></abbr>um pa <rs ana="SILISIB">zili<pc> –</pc>
 <lb n="29"/>zib</rs> vbi ruq quic choc chiquih
 <lb n="30"/>qui hab rib riquic xuxic vyaon
 <lb n="31"/><rs ana="TOJIL">tohil</rs> ruq <rs ana="AWILIX">aulix</rs> x <rs ana="JAQAWITZ">hacaviꜩ</rs>.
@@ -4451,12 +4452,12 @@ cap.
 <lb n="10" />poh. <rs ana="IXPUCH'">xpuch</rs> chicut vbi hun chic
 <lb n="11" />epu caib <rs ana="IXTAJ">xtah</rs> <rs ana="IXPUCH'">xpuch</rs> qui bi
 <lb n="12" />xetac vbic chiya <rs ana="CHI_RATINIBAL_TOJIL">chi ratinibal
-<lb n="13" />tohil aulix hacaviꜩ</rs>. are qui
+<lb n="13" />tohil</rs> <rs ana="AWILIX">aulix</rs> <rs ana="JAQAWITZ">hacaviꜩ</rs>. are qui
 <lb n="14" />naoh ronohel amac rÿ.
 </p>
 <p xml:id="p66">
 <lb n="15" rend="indent" />Cate puch xebec xecauuxic qui<pc> –</pc>
-<lb n="16" />bec chila <rs ana="EL_BAÑO_DE_TOJIL">chatin vi tohil</rs> quicari<pc> –</pc>
+<lb n="16" />bec chila <rs ana="CHI_RATINIBAL_TOJIL">chatin vi tohil</rs> quicari<pc> –</pc>
 <lb n="17" />loon curi qui chahon ta xebec. que
 <lb n="18" />quicot chicuri ahauab cumal ri
 <lb n="19" /><rs ana="IXTAJ_IXPUCH'">e caib qui mial</rs> xquitac vbic. ta
@@ -4510,7 +4511,7 @@ cap.
 <lb n="16"/>be xꜩiban ri <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>. balam
 <lb n="17"/>vvachibal xuxic xuꜩibah chu<pc> –</pc>
 <lb n="18"/>vach cul. are curi chi <rs ana="BALAM_AQ'AB">balam acab</rs>,
-<lb n="19"/>cot chic vvachibal xuꜩibah chu<pc> –</pc>
+<lb n="19"/><rs ana="K'OTAL">cot</rs> chic vvachibal xuꜩibah chu<pc> –</pc>
 <lb n="20"/>vach cul. ta xꜩiban chicuri <rs ana="MAJUK'UTAJ">ma<pc> –</pc>
 <lb n="21"/>hucutah</rs> humah vonon humah zi<pc> –</pc>
 <lb n="22"/>tal vvachibal v ꜩib xuꜩibah
@@ -4540,13 +4541,13 @@ cap.
 <lb n="46"/>xquiritah curi ꜩiban cul cumal
 <lb n="47"/><rs ana="IXTAJ_IXPUCH'">capohib</rs>. humah <rs ana="B'ALAM">balam</rs>, humah
 <pb xml:id="xom-f45-s1"/>
-<lb n="1"/>cot humah naipuch vonon zital
+<lb n="1"/><rs ana="K'OTAL">cot</rs> humah naipuch vonon zital
 <lb n="2"/>v ꜩibal v pam cul chiyulinic vvach
 <lb n="3"/>ta xquiraih cut vvach cat xqui<pc> –</pc>
 <lb n="4"/>coh chiquih macuhabi xuban ri
 <lb n="5"/><rs ana="B'ALAM">balam</rs> vꜩibal nabe oc chirih aha<pc> –</pc>
 <lb n="6"/>u ta xucoh chicut ahau ri vcab
-<lb n="7"/>ꜩiban cul cot vꜩibal xa vꜩ xu<pc> –</pc>
+<lb n="7"/>ꜩiban cul <rs ana="K'OTAL">cot</rs> vꜩibal xa vꜩ xu<pc> –</pc>
 <lb n="8"/>na ahau chupan xavi cazolouic
 <lb n="9"/>chiquivach caꜩunon vcuxic chiqui<pc> –</pc>
 <lb n="10"/>vach conohel taxoc chicut rox
@@ -5260,11 +5261,11 @@ cap.
 <lb n="38"/>chacan chicah huvvc cut chi<pc> –</pc>
 <lb n="39"/>be vbana cahoc chi <rs ana="XIBALBA">xibalba</rs>
 <lb n="40"/>huvvc chicut chiqohe chicu<pc> –</pc>
-<lb n="41"/>maꜩil quiꜩih chi cumaꜩ chuxic
+<lb n="41"/>maꜩil quiꜩih chi <rs ana="KUMATZ">cumaꜩ</rs> chuxic
 <lb n="42"/>huvvc chinaipuch chuba<pc> –</pc>
-<lb n="43"/>no chi cotal huvvc<unclear reason="ink blot" instant="false">chi</unclear>c chi ba<pc> –</pc>
-<lb n="44"/>lamil quiꜩih vi chi cot chi ba<pc> –</pc>
-<lb n="45"/>lam v vachibal chuxic huvvc
+<lb n="43"/>no chi <rs ana="K'OTAL">cotal</rs> huvvc<unclear reason="ink blot" instant="false">chi</unclear>c chi ba<pc> –</pc>
+<lb n="44"/>lamil quiꜩih vi chi <rs ana="K'OTAL">cot</rs> chi <rs ana="BALAM">ba<pc> –</pc>
+<lb n="45"/>lam</rs> v vachibal chuxic huvvc
 <lb n="46"/>chic chiremeic chiquiquel vtu<pc> –</pc>
 <lb n="47"/>quel remanic quic chuxic qui<pc> –</pc>
 <pb xml:id="xom-f52-s1"/>
@@ -6077,8 +6078,8 @@ cap.
 <lb/>
 <lb n="1"/><hi rend="large">Y</hi> despues discurrieron los animales de el mon<corr><pc> –</pc></corr>
 <lb n="2"/>te guardianes suyos de los montes todos, sus crí<pc> –</pc>
-<lb n="3"/>aturas de el monte, <rs ana="KEJ">el venado</rs>, el paxaro, <rs ana="KOJ">el
-<lb n="4"/>leon</rs>, <rs ana="B'ALAM">el tigre</rs>, la culebra, la vívora, el cantí
+<lb n="3"/>aturas de el monte, <rs ana="KEJ">el venado</rs>, <rs ana="TZ'IKIN">el paxaro</rs>, <rs ana="KOJ">el
+<lb n="4"/>leon</rs>, <rs ana="B'ALAM">el tigre</rs>, <rs ana="KUMATZ">la culebra</rs>, <rs ana="SOCHOJ">la vívora</rs>, <rs ana="KANTI">el cantí</rs>
 <lb n="5"/>guardas de los mecates. y dixo <rs ana="ALOM"><rs ana="K'AJOLOM">el criador</rs></rs> sí
 <lb n="6"/>solo hā de estar en silencio, o an de estar en
 <lb n="7"/>suspension debaxo de los palos, y mecates<unclear reason="could be a superscripted 2" instant="false">?</unclear><note resp="editor">It could be the start of a ? that Ximénez decided not to finish</note> y so
@@ -6086,22 +6087,22 @@ cap.
 <lb n="9"/>de; dixeron <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> lo consultaron, y parlaron
 <lb n="10"/>y luego fueron produzidos venados, y paxa<pc> –</pc>
 <lb n="11"/>ros, y entonzes les repartieron sus casas
-<lb n="12"/>alos venados, y a los pajaros. tu venado en
+<lb n="12"/>a<rs ana="KEJ">los venados</rs>, y a <rs ana="TZ'IKIN">los pajaros</rs>. tu <rs ana="KEJ">venado</rs> en
 <lb n="13"/>los caminos de el agua; y en las varrancas
 <lb n="14"/>dormíreís. aqui estaras, en la paja, y en las
 <lb n="15"/>yervas, en el monte de multíplícaras. en
 <lb n="16"/>cuatro pies andaras, y en cuatro pies te pa<pc> –</pc>
 <lb n="17"/>raras les fue dícho <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> seles afírmo su mora
-<lb n="18"/>da. a los grandes, y pequeños paxaros. voso<pc> –</pc>
-<lb n="19"/>tros, vosotros paxaros sobre los palos, y me
+<lb n="18"/>da. a los grandes, y pequeños <rs ana="TZ'IKIN">paxaros</rs>. voso<pc> –</pc>
+<lb n="19"/>tros, vosotros <rs ana="TZ'IKIN">paxaros</rs> sobre los palos, y me
 <lb n="20"/>cates hareís casas, y habitazíon, y allí mul<pc> –</pc>
 <lb n="21"/>típlícareís, os sacudíreís sobre las ramas de
-<lb n="22"/>los palos, y mecates les fue dicho alos ve<pc> –</pc>
-<lb n="23"/>nados ypa xaros <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> hizieron sus obras. to<pc> –</pc>
+<lb n="22"/>los palos, y mecates les fue dicho a<rs ana="KEJ">los ve<pc> –</pc>
+<lb n="23"/>nados</rs> y<rs ana="TZ'IKIN">pa xaros</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> hizieron sus obras. to<pc> –</pc>
 <lb n="24"/>dos tomaron sus dormitorios, y sus habita
 <lb n="25"/>ziones. y así seles dio la tierra por casa
 <lb n="26"/>por <rs ana="ALOM"><rs ana="K'AJOLOM">el criador</rs></rs>. y ya estando acabados
-<lb n="27"/>todos los venados y paxaros
+<lb n="27"/>todos <rs ana="KEJ">los venados</rs> y <rs ana="TZ'IKIN">paxaros</rs>
 </p>
 <lb />
 <lb />
@@ -6109,11 +6110,11 @@ cap.
 <lb />
 <p corresp="#p07">
 <lb n="28"/><hi rend="large">E</hi>ntonzes seles dixo otra vez por <rs ana="TZ'AQOL">el criador</rs>
-<lb n="29"/>y <rs ana="BITOL">formador</rs> alos venados, y alas aves: ha
+<lb n="29"/>y <rs ana="BITOL">formador</rs> a<rs ana="KEJ">los venados</rs>, y a<rs ana="TZ'IKIN">las aves</rs>: ha
 <lb n="30"/>blad, gritad, nohagaís íol, íol. no gríteís.
 <lb n="31"/>hablad cadavno en su espeçie, en cada
-<lb n="32"/>diferencia, seles fue dicho alos venados
-<lb n="33"/>y pajaros, alos leones, tígres, y culebras
+<lb n="32"/>diferencia, seles fue dicho a<rs ana="KEJ">los venados</rs>
+<lb n="33"/>y <rs ana="TZ'IKIN">pajaros</rs>, a<rs ana="KOJ">los leones</rs>, <rs ana="BALAM">tígres</rs>, y <rs ana="KUMATZ">culebras</rs>
 <lb n="34"/>dezíd nuestro nombre, alabadnos, dezid
 <lb n="35"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>somos vuestras <rs ana="ALOM">madres</rs>, y vuestros <rs ana="K'AJOLOM">Padres</rs>.
 <lb n="36"/><rs ana="JUN_RAQAN">huracan</rs>, <rs ana="CH'IPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>
@@ -6650,7 +6651,7 @@ perhaps priests not deities?</note>
 <lb n="19"/>gar y se revnío, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>do bueno. y solo por la 
 <lb n="20"/>muerte de <rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs> quisieron hazerlo
 <lb n="21"/>así, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> les parecío mal su soberbía; y des<pc> –</pc>
-<lb n="22"/>pues se fueron otravez los dos muchachos. y 
+<lb n="22"/>pues se fueron otravez los <rs ana="KA'IB_K'AJOLAB">dos muchachos</rs>. y 
 <lb n="23"/>esto fue hecho así por mandado de<rs ana="UK'U'X_KAJ">el cora<pc> –</pc>
 <lb n="24"/>zon de el zíelo</rs>.
 <lb />
@@ -9327,16 +9328,16 @@ perhaps priests not deities?</note>
 <lb n="35"/>durmíendo ellos, tomaron el consejo, y vna
 <lb n="36"/>Hermosa mugger esta con <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs> y otra
 <lb n="37"/>con <rs ana="BALAM_AQ'AB">balam acab</rs>, y otra con <rs ana="MAJUK'UTAJ">mahucutah</rs>, y otra
-<lb n="38"/><rs ana="IK'I_BALAM">íquí balam</rs> y ya tenían a sus mugeres q<abbr type="superscription">do</abbr>
+<lb n="38"/><rs ana="IK'I_BALAM">íquí balam</rs> y ya tenían a <rs ana="IXOQ_AJAWAB">sus mugeres</rs> q<abbr type="superscription">do</abbr>
 <lb n="39"/>díspertaron de el sueño. y luego se ale
-<lb n="40"/>graron con sus mugeres. y estos eran los
+<lb n="40"/>graron con <rs ana="IXOQ_AJAWAB">sus mugeres</rs>. y estos eran los
 <lb n="41"/>nombres desus mugeres. <rs ana="KAQA_PALO_JA'">caha paluma</rs>
 <lb n="42"/>la mugger de <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>. <rs ana="CHOMI_JA'">chumíha</rs>, la
 <lb n="43"/>muger de <rs ana="BALAM_AQ'AB">balam acab</rs>. <rs ana="TZ'UNUNI_JA'">ꜩununíha</rs>. la
 <lb n="44"/>mugger de <rs ana="MAJUK'UTAJ">nahucutah</rs>. y <rs ana="KAK'IXA_JA'">caqúíxa ha</rs>. la
 <lb n="45"/>mugger de <rs ana="IK'I_BALAM">íquíbam</rs>. y estos fueron los
-<lb n="46"/>nombres de las mugeres, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fueron hechas
-<lb n="47"/>Señoras. y estos fueron los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> multíplícaron
+<lb n="46"/>nombres de <rs ana="IXOQ_AJAWAB">las mugeres</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fueron hechas
+<lb n="47"/><rs ana="IXOQ_AJAWAB">Señoras</rs>. y estos fueron los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> multíplícaron
 <pb corresp="xom-f34-s2"/>
 <lb n="1"/>todos los pueblos, chicos y grandes, y estos
 <lb n="2"/>son el orígen de nosotros los quiches, y mu<pc> –</pc>
@@ -9365,7 +9366,7 @@ perhaps priests not deities?</note>
 <lb n="25"/>pueblos. y treçe famílías con los de <rs ana="RABINALEB">Ra<pc> –</pc>
 <lb n="26"/>banal</rs>. <rs ana="KAQCHIKELEB">ꜫaꜫchíque<del rend="scribble" instant="false" status="unremarkable">l</del>es</rs>, <rs ana="AJTZ'IKINA_JA">ah q,íquínaha</rs>. y
 <lb n="27"/>tambíen con los de <rs ana="SAQAJIB">zacahíb</rs>. y con los de
-<lb n="28"/><rs ana="LAMAKIB">lamaquíb</rs>, <rs ana="KUMATZ">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhalha</rs>, <rs ana="UCH'ABAJA">vchabaha</rs>.
+<lb n="28"/><rs ana="LAMAKIB">lamaquíb</rs>, <rs ana="KUMATZ_AMAQ'">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhalha</rs>, <rs ana="UCH'ABAJA">vchabaha</rs>.
 <lb n="29"/><rs ana="AJCH'UMILA_JA">ah chamílaha</rs>, con los de <rs ana="AJKIBA_JA">ahquíbaha</rs>, y
 <lb n="30"/><rs ana="AJBATENAJA">ah batenab</rs> <rs ana="AKUL_WINAQ">acul vínac</rs>, <rs ana="BALAMI_JA'">balamí<del rend="scribble" instant="false" status="unremarkable"/>ha</rs>, <rs ana="KANCHAJELEB">can
 <lb n="31"/>chaheleb</rs>, <rs ana="BALAM_KOLOB">balam colob</rs>. y solo estas eran
@@ -9557,7 +9558,7 @@ perhaps priests not deities?</note>
 <lb n="13"/>tros, de pedíros fuego, dadnos vn poco de
 <lb n="14"/>vuestro fuego, díxeron <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice>. llegaron. y no
 <lb n="15"/>se les respondío, y entonçes se enojaron
-<lb n="16"/>los pueblos. era otro el language de
+<lb n="16"/>los pueblos. era otro el lenguage de
 <lb n="17"/><rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>,
 <lb n="18"/>y <rs ana="IK'I_BALAM">íquíbalam</rs>. y díxeron. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estos
 <lb n="19"/>handejado nuestra lengua, como se hí<pc> –</pc>
@@ -9765,11 +9766,11 @@ perhaps priests not deities?</note>
 <lb n="23"/>ban al <rs ana="TOJIL">tohíl</rs>, <rs ana="AWILIX">auílix</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs>. y contí<pc> –</pc>
 <lb n="24"/>nuamente ayunaban el <rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>
 <lb n="25"/><rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>.
-<lb n="26"/>con sus mugeres. <rs ana="KAQA_PALO_JA'">caha paluma</rs> su nom
+<lb n="26"/>con <rs ana="IXOQ_AJAWAB">sus mugeres</rs>. <rs ana="KAQA_PALO_JA'">caha paluma</rs> su nom
 <lb n="27"/>bre de la muger de <rs ana="BALAM_KI'TZE'">balam quíꜩe</rs>. y así
 <lb n="28"/>mesmo <rs ana="BALAM_AQ'AB">balam acab</rs>, con su muger lla<pc> –</pc>
 <lb n="29"/>mada <rs ana="CHOMI_JA'">chomíha</rs>. y tambíen <rs ana="MAJUK'UTAJ">mahucu<pc> –</pc>
-<lb n="30"/>tah</rs> con su muger <rs ana="TZ'UNUNI_JA'">q,ununíha</rs>. y <rs ana="IK'I_BALAM">íquí<pc> –</pc>
+<lb n="30"/>tah</rs> con su muger <rs ana="TZ'UNUNI_JA'"><abbr>q<hi rend="subscript">,</hi></abbr>ununíha</rs>. y <rs ana="IK'I_BALAM">íquí<pc> –</pc>
 <lb n="31"/>balam</rs> con su mugger <rs ana="KAK'IXA_JA'">caquíxha</rs>. y estos
 <lb n="32"/>eran ayunadores en la obscurídad, y
 <lb n="33"/>la noche. y tenían gran trísteza <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice>. esta
@@ -9817,9 +9818,9 @@ perhaps priests not deities?</note>
 <lb n="25"/><rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>. y agora se llama: <rs ana="PA_TOJIL">pa<pc> –</pc>
 <lb n="26"/>tohíl</rs>. aquella montaña. y celebra<pc> –</pc>
 <lb n="27"/>ron, la escondedura en la barranca.
-<lb n="28"/>guarda de <rs ana="TOJIL">el tohíl</rs>. y muchas cule<pc> –</pc>
-<lb n="29"/>bras, y muchos <rs ana="B'ALAM">tígres</rs>, víuoras, y can<pc> –</pc>
-<lb n="30"/>ties, estan allí en la barranca, y la
+<lb n="28"/>guarda de <rs ana="TOJIL">el tohíl</rs>. y muchas <rs ana="KUMATZ">cule<pc> –</pc>
+<lb n="29"/>bras</rs>, y muchos <rs ana="B'ALAM">tígres</rs>, <rs ana="SOCHOJ">víuoras</rs>, y <rs ana="KANTI">can<pc> –</pc>
+<lb n="30"/>ties</rs>, estan allí en la barranca, y la
 <lb n="31"/>montaña donde se escondíeron, por
 <lb n="32"/>aquellos <choice><abbr>Ses</abbr><expan instant="false">Señores</expan></choice>. prínçípales; y estuuí<pc> –</pc>
 <lb n="33"/>ron juntos, en vno el <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>
@@ -10355,8 +10356,8 @@ perhaps priests not deities?</note>
 <lb n="14"/>y luego píntaron los tres, y el prímero pin<pc> –</pc>
 <lb n="15"/>to <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, la ímagen de <rs ana="B'ALAM">vn
 <lb n="16"/>tígre</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la pinto en el paño. y <rs ana="BALAM_AQ'AB">balam<pc> –</pc>
-<lb n="17"/>acab</rs>, pinto su imagen <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era vna ag<pc> –</pc>
-<lb n="18"/>uíla, y la pinto en el paño. y píntando
+<lb n="17"/>acab</rs>, pinto su imagen <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era <rs ana="K'OTAL">vna ag<pc> –</pc>
+<lb n="18"/>uíla</rs>, y la pinto en el paño. y píntando
 <lb n="19"/><rs ana="MAJUK'UTAJ">mahucutah</rs>, pinto todo tabanos, y abís<pc> –</pc>
 <lb n="20"/>pas por todas partes lleno de auíspas
 <lb n="21"/>su píntura en el paño. y acabaron<pc> –</pc>
@@ -10384,15 +10385,15 @@ perhaps priests not deities?</note>
 <lb n="43"/>saban los señores <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era señal deauer
 <lb n="44"/>pecado. y tendíeron entonçes los pa<pc> –</pc>
 <lb n="45"/>ños píntados <rs ana="IXTAJ_IXPUCH'">las donçellas</rs>. y por todas
-<lb n="46"/>partes eran<rs ana="B'ALAM">tígres</rs>, portodas partes ag<pc> –</pc>
+<lb n="46"/>partes eran<rs ana="B'ALAM">tígres</rs>, portodas partes <rs ana="K'OTAL">ag<pc> –</pc>
 <pb corresp="xom-f45-s1"/>
-<lb n="1"/>guílas, y todo, tabanos, y abíspas lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="1"/>guílas</rs>, y todo, tabanos, y abíspas lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="2"/>estaba píntado en el paño <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba
 <lb n="3"/>bruñído y entonçes desearon poner<pc> –</pc>
 <lb n="4"/>selos, y pusieronse el prímero, y no les
 <lb n="5"/>hizo nada <rs ana="B'ALAM">el tígre</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba píntado
 <lb n="6"/>en el paño y luego el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>se puso el
-<lb n="7"/>Segundo en <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaba el afuíla, y no
+<lb n="7"/>Segundo en <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaba <rs ana="K'OTAL">el aguíla</rs>, y no
 <lb n="8"/>le hízo nada, y le daba bueltas de<pc> –</pc>
 <lb n="9"/>lante de todos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auían pedido se lo pu<pc> –</pc>
 <lb n="10"/>síese y luego se puso el terçero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
@@ -11087,11 +11088,11 @@ perhaps priests not deities?</note>
 <lb n="32"/>portentoso el <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs>. síete días
 <lb n="33"/>se subía al cíelo, y síete días se íba
 <lb n="34"/>al <rs ana="XIBALBA">ínfíerno</rs>. y siete días se conuer<pc> –</pc>
-<lb n="35"/>tía en culebra, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> çíertamente pa<pc> –</pc>
-<lb n="36"/>reçía culebra. y síete días se con<pc> –</pc>
-<lb n="37"/>uertía en aguíla, y otros síete dí<pc> –</pc>
+<lb n="35"/>tía en <rs ana="KUMATZ">culebra</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> çíertamente pa<pc> –</pc>
+<lb n="36"/>reçía <rs ana="KUMATZ">culebra</rs>. y síete días se con<pc> –</pc>
+<lb n="37"/>uertía en <rs ana="K'OTAL">aguíla</rs>, y otros síete dí<pc> –</pc>
 <lb n="38"/>as se conuertía en <rs ana="B'ALAM">tígre</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>çíerta
-<lb n="39"/>mente era aguíla, y <rs ana="B'ALAM">tígre</rs>. y otros
+<lb n="39"/>mente era <rs ana="K'OTAL">aguíla</rs>, y <rs ana="B'ALAM">tígre</rs>. y otros
 <lb n="40"/>síete días se vonuertía en sangre
 <lb n="41"/>cuajada, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solo era sangre, y çíer<pc> –</pc>
 <lb n="42"/>tamente era portentoso Rey, y mí<pc> –</pc>
@@ -11150,7 +11151,7 @@ perhaps priests not deities?</note>
 <lb n="40"/>y estos dejaron a <rs ana="K'IKAB_KQSIETE">quícab</rs>. y hízíeron
 <lb n="41"/>Guerra. y fueron vençídos, y des
 <lb n="42"/>parçídos los pueblos del de <rs ana="RABINALEB">Rabínal</rs>,
-<lb n="43"/>delos ꜫaꜫchíqueles, de <rs ana="SAQULEWAB">zaculeuab</rs>,
+<lb n="43"/>delos <rs ana="KAQCHIKELEB">ꜫaꜫchíqueles</rs>, de <rs ana="SAQULEWAB">zaculeuab</rs>,
 <lb n="44"/>yfueron vençídos todos los pueblos
 <lb/>
 <pb corresp="xom-f52-s2"/>
