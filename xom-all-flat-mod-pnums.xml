@@ -4513,8 +4513,8 @@ cap.
 <lb n="18"/>vach cul. are curi chi <rs ana="BALAM_AQ'AB">balam acab</rs>,
 <lb n="19"/><rs ana="K'OTAL">cot</rs> chic vvachibal xuꜩibah chu<pc> –</pc>
 <lb n="20"/>vach cul. ta xꜩiban chicuri <rs ana="MAJUK'UTAJ">ma<pc> –</pc>
-<lb n="21"/>hucutah</rs> humah vonon humah zi<pc> –</pc>
-<lb n="22"/>tal vvachibal v ꜩib xuꜩibah
+<lb n="21"/>hucutah</rs> humah <rs ana="WONON">vonon</rs> humah <rs ana="SITA'L">zi<pc> –</pc>
+<lb n="22"/>tal</rs> vvachibal v ꜩib xuꜩibah
 <lb n="23"/>chuvach cul. xuꜩin cut qui ꜩib
 <lb n="24"/>coxichal oxbuzah xquiꜩibah
 <lb n="25"/>cate cut ta xebe quiia cul ri
@@ -4541,7 +4541,7 @@ cap.
 <lb n="46"/>xquiritah curi ꜩiban cul cumal
 <lb n="47"/><rs ana="IXTAJ_IXPUCH'">capohib</rs>. humah <rs ana="B'ALAM">balam</rs>, humah
 <pb xml:id="xom-f45-s1"/>
-<lb n="1"/><rs ana="K'OTAL">cot</rs> humah naipuch vonon zital
+<lb n="1"/><rs ana="K'OTAL">cot</rs> humah naipuch <rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs>
 <lb n="2"/>v ꜩibal v pam cul chiyulinic vvach
 <lb n="3"/>ta xquiraih cut vvach cat xqui<pc> –</pc>
 <lb n="4"/>coh chiquih macuhabi xuban ri
@@ -4552,9 +4552,9 @@ cap.
 <lb n="9"/>chiquivach caꜩunon vcuxic chiqui<pc> –</pc>
 <lb n="10"/>vach conohel taxoc chicut rox
 <lb n="11"/>ꜩibam cul chirih ahau areri
-<lb n="12"/>vonon zital upam xucoh cu chi<pc> –</pc>
+<lb n="12"/><rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs> upam xucoh cu chi<pc> –</pc>
 <lb n="13"/>rih cate puch ta xtÿc vtiohil ru
-<lb n="14"/>mal vonon zital maui xchihta<pc> –</pc>
+<lb n="14"/>mal <rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs> maui xchihta<pc> –</pc>
 <lb n="15"/>hic mapu xcuyutah quitiobal
 <lb n="16"/>chicop ta xuracuh cu vchi ahau
 <lb n="17"/>rumal chicop xa ꜩibam qui va<pc> –</pc>
@@ -4679,12 +4679,12 @@ cap.
 <lb n="38"/>qolic are cut chicoh va chiquech
 <lb n="39"/>mi xibih ivib xeuqhax ri <rs ana="BALAM_KI'TZE'">balam
 <lb n="40"/>quiꜩe</rs> <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>
-<lb n="41"/><rs ana="IK'I_BALAM">iqui balam</rs> ta xya vloc ri vonon
-<lb n="42"/>zital are cut xbe qui cama cu ca<pc> –</pc>
+<lb n="41"/><rs ana="IK'I_BALAM">iqui balam</rs> ta xya vloc ri <rs ana="WONON">vonon</rs>
+<lb n="42"/><rs ana="SITA'L">zital</rs> are cut xbe qui cama cu ca<pc> –</pc>
 <lb n="43"/>am ta xepetic cate xquiyao chu<pc> –</pc>
 <lb n="44"/>pam cahib nimac cocob cahib x<pc> –</pc>
 <lb n="45"/>qohe vi chirih tinamit xquiꜩa<pc> –</pc>
-<lb n="46"/>pih vi ri vonon zital chupan
+<lb n="46"/>pih vi ri <rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs> chupan
 <lb n="47"/>cocob are culelabal rech amac
 <pb xml:id="xom-f46-s2"/>
 <lb n="1"/>cumal xenicvachix cut xe muc<pc> –</pc>
@@ -4727,7 +4727,7 @@ cap.
 <lb n="36"/>queꜩaconic chuchi tinamit cate
 <lb n="37"/>puch ta xhac v vi ri cocob cahib
 <lb n="38"/>qo vi chi tinamit ta xeel curi
-<lb n="39"/>vonon zital queheri zib ta xel
+<lb n="39"/><rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs> queheri zib ta xel
 <lb n="40"/>chupam ri huhun chi cocob cu<pc> –</pc>
 <lb n="41"/>ꜩin curi ahlabal rumal chi<pc> –</pc>
 <lb n="42"/>cop tacatoh chu bac qui vach
@@ -4735,11 +4735,11 @@ cap.
 <lb n="44"/>qui chi chicacan, chiqui cab a
 <lb n="45"/>qo vi xchibe quichapa aon qo vi
 <lb n="46"/>xchibe quimaha ronohel qo vi
-<lb n="47"/>vonon zital. tacatoh chutio ma<pc> –</pc>
+<lb n="47"/><rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs>. tacatoh chutio ma<pc> –</pc>
 <pb xml:id="xom-f47-s1"/>
 <lb n="1"/>vbac vvach xchiquilih chubuchu
 <lb n="2"/>he tac chicop chirih ri huhun chivi<pc> –</pc>
-<lb n="3"/>nac xecabaric rumal vonon zital
+<lb n="3"/>nac xecabaric rumal <rs ana="WONON">vonon</rs> <rs ana="SITA'L">zital</rs>
 <lb n="4"/>maui xchapatah chic qui chab qui
 <lb n="5"/>pocob quevon coyeheic chuvach
 <lb n="6"/>tac vleu quelahahic xecahic chu<pc> –</pc>
@@ -10104,7 +10104,7 @@ perhaps priests not deities?</note>
 <lb n="16"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los perseguían, y no habítaban en sus
 <lb n="17"/>moradas de día, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se andaban
 <lb n="18"/>por los montes, y solo comían, los híjos
-<lb n="19"/>de los tabanos, y abíspas, y los panales.
+<lb n="19"/>de <rs ana="WONON">los tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>, y los panales.
 <lb n="20"/>buscaban, y no tenían buena comída,
 <lb n="21"/>ní bebída, y entonçes nose supo desus
 <lb n="22"/>habítaçíones, y no se sabe donde an<pc> –</pc>
@@ -10136,8 +10136,8 @@ perhaps priests not deities?</note>
 <pb corresp="xom-f42-s2"/>
 <lb n="1"/>y todos los días venían con sus muge<pc> –</pc>
 <lb n="2"/>res a sus habitaçíones, y solo traían
-<lb n="3"/>híjos de tabanos, y abíspas, y panales
-<lb n="4"/>y les daban asus megeres. todos los
+<lb n="3"/>híjos de <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>, y panales
+<lb n="4"/>y les daban asus mugeres. todos los
 <lb n="5"/>días. y ensconces se fueron ante el
 <lb n="6"/><rs ana="TOJIL">tohíl</rs><rs ana="AWILIX">auílíx</rs>, <rs ana="JAQAWITZ">hacauíꜩ</rs> y díxeron en
 <lb n="7"/>sus corazones, solo les daremos al <rs ana="TOJIL">tohíl</rs>,
@@ -10358,8 +10358,8 @@ perhaps priests not deities?</note>
 <lb n="16"/>tígre</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la pinto en el paño. y <rs ana="BALAM_AQ'AB">balam<pc> –</pc>
 <lb n="17"/>acab</rs>, pinto su imagen <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era <rs ana="K'OTAL">vna ag<pc> –</pc>
 <lb n="18"/>uíla</rs>, y la pinto en el paño. y píntando
-<lb n="19"/><rs ana="MAJUK'UTAJ">mahucutah</rs>, pinto todo tabanos, y abís<pc> –</pc>
-<lb n="20"/>pas por todas partes lleno de auíspas
+<lb n="19"/><rs ana="MAJUK'UTAJ">mahucutah</rs>, pinto todo <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abís<pc> –</pc>
+<lb n="20"/>pas</rs> por todas partes lleno de <rs ana="SITA'L">auíspas</rs>
 <lb n="21"/>su píntura en el paño. y acabaron<pc> –</pc>
 <lb n="22"/>sus pínturas los tres en tres doblezes
 <lb n="23"/>píntaron. y luego fueron a dar los
@@ -10387,7 +10387,7 @@ perhaps priests not deities?</note>
 <lb n="45"/>ños píntados <rs ana="IXTAJ_IXPUCH'">las donçellas</rs>. y por todas
 <lb n="46"/>partes eran<rs ana="B'ALAM">tígres</rs>, portodas partes <rs ana="K'OTAL">ag<pc> –</pc>
 <pb corresp="xom-f45-s1"/>
-<lb n="1"/>guílas</rs>, y todo, tabanos, y abíspas lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="1"/>guílas</rs>, y todo, <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs> lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="2"/>estaba píntado en el paño <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba
 <lb n="3"/>bruñído y entonçes desearon poner<pc> –</pc>
 <lb n="4"/>selos, y pusieronse el prímero, y no les
@@ -10397,9 +10397,9 @@ perhaps priests not deities?</note>
 <lb n="8"/>le hízo nada, y le daba bueltas de<pc> –</pc>
 <lb n="9"/>lante de todos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auían pedido se lo pu<pc> –</pc>
 <lb n="10"/>síese y luego se puso el terçero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
-<lb n="11"/>estaua píntado de tabanos, y abíspas.
+<lb n="11"/>estaua píntado de <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>.
 <lb n="12"/>y luego empezaron a pícarle todo
-<lb n="13"/>el cuerpo los tabanos, y las auíspas.
+<lb n="13"/>el cuerpo <rs ana="WONON">los tabanos</rs>, y <rs ana="SITA'L">las auíspas</rs>.
 <lb n="14"/>y no pudo tolerar, ni sufrir las pica<pc> –</pc>
 <lb n="15"/>das de los animals píntados, y empe<pc> –</pc>
 <lb n="16"/>zo a dar grítos el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>por los animales
@@ -10525,13 +10525,13 @@ perhaps priests not deities?</note>
 <lb n="38"/>y esto les meterís a ellos. no os ame<pc> –</pc>
 <lb n="39"/>drenteís, les fue dícho a <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>
 <lb n="40"/><rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>, y <rs ana="IK'I_BALAM">íquí<pc> –</pc>
-<lb n="41"/>balam</rs>. y luego pusíeron tabanos, y a<pc> –</pc>
-<lb n="42"/>bíspas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron atraer, y quando
+<lb n="41"/>balam</rs>. y luego pusíeron <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">a<pc> –</pc>
+<lb n="42"/>bíspas</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron atraer, y quando
 <lb n="43"/>víníeron los pusíeron en quarto ca<pc> –</pc>
 <lb n="44"/>labaços grandes, y pusíeron todos
 <lb n="45"/>quarto a la redonda de el pueblo
-<lb n="46"/>y los ençerraron a los tabanos, y abís<pc> –</pc>
-<lb n="47"/>pas en los calabazos, y estos eran los<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="46"/>y los ençerraron a <rs ana="WONON">los tabanos</rs>, y <rs ana="SITA'L">abís<pc> –</pc>
+<lb n="47"/>pas</rs> en los calabazos, y estos eran los<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <pb corresp="xom-f46-s2"/>
 <lb n="1"/>auían de haçer la guerra a los pueblos.
 <lb n="2"/>y se ensondieron, y se pusíeron en es<pc> –</pc>
@@ -10573,8 +10573,8 @@ perhaps priests not deities?</note>
 <lb n="36"/>faltaba ya para <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se arrojasen ala
 <lb n="37"/>orílla de el pueblo., y luego abríe<pc> –</pc>
 <lb n="38"/>ron las calabazas todos quatro, los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es<pc> –</pc>
-<lb n="39"/>taban en el pueblo, y salieron los
-<lb n="40"/>tabanos, y abíspas, como humo, <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice>
+<lb n="39"/>taban en el pueblo, y salieron <rs ana="WONON">los
+<lb n="40"/>tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>, como humo, <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice>
 <lb n="41"/>salieron de las calabazas, y pereçí<pc> –</pc>
 <lb n="42"/>an los pueblos por los animals, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 <lb n="43"/>derechos se íuan a las niñas de los
@@ -10586,8 +10586,8 @@ perhaps priests not deities?</note>
 <lb n="1"/>dían las níñas de los ojos y heruían
 <lb n="2"/>los anímalexos, y se amontonaban contra
 <lb n="3"/>cada vno de los soldados, y estaban co<pc> –</pc>
-<lb n="4"/>mo embríagados por los tabanos, y abís<pc> –</pc>
-<lb n="5"/>pas, y no podían ya coger las flechas, y los
+<lb n="4"/>mo embríagados por los <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abís<pc> –</pc>
+<lb n="5"/>pas</rs>, y no podían ya coger las flechas, y los
 <lb n="6"/>escudos, y se les cayeron en el suelo, y se
 <lb n="7"/>tendíeron sobre <rs ana="JAQAWITZ_JUYUB">el çerro</rs> y no sentían ya
 <lb n="8"/>las flechas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les tíraban, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>los aporre<pc> –</pc>
