@@ -3883,7 +3883,7 @@ cap.
 <lb n="33"/>curi at <rs ana="TAMUB">tamub</rs>, are abi chuxic
 <lb n="34"/>xu qhax ri <rs ana="TAMUB">tamub</rs>. xqha chicut
 <lb n="35"/><rs ana="ILOKAB">ilocab</rs> at <rs ana="ILOKAB">ilocab</rs> are abi richu<pc> –</pc>
-<lb n="36"/>xic maui zachel oxib chi quiche
+<lb n="36"/>xic maui zachel oxib chi <rs ana="AJAW_K'ICHE'">quiche</rs>
 <lb n="37"/>xahunam caꜩih xeqhacut
 <lb n="38"/>ta xcoh quibi
 </p>
@@ -5064,15 +5064,15 @@ cap.
 <lb n="15"/>xbe qui<unclear reason="overwritten" instant="false">a</unclear> ya quib chichaquix ru<pc> –</pc>
 <lb n="16"/>mal quinucbal labal chirih
 <lb n="17"/>ahau, chirih zivan tinamit x<pc> –</pc>
-<lb n="18"/>maixic xcutuxta vvach, raha<pc> –</pc>
-<lb n="19"/>ual quiche xrah quiqux macu
+<lb n="18"/>maixic xcutuxta vvach, <rs ana="AJAW_K'ICHE'">raha<pc> –</pc>
+<lb n="19"/>ual quiche</rs> xrah quiqux macu
 <lb n="20"/>xbanatahic. quehecut v<del rend="overwritten" instant="false" status="unremarkable">v</del>ina<pc> –</pc>
 <lb n="21"/>quiric vpuzic vinac chu va ca<pc> –</pc>
 <lb n="22"/>bauil taxban ri pocob labal v
 <lb n="23"/>xe taxticaric vpocobaxic tina<pc> –</pc>
 <lb n="24"/>mit chiizmachi chila xticarvi
 <lb n="25"/>vxenahic ꜫaꜫal rumal ri xax
-<lb n="26"/>nim vi rahauarem quiche ahau
+<lb n="26"/>nim vi rahauarem <rs ana="AJAW_K'ICHE'">quiche ahau</rs>
 <lb n="27"/>humah enaual ahauab xma
 <lb n="28"/>qo vi qui yocotah vi xmaqoui
 <lb n="29"/>alachinac choc chique xaviba<pc> –</pc>
@@ -5091,7 +5091,7 @@ cap.
 <lb n="42"/>chiri chinaipuch xquitiquiba vi
 <lb n="43"/>vaim vcaha chirech qui mial
 <lb n="44"/>taxquiziih vloc. are qui cuch<pc> –</pc>
-<lb n="45"/>bal quib ri oxib chinimha v
+<lb n="45"/>bal quib <rs ana="OXIB_RI_NIM_JA">ri oxib chinimha</rs> v
 <lb n="46"/>bi cumal chiricut chicucah vi
 <lb n="47"/>cuquiya chiripuch chiquiveeh
 <pb xml:id="xom-f50-s2"/>
@@ -5109,8 +5109,8 @@ cap.
 <lb n="9"/>chinamit quib vucamac quib qui
 <lb n="10"/>ticpan quib cuculel quib oh<rs ana="KAWEQ">ca<pc> –</pc>
 <lb n="11"/>ui quib</rs> oh<rs ana="NIJA'IB">nihaib</rs>, ohpu <rs ana="AJAW_K'ICHE'">ahau
-<lb n="12"/>quiche</rs> xeqha eoxib chinamit
-<lb n="13"/>oxibpuch nimha. naht cut xqui<pc> –</pc>
+<lb n="12"/>quiche</rs> xeqha <rs ana="OXIB_RI_NIM_JA">eoxib chinamit
+<lb n="13"/>oxibpuch nimha</rs>. naht cut xqui<pc> –</pc>
 <lb n="14"/>ban chiri <rs ana="CHI_ISMACHI">chiizmachi</rs> taxqui ric
 <lb n="15"/>chic taxquil puch hunchic tina<pc> –</pc>
 <lb n="16"/>mit xcocotah chivi ri <rs ana="CHI_ISMACHI">chiizmachi</rs>.
@@ -5118,7 +5118,7 @@ cap.
 <p xml:id="p75">
 <lb n="17"/>Catepuch taxeyacatah chivl
 <lb n="18"/>oc xevlchiri patinamit <rs ana="Q'UMARAQ_AJ">cumarca<pc> –</pc>
-<lb n="19"/>ah</rs> vbi cumal quiche chuqha xic
+<lb n="19"/>ah</rs> vbi cumal <rs ana="AJAW_K'ICHE'">quiche</rs> chuqha xic
 <lb n="20"/>taxevl chic ahauab <rs ana="K'OTUJA_KQCINCO">cotuha</rs> ruq
 <lb n="21"/><rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> ruq puchronohel aha<pc> –</pc>
 <lb n="22"/>uab xroquexoc xroleapuch vi<pc> –</pc>
@@ -5150,12 +5150,7 @@ cap.
 <lb n="46"/>vinac c<add place="above" instant="false" status="unremarkable">o</add>ahib nimha chiri pa
 <lb n="47"/>tinamit <rs ana="Q'UMARAQ_AJ">cumarcaah</rs> xuꜩirizaxic
 <pb xml:id="xom-f51-s1"/>
-<lb n="1"/>rumal 
-               <choice>
-                    <abbr>S<hi rend="superscript">or</hi>.</abbr>                    
-                    <expan instant="false">Señor</expan>
-               </choice> 
-               obispo ri <add place="above" instant="false" status="unremarkable">+</add>ca xtole can
+<lb n="1"/>rumal <choice><abbr>S<hi rend="superscript">or</hi>.</abbr><expan instant="false">Señor</expan></choice> obispo ri <add place="above" instant="false" status="unremarkable">+</add>ca xtole can
 <note place="margin-left" anchored="true">+tinamit</note>
 <lb n="2"/>oc. xeꜫaꜫar chiri xnuc maihi<pc> –</pc>
 <lb n="3"/>nac oc qui tem qui chacat <del rend="overwritten" instant="false" status="unremarkable">x</del>ha
@@ -10845,21 +10840,20 @@ perhaps priests not deities?</note>
 <p corresp="#p74">
 <lb n="3.1"/><rs ana="CHI_ISMACHI">chí ízmachí</rs> es el nombre de el çer<pc> –</pc>
 <lb n="4"/>ro, y su pueblo <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> estuuíeron, y don
-<lb n="5"/>de se poblaron; y llí probaron su
+<lb n="5"/>de se poblaron; y allí probaron su
 <lb n="6"/>grandeza. y hícíeron edífíçíos de
 <lb n="7"/>cal y canto, la quarta generacíon
-<lb n="8"/>de Reyes, y <abbr>SS<hi rend="superscript">es</hi></abbr>
-<unclear reason="deletion" instant="false"><note resp="editor">I don't see this word in the ms. Where did we get "oeoe" from?</note>oeoe</unclear>dixo <rs ana="BALAM_K'ONACHE'_KQTRES">conache</rs>, y
+<lb n="8"/>de Reyes, y <abbr>SS<hi rend="superscript">es</hi></abbr> <unclear reason="deletion" instant="false">y</unclear> dixo <rs ana="BALAM_K'ONACHE'_KQTRES">conache</rs>, y
 <lb n="9"/><rs ana="BELEJEB_KEJ_NJCUATRO">beleheb queh</rs>, y tambíen <rs ana="AJAW_Q'ALEL">ealel ahau</rs>
 <lb n="10"/>y quando reyno el Rey <rs ana="K'OTUJA_KQCUATRO">cotuha</rs>
 <lb n="11"/>con <rs ana="ISTAYUL_KQCUATRO">íztayul</rs><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamaban <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice>
 <lb n="12"/>de trono, y alfo<del rend="overwritten" instant="false" status="unremarkable">mbr</del>a, reínaron
 <lb n="13"/>allí en <rs ana="CHI_ISMACHI">ízmachí</rs>, y lo íllustraron, e
-<lb n="14"/>hízíeron buen pueblo y solo tres ca<pc> –</pc>
-<lb n="15"/>sas grandes auía allí en <rs ana="CHI_ISMACHI">ízmachí</rs>
+<lb n="14"/>hízíeron buen pueblo y solo <rs ana="OXIB_RI_NIM_JA">tres ca<pc> –</pc>
+<lb n="15"/>sas grandes</rs> auía allí en <rs ana="CHI_ISMACHI">ízmachí</rs>
 <lb n="16"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> aun todauía noauí las veínte
-<lb n="17"/>y quatro casas grandes solo tres a<pc> –</pc>
-<lb n="18"/>uía casas grandes, vna casa grande
+<lb n="17"/>y quatro casas grandes solo <rs ana="OXIB_RI_NIM_JA">tres a<pc> –</pc>
+<lb n="18"/>uía casas grandes</rs>, vna casa grande
 <lb n="19"/>de <rs ana="KAWEQ">cauíquíb</rs> y <del rend="overwritten" instant="false" status="unremarkable">vn</del>a casa grande los
 <lb n="20"/>de <rs ana="NIJA'IB">níhaíbab</rs>, y vna casa grande de
 <lb n="21"/>los de <rs ana="AJAW_K'ICHE'">ahau quiche</rs> y solo dos eran
@@ -10878,7 +10872,7 @@ perhaps priests not deities?</note>
 <lb n="34"/>de su grandeza, y magestad. y ví<pc> –</pc>
 <lb n="35"/>endo esto los de <rs ana="ILOKAB">ílocab</rs>, <del rend="scribble" instant="false" status="unremarkable">q</del>uísíeron
 <lb n="36"/>venír a matar a <rs ana="K'OTUJA_KQCUATRO">cotuha</rs> y se empe<pc> –</pc>
-<lb n="37"/>zo la Guerra por ellos, y solo querían
+<lb n="37"/>zo la guerra por ellos, y solo querían
 <lb n="38"/>vn Rey <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> sí y al Rey <rs ana="ISTAYUL">ztayul</rs>, lo
 <lb n="39"/>quísíeron castígar, los de <rs ana="ILOKAB">ílocab</rs>,
 <lb n="40"/>con la muerte, y no salío la ímbídía
@@ -10952,8 +10946,8 @@ perhaps priests not deities?</note>
 <lb n="11"/>dades. nosotros somos compañeros, los de
 <lb n="12"/><rs ana="KAWEQ">cauíquíb</rs>, nosotros los de <rs ana="NIJA'IB">níhaíb</rs>, y noso<pc> –</pc>
 <lb n="13"/>tros los de <rs ana="AJAW_K'ICHE'">ahau quiche</rs> esto dígeron los
-<lb n="14"/>tres calpules, y los tres de las casas gran
-<lb n="15"/>des. y estuuíeron mucho tíempo allí en
+<lb n="14"/>tres calpules, y <rs ana="OXIB_RI_NIM_JA">los tres de las casas gran
+<lb n="15"/>des</rs>. y estuuíeron mucho tíempo allí en
 <lb n="16"/><rs ana="CHI_ISMACHI">ízmachí</rs> y auíendo hallado otro pueblo de<pc> –</pc>
 <lb n="17"/>xaron al de <rs ana="CHI_ISMACHI">ízmachí</rs>.
 </p>
