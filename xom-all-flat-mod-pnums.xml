@@ -991,7 +991,7 @@ cap.
 <lb n="12"/>vbi huyub xchacatah vi
 <lb n="13"/>cate cut ta xeperi <rs ana="KA'IB_K'AJOLAB">qaholab</rs>
 <lb n="14"/>xquicu ri <rs ana="SIPAKNA">zipacna</rs> chiya, a<pc> –</pc>
-<lb n="15"/>pa catbe vi at qahol xcha<pc> –</pc>
+<lb n="15"/>pa catbe vi <rs ana="SIPAKNA">at qahol</rs> xcha<pc> –</pc>
 <lb n="16"/>x curi <rs ana="SIPAKNA">zipacna</rs>? mahabi qui<pc> –</pc>
 <lb n="17"/>n be vi, xa vecha canuꜩucuh,
 <lb n="18"/>ix <rs ana="KA'IB_K'AJOLAB">qaholab</rs> qha curi <rs ana="SIPAKNA">zipac<pc> –</pc>
@@ -1062,24 +1062,24 @@ cap.
 <lb n="34"/>hic chic <rs ana="SIPAKNA">zipacna</rs> cumal <rs ana="KA'IB_K'AJOLAB">qa<pc> –</pc>
 <lb n="35"/>holab</rs> <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalanque</rs>
 <lb n="36"/>ri banol huyub xqha v ꜩiho<pc> –</pc>
-<lb n="37"/>xic oher v nabe qahol <rs ana="WUQUB_KAK'IX">vvc<pc> –</pc>
+<lb n="37"/>xic oher <rs ana="SIPAKNA">v nabe qahol</rs> <rs ana="WUQUB_KAK'IX">vvc<pc> –</pc>
 <lb n="38"/>ub caquix</rs> chuxe huyub <rs ana="ME'AWAN">me<pc> –</pc>
 <lb n="39"/>auan</rs> vbi xchacatahvi xa na
-<lb n="40"/>ual xchacatah vi. vcab nima<pc> –</pc>
-<lb n="41"/>rizai rib. hun chi cut xchica<pc> –</pc>
+<lb n="40"/>ual xchacatah vi. <rs ana="KABRAQAN">vcab nima<pc> –</pc>
+<lb n="41"/>rizai rib</rs>. hun chi cut xchica<pc> –</pc>
 <lb n="42"/>bÿh vbixic
 </p>
 <p xml:id="p15">
-<lb rend="indent" n="43"/><hi rend="large">R</hi>ox chicut nimarizai rib v
-<lb n="44"/>cab v qahol <rs ana="WUQUB_KAK'IX">vvcub caquix</rs> <rs ana="KABRAQAN">cab<pc> –</pc>
+<lb rend="indent" n="43"/><hi rend="large">R</hi>ox chicut nimarizai rib <rs ana="KABRAQAN">v
+<lb n="44"/>cab v qahol</rs> <rs ana="WUQUB_KAK'IX">vvcub caquix</rs> <rs ana="KABRAQAN">cab<pc> –</pc>
 <lb n="45"/>rracan</rs> vbi in yohol huiub xqha.
 <lb n="46"/>xaui cu xere <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="IXBALAMKE">xbalan<pc> –</pc>
 <lb n="47"/>que</rs> xchacou re <rs ana="KABRAQAN">cabrracan</rs>, xqha<pc> –</pc>
 <pb xml:id="xom-f11-s1"/>
 <lb n="1"/>ri<rs ana="JUN_RAQAN">huracan</rs>, <rs ana="CH'IPI_KAQULJA">chipi caculha</rs>, <rs ana="RAXA_KAQULJA">raxa 
 <lb n="2"/>caculha</rs>, ta xqhauic chiquech ri 
-<lb n="3"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="IXBALAMKE">xbalanque</rs> v cab v 
-<lb n="4"/>qahol <rs ana="WUQUB_KAK'IX">vvcub caquix</rs> hunchic 
+<lb n="3"/><rs ana="JUNAJPU">hun ahpu</rs> <rs ana="IXBALAMKE">xbalanque</rs> <rs ana="KABRAQAN">v cab v 
+<lb n="4"/>qahol</rs> <rs ana="WUQUB_KAK'IX">vvcub caquix</rs> hunchic 
 <lb n="5"/>hunchic chichacatahic, xavi nu 
 <lb n="6"/>ꜩih rumal mavi vꜩ quibanoh 
 <lb n="7"/>chuvach vleuh, caquicouizah 
@@ -1087,7 +1087,7 @@ cap.
 <lb n="9"/>quehe chuxic chibochÿh <add place="above" instant="false" status="unremarkable">cu</add> vbic
 <lb n="10"/>chila relebal quih xqha cut ri<rs ana="JUN_RAQAN">hu<pc> –</pc>
 <lb n="11"/>rracan</rs> chique ri e caib <rs ana="KA'IB_K'AJOLAB">qaholab</rs> 
-<lb n="12"/>vꜩ bala lal ahau quevi nacut 
+<lb n="12"/>vꜩ bala <rs ana="JUN_RAQAN">lal ahau</rs> quevi nacut 
 <lb n="13"/>maui vꜩ vi caquilo, mapa lal qo<pc> –</pc>
 <lb n="14"/>lic lal pu yacalic lal <rs ana="UK'U'X_KAJ">vqux cah</rs> 
 <lb n="15"/>xeqha cut ri <rs ana="KA'IB_K'AJOLAB">qaholab</rs> taxqui<pc> –</pc>
@@ -1097,7 +1097,7 @@ cap.
 <lb n="19"/>chuvach vleuh huzu chi bulih ni<pc> –</pc>
 <lb n="20"/>ma huiub, chuti huyub rumal
 <lb n="21"/>ta xculutah cumal ri <rs ana="KA'IB_K'AJOLAB">qaholab</rs>. 
-<lb n="22"/>apa cat be vi at qahol xeqha chi<pc> –</pc>
+<lb n="22"/>apa cat be vi <rs ana="KABRAQAN">at qahol</rs> xeqha chi<pc> –</pc>
 <lb n="23"/>rech ri <rs ana="KABRAQAN">cabracan</rs> mahabi quin
 <lb n="24"/>be vi, xa in vlÿ huyub, in puch 
 <lb n="25"/>yohol rech chibe quih chi bezac 
@@ -1106,8 +1106,8 @@ cap.
 <lb n="28"/><rs ana="XBALAMKE">xbalanque</rs> hupacha xpetic ma<pc> –</pc>
 <lb n="29"/>ui vetaam vvach, naquipa ibi
 <lb n="30"/>xqha <rs ana="KABRAQAN">cabrracan</rs> mahabi cabi xa 
-<lb n="31"/>oh vbom, xapu oh ꜩarabom pa<pc> –</pc>
-<lb n="32"/>tac huyub, xa oh meba mahabi 
+<lb n="31"/><rs ana="KA'IB_K'AJOLAB">oh vbom, xapu oh ꜩarabom pa<pc> –</pc>
+<lb n="32"/>tac huyub</rs>, xa oh meba mahabi 
 <lb n="33"/>naquila quech at qahol, xa
 <lb n="34"/>chuti huyub, xanima huyub coh 
 <lb n="35"/>bec at qahol are curi hun ni<pc> –</pc>
@@ -1116,7 +1116,7 @@ cap.
 <lb n="38"/>cacupupic quicouic chuvi hu<pc> –</pc>
 <lb n="39"/>yub ronohel macuhabi hun
 <lb n="40"/>caib <rs ana="TZ'IKIN">q,iquin</rs> mi xcacam chu<pc> –</pc>
-<lb n="41"/>vach at qahol ve cut quiꜩih
+<lb n="41"/>vach <rs ana="KABRAQAN">at qahol</rs> ve cut quiꜩih
 <lb n="42"/>cauulih ronohel huiub at qa<pc> –</pc>
 <lb n="43"/>hol xeqha ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalan<pc> –</pc>
 <lb n="44"/>que</rs> chire <rs ana="KABRAQAN">cabrracan</rs>. maqui<pc> –</pc>
@@ -1131,43 +1131,43 @@ cap.
 <lb n="4"/>holab</rs> mahabi xa cachape ni<pc> –</pc>
 <lb n="5"/>cah chicaxol catqohe vi hun 
 <lb n="6"/>chamox, hun chaviquicab chi<pc> –</pc>
-<lb n="7"/>que rumal qo ca vvb. ve qo q,i<pc> –</pc>
-<lb n="8"/>quin chicavvbah xeqha cut. que<pc> –</pc>
+<lb n="7"/>que rumal qo ca <rs ana="WUB">vvb</rs>. ve qo <rs ana="TZ'IKIN"><abbr><hi rend="subscript">q,i</hi></abbr><pc> –</pc>
+<lb n="8"/>quin</rs> chicavvbah xeqha cut. que<pc> –</pc>
 <lb n="9"/>quicot chiquitihtobela quivvba<pc> –</pc>
 <lb n="10"/>nic are curi ta quevvbanic ma<pc> –</pc>
 <lb n="11"/>na vleuh tah vbac qui vvb, xa 
-<lb n="12"/>chicuxlabih ri <rs ana="TZ'IKIN">q,iquin</rs> ta chiqui<pc> –</pc>
+<lb n="12"/>chicuxlabih ri <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr>quin</rs> ta chiqui<pc> –</pc>
 <lb n="13"/>vvbah chumaihah curi <rs ana="KABRAQAN">cabracan</rs> 
 <lb n="14"/>ta xquibac cu qui cac ri <rs ana="KA'IB_K'AJOLAB">qaholab</rs> 
-<lb n="15"/>xquibol cut qui <rs ana="TZ'IKIN">q,iquin</rs> chuvach 
-<lb n="16"/>cac hun cut <rs ana="TZ'IKIN">q,iquin</rs> xquicul zah<pc> –</pc>
+<lb n="15"/>xquibol cut qui <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr>quin</rs> chuvach 
+<lb n="16"/>cac hun cut <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr>quin</rs> xquicul zah<pc> –</pc>
 <lb n="17"/>cab chirih zaqui vleu xquicoho 
 <lb n="18"/>are cut chicaya chire ta hiconoc 
-<lb n="19"/>ta chuꜩica puch ruxlab ca q,i<pc> –</pc>
-<lb n="20"/>quin ta chacahoc are curi vleuh 
-<lb n="21"/>xchoc chirih <rs ana="TZ'IKIN">q,iquin</rs> cumal pu<pc> –</pc>
+<lb n="19"/>ta chuꜩica puch ruxlab ca <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr><pc> –</pc>
+<lb n="20"/>quin</rs> ta chacahoc are curi vleuh 
+<lb n="21"/>xchoc chirih <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr>quin</rs> cumal pu<pc> –</pc>
 <lb n="22"/>leu chicaꜩac vi quehe cut pu<pc> –</pc>
 <lb n="23"/>leu. chimuc vi, ve nima etama<pc> –</pc>
-<lb n="24"/>nel hun ꜩac, hun bit ta chauax 
+<lb n="24"/>nel <rs ana="TZ'AQOL">hun ꜩac</rs>, <rs ana="BITOL">hun bit</rs> ta chauax 
 <lb n="25"/>oc, ta zaquiroc xeqha ri <rs ana="KA'IB_K'AJOLAB">qaho<pc> –</pc>
 <lb n="26"/>lab</rs> rumal xax chirain vi vqux<pc> –</pc>
 <lb n="27"/>lal ri chitÿc chichacuxic que<pc> –</pc>
 <lb n="28"/>he xchuraih vqux ri <rs ana="KABRAQAN">cabracan</rs> 
 <lb n="29"/>xeqha chiquibil quib <rs ana="JUNAJPU">hun ahpu</rs> 
-<lb n="30"/><rs ana="XBALAMKE">xbalanque</rs>. ta xquibol ri <rs ana="TZ'IKIN">q,iquin</rs> 
+<lb n="30"/><rs ana="XBALAMKE">xbalanque</rs>. ta xquibol ri <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr>quin</rs> 
 <lb n="31"/>xchacah cut ean vbolic, chiyipo<pc> –</pc>
-<lb n="32"/>uic chi cab chiyanic quih ri q,i<pc> –</pc>
-<lb n="33"/>quin chicoinic, zimizoh ruxlab. 
+<lb n="32"/>uic chi cab chiyanic quih ri <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr><pc> –</pc>
+<lb n="33"/>quin</rs> chicoinic, zimizoh ruxlab. 
 <lb n="34"/>are curi <rs ana="KABRAQAN">cabrracan</rs> curraih chic 
 <lb n="35"/>rechaxic xa cauahin v vaalopu
 <lb n="36"/>chi xa cabiquilahic, cacurulah 
 <lb n="37"/>puch vchub vcaxah rumal vzim<pc> –</pc>
-<lb n="38"/>zohil <rs ana="TZ'IKIN">q,iquin</rs> ta xuꜩonoh cut 
+<lb n="38"/>zohil <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr>iquin</rs> ta xuꜩonoh cut 
 <lb n="39"/>naquipa ri iuecha quiꜩih cuz 
 <lb n="40"/>ruxlab canunao chiya ta zcaquin 
-<lb n="41"/>vech xcha cut ta xya cut hun q,i<pc> –</pc>
-<lb n="42"/>quin chire <rs ana="KABRAQAN">cabracan</rs>, vchacata<pc> –</pc>
-<lb n="43"/>hic curi cate cut xuquiz ri <rs ana="TZ'IKIN">q,iquin</rs> 
+<lb n="41"/>vech xcha cut ta xya cut hun <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr><pc> –</pc>
+<lb n="42"/>quin</rs> chire <rs ana="KABRAQAN">cabracan</rs>, vchacata<pc> –</pc>
+<lb n="43"/>hic curi cate cut xuquiz ri <rs ana="TZ'IKIN"><abbr><hi rend="supscript">q,i</hi></abbr>quin</rs> 
 <lb n="44"/>ta xbe chicut xeopon cu chila re 
 <lb n="45"/>lebal quih qo vi ri nima huyub are 
 <lb n="46"/>curi <rs ana="KABRAQAN">cabracan</rs> xa tubul chic racan 
@@ -6474,8 +6474,8 @@ perhaps priests not deities?</note>
 <lb/>
 <lb/>
 <pb corresp="xom-f06-s2"/>
-<lb n="1"/>monte, y su hermano <rs ana="KABRAQAN">cabrracan</rs> (esto es
-<lb n="2"/>de dos pies) meneaba, y hazía temblar, los
+<lb n="1"/>monte, y su hermano <rs ana="KABRAQAN">cabrracan (esto es
+<lb n="2"/>de dos pies)</rs> meneaba, y hazía temblar, los
 <lb n="3"/>montes, grandes y chicos, y así tambíen se
 <lb n="4"/>ensoberbecíeron estos dos híjos de <rs ana="WUQUB_KAK'IX">vvcub<pc> –</pc>
 <lb n="5"/>caquix</rs>. y así <rs ana="WUQUB_KAK'IX">vvcubcaquix</rs> dixo aueísde
@@ -6851,7 +6851,7 @@ perhaps priests not deities?</note>
 <lb n="29"/>ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. o pobre de mí, pues no
 <lb n="30"/>lo encontrateís por ventura vosotros dixo
 <lb n="31"/><rs ana="SIPAKNA">zípacna</rs>, ea <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> yoíre a enseñaros donde ay mu<corr instant="false"><pc> –</pc></corr>
-<lb n="32"/>chos paxaros, <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> vayaís a tirar con la cerua<pc> –</pc>
+<lb n="32"/>chos <rs ana="TZ'IKIN">paxaros</rs>, <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> vayaís a tirar con la cerua<pc> –</pc>
 <lb n="33"/>tana, yo solo se donde estan. yavísta de ellos
 <lb n="34"/>entro debaxo la laxa. y deveras lopodras
 <lb />
@@ -6893,10 +6893,9 @@ perhaps priests not deities?</note>
 <lb n="23"/>y así fue vencido el <rs ana="SIPAKNA">zípacna</rs> por los mucha<pc> –</pc>
 <lb n="24"/>chos <rs ana="JUNAJPU">hunahpu</rs> y <rs ana="XBALAMKE">xbalanque</rs>. y este quentan
 <lb n="25"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>antiguamente era el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hazía los zerros
-<lb n="26"/>este hijo mayor de<rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs>. deba<pc> –</pc>
+<lb n="26"/><rs ana="SIPAKNA">este hijo mayor</rs> de<rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs>. deba<pc> –</pc>
 <lb n="27"/>xo de el zerro. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama <rs ana="ME'AWAN">meauan</rs> fue
 <lb n="28"/>venzído. y solo por milagro fue venzído
-<note resp="editor">Author's correction in the next line needs to be encoded </note>
 <lb n="29"/>y agora díremos de el otro <del rend="strikethrough" instant="false" status="unremarkable">de</del> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se enso<pc> –</pc>
 <lb n="30"/>berbezío
 <lb />
@@ -6909,8 +6908,8 @@ perhaps priests not deities?</note>
 <lb />
 </p>
 <p corresp="#p15">
-<lb n="31"/><hi>I</hi> el terzero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> seensoberbezío <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era elsegundo
-<lb n="32"/>hijo de <rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sellamaba <rs ana="KABRAQAN">cabra<pc> –</pc>
+<lb n="31"/><hi>I</hi> el terzero <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> seensoberbezío <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era <rs ana="KABRAQAN">elsegundo
+<lb n="32"/>hijo</rs> de <rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sellamaba <rs ana="KABRAQAN">cabra<pc> –</pc>
 <lb n="33"/>can</rs> (esto es de dos píernas) dezía yosoy el
 <lb n="34"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>destruigo los zerros. y así mesmo <rs ana="JUNAJPU">hunahpu</rs>, y
 <lb n="35"/><rs ana="XBALAMKE">xbalanque</rs> vensieron al <rs ana="KABRAQAN">cabrracan</rs>. y 
@@ -6922,7 +6921,7 @@ perhaps priests not deities?</note>
 <note place="margin-right" anchored="true"><num>11</num></note>
 <lb n="1"/><rs ana="JUN_RAQAN">huracan</rs>, <rs ana="CH'IPI_KAQULJA">chipicaculha</rs>, y <rs ana="RAXA_KAQULJA">raxa caculha</rs> di<pc> –</pc>
 <lb n="2"/>xeron <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> hablaron a <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalanq’</rs>
-<lb n="3"/>el Segundo hijo de <rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs> tambíen sea 
+<lb n="3"/><rs ana="KABRAQAN">el Segundo hijo</rs> de <rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs> tambíen sea 
 <lb n="4"/>destruído esto mando, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> noesbíen lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ha
 <lb n="5"/>zen sobre la tierra. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se pasan amucha 
 <lb n="6"/>grandeza y no deue ser así. halagaldo
@@ -6940,7 +6939,7 @@ perhaps priests not deities?</note>
 <lb n="18"/>gajaban los pequeños y grandes mon<corr instant="false"><pc> –</pc></corr>
 <lb n="19"/>tes. y síendo entonçes encontrado por 
 <lb n="20"/>los <rs ana="KA'IB_K'AJOLAB">dos muchachos</rs> le preguntaron a 
-<lb n="21"/>donde vas? muchacho? no voy a par<pc> –</pc>
+<lb n="21"/>donde vas? <rs ana="KABRAQAN">muchacho?</rs> no voy a par<pc> –</pc>
 <lb n="22"/>te alguna díxo el, aquíestoy solo
 <lb n="23"/>derribando zerros y así para síempre 
 <lb n="24"/>estare derríbandolos. y entonzes el 
@@ -6948,9 +6947,9 @@ perhaps priests not deities?</note>
 <lb n="26"/>lanque</rs> a que venís, no os conozco ní
 <lb n="27"/>se a que es vuestra venída. como os 
 <lb n="28"/>llamaís? no tenemos nombre dixe<pc> –</pc>
-<lb n="29"/>ron ellos, solosomos tiradores de zerua<corr instant="false"><pc> –</pc></corr>
+<lb n="29"/>ron ellos, solo<rs ana="KA'IB_K'AJOLAB">somos tiradores de zerua<corr instant="false"><pc> –</pc></corr>
 <lb n="30"/>tana, y cazadores de líga por los mon<corr instant="false"><pc> –</pc></corr>
-<lb n="31"/>tes somos pobres y no tenemos cosa al 
+<lb n="31"/>tes</rs> somos pobres y no tenemos cosa al 
 <lb n="32"/>guna. andamos porlos montes gran<pc> –</pc>
 <lb n="33"/>des y chicos alla enel nazímíento de 
 <lb n="34"/>el sol vímos vn grande zero y es muy 
@@ -6963,7 +6962,7 @@ perhaps priests not deities?</note>
 <lb n="41"/>ras. es verdad eso? dixo <rs ana="KABRAQAN">cabrracan</rs> 
 <lb n="42"/>aveís visto ese zerro <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dezís? adonde
 <lb n="43"/>esta y lo vere y lo echare abaxo. a 
-<lb n="44"/>don de lo visteís? alla dixeron ellos
+<lb n="44"/>don de lo visteís? alla dixeron <rs ana="KA'IB_K'AJOLAB">ellos</rs>
 <lb />
 <lb />
 <lb />
@@ -6974,40 +6973,40 @@ perhaps priests not deities?</note>
 <lb n="4"/>en medio de nosotros vno íra atu ma<pc> –</pc>
 <lb n="5"/>no derecha, y otro a tumano ízquíerda 
 <lb n="6"/><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> llevamos nuestras zeruatanas, y 
-<lb n="7"/>sí vbiere algun paxaro letira remos
-<lb n="8"/>y así íban alegres tirando alos paxa<pc> –</pc>
-<lb n="9"/>ros (y es de advertir <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> tiraban no 
+<lb n="7"/>sí vbiere algun <rs ana="TZ'IKIN">paxaro</rs> letira remos
+<lb n="8"/>y así íban alegres tirando a<rs ana="TZ'IKIN">los paxa<pc> –</pc>
+<lb n="9"/>ros</rs> (y es de advertir <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> tiraban no 
 <lb n="10"/>era de barro el bodoque sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>solo 
-<lb n="11"/>con el soplo derribaban los paxaros) 
+<lb n="11"/>con el soplo derribaban <rs ana="TZ'IKIN">los paxaros</rs>) 
 <lb n="12"/>eíba maravíllado el <rs ana="KABRAQAN">cabrracan</rs>. en<corr instant="false"><pc> –</pc></corr>
 <lb n="13"/>tonzes <rs ana="KA'IB_K'AJOLAB">los muchachos</rs> sacaron fuego
-<lb n="14"/>y pusíeron a asar lospaxaros en el 
-<lb n="15"/>fuego; y a vn paxaro le vntaron tí<pc> –</pc>
+<lb n="14"/>y pusíeron a asar <rs ana="TZ'IKIN">lospaxaros</rs> en el 
+<lb n="15"/>fuego; y a <rs ana="TZ'IKIN">vn paxaro</rs> le vntaron tí<pc> –</pc>
 <lb n="16"/>zate, tíerra blanca le pusíeron. este
-<lb n="17"/>le daremos dixeron ellos <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> seleínzí<pc> –</pc>
+<lb n="17"/>le daremos dixeron <rs ana="KA'IB_K'AJOLAB">ellos</rs> <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> seleínzí<pc> –</pc>
 <lb n="18"/>te el deseo olíendo sufragranzía.
-<lb n="19"/>este nuestro paxaro loha de venzer.
+<lb n="19"/>este nuestro <rs ana="TZ'IKIN">paxaro</rs> loha de venzer.
 <lb n="20"/>y la tierra levntaron ellos <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> en 
 <lb n="21"/>venzíendo lo hade ca er en la tíerra
 <lb n="22"/>y en la tíerra ha deser enterrado, sí
-<lb n="23"/>(es grande sabío el críador) <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> fueren 
+<lb n="23"/>(es grande sabío <rs ana="TZ'AQOL">el críador</rs>) <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> fueren 
 <lb n="24"/>sacadas aluz las críaturas, esto dixe<pc> –</pc>
 <lb n="25"/>ron ellos los <rs ana="KA'IB_K'AJOLAB">dos muchachos</rs>. y entresí dí<pc> –</pc>
 <lb n="26"/>xeron mucho desea en su corazon co<pc> –</pc>
 <lb n="27"/>merlo el <rs ana="KABRAQAN">cabrracan</rs>. y entonzes le
-<lb n="28"/>daban bueltas sobre el fuego alpaxa<pc> –</pc>
-<lb n="29"/>ro, y fuese sazonando ya estaba ama<pc> –</pc>
+<lb n="28"/>daban bueltas sobre el fuego al<rs ana="TZ'IKIN">paxa<pc> –</pc>
+<lb n="29"/>ro</rs>, y fuese sazonando ya estaba ama<pc> –</pc>
 <lb n="30"/>ríllo y le chorreaba el prínge alospa<pc> –</pc>
 <lb n="31"/>xaros. y el <rs ana="KABRAQAN">cabrracan</rs> estaba deseosísí<pc> –</pc>
 <lb n="32"/>mo de comer los y lavoca se le hazía 
 <lb n="33"/>agua, yla baba sele caía, y la sa<pc> –</pc>
-<lb n="34"/>liba por la fraganzia <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> de los pa<pc> –</pc>
-<lb n="35"/>jaros salía. y entonzes pídío pregunto 
+<lb n="34"/>liba por la fraganzia <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> de <rs ana="TZ'IKIN">los pa<pc> –</pc>
+<lb n="35"/>jaros</rs> salía. y entonzes pídío pregunto 
 <lb n="36"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>comída es esta uuestra <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>de verdad es 
 <lb n="37"/>muy suaue su olor <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>siento dadme vnpo<pc> –</pc>
-<lb n="38"/>co. esto dixo y entonzes selefue dada vn 
-<lb n="39"/>paxaro a<rs ana="KABRAQAN">cabrracan</rs>, para su destruccí<pc> –</pc>
-<lb n="40"/>on. y luego seacabo el paxaro. yenton<pc> –</pc>
+<lb n="38"/>co. esto dixo y entonzes selefue dada <rs ana="TZ'IKIN">vn 
+<lb n="39"/>paxaro</rs> a<rs ana="KABRAQAN">cabrracan</rs>, para su destruccí<pc> –</pc>
+<lb n="40"/>on. y luego seacabo <rs ana="TZ'IKIN">el paxaro</rs>. yenton<pc> –</pc>
 <lb n="41"/>zes sefueron y llegaron al nazímíento
 <lb n="42"/>de el sol adonde estaba aquel grande 
 <lb n="43"/>zerro. y ya entonzes el <rs ana="KABRAQAN">cabrracan</rs> esta 
@@ -7016,7 +7015,7 @@ perhaps priests not deities?</note>
 <lb />
 <lb />
 <pb corresp="xom-f12-s1"/>
-<lb n="1"/>untaron alpaxaro <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>comío y ya copudo <note place="margin-right" type="pagination" anchored="true"><num rend="large">12</num></note>
+<lb n="1"/>untaron al<rs ana="TZ'IKIN">paxaro</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>comío y ya copudo <note place="margin-right" type="pagination" anchored="true"><num rend="large">12</num></note>
 <lb n="2"/>hazer cosa alguna alos montes nipudo
 <lb n="3"/>derríbarlos, y entonzes <rs ana="KA'IB_K'AJOLAB">los muchachos</rs> le ata
 <lb n="4"/>ron las manos atras, y tambíen los pies
