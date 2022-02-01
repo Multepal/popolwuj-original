@@ -131,7 +131,7 @@ cap.
 <p xml:id="p04">
 <lb n="7" rend="indent"/><hi rend="large">V</hi>ae cute nabe ꜩih nabe vch<pc> –</pc>
 <lb n="8"/>an. mahabi oꜫ hun vinac, hun
-<lb n="9"/>chicop, <rs ana="TZ'IKIN">ꜩiquin</rs>, car, tap, che
+<lb n="9"/>chicop, <rs ana="TZ'IKIN">ꜩiquin</rs>, <rs ana="KAR">car</rs>, <rs ana="TAP">tap</rs>, che
 <lb n="10"/>abah, hul, zivan, quim, qui<pc> –</pc>
 <lb n="11"/>chelah; xa v tu quel cah qolic.
 <lb n="12"/>maui calah v vach vleu; xa
@@ -971,7 +971,7 @@ cap.
 <lb n="39"/>ahpu</rs>, <rs ana="XBALAMKE">xbalanque</rs>, are chic
 <lb n="40"/>v yoe qui qux caholab ri <rs ana="MOTZ">omu<pc> –</pc>
 <lb n="41"/>ch chi qaholab</rs> xecamic ru<pc> –</pc>
-<lb n="42"/>mal <rs ana="SIPAKNA">zipacna</rs> xa car, xa tap 
+<lb n="42"/>mal <rs ana="SIPAKNA">zipacna</rs> xa <rs ana="KAR">car</rs>, xa <rs ana="TAP">tap</rs> 
 <lb n="43"/>chuꜩucuh chi tac a, xere 
 <lb n="44"/>chirechaah hu ta quih pa
 <lb n="45"/>quih chivacatic ta chuꜩu<pc> –</pc>
@@ -996,7 +996,7 @@ cap.
 <lb n="17"/>n be vi, xa vecha canuꜩucuh,
 <lb n="18"/>ix <rs ana="KA'IB_K'AJOLAB">qaholab</rs> qha curi <rs ana="SIPAKNA">zipac<pc> –</pc>
 <lb n="19"/>na</rs>. naquipa au echa? xa
-<lb n="20"/>car, xa tap, xma qo chivi ca<pc> –</pc>
+<lb n="20"/><rs ana="KAR">car</rs>, xa <rs ana="TAP">tap</rs>, xma qo chivi ca<pc> –</pc>
 <lb n="21"/>nu rico cabihir chincanah
 <lb n="22"/>rechaxic, maui canuchih
 <lb n="23"/>chic vaih xqha <rs ana="SIPAKNA">zipacna</rs>
@@ -1041,7 +1041,7 @@ cap.
 <lb n="13"/>zalam cula ri tap cacvaca<pc> –</pc>
 <lb n="14"/>voh vla rih, xe zivan ri cu<pc> –</pc>
 <lb n="15"/>te qui cumaꜩih vꜩ bala
-<lb n="16"/>chi quicot curi <rs ana="SIPAKNA">zipacna</rs> car<pc> –</pc>
+<lb n="16"/>chi quicot curi <rs ana="SIPAKNA">zipacna</rs> <rs ana="KAR">car</rs><pc> –</pc>
 <lb n="17"/>ahtah xcoc ta pu chi rumal
 <lb n="18"/>quiꜩih cuꜩin chivaih xrah
 <lb n="19"/>cutih ri xaxrah hupunic
@@ -2078,7 +2078,6 @@ cap.
 <lb n="34"/>chicu quinaoh chiri pacatohche 
 <lb n="35"/>pa cupuh puch xa cavarah rica
 <lb n="36"/>bix anavi china cabano vlo la
- <note resp="editor">Does this work for showing the abbreviation -an? or should I just write: ã </note>
 <lb n="37"/>qui ta chicarico xeqha cut ta xc<choice><abbr type="superscription">a-</abbr><expan instant="false">an</expan></choice>                                         
 <lb n="38"/>quinaoh xeopon chicut chiha<pc> –</pc>
 <lb n="39"/>naquirilo cohmichouic ixcatit
@@ -2979,7 +2978,7 @@ cap.
 <p xml:id="p38">
 <lb n="7" rend="indent" />Chi robix cut xecutun chix xe
 <lb n="8"/>il chi ya rumal vinac e caib que
-<lb n="9"/>heri xavinac car xevachinic
+<lb n="9"/>heri xavinac <rs ana="KAR">car</rs> xevachinic
 <lb n="10"/>ta xil qui vach cumal <rs ana="XIBALBA">xibalba</rs>
 <lb n="11"/>xeꜩucux cut chitac ya xchu
 <lb n="12"/>eca cut quecutunoc e caib chi
@@ -5914,7 +5913,7 @@ cap.
 <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
 <lb n="4"/>antiguas historias, su principio, y comien<pc> –</pc>
 <lb n="5"/>zo de todo lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue hecho en <rs ana="TINAMIT_K'ICHE'">el pueblo de
-<lb n="6"/>el quiche</rs>, su pueblo de los indios quichees;
+<lb n="6"/>el quiche</rs>, su pueblo de <rs ana="AJAW_K'ICHE'">los indios quichees</rs>;
 <lb n="7"/>y de aqui tomaremos su ser declarado, y
 <lb n="8"/>manifestado, y su ser relatado, la esconde
 <lb n="9"/>dura, y aclaradura, por el <rs ana="TZ'AQOL">formador</rs>, y <rs ana="BITOL">cri<pc> –</pc>
@@ -5930,14 +5929,14 @@ cap.
 <lb n="19"/>ela</rs>, y <rs ana="XPIYAKOK">abuelo</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sellamaban: <rs ana="XPIYAKOK">xpiyacoc</rs>, y
 <lb n="20"/><rs ana="IXMUKANE">xmucane</rs>. nombres propios. <rs ana="IXMUKANE">amparado<pc> –</pc>
 <lb n="21"/>res</rs>, y <rs ana="XPIYAKOK">cubridores</rs> <rs ana="IXMUKANE">dos vezes abuela</rs>, y <rs ana="XPIYAKOK">dos
-<lb n="22"/>vezes abuelo</rs> son dichos en las historias qui<pc> –</pc>
-<lb n="23"/>chees. <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> comunicaron. todo con los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hizi<pc> –</pc>
+<lb n="22"/>vezes abuelo</rs> son dichos en las historias <rs ana="AJAW_K'ICHE'">qui<pc> –</pc>
+<lb n="23"/>chees</rs>. <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> comunicaron. todo con los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hizi<pc> –</pc>
 <lb n="24"/>eron despues en el estado de la claridad
 <lb n="25"/>y en la palabra de clarídad. Esto escri<pc> –</pc>
 <lb n="26"/>uiremos ya en la ley de <rs ana="DIOS">Díos</rs>, en la cris<pc> –</pc>
-<lb n="27"/>tiandad, lo sacaremos <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay lí<pc> –</pc>
-<lb n="28"/>bro comun, original donde verlo. dela
-<lb n="29"/>otra parte de el mar es venido donde se a
+<lb n="27"/>tiandad, lo sacaremos <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay <rs ana="POPOL_WUJ">lí<pc> –</pc>
+<lb n="28"/>bro comun</rs>, original donde verlo. dela
+<lb n="29"/>otra parte de <rs ana="PALO">el mar</rs> es venido donde se a
 <lb n="30"/>visto; <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es dicho su ser enseñada nuestra
 <lb n="31"/>obscuridad con la míradura dela clara
 <lb n="32"/>vida. antigua mente avía <rs ana="POPOL_WUJ">libro original</rs>
@@ -5972,8 +5971,8 @@ cap.
 </p>
 <p corresp="#p04">
 <lb n="6"/><hi rend="large">I</hi> esta es la primera palabra, y eloquençía.
-<lb n="7"/>aun no avía hombres, animales, <rs ana="TZ'IKIN">pajaros</rs>, pes<pc> –</pc>
-<lb n="8"/>cado, cangrejo, palo, piedra, hoyo, varran<pc> –</pc>
+<lb n="7"/>aun no avía hombres, animales, <rs ana="TZ'IKIN">pajaros</rs>, <rs ana="KAR">pes<pc> –</pc>
+<lb n="8"/>cado</rs>, <rs ana="TAP">cangrejo</rs>, palo, piedra, hoyo, varran<pc> –</pc>
 <lb n="9"/>ca, paja, ní monte; síno solo estaba el cíelo.
 <lb n="10"/>no se manifestava la haz de la tierra; sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="11"/>solo estaba <rs ana="PALO">el mar</rs> represado, y todo lo de el
@@ -6032,12 +6031,8 @@ cap.
 <lb n="14"/>solo dezirlo se hizo la tierra, y estuvo su ser
 <lb n="15"/>formada. tierra dixeron, y luego al instan<pc> –</pc>
 <lb n="16"/>te fue hecha. así como la neblina, y como
-<lb n="17"/>nube su ser formada, en retazos 
-     <choice>
-          <abbr>q<hi rend="superscript">o</hi></abbr>
-          <expan instant="false">quando</expan>
-     </choice> se puso
-<lb n="18"/>como cangrejo sobre el agua el zerro fue<pc> –</pc>
+<lb n="17"/>nube su ser formada, en retazos <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se puso
+<lb n="18"/>como <rs ana="TAP">cangrejo</rs> sobre el agua el zerro fue<pc> –</pc>
 <lb n="19"/>hecho. solo por milagro, y maravilla fue
 <lb n="20"/>hecho, y en vninstante juntamente se
 <lb n="21"/>formo su produzir zipreses, y pínabetes en
@@ -6303,8 +6298,8 @@ perhaps priests not deities?</note>
 <lb n="21"/>de esa material, empero no hizieron memo<pc> –</pc>
 <lb n="22"/>ría, ni agradezieron <rs ana="TZ'AQOL"><rs ana="BITOL">al criador</rs></rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>los crío
 <lb n="23"/>el averlos críado; y así fueron muertos y a
-<lb n="24"/>negados. vino gran resína, y pez de el
-<lb n="25"/>zielo. y un paxaro llamado: <rs ana="K'OTK'OWACH">xecotcovach</rs>, ví<pc> –</pc>
+<lb n="24"/>negados. vino gran resína, y <rs ana="KAR">pez</rs> de el
+<lb n="25"/>zielo. y <rs ana="TZ'IKIN">un paxaro</rs> llamado: <rs ana="K'OTK'OWACH">xecotcovach</rs>, ví<pc> –</pc>
 <lb n="26"/>no y les saco los ojos, y víno otro <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba
 <lb n="27"/><rs ana="KAMALOTZ'">camaloꜩ</rs> y les corto las cabezas, y víno oto a<pc> –</pc>
 <lb n="28"/>nimal llamado <rs ana="KOTZBALAM">coꜩbalam</rs>, y les comío sus car<pc> –</pc>
@@ -6813,17 +6808,17 @@ perhaps priests not deities?</note>
 <lb n="29.1"/>muchachos</rs>, <rs ana="JUNAJPU">hun ahpu</rs>, <rs ana="XBALAMKE">xbalanque</rs>. y esto les<pc> –</pc>
 <lb n="30"/>parezío desprezío en su corazon auer muer<pc> –</pc>
 <lb n="31"/>to a<rs ana="MOTZ">los cuatrozientos muchachos</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fueron 
-<lb n="32"/>muertos por <rs ana="SIPAKNA">zípacna</rs>. y este solo pescado, y 
-<lb n="33"/>cangregos buscaba aoríllas de los ríos, y es<pc> –</pc>
+<lb n="32"/>muertos por <rs ana="SIPAKNA">zípacna</rs>. y este solo <rs ana="KAR">pescado</rs>, y 
+<lb n="33"/><rs ana="TAP">cangregos</rs> buscaba aoríllas de los ríos, y es<pc> –</pc>
 <lb n="34"/>to era lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> comía todos los días. dedía se pase<pc> –</pc>
 <lb n="35"/>aba <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> buscaba su comida, y de noche carga<pc> –</pc>
 <lb />
 <lb />
 <pb corresp="xom-f10-s1"/>
 <lb n="1"/>ba los zeros. entonzes <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs> <note place="margin-right" anchored="true"><num>10</num></note>
-<lb n="2"/>hízíeron vna ímagen de cangrejo, y devna
+<lb n="2"/>hízíeron vna ímagen de <rs ana="TAP">cangrejo</rs>, y devna
 <lb n="3"/>oja<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se cría en los arboles <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llaman, ec. hízíeron
-<lb n="4"/>las manos grandes de el cangrejo, y las peque<pc> –</pc>
+<lb n="4"/>las manos grandes de <rs ana="TAP">el cangrejo</rs>, y las peque<pc> –</pc>
 <lb n="5"/>ñas de otras hojas mas pequeñas llamadas, pa<pc> –</pc>
 <lb n="6"/>hac. ylaconcha, y manos hízíeron de laxa, y la pusíeron
 <lb n="7"/>tumbada. y entonzes lo pusieron en vna cueua de
@@ -6834,10 +6829,10 @@ perhaps priests not deities?</note>
 <lb n="12"/>chacho? y dixo el <rs ana="SIPAKNA">zípacna</rs>: no voy aníngu<pc> –</pc>
 <lb n="13"/>na parte; síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> ando buscando mí comída.
 <lb n="14"/>y ellos le preguntaron <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es tu comída? solo
-<lb n="15"/>pescado y cangrejos, yno he hallado níngu<pc> –</pc>
+<lb n="15"/><rs ana="KAR">pescado</rs> y <rs ana="TAP">cangrejos</rs>, yno he hallado níngu<pc> –</pc>
 <lb n="16"/>no, y desde antíer nocomo, y ya no puedo
 <lb n="17"/>sufrir la hambre. y entonzes le díxeron
-<lb n="18"/>ellos: vn cangrejo esta alla debaxo de
+<lb n="18"/>ellos: <rs ana="TAP">vn cangrejo</rs> esta alla debaxo de
 <lb n="19"/>la barranca, y deverdad es muy grande
 <lb n="20"/>y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>bíen <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> lo comíeras? quísímos cogerlo.
 <lb n="21"/>y nos mordío, y nos atemorízamos por el. o
@@ -6875,13 +6870,13 @@ perhaps priests not deities?</note>
 <lb n="5"/>ra bueno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>tu vayas en suseguimiento <choice><abbr>pa.</abbr><expan instant="false">para</expan></choice> arri<pc> –</pc>
 <lb n="6"/>ba. esta bíen dixo <rs ana="SIPAKNA">zípacna</rs>, y entonzes le
 <lb n="7"/>fueron acompañando, y llegaron debaxo de
-<lb n="8"/>la barranca, y el cangrejo estaba echado de
+<lb n="8"/>la barranca, y <rs ana="TAP">el cangrejo</rs> estaba echado de
 <lb n="9"/>lado ymuy colorada la concha. yallí debaxo
 <lb n="10"/>de la barranca estaba el secreto de <rs ana="KA'IB_K'AJOLAB">los mucha<pc> –</pc>
 <lb n="11"/>chos</rs>. estabíen díxo <rs ana="SIPAKNA">zípacna</rs> alegrandose
 <lb n="12"/>y ya quísíera comerselo <choice><abbr>por q’</abbr><expan instant="false">por que</expan></choice> ya estaba mu<pc> –</pc>
-<lb n="13"/>erto dehambre. y probo a entrar echado, y el
-<lb n="14"/>cangrejo seíba subiendo. y salíose luego yle
+<lb n="13"/>erto dehambre. y probo a entrar echado, y <rs ana="TAP">el
+<lb n="14"/>cangrejo</rs> seíba subiendo. y salíose luego yle
 <lb n="15"/>dixeron <rs ana="KA'IB_K'AJOLAB">los muchachos</rs> no lo cogiste? no nolo
 <lb n="16"/>he cogído poco me falto pa. cogerlo sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
 <lb n="17"/>subío para arríba. y así quízas sera bueno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lu<pc> –</pc>
@@ -7966,32 +7961,32 @@ perhaps priests not deities?</note>
 <lb n="23"/>ban de colera sus corazones, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> no 
 <lb n="24"/>los auían cogído. y víno vno a la postre
 <lb n="25"/>saltando, y atajando lo cogíeron en la
-<lb n="26"/>red al raton, y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> lo cogíeron, le
+<lb n="26"/>red <rs ana="CH'O">al raton</rs>, y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> lo cogíeron, le
 <lb n="27"/>apretaron el çelebro, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> lo querían aho<pc> –</pc>
 <lb n="28"/>gar, y le quemaron la cola en el fuego,
-<lb n="29"/>y entonçes tomo su cola el raton sín pe<pc> –</pc>
+<lb n="29"/>y entonçes tomo su cola <rs ana="CH'O">el raton</rs> sín pe<pc> –</pc>
 <lb n="30"/>lo, y tambíen sus ojos saltados<corr instant="false">saltones</corr> quando lo<pc> –</pc>
 <lb n="31"/>quisieron ahogar los <rs ana="KA'IB_K'AJOLAB">dos muchachos</rs>
-<lb n="32"/><rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. ydíxo el ra<pc> –</pc>
-<lb n="33"/>ton, no me mateís, no es esto vuestro off<choice><abbr type="superscription">o</abbr><expan instant="false">oficio</expan></choice>
+<lb n="32"/><rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. ydíxo <rs ana="CH'O">el ra<pc> –</pc>
+<lb n="33"/>ton</rs>, no me mateís, no es esto vuestro off<choice><abbr type="superscription">o</abbr><expan instant="false">oficio</expan></choice>
 <lb n="34"/>el haçer mílpa. pues <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> nos de<pc> –</pc>
 <lb n="35"/>deçís, díxeron los <rs ana="KA'IB_K'AJOLAB">dos muchachos</rs> al
 <lb n="36"/>raton. dexadme vn poco, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> tengo,
 <lb n="37"/>en mí víentre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dezir, y despues lo dire
-<lb n="38"/>dadme algo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> comer díxo el raton, y
+<lb n="38"/>dadme algo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> comer díxo <rs ana="CH'O">el raton</rs>, y
 <lb n="39"/>le fue dícho despues te daremos tu comí<pc> –</pc>
-<lb n="40"/>da deçíldo agora. esta bíen díxo el raton.
+<lb n="40"/>da deçíldo agora. esta bíen díxo <rs ana="CH'O">el raton</rs>.
 <lb n="41"/>sabreís <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los bienes de vuestros Padres, <rs ana="JUN_JUNAJPU">hun<pc> –</pc>
 <lb n="42"/>hun ahpu</rs>, y <rs ana="WUQUB_JUNAJPU">vucub hun ahpu</rs> q<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así se llama<pc> –</pc>
 <lb n="43"/>ban aquellos,<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> muríeron en el<rs ana="XIBALBA"><choice><abbr>ífíerno</abbr><expan instant="false">infierno</expan></choice></rs>, es
 <lb n="44"/>tan ay, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> es con<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> jugaban, estan colgados
-<lb n="45"/>sobre el tapanco, su batey, la pala, y la pelo<pc> –</pc>
-<lb n="46"/>ta de vle, y no os lo quíere manífestar vues<pc> –</pc>
+<lb n="45"/>sobre el tapanco, <rs ana="B'ATE">su batey</rs>, <rs ana="PACHQ'AB'">la pala</rs>, y <rs ana="KIK'">la pelo<pc> –</pc>
+<lb n="46"/>ta de vle</rs>, y no os lo quíere manífestar vues<pc> –</pc>
 <lb n="47"/>tra <rs ana="IXMUKANE">abuela</rs>, <choice><abbr>por q’</abbr><expan instant="false">por que</expan></choice> por estos muríeron vues<pc> –</pc>
 <pb corresp="xom-f21-s2"/>
 <lb n="1"/>tros padres. y díxeron <rs ana="KA'IB_K'AJOLAB">los muchachos</rs>: de çíer
 <lb n="2"/>to lo sabeís vos? y sealegraron mucho quando
-<lb n="3"/>oyeron la notíçía de la bola de vle, y auíen<pc> –</pc>
+<lb n="3"/>oyeron la notíçía <rs ana="KIK'">de la bola de vle</rs>, y auíen<pc> –</pc>
 <lb n="4"/>do dícho <rs ana="CH'O">el raton</rs> le señalaron sucomída <rs ana="CH'O">al 
 <lb n="5"/>raton</rs>. esta sera tu comída, el maís, las pepí<pc> –</pc>
 <lb n="6"/>tas de el chíle, los fríxoles, el pataste, el cacao,
@@ -8818,7 +8813,7 @@ perhaps priests not deities?</note>
 <p corresp="#p38">
 <lb n="7"/>y al quinto día se manifestaron otra
 <lb n="8"/>vez, y fueron vístos en el agua por la
-<lb n="9"/>gente a dos, así como pescado hombre
+<lb n="9"/>gente a dos, así como <rs ana="KAR">pescado</rs> hombre
 <lb n="10"/>se pareçieron, yquando fueron vís<pc> –</pc>
 <lb n="11"/>tos por <rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs> fueron busca<pc> –</pc>
 <lb n="12"/>dos en todo elrío, y al día síguíente
