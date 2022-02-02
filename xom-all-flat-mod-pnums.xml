@@ -5679,17 +5679,17 @@ cap.
 <lb n="24"/>vach <rs ana="KAWEQ">caviquib</rs> quiche are chi xchi<pc> –</pc>
 <lb n="25"/>cabÿh chic re chinamit. Va chicute
 <lb n="26"/>nimha rech huhun chiahauab chi<pc> –</pc>
-<lb n="27"/>rih<rs ana="AJPOP">ahpop</rs> ahpopcamha are vbi<pc> –</pc>
+<lb n="27"/>rih<rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpopcamha</rs> are vbi<pc> –</pc>
 <lb n="28"/>naam ri beleheb <rs ana="SAQIK">chinamit</rs> <rs ana="KAWEQ">chica<pc> –</pc>
 <lb n="29"/>uiquib</rs> beleheb vnimha va tac
 <lb n="30"/>vbi e rahaual huhun chi nimha.
 </p>
 <p>
-<lb n="31"/><hi rend="large">A</hi>hau ahpop hun vnimha cuhavbi
+<lb n="31"/><hi rend="large">A</hi>hau <rs ana="AJPOP">ahpop</rs> hun vnimha cuhavbi
 <lb n="32" rend="hanging" />nimha
 </p>
 <p>
-<lb n="33"/><hi rend="large">A</hi>hau ahpopcamha ꜩiquinahavbi
+<lb n="33"/><hi rend="large">A</hi>hau <rs ana="AJPOP_K'AMJA">ahpopcamha</rs> ꜩiquinahavbi
 <lb n="34" rend="hanging" />vnimha
 </p>
 <p>
@@ -5763,7 +5763,7 @@ cap.
 <lb n="16"/><rs ana="AJAW_K'OTUJA_NJONCE"><hi rend="large">A</hi>hau cotuha</rs> vhulahu le.
 </p>
 <p>
-<lb n="17"/><rs ana="DON_CRISTÓBAL_NJONCE"><hi rend="large">D</hi>on christoual chuchaxic</rs> xa
+<lb n="17"/><rs ana="AJAW_K'OTUJA_NJONCE"><hi rend="large">D</hi>on christoual chuchaxic</rs> xa
 <lb n="18" rend="indent"/>hauaric chuvach caxtilan vi<pc> –</pc>
 <lb n="19" rend="indent"/>nac
 </p>
@@ -5852,7 +5852,7 @@ cap.
 <lb n="10"/>ha.
 </p>
 <p>            
-<lb n="11"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩic vinac ahau</rs> vbi nabeahau
+<lb n="11"/><rs ana="AJTZIK_WINAQ_AJAW"><hi rend="large">A</hi>h ꜩic vinac ahau</rs> vbi nabeahau
 <lb n="12" rend="indent"/>hun vnim ha
 </p>
 <p>            
@@ -5869,7 +5869,7 @@ cap.
 <lb n="19" rend="indent"/>chuvach <rs ana="AJAW_K'ICHE'">ahau quiche</rs>
 </p>
 <p xml:id="p96">            
-<lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chi<rs ana="NIM_CHOKOJ">nim chocoh</rs>
+<lb n="20" rend="indent"/><hi rend="large">A</hi>re curi e oxib chi<rs ana="NIM_CH'OKOJ">nim chocoh</rs>
 <lb n="21"/>queheri e cahauixel rumal ro<pc> –</pc>
 <lb n="22"/>nohel <rs ana="AJAW_K'ICHE'">ahavab quiche</rs> xahun
 <lb n="23"/>chiqui cuch vi quib e oxib chic<pc> –</pc>
@@ -5878,16 +5878,16 @@ cap.
 <lb n="26"/>heic eoxib chichocohib
 </p>
 <p xml:id="p97">            
-<lb n="27" rend="indent"/><hi rend="large">N</hi>im chocohcut chuvach <rs ana="NIJA'IB">nihaib</rs>
+<lb n="27" rend="indent"/><rs ana="NIM_CH'OKOJ"><hi rend="large">N</hi>im chocohcut</rs> chuvach <rs ana="NIJA'IB">nihaib</rs>
 <lb n="28"/>vcab curi. <rs ana="AJAW_NIM_CH'OKOJ">nimchocoh ahau</rs> chuva<pc> –</pc>
-<lb n="29"/>ch <rs ana="AJAW_K'ICHE'">ahau quiche</rs> rox nim chocoh
-<lb n="30"/>chi oxibcut ri chocohib huhun
+<lb n="29"/>ch <rs ana="AJAW_K'ICHE'">ahau quiche</rs> rox <rs ana="NIM_CH'OKOJ">nim chocoh</rs>
+<lb n="30"/>chi <rs ana="NIM_CH'OKOJ">oxibcut ri chocohib</rs> huhun
 <lb n="31"/>chivach chinamit. xere cut v
 <lb n="32"/>qoheic quicheri rumal mahabi
 <lb n="33"/>chi ilbalre, <rs ana="POPOL_WUJ">qonabe oher</rs> cu<pc> –</pc>
 <lb n="34"/>mal ahauab zachinac chic. xere
-<lb n="35"/>curi mixuꜩinic chiconohel qui<pc> –</pc>
-<lb n="36"/>che <rs ana="SANTA_CRUZ"><choice><abbr type="superscription">Sta.</abbr><expan instant="false">Santa</expan></choice> Cruz</rs> vbi.
+<lb n="35"/>curi mixuꜩinic chiconohel <rs ana="AJAW_K'ICHE'">qui<pc> –</pc>
+<lb n="36"/>che</rs> <rs ana="SANTA_CRUZ"><choice><abbr type="superscription">Sta.</abbr><expan instant="false">Santa</expan></choice> Cruz</rs> vbi.
 <lb/>
 <lb/>
 <lb/>
@@ -11505,21 +11505,21 @@ perhaps priests not deities?</note>
 <p corresp="#p89">
 <lb n="21"/>y estas son las generaçíones del Reyno
 <lb n="22"/>de los Reyes de trono, y casa de los de
-<lb n="23"/>xauíquíb <rs ana="AJAW_K'ICHE'">quiches</rs>. y agora díremos de<pc> –</pc>
-<lb n="24"/>los <rs ana="SAQIK">chínamítales</rs>. y estas son las casas gran
+<lb n="23"/><rs ana="KAWEQ">xauíquíb quiches</rs>. y agora díremos de<pc> –</pc>
+<lb n="24"/>los chínamítales. y estas son las casas gran
 <lb n="25"/>des de cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los prín<pc> –</pc>
 <lb n="26"/>cípales, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron nombrados nueue
-<lb n="27"/><rs ana="SAQIK">chínamítales</rs> de <rs ana="KAWEQ">cauíquíb</rs>, y nueue ca<pc> –</pc>
+<lb n="27"/>chínamítales de <rs ana="KAWEQ">cauíquíb</rs>, y nueue ca<pc> –</pc>
 <lb n="28"/>sas grandes. y este es el nombre de<pc> –</pc>
 <lb n="29"/>cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de las casas grandes.
 </p>
 <p>
-<lb n="30"/><hi rend="large">A</hi>hau ahpop. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande
+<lb n="30"/><rs ana="AJAW_AJPOP"><hi rend="large">A</hi>hau ahpop</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande
 <lb n="31"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba, cuha.
 </p>
 <p>
-<lb n="32"/><hi rend="large">A</hi>hau ahpop camha. y su casa se llamaba
-<lb n="33"/><abbr>q’</abbr>íquínaha.
+<lb n="32"/><rs ana="AJAW_AJPOP_K'AMJA"><hi rend="large">A</hi>hau ahpop camha</rs>. y su casa se llamaba
+<lb n="33"/><rs ana="TZ'IKIN"><abbr>q<hi rend="superscript">’</hi></abbr>íquín</rs>aha.
 </p>
 <p>
 <lb n="34"/><rs ana="NIM_CH'OKOJ_KAWEQ"><hi rend="large">N</hi>ím choch cauec</rs>. vna casa grande.
@@ -11544,7 +11544,7 @@ perhaps priests not deities?</note>
 <lb n="41"/><rs ana="TEPEW_YAKI"><hi rend="large">T</hi>epeu yaquí</rs>. <choice><abbr>S<hi rend="superscript">or.</hi></abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 </p>
 <p corresp="#p90">
-<lb n="42"/>y estos son los nueue <rs ana="SAQIK">chínamítales</rs> de
+<lb n="42"/>y estos son los nueue chínamítales de
 <lb n="43"/><rs ana="KAWEQ">cauíquíb</rs>, y tenían muchos vasallos a su
 <lb n="44"/>quenta.
 </p>
@@ -11586,7 +11586,7 @@ perhaps priests not deities?</note>
 <lb n="13"/><rs ana="BELEJEB_KEJ_NJNUEVE">Beleheb quíh</rs>. la nona generaçíon.
 <lb n="14"/><rs ana="KE'EMA_NJDIEZ">Quema</rs>. la deçíma generaçíon.
 <lb n="15"/><rs ana="AJAW_K'OTUJA_ONCE">Ahau cotuha</rs>. la undeçíma generaçíon.
-<lb n="16"/><rs ana="DON_CRISTÓBAL_NJONCE">Don chrístoual</rs> se llamo el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyno
+<lb n="16"/><rs ana="AJAW_K'OTUJA_ONCE">Don chrístoual</rs> se llamo el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyno
 <lb n="17"/>en tíempo de los españoles.
 <lb/>
 </p>
@@ -11646,7 +11646,7 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb/>
 </p>
 <p>
-<lb n="10"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>h ꜩíc vínac</rs> el nombre del primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice>
+<lb n="10"/><rs ana="AJTZIK_WINAQ_AJAW"><hi rend="large">A</hi>h ꜩíc vínac</rs> el nombre del primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice>
 <lb n="11"/>de vna grande casa.
 <lb n="12"/><rs ana="AJAW_LOLMET"><hi rend="large">L</hi>olmet ahau</rs>. el segundo <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna
 <lb n="13" rend="indent"/>casa grande.
@@ -11657,24 +11657,24 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn 
 <lb n="18"/>grandes</rs> de los de <rs ana="AJAW_K'ICHE'">ahau quiche</rs>.
 </p>
 <p corresp="#p96">
-<lb n="19"/>y estos eran los tres <rs ana="NIM_CHOKOJ">grandes combí<pc> –</pc>
-<lb n="20"/>tes</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como <rs ana="NIM_CHOKOJ">padres</rs> por todos los
-<lb n="21"/><choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> del quiche, y todos se juntaban
-<lb n="22"/>en vno de los tres combítes. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran los<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="19"/>y estos eran los tres <rs ana="NIM_CH'OKOJ">grandes combí<pc> –</pc>
+<lb n="20"/>tes</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como <rs ana="NIM_CH'OKOJ">padres</rs> por todos los
+<lb n="21"/><choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> <rs ana="AJAW_K'ICHE'">del quiche</rs>, y todos se juntaban
+<lb n="22"/>en <rs ana="NIM_CH'OKOJ">vno de los tres combítes</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran los<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="23"/>todo lo mandaban, y dísponían, pe<pc> –</pc>
-<lb n="24"/>queño, y grande, los tres juntos, o
-<lb n="25"/>combítes.
+<lb n="24"/>queño, y grande, <rs ana="NIM_CH'OKOJ">los tres juntos, o
+<lb n="25"/>combítes</rs>.
 </p>
 <p corresp="#p97">
-<lb n="26"/>Grande Junta, y combíte delos de <rs ana="KAWEQ">ca
+<lb n="26"/><rs ana="NIM_CH'OKOJ">Grande Junta, y combíte</rs> delos de <rs ana="KAWEQ">ca
 <lb n="27"/>uíquíb</rs>. y el Segundo de los de <rs ana="NIJA'IB">níha<pc> –</pc>
 <lb n="28"/>íb</rs>. y el terçero de los de <rs ana="AJAW_K'ICHE'">ahau quí<pc> –</pc>
-<lb n="29"/>che</rs>. cada vno de estos tres en su
-<lb n="30"/>chínamítal. y esto es todo lo de el
-<lb n="31"/>quiche. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay <rs ana="POPOL_WUJ">donde leerlo</rs>
+<lb n="29"/>che</rs>. cada vno de <rs ana="NIM_CH'OKOJ">estos tres</rs> en su
+<lb n="30"/>chínamítal. y esto es todo <rs ana="AJAW_K'ICHE'">lo de el
+<lb n="31"/>quiche</rs>. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay <rs ana="POPOL_WUJ">donde leerlo</rs>
 <lb n="32"/>yaun<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> antíguamente lo auía, pero
 <lb n="33"/>se ha perdído. y aquí seacabo todo lo<pc> –</pc>
-<lb n="34"/>tocante al quiche, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama<rs ana="SANTA_CRUZ"> <choice><abbr type="superscription">Sta</abbr><expan instant="false">Santa</expan></choice>
+<lb n="34"/>tocante <rs ana="AJAW_K'ICHE'">al quiche</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama<rs ana="SANTA_CRUZ"> <choice><abbr type="superscription">Sta</abbr><expan instant="false">Santa</expan></choice>
 <lb n="35"/>Cruz.</rs>
 <lb/>
 <lb/>
