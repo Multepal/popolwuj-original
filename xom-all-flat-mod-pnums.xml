@@ -5768,12 +5768,12 @@ cap.
 <lb n="19" rend="indent"/>nac
 </p>
 <p>
-<lb n="20"/><rs ana="DON_PEDRO_DE_ROBLES_NJDOCE"><hi rend="large">z<choice><abbr>D</abbr><expan instant="false">Don</expan></choice></hi>. Pedro de robles</rs> <rs ana="AJAQ_Q'ALEL_NJDOCE">ahau ꜫalel</rs>
+<lb n="20"/><rs ana="AJAQ_Q'ALEL_NJDOCE"><hi rend="large">z<choice><abbr>D</abbr><expan instant="false">Don</expan></choice></hi>. Pedro de robles</rs> <rs ana="AJAQ_Q'ALEL_NJDOCE">ahau ꜫalel</rs>
 <lb n="21"/>vacamic.
 </p>
 <p xml:id="p92">
 <lb n="22" rend="indent"/><hi rend="large">A</hi>re curi chi ronobel ahavab
-<lb n="22.1"/>elenac chirih ri ahau ꜫalel are
+<lb n="22.1"/>elenac chirih ri <rs ana="AJAW_Q'ALEL">ahau ꜫalel</rs> are
 <lb n="22.2"/>chic xchicabÿh rahaual huhun
 <lb n="22.3"/>chinim ha.
 </p>
@@ -11591,8 +11591,8 @@ perhaps priests not deities?</note>
 <lb/>
 </p>
 <p>
-<lb n="18"/><rs ana="DON_PEDRO_DE_ROBLES_NJDOCE">Don <choice><abbr type="superscription">Po.</abbr><expan instant="false">Pedro</expan></choice> de Robles.</rs>
-es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyn a<pc> –</pc>
+<lb n="18"/><rs ana="AJAW_Q'ALEL_NJDOCE">Don <choice><abbr type="superscription">Po.</abbr><expan instant="false">Pedro</expan></choice> de Robles.</rs>
+es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyna a<pc> –</pc>
 <lb n="19"/>gora.
 </p>
 <p corresp="#p92">
