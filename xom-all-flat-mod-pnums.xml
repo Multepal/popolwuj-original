@@ -1276,7 +1276,7 @@ cap.
 <pb xml:id="xom-f13-s1"/>
 <lb n="1"/>mÿa bac</rs> <rs ana="CH'AMIYA_JOLOM">chamÿaholom</rs> quibi. are
 <lb n="2"/>chicuri ahau <rs ana="AJAL_MES">ahalmez</rs>, <rs ana="AJAL_TOQ'OB">ahaltocob</rs>
-<lb n="3"/>qui bi are qui patan ri xa chiculva<pc> –</pc>
+<lb n="3"/>qui bi are qui <rs ana="PATAN">patan</rs> ri xa chiculva<pc> –</pc>
 <lb n="4"/>chih vinac v ve ꜩamez, ve pe pu
 <lb n="5"/>chirih ha chuva ha chiculvachix
 <lb n="6"/>vi xa chiquitocota chibe hupuloc
@@ -1287,7 +1287,7 @@ cap.
 <lb n="11"/>rem ri vinac chicam pa be xa rax
 <lb n="12"/>camic chuqhaxic chipe quic pu
 <lb n="13"/>chi ta chicamic chuxauah quic
-<lb n="14"/>xa huhun chi patan qui telela<pc> –</pc>
+<lb n="14"/>xa huhun chi <rs ana="PATAN">patan</rs> qui telela<pc> –</pc>
 <lb n="15"/>on xa chiquicozih v culel vqux
 <lb n="16"/>vinac ta chicam pabe. xa chiqui<pc> –</pc>
 <lb n="17"/>culmah aponoc ve chibinic chi<pc> –</pc>
@@ -4759,7 +4759,7 @@ cap.
 <lb n="23"/><rs ana="BALAM_KI'TZE'">balam quiꜩe</rs> <rs ana="BALAM_AQ'AB">balam acab</rs> <rs ana="MAJUK'UTAJ">mahucu<pc> –</pc>
 <lb n="24"/>tah</rs> tocob cavach mata cohcamic
 <lb n="25"/>xeqha vꜩbala xa xix vi camel
-<lb n="26"/>chuxic ix ahpatan chibe quih chi<pc> –</pc>
+<lb n="26"/>chuxic ix <rs ana="AJPATAN">ahpatan</rs> chibe quih chi<pc> –</pc>
 <lb n="27"/>be zac xevqhaxic quehe cut
 <lb n="28"/>vchacatahic ronohel amac ri
 <lb n="29"/>cumal ca nabe chuch cahau chi<pc> –</pc>
@@ -8265,8 +8265,8 @@ perhaps priests not deities?</note>
 <lb n="25"/>le díxo <rs ana="CH'AMIYA_BAQ">chamía <del rend="overwritten" instant="false" status="unremarkable">b</del>uc</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mordío <rs ana="CH'AMIYA_JOLOM">cha<pc> –</pc>
 <lb n="26"/>mía holom</rs>? y mordíendo <rs ana="XIK">al vndeçí<pc> –</pc>
 <lb n="27"/>mo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo: ay le díxo <rs ana="CH'AMIYA_JOLOM">chamía holom</rs>
-<lb n="28"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mordío? y mordío <rs ana="PATAN">al duodeçí<pc> –</pc>
-<lb n="29"/>mo</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo ay ledixo otra uez. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mor<pc> –</pc>
+<lb n="28"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mordío? y mordío al duodeçí<pc> –</pc>
+<lb n="29"/>mo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo ay ledixo otra uez. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te mor<pc> –</pc>
 <lb n="30"/>dío <rs ana="PATAN">patan</rs>? y mordíendo al <rs ana="KIK'_RE">terçío de
 <lb n="32"/>çímo</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> dixo ay. le dixo otra vez: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> te
 <lb n="32.1"/>mordío <rs ana="KIK'_RE">quíc xíc</rs>. le díjo <rs ana="PATAN">patan</rs>. y mor
@@ -8302,7 +8302,7 @@ perhaps priests not deities?</note>
 <lb n="6"/>ahpu</rs>, y no era mosquito en realídad
 <lb n="7"/>de verdad, el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue a morderlos atodos
 <lb n="8"/>y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue a oyrlos nombres detodos por
-<lb n="9"/>hun ahpu. y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegaron alla á
+<lb n="9"/><rs ana="JUNAJPU">hun ahpu</rs>. y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegaron alla á
 <lb n="10"/>donde estaban <rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs>, les díxe<pc> –</pc>
 <lb n="11"/>ron ea saludad aese <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> y no era <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice>síno
 <lb n="12"/>vna estatua para engalñarlos, y díxe
@@ -8310,7 +8310,7 @@ perhaps priests not deities?</note>
 <lb n="14"/>los demas díxeron <rs ana="JUN_KAME"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> came</rs>, <rs ana="WUQUB_KAME"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> vucub
 <lb n="15"/>came</rs>, <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice>, <rs ana="KUCHUMA_KIK'"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> cuchumaquíc</rs>,
 <lb n="16"/><rs ana="AJAL_PUJ"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice>ahal puh</rs>, <rs ana="AJAL_Q'ANA"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice>ahal cana</rs>, <rs ana="CH'AMIYA_BAQ"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> &gt; chamía
-<lb n="17"/>baca</rs>, <rs ana="CH'AMIYA_JOLOM"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice>chamía holom</rs>, <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> xíc, <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice><rs ana="PATAN">pa<pc> –</pc>
+<lb n="17"/>baca</rs>, <rs ana="CH'AMIYA_JOLOM"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice>chamía holom</rs>, <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> xíc, <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice><rs ana="AJPATAN">pa<pc> –</pc>
 <lb n="18"/>tan</rs>, <rs ana="KIK'_RE"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> quíc re</rs>, <rs ana="KIK'_RIXK'AQ"><choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor.</expan></choice> quic rí ꜫaꜫ</rs>. esto di<pc> –</pc>
 <lb n="19"/>xeron quando llegaron a todos les ma<pc> –</pc>
 <lb n="20"/>manífestaron sus caras, y díxeron sus
