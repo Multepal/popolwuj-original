@@ -4981,8 +4981,7 @@ cap.
 <lb n="42"/>nohel xacu caminac oc ri
 <lb n="43"/>camol ahauarem relebal
 <lb n="44"/>quih e mamaxel chic xevl
-<lb n="45"/>chiri chuvi hun2 tinamit ma<pc> –</pc>
-<note place="margin-left" anchored="true">ꜩu</note>
+<lb n="45"/>chiri chuvi hun<hi rend="subscript"></hi>+ <note place="margin-left" anchored="true">+hu</note> tinamit ma<pc> –</pc>
 <lb n="46"/>naxucam quivach rixeico
 <lb n="47"/>vi hetac vivloc caxcolrail
 <pb xml:id="xom-f49-s2"/>
@@ -5004,7 +5003,7 @@ cap.
 <note place="margin-left" anchored="true">t/e</note>
 <lb n="11"/>queh</rs> ruqpuch <rs ana="AJAW_Q'ALEL">ealelahau</rs> ta
 <lb n="12"/>xahauar cutahau <rs ana="K'OTUJA_KQCUATRO">cotuha</rs> ruq
-<lb n="13"/><rs ana="ISTAYUL_KQCUATRO">iztayul</rs> quibi <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpopcam
+<lb n="13"/><rs ana="ISTAYUL">iztayul</rs> quibi <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpopcam
 <lb n="14"/>ha</rs> xe ahauar chiri <rs ana="CHI_ISMACHI">chiizmachi</rs>
 <lb n="15"/>vꜩilah tinamit xuxic xquibano
 <lb n="16"/>xacu <rs ana="OXIB_RI_NIM_JA">oxib ri nimha</rs> xux chiri
