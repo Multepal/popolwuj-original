@@ -5035,9 +5035,9 @@ cap.
 <lb n="38"/>ipuquinimal taxilcut rumal
 <lb n="39"/><rs ana="ILOKAB">ilocab</rs> ta xvinaquir labal ru
 <lb n="40"/>malilocab xrahvl camiza x
-<lb n="41"/>oc rÿ ahau <rs ana="K'OTUJA_KQCUATRO">cotuhu</rs>, xacu hun
-<lb n="42"/>ahau xrah cuquib areri a
-<lb n="43"/>hau <rs ana="ISTAYUL_KQCUATRO">ztayul</rs> xrah quitihoh x<pc> –</pc>
+<lb n="41"/>oc rÿ <rs ana="K'OTUJA_KQCUATRO">ahau cotuhu</rs>, xacu hun
+<lb n="42"/>ahau xrah cuquib areri <rs ana="ISTAYUL_KQCUATRO">a
+<lb n="43"/>hau ztayul</rs> xrah quitihoh x<pc> –</pc>
 <lb n="44"/>rah tihoxcumal <rs ana="ILOKAB">ilocab</rs> chica<pc> –</pc>
 <lb n="45"/>mizanic macuxel aponoc qui
 <lb n="46"/>moxvachibal chirihahau <rs ana="K'OTUJA_KQCUATRO">co<pc> –</pc>
@@ -10864,7 +10864,7 @@ perhaps priests not deities?</note>
 <lb n="35"/>endo esto los de <rs ana="ILOKAB">ílocab</rs>, <del rend="scribble" instant="false" status="unremarkable">q</del>uísíeron
 <lb n="36"/>venír a matar a <rs ana="K'OTUJA_KQCUATRO">cotuha</rs> y se empe<pc> –</pc>
 <lb n="37"/>zo la guerra por ellos, y solo querían
-<lb n="38"/>vn Rey <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> sí y al Rey <rs ana="ISTAYUL">ztayul</rs>, lo
+<lb n="38"/>vn Rey <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> sí y <rs ana="ISTAYUL">al Rey ztayul</rs>, lo
 <lb n="39"/>quísíeron castígar, los de <rs ana="ILOKAB">ílocab</rs>,
 <lb n="40"/>con la muerte, y no salío la ímbídía
 <lb n="41"/>de ellos contra el Rey <rs ana="K'OTUJA_KQCUATRO">cotuha</rs>, síno
