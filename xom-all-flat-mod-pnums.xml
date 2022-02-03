@@ -5669,7 +5669,7 @@ cap.
 <lb n="18" rend="hanging" />hauab
 </p>
 <p>
-<lb n="19"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large">D</hi>on Ju<hi rend="superscript">o.</hi> de Rojas</rs> <rs ana="DON_JUAN_CORTES_KQCATORCE">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
+<lb n="19"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large">D</hi>on <choice><abbr><expan>Ju<hi rend="superscript">o.</hi>Juan</expan></abbr></choice> de Rojas</rs> <rs ana="DON_JUAN_CORTES_KQCATORCE">Don Ju<hi rend="superscript">o.</hi> cortes</rs>
 <lb n="20"/>cablahu le ahauab eqahola<pc> –</pc>
 <lb n="21"/>xel rumal <rs ana="TEKUM_TRECE">tecum</rs> <rs ana="TEPEPUL_TRECE">tepepul</rs>
 </p>
@@ -11498,7 +11498,7 @@ perhaps priests not deities?</note>
 <lb/>
 </p>
 <p>
-<lb n="18"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><hi rend="large"><abbr>D.</abbr></hi> <abbr>Ju<hi rend="superscript">o.</hi></abbr> de Roxas</rs>, <rs ana="DON_JUAN_CORTES_KQCATORCE"><abbr>D.</abbr> <abbr>Ju<hi rend="superscript">o.</hi></abbr> cortes</rs>. la quarta
+<lb n="18"/><rs ana="DON_JUAN_DE_ROJAS_KQCATORCE"><choice><abbr><hi rend="large">D.</hi></abbr><expan instant="false">Don</expan></choice> <choice><abbr>Ju<hi rend="superscript">o.</hi><expan instant="false">Juan</expan></abbr></choice> de Roxas</rs>, <rs ana="DON_JUAN_CORTES_KQCATORCE"><abbr>D.</abbr> <abbr>Ju<hi rend="superscript">o.</hi></abbr> cortes</rs>. la quarta
 <lb n="19"/>deçíma generaçíon de los Reyes. y fue<pc> –</pc>
 <lb n="20"/>ron híjos de <rs ana="TEKUM_TRECE">tecum</rs>, <rs ana="TEPEPUL_TRECE">Tepepul</rs>.
 </p>
