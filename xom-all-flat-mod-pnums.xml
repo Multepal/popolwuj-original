@@ -4787,7 +4787,7 @@ cap.
 <lb n="1"/>polou tah ta xcanah qui ꜩih chire
 <lb n="2"/>qui qahol are quibi qui qahol va
 <lb n="3"/>ecaib xuqaholah <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>
-<lb n="4"/><rs ana="K'OKA'IB">qocaib</rs> vbi nabe <rs ana="K'OQAWIB">al qocavib chic</rs>
+<lb n="4"/><rs ana="K'OKA'IB">qocaib</rs> vbi nabe <rs ana="K'OQAWIB_KQDOS">al qocavib chic</rs>
 <lb n="5"/>vbi vcab al vqahol <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>
 <lb n="6"/>vmam vqahau <rs ana="KAWEQ">caviquib</rs>. e chi vi
 <lb n="7"/>cu caib chic xuqaholah <rs ana="BALAM_AQ'AB">balam
@@ -4844,7 +4844,7 @@ cap.
 <lb n="10"/>vinac cumal ahauab ta xecam<del type="scribble" instant="false" status="unremarkable">be</del>
 <lb n="11"/>chirih <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs> ticarinac vi 
 <lb n="12"/>v mam vcahau caviquib xmacui 
-<lb n="13"/>cut xquizach vi ri vqahol ri <rs ana="K'OKA'IB">co 
+<lb n="13"/>cut xquizach vi ri vqahol ri <rs ana="K'OKA'IB_KQDOS">co 
 <lb n="14"/>caib</rs> <rs ana="K'OQAWIB_KQDOS">qo cavib</rs> qui bi quehecut 
 <lb n="15"/>qui camic ri quicahichal ena be 
 <lb n="16"/>camam ca cahau tax ezachic tax<pc> –</pc>
@@ -4885,7 +4885,7 @@ cap.
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">48</hi></num>
 </note>
-<lb n="1"/><rs ana="K'OKA'IB">caib</rs> vbihun vqahol <rs ana="BALAM_KI'TZE'">balamqui<pc> –</pc>
+<lb n="1"/><rs ana="K'OKA'IB_KQDOS">caib</rs> vbihun vqahol <rs ana="BALAM_KI'TZE'">balamqui<pc> –</pc>
 <lb n="2"/>ꜩe</rs> rech ronohel <rs ana="KAWEQ">coaui quib</rs>
 <lb n="3"/><rs ana="K'O'AKUTEK_NJDOS">coacutec</rs> vbi vqahol <rs ana="BALAM_AQ'AB">
 <lb n="4"/>acab</rs> xarech<rs ana="NIJA'IB">nihaibab</rs> <rs ana="K'O'AJAW_AKDOS">coaha<pc> –</pc>
@@ -4932,7 +4932,7 @@ cap.
 <lb n="41"/>ricut xecuch vi ronohel <rs ana="TAMUB">tam<pc> –</pc>
 <lb n="42"/>ub</rs><rs ana="ILOKAB">ilocab</rs> xecuchu quib rono<pc> –</pc>
 <lb n="43"/>hel amac xequicotic taxevlic
-<lb n="44"/><rs ana="K'OKA'IB">co caib</rs> <rs ana="K'O'AKUTEK_NJDOS">coacutec</rs> <rs ana="K'O'AJAW_AKDOS">cahau</rs> xaui
+<lb n="44"/><rs ana="K'OKA'IB_KQDOS">co caib</rs> <rs ana="K'O'AKUTEK_NJDOS">coacutec</rs> <rs ana="K'O'AJAW_AKDOS">cahau</rs> xaui
 <lb n="45"/>chiri chic xquicam vi cahaua<pc> –</pc>
 <lb n="46"/>rem amac xequicotic e <rs ana="RABINALEB">rabi<pc> –</pc>
 <lb n="47"/>naleb</rs>, e <rs ana="KAQCHIKELEB">ꜫaꜫchequeleb</rs>, ahq,i<pc> –</pc>
@@ -10622,10 +10622,10 @@ perhaps priests not deities?</note>
 <lb n="1"/>estaban ín agone, quando díspusíeron
 <lb n="2"/>desus cosas, y auísaron asus híjos y así
 <lb n="3"/>se llamaban sus híjos: dos tuuo <rs ana="BALAM_KI'TZE'">balam<pc> –</pc>
-<lb n="4"/>quíꜩe</rs>: <rs ana="K'OKA'IB">qocaíb</rs>, se llamo el prímero, y el
-<lb n="5"/>Segundo: qocauíb. que son padres, y a
+<lb n="4"/>quíꜩe</rs>: <rs ana="K'OKA'IB_KQDOS">qocaíb</rs>, se llamo el prímero, y el
+<lb n="5"/>Segundo: <rs ana="K'OQAWIB_KQDOS">qocauíb</rs>. que son padres, y a
 <lb n="6"/>buelos de <rs ana="KAWEQ">los de cauíquíb</rs>. y <rs ana="BALAM_AQ'AB">balam
-<lb n="7"/>acab</rs> tuuo otros dos híjos, y se kkana<pc> –</pc>
+<lb n="7"/>acab</rs> tuuo otros dos híjos, y se llama<pc> –</pc>
 <lb n="8"/>ban así, el prímero <rs ana="K'O'AKUL">qoacul</rs>, y <rs ana="KOAKUTEC">qoacu
 <lb n="9"/>tec</rs> se llamaba el Segundo hijo, de
 <lb n="10"/><rs ana="BALAM_AQ'AB">balam acab</rs>; de los de <rs ana="NIJA'IB">níhaíbab</rs>. y solo
@@ -10684,7 +10684,7 @@ perhaps priests not deities?</note>
 <lb n="12"/>œ</del>ron<add place="above" instant="false" status="unremarkable">de</add><rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <del type="strike-through" instant="false" status="unremarkable"><rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
 <lb n="13"/>cutah</rs>, <rs ana="IK'I_BALAM">íquíbalam</rs></del> empezaron los padres 
 <lb n="14"/>y abuelos de los de cauíquíquíb. y nose 
-<lb n="15"/>perdíeron sus híjos <rs ana="K'OKA'IB">qocaíb</rs>, y <rs ana="K'OQAWIB_KQDOS">qocauíb</rs>
+<lb n="15"/>perdíeron sus híjos <rs ana="K'OKA'IB_KQDOS">qocaíb</rs>, y <rs ana="K'OQAWIB_KQDOS">qocauíb</rs>
 <lb n="16"/>yasí fueron las muertes de aquellos qua 
 <lb n="17"/>tro, nuestros prímeros padres, y abu<pc> –</pc>
 <lb n="18"/>elos, quando desapareçieron, y dexa 
@@ -10720,7 +10720,7 @@ perhaps priests not deities?</note>
 <lb n="46"/>fueron vamos al oríente de <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> víníeron 
 <lb n="47"/>nuestros <choice><abbr>P<hi rend="superscript">es</hi></abbr><expan instant="false">Padres</expan></choice> ytomaron su camíno los tres híjos 
 <pb corresp="xom-f48-s2"/>
-<lb n="1"/><rs ana="K'OKA'IB">qocaíb</rs>, sellamaba elvno, híjode <rs ana="BALAM_KI'TZE'">balamquí<pc> –</pc>
+<lb n="1"/><rs ana="K'OKA'IB_KQDOS">qocaíb</rs>, sellamaba elvno, híjode <rs ana="BALAM_KI'TZE'">balamquí<pc> –</pc>
 <lb n="2"/>ꜩe</rs>, de todos los de <rs ana="KAWEQ">cauíquíb</rs>. <rs ana="K'O'AKUTEK_NJDOS">qoacutec</rs>, el
 <lb n="3"/>otro híjo de <rs ana="BALAM_AQ'AB">balamacab</rs>, de los de <rs ana="NIJA'IB">níhaí<pc> –</pc>
 <lb n="4"/>bab</rs>, <rs ana="K'O'AJAW_AKDOS">qoahau</rs>. se llamaba el otro híjo de
@@ -10767,7 +10767,7 @@ perhaps priests not deities?</note>
 <lb n="39"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="JAQAWITZ_JUYUB">hacauíꜩ</rs>, allí se juntaron
 <lb n="40"/>todos los de <rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>, y todos los
 <lb n="41"/>pueblos, y se alegraron desu venída de
-<lb n="42"/><rs ana="K'OKA'IB">qocaíb</rs>, <rs ana="K'O'AKUTEK_NJDOS">qoacutec</rs>, <rs ana="K'O'AJAW_AKDOS">qoahau</rs>. yallí otra uez
+<lb n="42"/><rs ana="K'OKA'IB_KQDOS">qocaíb</rs>, <rs ana="K'O'AKUTEK_NJDOS">qoacutec</rs>, <rs ana="K'O'AJAW_AKDOS">qoahau</rs>. yallí otra uez
 <lb n="43"/>tomaron el señorío de los pueblos, y se
 <lb n="44"/>alegraron los de <rs ana="RABINALEB">Rabinal</rs>, <rs ana="KAQCHIKELEB">ꜫaꜫchíque
 <lb n="45"/>les</rs>, y los de <rs ana="AJTZ'IKINA_JA"><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>íquínaha.</rs>
@@ -10985,10 +10985,10 @@ perhaps priests not deities?</note>
 <lb n="4"/>su grandeza, cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y ca<pc> –</pc>
 <lb n="5"/>da vno de los nueue calpules tomo pa
 <lb n="6"/>sí cada vno de los nueue <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y nueue
-<lb n="7"/><rs ana="SAQIK">chínamítales</rs> tomo <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. si los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de
+<lb n="7"/>chínamítales tomo <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. si los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de
 <lb n="8"/><rs ana="KAWEQ">cauíquíb</rs>. nueue los de <rs ana="NIJA'IB">níhaíbab</rs>. qua<pc> –</pc>
-<lb n="9"/>tro los de <rs ana="AJAW_K'ICHE'">ahau quiche</rs>. y dos los de
-<lb n="10"/>zaquíquíb. y se multíplícaron mu<pc> –</pc>
+<lb n="9"/>tro los de <rs ana="AJAW_K'ICHE'">ahau quiche</rs>. y dos <rs ana="SAQIK">los de
+<lb n="10"/>zaquíquíb</rs>. y se multíplícaron mu<pc> –</pc>
 <lb n="11"/>cho, y eran muchos los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tocaban aca<pc> –</pc>
 <lb n="12"/>da vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y cada vno era el
 <lb n="13"/>prímero, y caudíllo de aquellos sus
@@ -10998,7 +10998,7 @@ perhaps priests not deities?</note>
 <lb n="17"/>por sí, y de cada vna de las grandes casas
 </p>
 <p corresp="#p76">
-<lb n="18"/>y estos son los nombres de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> de <rs ana="K'OKA'IB">ca<pc> –</pc>
+<lb n="18"/>y estos son los nombres de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> de <rs ana="K'OKA'IB_KQDOS">ca<pc> –</pc>
 <lb n="19"/>uíquíb</rs>, y el prímero de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> era: <rs ana="AJPOP">ah<pc> –</pc>
 <lb n="20"/>pop</rs>, <rs ana="AJPOP_K'AMJA">ahpop camha</rs>. 2. <rs ana="AJTOJIL">ahtohíl</rs>. 3. <rs ana="AJQ'UKUMATZ">ahcucu<pc> –</pc>
 <lb n="21"/>maꜩ</rs>. 4. <rs ana="NIM_CH'OKOJ_KAWEQ">ním chocoh cuec</rs>. 5. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">popol vínac</rs>.
@@ -11118,7 +11118,7 @@ perhaps priests not deities?</note>
 <p corresp="#p82">
 <lb n="23"/>y a quí se habla de la sexta genera<pc> –</pc>
 <lb n="24"/>cíon <abbr>q’</abbr>tuuo dos grandes <abbr>SS<hi rend="superscript">es.</hi></abbr> elvno
-<lb n="25"/>sellamaba <note resp="editor">We have ANA tags for K'IKAB and K'IKAB_KQSIETE. Is that right?</note><rs ana="K'IKAB_KQSIETE">ꜫaꜫ quicab</rs>. y el otro: <rs ana="KAWISIMAJ_KQSIETE">cauí
+<lb n="25"/>sellamaba <rs ana="K'IKAB_KQSIETE">ꜫaꜫ quicab</rs>. y el otro: <rs ana="KAWISIMAJ_KQSIETE">cauí
 <lb n="26"/>zímah</rs>. y hízíeron muchas cosas el
 <lb n="27"/><rs ana="K'IKAB_KQSIETE">quícab</rs>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>. y este otra
 <lb n="28"/>vez engrandeçío el quiche, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
@@ -11626,7 +11626,7 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyna
 <lb n="42"/><rs ana="MAJUK'UTAJ">Mahucutah</rs>. el primer hombre.
 <lb n="43"/><rs ana="K'O'AJAW_AKDOS">Coahau</rs>. de la segunda generaçíon
 <lb n="44"/><rs ana="Q'AQ'_LAQAM_AKTRES">Caelacan</rs>. <num>3</num>
-<lb n="45"/><rs ana="K'OKOSOM_AKCUATRO">Cocozom</rs> . <num>4</num> .
+<lb n="45"/><rs ana="K'OKOSOM_AKCUATRO">Cocozom</rs>. <num>4</num> .
 <lb />
 </p>
 <p>
