@@ -1020,7 +1020,7 @@ cap.
 <lb n="41"/>laquiba tocob nuvach ma
 <lb n="42"/>ba xuculu <rs ana="KA'IB_K'AJOLAB">ixqaholab</rs> quix
 <lb n="43"/>be na cu nu vaba, qo qui xo
-<lb n="44"/>vi ri <rs ana="TZ'IKIN">q,iquin</rs> chibetah iv vbah
+<lb n="44"/>vi ri <rs ana="TZ'IKIN"><abbr><hi rend="subscript">q,</hi></abbr>iquin</rs> chibetah iv vbah
 <lb n="45"/>vetaam qo vi xqha chicut
 <lb n="46"/><rs ana="SIPAKNA">zipacna</rs>. xelahic xoc na
 <lb n="47"/>chiquivach <rs ana="KA'IB_K'AJOLAB">qaholab</rs> lama
@@ -1115,7 +1115,7 @@ cap.
 <lb n="37"/>quÿc quiꜩih naht cacanic xa<pc> –</pc>
 <lb n="38"/>cacupupic quicouic chuvi hu<pc> –</pc>
 <lb n="39"/>yub ronohel macuhabi hun
-<lb n="40"/>caib <rs ana="TZ'IKIN">q,iquin</rs> mi xcacam chu<pc> –</pc>
+<lb n="40"/>caib <rs ana="TZ'IKIN"><abbr><hi rend="subscript">q,i</hi></abbr>quin</rs> mi xcacam chu<pc> –</pc>
 <lb n="41"/>vach <rs ana="KABRAQAN">at qahol</rs> ve cut quiꜩih
 <lb n="42"/>cauulih ronohel huiub at qa<pc> –</pc>
 <lb n="43"/>hol xeqha ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xbalan<pc> –</pc>
@@ -1926,29 +1926,29 @@ cap.
 <lb n="38"/>re chicut vtihovic va chive <rs ana="IXMUKANE">ix
 <lb n="39"/>catit</rs> la qui mi xꜩeenic catihana
 <lb n="40"/>qui quih xeqha cut cate puch x<pc> –</pc>
-<lb n="41"/>quitiquiba zuanic, <rs ana="JUNAJPU">hun ahpu</rs> x coy
+<lb n="41"/>quitiquiba zuanic, <rs ana="JUNAJPU_K'OY">hun ahpu x coy</rs>
 <lb n="42"/>xquizuah.
 </p>
 <p xml:id="p26">
 <lb n="43" rend="indent"/><hi rend="large">C</hi>atepuch xebixanic xezuanic
-<lb n="44"/>xe cohomanic ta vcamic riqui <rs ana="SU'">zu</rs> 
-<lb n="45"/>qui cohom ta xcube puch ri <rs ana="IXMUKANE">catit</rs>
+<lb n="44"/>xe <rs ana="Q'OJOM">cohomanic</rs> ta vcamic riqui <rs ana="SU'">zu</rs> 
+<lb n="45"/>qui <rs ana="Q'OJOM">cohom</rs> ta xcube puch ri <rs ana="IXMUKANE">catit</rs>
 <lb n="46"/>cu q ta xezuanic xeziquix pa
-<lb n="47"/>zu pa bix ta xubinaah ri <rs ana="JUNAJPU">hun
+<lb n="47"/><rs ana="SU'">zu</rs> pa bix ta xubinaah ri <rs ana="JUNAJPU_K'OY">hun
 <pb xml:id="xom-f19-s2"/>
-<lb n="1"/>ahpu</rs> coy vbi zu ta xeoc cu vloc ri
+<lb n="1"/>ahpu coy</rs> vbi <rs ana="SU'">zu</rs> ta xeoc cu vloc ri
 <note place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">19</hi></num>
 </note>
 <lb n="2"/><rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs> quexahouic
 <lb n="3"/>ta xevlic cate puch ta xmucun ri 
-<lb n="4"/>atit iꜩel qui vach xril <rs ana="IXMUKANE">atit</rs> ta
+<lb n="4"/><rs ana="IXMUKANE">atit</rs> iꜩel qui vach xril <rs ana="IXMUKANE">atit</rs> ta
 <lb n="5"/>xꜩeenic maui xucui vꜩe <rs ana="IXMUKANE">atit</rs>.
 <lb n="6"/>xacu huzu xebec maui xil chi<pc> –</pc>
 <lb n="7"/>quivach eiacatic xebe pa que<pc> –</pc>
 <lb n="8"/>chelah naquipa chibano <rs ana="IXMUKANE">ixca<pc> –</pc>
 <lb n="9"/>tit</rs> xa cah mul xchicatiho xa
-<lb n="10"/>oxmul chic xquecaziquih pazu  
+<lb n="10"/>oxmul chic xquecaziquih pa<rs ana="SU'">zu</rs>  
 <lb n="11"/>pa bix quichicuyu iꜩe catiha
 <lb n="12"/>china xeqhachic <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XBALAMKE">xba<pc> –</pc>
 <lb n="13"/>lanque</rs> cate xezuan chic, ta xe<pc> –</pc>
@@ -3654,7 +3654,7 @@ cap.
 <lb n="7"/>xbechila relebal quih, ꜩaꜩ cu
 <lb n="8"/>ri xpe varal. xa cuha mahꜩu<pc> –</pc>
 <lb n="9"/>um quicu, mahabi ri vꜩilah
-<lb n="10"/>tac cul tah quicohom xa v ‘q,u<pc> –</pc>
+<lb n="10"/>tac cul tah quicohom xa v <hi rend="superscript">‘</hi>q<hi rend="subscript">,</hi>u<pc> –</pc>
 <lb n="11"/>mal chicop qui cauvbal eme<pc> –</pc>
 <lb n="12"/>ba mahabi quech xa enaual
 <lb n="13"/>vinac chiquiqoheic. taxepe chi<pc> –</pc>
@@ -4916,7 +4916,7 @@ cap.
 <lb n="27"/>rem puch <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs>
 <lb n="28"/>xquiz vya vloc <rs ana="NAKXIT">nacxit</rs> vvachi<pc> –</pc>
 <lb n="29"/>nel rahauarem aretac vbi va
-<lb n="30"/>muh ealibah <rs ana="SU'">zu</rs>bac chamcham
+<lb n="30"/>muh ealibah <rs ana="SU'">zu</rs>bac <rs ana="Q'OJOM">chamcham</rs>
 <lb n="31"/>tatil canabah ꜩicvil cohꜩicuil
 <lb n="32"/>balam holom pich queh macu<pc> –</pc>
 <lb n="33"/>tax tot tatam quz buz caxcon
@@ -7765,18 +7765,18 @@ perhaps priests not deities?</note>
 <lb n="37"/>esto ímporta esto avos en esta dílígen<pc> –</pc>
 <lb n="38"/>çía, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> de níngun modo os ríaís, pro<pc> –</pc>
 <lb n="39"/>bad fortuna. y luego empezaron á to<pc> –</pc>
-<lb n="40"/>car <rs ana="SU'">flautas</rs>, y tocaron el son de <rs ana="JUNAJPU">hun
-<lb n="41"/>ahpu</rs> míco.
+<lb n="40"/>car <rs ana="SU'">flautas</rs>, y tocaron el son de <rs ana="JUNAJPU_K'OY">hun
+<lb n="41"/>ahpu míco</rs>.
 </p>
 <lb/>
 <p corresp="#p26">
 <lb n="42"/>y luego cantaron, y tocaron <rs ana="SU'">las flautas</rs>, y
-<lb n="43"/>el atambor, quando tomaron <rs ana="SU'">las fla<pc> –</pc>
-<lb n="44"/>utas</rs>, y sus atambores, y asentaron a <rs ana="IXMUKANE">la ví<pc> –</pc>
+<lb n="43"/>el <rs ana="Q'OJOM">atambor</rs>, quando tomaron <rs ana="SU'">las fla<pc> –</pc>
+<lb n="44"/>utas</rs>, y sus <rs ana="Q'OJOM">atambores</rs>, y asentaron a <rs ana="IXMUKANE">la ví<pc> –</pc>
 <lb n="45"/>eja</rs> consigo, y quando tocaron, y canta<pc> –</pc>                
 <lb/>
 <pb corresp="xom-f19-s2"/>
-<lb n="1"/><rs ana="JUNAJPU">hun ahpu</rs> coy (vn tírador míco) y tocando
+<lb n="1"/><rs ana="JUNAJPU_K'OY">hun ahpu coy (vn tírador míco)</rs> y tocando
 <lb n="2"/>llamando, a <rs ana="JUN_BATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>, víní<pc> –</pc>
 <lb n="3"/>eron bailando, y víendo <rs ana="IXMUKANE">la víeja</rs> los ma<pc> –</pc>
 <lb n="4"/>los gestos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> hacían, y sus malas caras, ví<pc> –</pc>
@@ -10751,7 +10751,7 @@ perhaps priests not deities?</note>
 <lb n="25"/>za, y grandes, y <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> yacabo de dar<pc> –</pc>
 <lb n="26"/>lo todo el <rs ana="NAKXIT">nacxít</rs>, los adeuínos, y for<pc> –</pc>
 <lb n="27"/>ma de el Reyno. y era todo esto. el tro
-<lb n="28"/>no, <rs ana="SU'">flauta</rs>, cham cham. otra <rs ana="SU'">flauta</rs>. chal<pc> –</pc>
+<lb n="28"/>no, <rs ana="SU'">flauta</rs>, <rs ana="Q'OJOM">cham cham</rs>. otra <rs ana="SU'">flauta</rs>. chal<pc> –</pc>
 <lb n="29"/>chíguítes, ꜩícvil cohꜩícuíl <rs ana="B'ALAM">balam</rs>, ho
 <lb n="30"/>lom, cabeza. pích. <rs ana="KEJ">queh</rs>, macutax tot.
 <lb n="31"/>tatam, quz, buz, caxcom, chíyom, azta
