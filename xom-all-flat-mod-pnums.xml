@@ -443,11 +443,10 @@ cap.
 <lb n="19"/>ta xnohix quibutic rumal <rs ana="UK'U'X_KAJ">vqux
 <lb n="20"/>cah</rs> nima butic xbanic xpe
 <lb n="21"/>pa quivi ri e poy e aham che
-<lb n="22"/>q,ite vtiohil ri achih, ta xaha<pc> –</pc>
+<lb n="22"/><hi rend="subscript">q,</hi>ite vtiohil ri achih, ta xaha<pc> –</pc>
 <lb n="23"/>xic, rumal <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs>, ixoc
 <lb n="24"/>zibac cut vtiohil ixoc. xrah
-<note resp="editor">The following line has two bold lines associated with it, one in the left margin, the other under the "ol" of "bitol" </note>
-<lb n="25"/>oquic rumal <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="BITOL">bitol</rs> maui                    
+<lb n="25"/>oquic rumal <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="BITOL">bit<hi rend="underline">ol</hi></rs> maui                    
 <lb n="26"/>xenauic, ma pu xeqhauic chu
 <lb n="27"/>vach cah ꜩac, cah bit banol que
 <lb n="28"/>vinaquirizay quech quehe
@@ -530,11 +529,11 @@ cap.
 <lb n="4"/>bit, eꜩixel, e ꜩalaꜩoxel chi
 <lb n="5"/>vinac xmayxic, xcutuxic
 <lb n="6"/>quichi qui vach conohel, xqha
-<lb n="7"/>cut are retal ri qoy qo pa
+<lb n="7"/>cut are retal ri <rs ana="K'OY">qoy</rs> qo pa
 <lb n="8"/>quechelah vacamic, are
 <lb n="9"/>xqohe vi retal rumal xache
 <lb n="10"/>quitiohil xcohic rumal <rs ana="TZ'AQOL">ah<pc> –</pc>
-<lb n="11"/>ꜩac</rs> <rs ana="BITOL">ahbit</rs>, arecuri qoy que<pc> –</pc>
+<lb n="11"/>ꜩac</rs> <rs ana="BITOL">ahbit</rs>, arecuri <rs ana="K'OY">qoy</rs> que<pc> –</pc>
 <lb n="12"/>heri vinac chivachinic retal
 <lb n="13"/>hule vinac ꜩac, vinac bit
 <lb n="14"/>xapoy, xapu ahamche.
@@ -550,8 +549,7 @@ cap.
 <lb n="21"/>vinac rÿ, xbutic queheri
 <lb n="22"/>naual vinac vqoheic in
 <lb n="23"/>nim quiqohe chic chuvi vi<pc> –</pc>
-<note resp="editor">Big C is actually a correctional overwrite.</note>
-<lb n="24"/>nac ꜩaC vinac bit in vquih
+<lb n="24"/>nac ꜩa<add><hi rend="large"><note resp="correction">C</note></hi></add> vinac bit in vquih
 <lb n="25"/>in pu vzac in naipu riquil
 <lb n="26"/>ta chuxoc, nim nu zaquil in
 <lb n="27"/>binibal, in pu chacabal ru<pc> –</pc>
@@ -920,7 +918,7 @@ cap.
 <lb n="39"/>laoh <rs ana="MOTZ">omuch chi qaholab</rs> xe
 <lb n="40"/>qha chuuec cut chiquilo ca 
 <lb n="41"/>bih puch chiquilo mapa chi<pc> –</pc>
-<lb n="42"/>pe zanic pu vleu ta chuin oc 
+<lb n="42"/>pe <rs ana="SANIK">zanic</rs> pu vleu ta chuin oc 
 <lb n="43"/>ta queyoc cate cut cul chica 
 <lb n="44"/>qux ta cucah ri ca qui xe<pc> –</pc>
 <lb n="45"/>qha cut. cuta cu vloc ri <rs ana="SIPAKNA">zi<pc> –</pc>
@@ -928,19 +926,19 @@ cap.
 <lb n="47"/>bih <rs ana="MOTZ">qaholab</rs> ri ca chucabi
 <pb xml:id="xom-f09-s2"/>
 <note place="margin-left" anchored="true"><num>9</num></note>
-<lb n="1"/>puch, ta xtubuquih zanic quebi<pc> –</pc>
+<lb n="1"/>puch, ta xtubuquih <rs ana="SANIK">zanic</rs> quebi<pc> –</pc>
 <lb n="2"/>nouic, quebuchuvic ta xeculun 
 <lb n="3"/>xeche humah qui cayeloon
 <lb n="4"/>iz, qui cayeloon puch rixcac 
 <lb n="5"/><rs ana="SIPAKNA">zipacna</rs> ta xquil curi <rs ana="MOTZ">qaholab</rs>
 <lb n="6"/>mi pa xuꜩin ri qaxtoq chivila 
-<lb n="7"/>na zanic mixeculun vloc mi<pc> –</pc>
+<lb n="7"/>na <rs ana="SANIK">zanic</rs> mixeculun vloc mi<pc> –</pc>
 <lb n="8"/>xetubuquih vloc humah iz
 <lb n="9"/>qui caien qo rixcac ri chila na 
 <lb n="10"/>mi xcabano ca xeqha chiqui<pc> –</pc>
 <lb n="11"/>bil quib are curi <rs ana="SIPAKNA">zipacna</rs> xaui
 <lb n="12"/>xa pu cuqux vloc rixcac chire 
-<lb n="13"/>cuya vla chiquech ri zanic que 
+<lb n="13"/>cuya vla chiquech ri <rs ana="SANIK">zanic</rs> que 
 <lb n="14"/>he curi xcamic xquinao <rs ana="MOTZ">omu<pc> –</pc>
 <lb n="15"/>ch qaholab</rs> cate cut xticar q<pc> –</pc>
 <lb n="16"/>ui qui chiroxih ta xecabar 
@@ -1806,11 +1804,11 @@ cap.
 <lb n="17"/>huiub xeyaquevi taxeoc cut pa
 <lb n="18"/>ha macu quevaric he aꜩaca vloc
 <lb n="19"/>quiꜩih chach quichi xqha ri <rs ana="IXMUKANE">atit</rs>
-<lb n="20"/>cate cut ta xeya pa zanic quz cu qui<pc> –</pc>
+<lb n="20"/>cate cut ta xeya pa <rs ana="SANIK">zanic</rs> quz cu qui<pc> –</pc>
 <lb n="21"/>varam chiri xeel chicu chiri xeya
 <lb n="22"/>chic chuvi quix are ta cut xcah <rs ana="JUN_BATZ">hun
 <lb n="23"/>baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs> xecam ta chiripa
-<lb n="24"/>zanic, xecam ta pu chuvi quix xcah
+<lb n="24"/><rs ana="SANIK">zanic</rs>, xecam ta pu chuvi quix xcah
 <lb n="25"/>rumal quichaquimal, qui ꜫaꜫ va<pc> –</pc>
 <lb n="26"/>chibal puch cumal <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun
 <lb n="27"/>chouen</rs> maui xe culax paha cu<pc> –</pc>
@@ -1902,9 +1900,9 @@ cap.
 <lb n="14"/>mal <rs ana="KA'IB_K'AJOLAB">quichac</rs>. vve xecha cut ta
 <lb n="15"/>xquihuruba cut vꜩam qui toc xa
 <lb n="16"/>pu huzu qui he chi xuxic xa
-<lb n="17"/>coy xquivachibeh chic cate cut
+<lb n="17"/><rs ana="K'OY">coy</rs> xquivachibeh chic cate cut
 <lb n="18"/>xebe chui tac che chuti huyub
-<lb n="19"/>nima huyub xebec patac quiche<pc> –</pc>
+<lb n="19"/>nima huyub xebec patac <rs ana="AJAW_K'ICHE">quiche</rs><pc> –</pc>
 <lb n="20"/>lah, quevohon chi<corr instant="false"><hi rend="large">c</hi><del rend="overstrike" instant="false" status="unremarkable">-</del></corr> quizilah chic
 <lb n="21"/>chucab tac che quehe cut quicha
 <lb n="22"/>catahic <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>,
@@ -1957,7 +1955,7 @@ cap.
 <lb n="16"/>ui ququz caquibano xavi ca qui<pc> –</pc>
 <lb n="17"/>tac chiih <rs ana="IXMUKANE">ricatit</rs> chi ꜩe libah
 <lb n="18"/>chi xꜩeen chiri <rs ana="IXMUKANE">catit</rs> quiꜩih ꜩe<pc> –</pc>
-<lb n="19"/>ebal qui vach ri coy chixiriric
+<lb n="19"/>ebal qui vach ri <rs ana="K'OY">coy</rs> chixiriric
 <lb n="20"/><hi rend="bold">x</hi>e qui pam chichilita xe puch
 <lb n="21"/>vchi qui qux taxeoc vl<hi rend="bold">o</hi>c are
 <lb n="22"/>cut qui chuꜩeeh <rs ana="IXMUKANE">atit</rs> cate xe
@@ -1991,7 +1989,7 @@ cap.
 <lb n="2"/>lanque</rs> xeziquix cut rumal ri ah<rs ana="SU'">zu</rs>
 <lb n="3"/>ahbix, ri oher vinac are puch chu<pc> –</pc>
 <lb n="4"/>zi quih ri ahzib ahcot oher xechi<pc> –</pc>
-<lb n="5"/>copiric ecoy xevxic rumal xax
+<lb n="5"/>copiric e<rs ana="K'OY">coy</rs> xevxic rumal xax
 <lb n="6"/>quinimarizah quib xquiyoc ri <rs ana="KA'IB_K'AJOLAB">qui
 <lb n="7"/>chac</rs> quehevi calabil chiqui qux
 <lb n="8"/>quehecut qui maixic ri ta xezachic
@@ -2601,16 +2599,16 @@ cap.
 <lb n="44"/>xezilab chic, xa hun cah chi<pc> –</pc>
 <lb n="45"/>vi cha ronohel are cut e qo
 <lb n="46"/>chichiri pa<rs ana="CHAYIM_JA">chaim ha</rs> chacab ta
-<lb n="47"/>xquiziquih ronoh el zanic. chai
+<lb n="47"/>xquiziquih ronoh el <rs ana="SANIK">zanic</rs>. chai
 <pb xml:id="xom-f26-s1"/>
 <note place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">26</hi></num>
 </note>
-<lb n="1"/>zanic che que nzanic quixpetoc, quix<pc> –</pc>
+<lb n="1"/><rs ana="SANIK">zanic</rs> che que n<rs ana="SANIK">zanic</rs> quixpetoc, quix<pc> –</pc>
 <lb n="2"/>oho ivonohel ohicama ronohel
 <lb n="3"/>vvach coꜩih qui chacon ahauab
 <lb n="4"/>vꜩbala xeqha cut ta xebe curi
-<lb n="5"/>zanic conohel e camol coꜩih v
+<lb n="5"/><rs ana="SANIK">zanic</rs> conohel e camol coꜩih v
 <lb n="6"/>ticon <rs ana="JUN_KAME">hun came</rs>, <rs ana="WUQUB_KAME">vvcub came</rs> mier
 <lb n="7"/>oc cut chiquipixabah chahal qui
 <lb n="8"/>coꜩih ri  laqui chivila ca
@@ -2629,7 +2627,7 @@ cap.
 <lb n="21"/>quic ri <rs ana="PUJUYU">puhuyu</rs> vbi e caib chi<pc> –</pc>
 <lb n="22"/>chahal ticon vticon <rs ana="JUN_KAME">hun came</rs>
 <lb n="23"/><rs ana="WUQUB_KAME">vvcub came</rs> macu caquina ri
-<lb n="24"/>zanic elecai qui chahem cabolo<pc> –</pc>
+<lb n="24"/><rs ana="SANIK">zanic</rs> elecai qui chahem cabolo<pc> –</pc>
 <lb n="25"/>vic catucuvic erai coꜩih ri cabe
 <lb n="26"/>catova vloc coꜩih chuviche re ca
 <lb n="27"/>zicou cuq chuxeche ri coq,ih xa
@@ -2649,9 +2647,9 @@ cap.
 <lb n="41"/>pon cu chiqui vach ahau aha
 <lb n="42"/>vab cu caam coꜩih quz v vach
 <lb n="43"/>que he cut xechacatah vi <rs ana="XIBALBA">xibal<pc> –</pc>
-<lb n="44"/>ba</rs>, xa zanic xquitac ri <rs ana="KA'IB_K'AJOLAB">qaho<pc> –</pc>
+<lb n="44"/>ba</rs>, xa <rs ana="SANIK">zani</rs>c xquitac ri <rs ana="KA'IB_K'AJOLAB">qaho<pc> –</pc>
 <lb n="45"/>lab</rs> xahuna cabil xquichap
-<lb n="46"/>zanic ta quiya pazel.que he
+<lb n="46"/><rs ana="SANIK">zanic</rs> ta quiya pazel.que he
 <lb n="47"/>cut xezac cahe riconohel <rs ana="XIBALBA">xi<pc> –</pc>
 <pb xml:id="xom-f26-s2"/>
 <note place="margin-left" type="pagination" anchored="true">
@@ -3161,7 +3159,7 @@ cap.
 <lb n="38"/>xquibalih vi quib panima
 <lb n="40"/>xolobachan chiri cut etubul
 <lb n="41"/>vi ta xculun cut maui ahi<pc> –</pc>
-<lb n="42"/>lan chi zanic tuculÿ vla que
+<lb n="42"/>lan chi <rs ana="SANIK">zanic</rs> tuculÿ vla que
 <lb n="43"/>pa zivan quehe ri xebeyox
 <lb n="44"/>vloc ta xevl cut xquixul
 <lb n="45"/>quiya chiquib conohel xeul
@@ -3568,7 +3566,7 @@ cap.
 <lb n="26"/><rs ana="CH'IPI_NANAWAK">chipina navac</rs> raxa nana vac
 <lb n="27"/><rs ana="WOK">voc</rs> <rs ana="JUNAJPU">hunahpu</rs> <rs ana="TEPEW_Q'UKUMATZ">tepeu cucumaꜩ</rs>
 <lb n="28"/><rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">qaholom</rs> <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmu<pc> –</pc>
-<lb n="29"/>cane</rs> ratit quih ratit zac tacha<pc> –</pc>
+<lb n="29"/>cane</rs> <rs ana="IXMUKANE">ratit quih</rs> <rs ana="IXMUKANE">ratit zac</rs> tacha<pc> –</pc>
 <lb n="30"/>uaxoc, ta zaquiroc. xeqha ta xe<pc> –</pc>
 <lb n="31"/>quilonic xeziquinic xazelava<pc> –</pc>
 <lb n="32"/>chin vzaquiric xavi chila que<pc> –</pc>
@@ -4058,7 +4056,7 @@ cap.
 <lb n="11"/>quih cate vchac chiquiqux ta
 <lb n="12"/>xquiquiroc oxichal quicamo<pc> –</pc>
 <lb n="13"/>vabal chi qui qux. mi xtam
-<lb n="14"/>pom vbi pom rucaam <rs ana="BALAM_KI'TZE'">balam
+<lb n="14"/>pom vbi <rs ana="POM">pom</rs> rucaam <rs ana="BALAM_KI'TZE'">balam
 <lb n="15"/>quiꜩe</rs>. cavizton pom chicv<pc> –</pc>
 <lb n="16"/>bi pom rucaam <rs ana="BALAM_AQ'AB">balam acab</rs>.
 <lb n="17"/>cabavil pom chuqhaxic chic
@@ -4067,7 +4065,7 @@ cap.
 <lb n="20"/>ta xe zacbizani aponoc chila
 <lb n="21"/>relebal quih quz queoquic
 <lb n="22"/>taxezacbizanic x quicat qui<pc> –</pc>
-<lb n="23"/>pom loꜫalah pom cate cut x<pc> –</pc>
+<lb n="23"/>pom loꜫalah <rs ana="POM">pom</rs> cate cut x<pc> –</pc>
 <lb n="24"/>coqueh ri maui xquilo ma<pc> –</pc>
 <lb n="25"/>pu xquivachih ralaxic quih
 <lb n="26"/>cate puch ta xel vlo quih xquicotic
@@ -6369,10 +6367,10 @@ perhaps priests not deities?</note>
 <lb n="1"/>y queriendo meterse en los hoyos, y se les
 <lb n="2"/>zerraban. y así fueron destruídos, y aníquí<pc> –</pc>
 <lb n="3"/>lados, y afrentados todos, y así fue dicho se<pc> –</pc>
-<lb n="4"/>ñal de esta gente son los monos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>agora
+<lb n="4"/>ñal de esta gente son <rs ana="K'OY">los monos</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>agora
 <lb n="5"/>andan por los montes. y por eso quedaron
 <lb n="6"/>por señal <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solo fueron de palo hechos
-<lb n="7"/>por el críador. y el mono por eso separeze
+<lb n="7"/>por el críador. y <rs ana="K'OY">el mono</rs> por eso separeze
 <lb n="8"/>al <del rend="scribble" instant="false" status="unremarkable">n</del>ombre <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> es señal de otro genero
 <lb n="9"/>de hombres hechos de palo.
 <lb/>
@@ -6741,7 +6739,7 @@ perhaps priests not deities?</note>
 <lb n="24"/>tresdías beberemos nosotros <rs ana="SIPAKNA">los cuatrozien<corr instant="false"><pc> – </pc></corr>
 <lb n="25"/>tos muchachos</rs> nuestra chichi. mañana 
 <lb n="26"/>veremos, y pasado mañana veremos, síví<pc> –</pc>
-<lb n="27"/>enen acaso las hormigas en la tierra <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> 
+<lb n="27"/>enen acaso <rs ana="SANIK">las hormigas</rs> en la tierra <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> 
 <lb n="28"/>híeda, y se pudra, y entonzes sesentara 
 <lb n="29"/>nuestro corazon, y beberemos sín cuídado 
 <lb n="30"/>dixeron. y <rs ana="SIPAKNA">zípacna</rs> lo oya enhoyo <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice>
@@ -6763,17 +6761,17 @@ perhaps priests not deities?</note>
 <lb />
 <lb />                
 <pb corresp="xom-f09-s2"/>
-<lb n="1"/>segundo día salieron de monton las hormi<pc> –</pc>
-<lb n="2"/>gas, y andaban, y abundaban y llegaron de 
+<lb n="1"/>segundo día salieron de monton <rs ana="SANIK">las hormi<pc> –</pc>
+<lb n="2"/>gas</rs>, y andaban, y abundaban y llegaron de 
 <lb n="3"/>baxo d el palo, y <del rend="strikeout" instant="false" status="unremarkable">muy ap</del> vnas traían pelos
 <lb n="4"/>otras traíanvnas de<rs ana="SIPAKNA">zípacna</rs>, y <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> lo vieron
 <lb n="5"/><rs ana="MOTZ">los muchachos</rs>, dixeron, y aparezío aquel 
-<lb n="6"/>demonio. Mirad las hormigas víníeron, y
+<lb n="6"/>demonio. Mirad <rs ana="SANIK">las hormigas</rs> víníeron, y
 <lb n="7"/>se juntaron ytraen todas pelos, y vñas mí<pc> –</pc>
 <lb n="8"/>rad lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> hemos hecho. y <rs ana="SIPAKNA">zípacna</rs> estaba
 <lb n="9"/>vivo y el se Corto las vñas, y los cabellos de 
 <lb n="10"/>su cabeza, y con la voca se corto las vñas, y se 
-<lb n="11"/>las daba alas hormigas, y así pensaron
+<lb n="11"/>las daba a<rs ana="SANIK">las hormigas</rs>, y así pensaron
 <lb n="12"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auía muerto, <rs ana="MOTZ">los cuatrozientos mucha<pc> –</pc>
 <lb n="13"/>chos</rs>. y el terzero día empezo labebida
 <lb n="14"/>y se emborracharon todos los muchachos. 
@@ -7645,13 +7643,13 @@ perhaps priests not deities?</note>
 <lb n="16"/>mados. en el monte se levantaron, y luego
 <lb n="17"/>entraron en la casa, y no dormían, y dixo
 <lb n="18"/><rs ana="IXMUKANE">la víeja</rs> mucho grítan anda arrojalos
-<lb n="19"/>y los fueron aponer en vn hormígue<pc> –</pc>
-<lb n="20"/>ro, y allí durmíeron sabrosamente, y
+<lb n="19"/>y los fueron aponer en <rs ana="SANIK">vn hormígue<pc> –</pc>
+<lb n="20"/>ro</rs>, y allí durmíeron sabrosamente, y
 <lb n="21"/>sacandolos de allí los pusíeron otra vez
 <lb n="22"/>sobre espínas. esto era lo <choice><abbr>q</abbr><expan instant="false">que</expan></choice> querían <rs ana="JUN_BATZ">hun 
 <note place="margin-right" anchored="true">+</note>
 <lb n="23"/>baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>, <choice><abbr>q</abbr><expan instant="false">que</expan></choice> muriesen allí en
-<lb n="24"/>el hormiguero, y sobre las espínas, por
+<lb n="24"/><rs ana="SANIK">el hormiguero</rs>, y sobre las espínas, por
 <lb n="25"/>su embídía, de <rs ana="JUN_BATZ">hunbaꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>
 <lb n="26"/>y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> no fuesen recíuídos en casa porlos
 <lb n="27"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran sus hermanos, pero no les cono<pc> –</pc>
@@ -7742,7 +7740,7 @@ perhaps priests not deities?</note>
 <lb n="14"/>dícho por <rs ana="KA'IB_K'AJOLAB">sus hermanos</rs>. bíen, díxeron <rs ana="JUN_BATZ'_JUN_CHOWEN">ellos</rs>,
 <lb n="15"/>yluego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sacaron la punta, desu ze<pc> –</pc>
 <lb n="16"/>ñidor luego al punto se conuírtíeron
-<lb n="17"/>en colas, y se bolbíeron mícos. y lue<pc> –</pc>
+<lb n="17"/>en colas, y se bolbíeron <rs ana="K'OY">mícos</rs>. y lue<pc> –</pc>
 <lb n="18"/>go se fueron por çíma de los arboles, y
 <lb n="19"/>sobre los montes, y los montes grandes
 <lb n="20"/>y a las seluas; y grítauan, y se mene<pc> –</pc>
@@ -7793,7 +7791,7 @@ perhaps priests not deities?</note>
 <lb n="15"/>hacían monerías, con<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> prouocaban a
 <lb n="16"/>ríssa a<rs ana="IXMUKANE">la víeja</rs>, y luego serío <rs ana="IXMUKANE">la víeja</rs>
 <lb n="17"/><choice><abbr>por q’</abbr><expan instant="false">por que</expan></choice> prouocaban arríssa sus gestos, de
-<lb n="18"/>mícos, y lo delgado desus barrígas, y el
+<lb n="18"/><rs ana="K'OY">mícos</rs>, y lo delgado desus barrígas, y el
 <lb n="19"/>
 <note rend="margin-left" anchored="true">
 <num rend="large">-</num>
@@ -7834,11 +7832,11 @@ perhaps priests not deities?</note>
 <lb n="2"/><rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XBALAMKE">xbalanque</rs>. y fueron llamados por
 <lb n="3"/>los tocadores de <rs ana="SU'">flautas</rs>, y los cantores, y a estos in<pc> –</pc>
 <lb n="4"/>uocaron los hombres antíguos los píntores, y enta<pc> –</pc>
-<lb n="5"/>lladores, se bolbíeron en brutos mícos <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se
+<lb n="5"/>lladores, se bolbíeron en brutos <rs ana="K'OY">mícos</rs> <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se
 <lb n="6"/>ensoberbeçíeron, y maltrataron a<rs ana="KA'IB_K'AJOLAB">sus hermanos</rs>
 <lb n="7"/>y les tuvíeron como a esclauos, y así fueron bor
 <lb n="8"/>rados, quando fueron perdídos el <rs ana="JUN_BATZ">hun baꜩ</rs>, y
-<lb n="9"/><rs ana="JUN_CHOWEN">hun chouen</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fueron conuertidos en mícos, y
+<lb n="9"/><rs ana="JUN_CHOWEN">hun chouen</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fueron conuertidos en <rs ana="K'OY">mícos</rs>, y
 <lb n="10"/>
 <del instant="false" status="unremarkable"><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 </del>seestaban en sus casas síempre, y fueron 
@@ -8441,13 +8439,13 @@ perhaps priests not deities?</note>
 <lb n="44"/>menearon mas, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estuuíeron que
 <lb n="45"/>dos todos y así estaban en <rs ana="CHAYIM_JA">la casa de
 <lb n="46"/>las nauajas</rs> a que lla noche. y entonzes
-<lb n="47"/>llamaron a todas las hormígas, y de
+<lb n="47"/>llamaron a todas <rs ana="SANIK">las hormígas</rs>, y de
 <pb corresp="xom-f26-s1"/>
-<lb n="1"/>çían, hormígas de nauajas, hormígas de
-<lb n="2"/>el muslo, venid. veníd todas. andad to<pc> –</pc>
+<lb n="1"/>çían, <rs ana="SANIK">hormígas de nauajas</rs>, <rs ana="SANIK">hormígas de
+<lb n="2"/>el muslo</rs>, venid. veníd todas. andad to<pc> –</pc>
 <lb n="3"/>das, y traed todas las flores <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> hemos pro<pc> –</pc>
 <lb n="4"/>metído a los Señores esta bíen díxeron
-<lb n="5"/>ellas, y fueron todas las hormígas a tra<pc> –</pc>
+<lb n="5"/>ellas, y fueron todas <rs ana="SANIK">las hormígas</rs> a tra<pc> –</pc>
 <lb n="6"/>er las flores de la guerta de <rs ana="JUN_KAME">hun came</rs>,
 <lb n="7"/>y <rs ana="WUQUB_KAME">vucub came</rs>. y antes auían auísa<pc> –</pc>
 <lb n="8"/>do al<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> guardaba las flores de los <rs ana="XIBALBA">deel
@@ -8487,7 +8485,7 @@ perhaps priests not deities?</note>
 <lb n="42"/>flores, muy suaves. y así fueron ven
 <lb n="43"/>çídos <rs ana="RAJAWAL_XIBALBA">los de el ínfíerno</rs>. y solas hor<pc> –</pc>
 <lb n="44"/>mígas embíaron <rs ana="KA'IB_K'AJOLAB">los mançebos</rs>
-<lb n="45"/>y en una noche cortaron las hormigas
+<lb n="45"/>y en una noche cortaron <rs ana="SANIK">las hormigas</rs>
 <lb n="46"/>las flores, y las pusieron en las hícaras
 <lb n="47"/>y así se espantaron todos <rs ana="RAJAWAL_XIBALBA">los deelínfí<pc> –</pc>
 <pb corresp="xom-f26-s2"/>
@@ -8993,7 +8991,7 @@ perhaps priests not deities?</note>
 <lb n="32"/>barranca, y todos se metíeron todos
 <lb n="33"/>en vn gran hoyo, y allí estaban todos
 <lb n="34"/>metídos quando víníeron ínfíní<pc> –</pc>
-<lb n="35"/>tas hormigas, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les fueron a punzar
+<lb n="35"/>tas <rs ana="SANIK">hormigas</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les fueron a punzar
 <lb n="36"/>a la barranca, y así los fueron a echar
 <lb n="37"/>y víníendo se entregaron todos
 <lb n="38"/>como ya vençído su <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> de el ínfí<pc> –</pc>
