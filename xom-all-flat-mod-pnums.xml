@@ -1902,7 +1902,7 @@ cap.
 <lb n="16"/>pu huzu qui he chi xuxic xa
 <lb n="17"/><rs ana="K'OY">coy</rs> xquivachibeh chic cate cut
 <lb n="18"/>xebe chui tac che chuti huyub
-<lb n="19"/>nima huyub xebec patac <rs ana="AJAW_K'ICHE">quiche</rs><pc> –</pc>
+<lb n="19"/>nima huyub xebec patac quiche<pc> –</pc>
 <lb n="20"/>lah, quevohon chi<corr instant="false"><hi rend="large">c</hi><del rend="overstrike" instant="false" status="unremarkable">-</del></corr> quizilah chic
 <lb n="21"/>chucab tac che quehe cut quicha
 <lb n="22"/>catahic <rs ana="JUN_BATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>,
@@ -3490,10 +3490,10 @@ cap.
 <note  rend="margin-left" anchored="true">
 <num rend="large">34</num>
 </note>
-<lb n="1"/>cut vxe quech ri oh <rs ana="AJAW_K'ICHE'">quiche vinac</rs>
+<lb n="1"/>cut vxe quech ri oh <rs ana="TINAMIT_K'ICHE'">quiche vinac</rs>
 <lb n="2"/>ꜩaꜩ cut xuxic ri ahquix ahcahb
 <lb n="3"/>mana xa e cahib chic xuxic xere
-<lb n="4"/>cahib ri qui <rs ana="IXOQ_AJAWAB">chuch oh</rs> <rs ana="AJAW_K'ICHE'">quiche vinac</rs>
+<lb n="4"/>cahib ri qui <rs ana="IXOQ_AJAWAB">chuch oh</rs> <rs ana="TINAMIT_K'ICHE'">quiche vinac</rs>
 <lb n="5"/>halahoh chi quibi chi qui huhunal
 <lb n="6"/>ta xpocotahic chila chirelebal quih
 <lb n="7"/>qui vbi xuxic ri vinac <rs ana="TEPEW_OLOMAN">tepeu, olo<pc> –</pc>
@@ -3632,9 +3632,9 @@ cap.
 </p>
 <p xml:id="p54">
 <lb n="37" rend="indent"/>Quehecut vbinaam vi ox<pc> –</pc>
-<lb n="38"/>ib chiquiche xma xuꜩocopih
+<lb n="38"/>ib chi<rs ana="TINAMIT_K'ICHE'">quiche</rs> xma xuꜩocopih
 <lb n="39"/>virib rumal xa hunam vbi ca<pc> –</pc>
-<lb n="40"/>bauil <rs ana="TOJIL">tohil</rs> quiche, <rs ana="TOJIL">tohil</rs> chi <rs ana="TAMUB">ta<pc> –</pc>
+<lb n="40"/>bauil <rs ana="TOJIL">tohil</rs> <rs ana="TINAMIT_K'ICHE'">quiche</rs>, <rs ana="TOJIL">tohil</rs> chi <rs ana="TAMUB">ta<pc> –</pc>
 <lb n="41"/>mub</rs>, chi <rs ana="ILOKAB">ilocab</rs> xa hun vbi v
 <lb n="42"/>cabavil que cu mavi xuhach
 <lb n="43"/>vi rib roxichal queche oxib
@@ -3868,17 +3868,17 @@ cap.
 <p xml:id="p57">
 <lb n="24"/>Taxevl puch chiri chuvi hun
 <lb n="25"/>huyub chiri xquicuch vi quib
-<lb n="26"/>conohel <rs ana="AJAW_K'ICHE'">queche vinac</rs> ruq a
+<lb n="26"/>conohel <rs ana="TINAMIT_K'ICHE'">queche vinac</rs> ruq a
 <lb n="27"/>mac chiriqu xepopon vi co<pc> –</pc>
 <lb n="28"/>nohel ta xquipixabah quib
 <lb n="29"/>vbinaam huyub vacamic <rs ana="CHI_PIXAB">chi<pc> –</pc>
 <lb n="30"/>pixab</rs> vbihuyub. xe cuchu vi
 <lb n="31"/>quib chiri cut xquicobizah vi
-<lb n="32"/>quib. inva in<rs ana="AJAW_K'ICHE'">queche vinac</rs>, at
+<lb n="32"/>quib. inva in<rs ana="TINAMIT_K'ICHE'_K'ICHE'">queche vinac</rs>, at
 <lb n="33"/>curi at <rs ana="TAMUB">tamub</rs>, are abi chuxic
 <lb n="34"/>xu qhax ri <rs ana="TAMUB">tamub</rs>. xqha chicut
 <lb n="35"/><rs ana="ILOKAB">ilocab</rs> at <rs ana="ILOKAB">ilocab</rs> are abi richu<pc> –</pc>
-<lb n="36"/>xic maui zachel oxib chi <rs ana="AJAW_K'ICHE'">quiche</rs>
+<lb n="36"/>xic maui zachel oxib chi <rs ana="TINAMIT_K'ICHE'">quiche</rs>
 <lb n="37"/>xahunam caꜩih xeqhacut
 <lb n="38"/>ta xcoh quibi
 </p>
@@ -5079,7 +5079,7 @@ cap.
 <lb n="36"/>che vinac xquipuzu xquicami<pc> –</pc>
 <lb n="37"/>zah rumal qui ꜫaꜫal quitepe<pc> –</pc>
 <lb n="38"/>ual ri <rs ana="K'OTUJA_KQCUATRO">ahau cotuha</rs> <rs ana="ISTAYUL_KQCUATRO">aha zta<pc> –</pc>
-<lb n="39"/>yul</rs> ruq <rs ana="NIJA'IB">nihaibab</rs> <rs ana="AJAQ_KICHE">ahau quiche</rs>
+<lb n="39"/>yul</rs> ruq <rs ana="NIJA'IB">nihaibab</rs> <rs ana="AJAW_KICHE">ahau quiche</rs>
 <lb n="40"/>xa oxchob chi chinamit xqohe
 <lb n="41"/>chiri <rs ana="CHI_ISMACHI">chiizmachi</rs> vbi tinamit ca
 <lb n="42"/>chiri chinaipuch xquitiquiba vi
@@ -5112,7 +5112,7 @@ cap.
 <p xml:id="p75">
 <lb n="17"/>Catepuch taxeyacatah chivl
 <lb n="18"/>oc xevlchiri patinamit <rs ana="Q'UMARAQ_AJ">cumarca<pc> –</pc>
-<lb n="19"/>ah</rs> vbi cumal <rs ana="AJAW_K'ICHE'">quiche</rs> chuqha xic
+<lb n="19"/>ah</rs> vbi cumal <rs ana="TINAMIT_K'ICHE'">quiche</rs> <note resp="editor">Should this tag be KAWEQ?</note>chuqha xic
 <lb n="20"/>taxevl chic ahauab <rs ana="K'OTUJA_KQCINCO">cotuha</rs> ruq
 <lb n="21"/><rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> ruq puchronohel aha<pc> –</pc>
 <lb n="22"/>uab xroquexoc xroleapuch vi<pc> –</pc>
@@ -5191,7 +5191,7 @@ cap.
 <lb n="37"/>ch <rs ana="NIJA'IB">nihaibab</rs>
 </p>
 <p xml:id="p79">
-<lb n="38" rend="indent" /><hi rend="large">A</hi>re chicut ahau quiche va
+<lb n="38" rend="indent" /><hi rend="large">A</hi>re chicut <rs ana="AJAW_K'ICHE'">ahau quiche</rs> va
 <lb n="39"/>vae quibi ahauab. ahꜩic vinac
 <lb n="40"/><rs ana="AJAW_LOLMET">ahau lolmet</rs>, <rs ana="AJAW_NIM_CH'OKOJ">ahau nim chocoh</rs>
 <lb n="41"/>ahau, <rs ana="AJAW_JAQAWITZ">ahau hacaviꜩ</rs>. cahib a<pc> –</pc>
@@ -5213,13 +5213,13 @@ cap.
 <lb n="1"/>Quehe cut xꜩacat vi huvinac
 <lb n="2"/>cahib chiahauab, huvinac cahib
 <lb n="3"/>naipuch chi nimha xuxuxic ta
-<lb n="4"/>xnimaric ꜫaꜫal <rs ana="TEPEW">tepeual</rs> pa<rs ana="AJAW_K'ICHE'">qui<pc> –</pc>
-<lb n="5"/>che</rs> taxꜫaꜫaric ta xtepeuaric v
-<lb n="6"/>nimal ralal <rs ana="AJAW_K'ICHE'">quiche</rs>. ta <hi rend="underline">xchuna<pc> –</pc>
+<lb n="4"/>xnimaric ꜫaꜫal <rs ana="TEPEW">tepeual</rs> pa<rs ana="TINAMIT_K'ICHE'">qui<pc> –</pc>
+<lb n="5"/>che</rs><note resp="editor">Should this tag be KAWEQ?</note> taxꜫaꜫaric ta xtepeuaric v
+<lb n="6"/>nimal ralal <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>. ta <hi rend="underline">xchuna<pc> –</pc>
 <lb n="7"/>xic</hi> tax<hi rend="underline">zahcabix</hi> puch zivan tina
 <lb n="8"/>mit xul chutiamac nima amac
 <lb n="9"/>cocut vbi ahau. xnimarizan
-<lb n="10"/>quiche taxvinaquiric ꜫaꜫalte<pc> –</pc>
+<lb n="10"/><rs ana="TINAMIT_K'ICHE'">quiche</rs> taxvinaquiric ꜫaꜫalte<pc> –</pc>
 <lb n="11"/>peval taxvinaquiric rochoch
 <lb n="12"/>cabauil cochoch naipu ahauab
 <lb n="13"/>manaipu are are xebanouic ma<pc> –</pc>
@@ -5263,7 +5263,7 @@ cap.
 <lb n="3"/>uab xpaxin rib vtaic xuta rono<pc> –</pc>
 <lb n="4"/>hel ahauab amac vqoheic naual
 <lb n="5"/>ahau arecut vticaric, vnima<pc> –</pc>
-<lb n="6"/>ric puch <rs ana="AJAW_K'ICHE'">quiche</rs> ta xuban ahau
+<lb n="6"/>ric puch <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> ta xuban ahau
 <lb n="7"/><rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> retal nimal xmaza<pc> –</pc>
 <lb n="8"/>chel vvach vmam vqahol chu<pc> –</pc>
 <lb n="9"/>qux. mahabi atala xban viri
@@ -5290,7 +5290,7 @@ cap.
 <lb n="28"/><rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> vbi hun chic. are
 <lb n="29"/>cut ꜩaꜩ chic xuban ri <rs ana="K'IKAB_KQSIETE">qui cab</rs>
 <lb n="30"/><rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs>. are chi xnimarizan
-<lb n="31"/>quiche rumal quiꜩih naual v
+<lb n="31"/><rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> rumal quiꜩih naual v
 <lb n="32"/>qoheic are cahouic arepuch
 <lb n="33"/>xpaxinic vzivan vtina mit chu<pc> –</pc>
 <lb n="34"/>ti amac nimaamac nacah tac
@@ -5370,7 +5370,7 @@ cap.
 <lb n="7"/>uil, xa catei rih tinamit. ta xeelic ro<pc> –</pc>
 <lb n="8"/>nohel ah vvila ah chulimal zaqui<pc> –</pc>
 <lb n="9"/>ya, xahbaquieh, chi temah, vahxa<pc> –</pc>
-<lb n="10"/>lahuh ruq chic <rs ana="KABRAQAN">ah cabracan</rs> cabi<pc> –</pc>
+<lb n="10"/>lahuh ruq chic <rs ana="AJ_KABRAQAN">ah cabracan</rs> cabi<pc> –</pc>
 <lb n="11"/>cac chihunahpu ruq ah maca, ah<pc> –</pc>
 <lb n="12"/>xayabah, <rs ana="SAQKABAJA">ah zac cabaha</rs>, ah ziyaha
 <lb n="13"/>ahmiquina <rs ana="XELAJUJ">ah xelahuh</rs> tacahal
@@ -5412,10 +5412,10 @@ cap.
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">53</hi></num>
 </note>
-<lb n="1"/>quiche ta xban chaponic xquicobi<pc> –</pc>
+<lb n="1"/><rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> ta xban chaponic xquicobi<pc> –</pc>
 <lb n="2"/>zah vnabe cal quiqahol quehe
 <lb n="3"/>cut vcamic naoh macu chiri x<pc> –</pc>
-<lb n="4"/>chapvi quiche qo vbi huyub x<pc> –</pc>
+<lb n="4"/>chapvi <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> qo vbi huyub x<pc> –</pc>
 <lb n="5"/>chap vi vnabe al qahol. ta xetac
 <lb n="6"/>cut runohel qo pa huhun chihu<pc> –</pc>
 <lb n="7"/>yub xa hun xecuchvi.
@@ -5440,14 +5440,14 @@ cap.
 <lb n="22"/>chacat e vnabe ral vqahol que
 <lb n="23"/>che vinac ilol rech taol rech v
 <lb n="24"/>chi qha, vchi caam quehoh ꜩapib
-<lb n="25"/>ꜩalam coxtum chirih quiche. xaui
+<lb n="25"/>ꜩalam coxtum chirih <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>. xaui
 <lb n="26"/>cu quehe xubano <rs ana="TAMUB">tamub</rs><rs ana="ILOKAB">ilocab</rs>
 <lb n="27"/>xuqhapo xucobizah puch vnabe
 <lb n="28"/>ral vqahol qopa huhun chi huyub.
 <lb n="29"/>are cut, vxenahic <rs ana="Q'ALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> ré
 <lb n="30"/>ealem pahuhun chi huyub vacamic.
 <lb n="31"/>quehe relic ri ta xeelic chirih <rs ana="AJPOP">ah
-<lb n="32"/>pop</rs> ahpop camha chirih puchca<pc> –</pc>
+<lb n="32"/>pop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> chirih puchca<pc> –</pc>
 <lb n="33"/>lel <rs ana="AJTZIK_WINAQ">ahꜩicvinac</rs> xelvi
 </p>
 <p xml:id="p86">
@@ -5460,19 +5460,19 @@ cap.
 <lb n="40"/>viꜩ</rs> chi cut vbi ꜩac rochoch vcabauil
 <lb n="41"/><rs ana="AJAW_K'ICHE'">ahau quiche</rs>. <rs ana="LUGAR_DE_TZ'UTUJA">ꜩutuha</rs> quilna <rs ana="KAJBAJA">cahba<pc> –</pc>
 <lb n="42"/>ha</rs> vbichic. nimac ꜩac xqoheri
-<lb n="43"/>abah xquihiloxic rumal ahauab
-<lb n="44"/>quiche quihilox puch rumal ro<pc> –</pc>
+<lb n="43"/>abah xquihiloxic rumal <rs ana="AJAW_K'ICHE'">ahauab
+<lb n="44"/>quiche</rs> quihilox puch rumal ro<pc> –</pc>
 <lb n="45"/>nohel amac choc na vcatoh amac
 <lb n="46"/>nabe chuvach ri <rs ana="TOJIL">tohil</rs> cate cut tachu<pc> –</pc>
-<lb n="47"/>quihila chic <rs ana="AJPOP">ahpop</rs> ahpop camha                    
+<lb n="47"/>quihila chic <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs>                    
 <pb xml:id="xom-f54-s1"/>
 <lb n="1"/>cate chul quiya qui cuc quipatan
 <lb n="2"/>chuvach ahau. are ahau chic arechi<pc> –</pc>
-<lb n="3"/>puch qui ꜩucun quicoon <rs ana="AJPOP">ahpop</rs> ah<pc> –</pc>
-<lb n="4"/>pop camha xcazan quitinamit eni<pc> –</pc>
+<lb n="3"/>puch qui ꜩucun quicoon <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ah<pc> –</pc>
+<lb n="4"/>pop camha</rs> xcazan quitinamit eni<pc> –</pc>
 <lb n="5"/>ma ahauab enaual tac vinac na<corr><pc> –</pc></corr>
-<lb n="6"/>ual ahau <rs ana="Q'UKUMATZ_KQCINCO">ri cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs>, na<corr><pc> –</pc></corr>
-<lb n="7"/>ual ahau <rs ana="Q'UKUMATZ_KQCINCO">ri cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> na<pc> –</pc>
+<lb n="6"/>ual ahau ri <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs>, na<corr><pc> –</pc></corr>
+<lb n="7"/>ual ahau ri <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuha</rs> na<pc> –</pc>
 <lb n="8"/>ual ahau curi <rs ana="K'IKAB_KQSIETE">quicab</rs>, <rs ana="KAWISIMAJ_KQSIETE">cauizimah</rs>
 <lb n="9"/>quetaam vve labal chibanic calah
 <lb n="10"/>chiquivach ronohel chiquilo vve
@@ -5578,16 +5578,16 @@ cap.
 <lb n="9"/>ronohelamac xul chiquivach na<pc> –</pc>
 <lb n="10"/>ual ahauab <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> <rs ana="K'OTUJA_KQCINCO">cotuh</rs> chu<pc> –</pc>
 <lb n="11"/>vach puch <rs ana="K'IKAB_KQSIETE">quicab</rs> <rs ana="KAWISIMAJ_KQSIETE">cavizimah</rs> ri
-<lb n="12"/><rs ana="AJPOP">ahpop</rs> ahpop camha <rs ana="Q'ALEL">ꜫalel</rs> <rs ana="AJTZIK_WINAQ">ahzic
+<lb n="12"/><rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> <rs ana="Q'ALEL">ꜫalel</rs> <rs ana="AJTZIK_WINAQ">ahzic
 <lb n="13"/>vinac</rs> mauixachutin xquibano
 <lb n="14"/>manai pu xata zcaquin chi amac
 <lb n="15"/>xquicazah quia chob chi amac
-<lb n="16"/>xulvptan <rs ana="AJAW_K'ICHE'">quiche</rs> caxcol cut
+<lb n="16"/>xulvptan <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note> caxcol cut
 <lb n="17"/>xcamvi xyaquex vi cumal ma<pc> –</pc>
 <lb n="18"/>ui atan xvinaquiric quiꜫaꜫal.
 <lb n="19"/>ca <rs ana="Q'UKUMATZ_KQCINCO">cucumaꜩ</rs> vxenimal chi aha<pc> –</pc>
 <lb n="20"/>uarem quehe cut vticaric vni<pc> –</pc>
-<lb n="21"/>maric ri vnimaric puch <rs ana="AJAW_K'ICHE'">quiche</rs>
+<lb n="21"/>maric ri vnimaric puch <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>
 <lb n="22"/>are chicut xchicacholo vleel
 <lb n="23"/>ahavab ruq quibi conohel aha<pc> –</pc>
 <lb n="24"/>uab xchicabÿh chic.
@@ -5673,7 +5673,7 @@ cap.
 <p xml:id="p89">
 <lb n="22"/><hi rend="large">A</hi>recut vleel vtazel ahauarem
 <lb n="23"/>ri ahau <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpop camba</rs> chu<pc> –</pc>
-<lb n="24"/>vach <rs ana="KAWEQ">caviquib</rs> quiche are chi xchi<pc> –</pc>
+<lb n="24"/>vach <rs ana="KAWEQ">caviquib quiche</rs> are chi xchi<pc> –</pc>
 <lb n="25"/>cabÿh chic re chinamit. Va chicute
 <lb n="26"/>nimha rech huhun chiahauab chi<pc> –</pc>
 <lb n="27"/>rih<rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpopcamha</rs> are vbi<pc> –</pc>
@@ -5880,7 +5880,7 @@ cap.
 <lb n="29"/>ch <rs ana="AJAW_K'ICHE'">ahau quiche</rs> rox <rs ana="NIM_CH'OKOJ">nim chocoh</rs>
 <lb n="30"/>chi <rs ana="NIM_CH'OKOJ">oxibcut ri chocohib</rs> huhun
 <lb n="31"/>chivach chinamit. xere cut v
-<lb n="32"/>qoheic quicheri rumal mahabi
+<lb n="32"/>qoheic <rs ana="TINAMIT_K'ICHE'">quicheri</rs> rumal mahabi
 <lb n="33"/>chi ilbalre, <rs ana="POPOL_WUJ">qonabe oher</rs> cu<pc> –</pc>
 <lb n="34"/>mal ahauab zachinac chic. xere
 <lb n="35"/>curi mixuꜩinic chiconohel <rs ana="AJAW_K'ICHE'">qui<pc> –</pc>
@@ -5902,13 +5902,13 @@ cap.
 <p corresp="#p01">        
 <pb corresp="xom-f01-s1"/>
 <lb n="1"/><hi rend="very-large">ESTE ES EL PRINCIPIO DE LAS</hi><note place="margin-right" type="pagination" anchored="true"><num rend="large">1</num></note>
-<lb n="2" rend="indent"/>antiguas historias aqui en el quiche.
+<lb n="2" rend="indent"/>antiguas historias <rs ana="TINAMIT_K'ICHE'">aqui en el quiche</rs>.
 </p>
 <p corresp="#p02">
 <lb n="3" rend="indent"/><hi rend="large">A</hi>quí escribiremos y empezaremos las
 <lb n="4"/>antiguas historias, su principio, y comien<pc> –</pc>
 <lb n="5"/>zo de todo lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue hecho en <rs ana="TINAMIT_K'ICHE'">el pueblo de
-<lb n="6"/>el quiche</rs>, su pueblo de <rs ana="AJAW_K'ICHE'">los indios quichees</rs>;
+<lb n="6"/>el quiche</rs>, su pueblo de <rs ana="TINAMIT_K'ICHE'">los indios quichees</rs>;
 <lb n="7"/>y de aqui tomaremos su ser declarado, y
 <lb n="8"/>manifestado, y su ser relatado, la esconde
 <lb n="9"/>dura, y aclaradura, por el <rs ana="TZ'AQOL">formador</rs>, y <rs ana="BITOL">cri<pc> –</pc>
@@ -9324,10 +9324,10 @@ perhaps priests not deities?</note>
 <lb n="47"/><rs ana="IXOQ_AJAWAB">Señoras</rs>. y estos fueron los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> multíplícaron
 <pb corresp="xom-f34-s2"/>
 <lb n="1"/>todos los pueblos, chicos y grandes, y estos
-<lb n="2"/>son el orígen de nosotros los quiches, y mu<pc> –</pc>
+<lb n="2"/>son el orígen de <rs ana="TINAMIT_K'ICHE'">nosotros los quiches</rs>, y mu<pc> –</pc>
 <lb n="3"/>chísímos fueron los poderosos. y no solo fu<pc> –</pc>
 <lb n="4"/>eron quarto; síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>solo quarto fueron
-<lb n="5"/>los padres de nosotros <rs ana="AJAW_K'ICHE'">los quiches</rs>, y fu<pc> –</pc>
+<lb n="5"/>los padres de nosotros <rs ana="TINAMIT_K'ICHE'">los quiches</rs>, y fu<pc> –</pc>
 <lb n="6"/>eron díferentes los nombres de cada vno
 <lb n="7"/>quando se multíplícaron alla en el orí<pc> –</pc>
 <lb n="8"/>ente. y fueron muchos los nombres de
@@ -9453,7 +9453,7 @@ perhaps priests not deities?</note>
 <lb n="25"/>ídolo <rs ana="JAQAWITZ">hacauíꜩ</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo lleuaba <rs ana="MAJUK'UTAJ">mahucu<pc> –</pc>
 <lb n="26"/>tah</rs>. <rs ana="NIK'AQAJ_TAQ'AJ">nícahta<del rend="scribble" instant="false" status="unremarkable"/>cah</rs>. se llamaba el ídolo
 <lb n="27"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>saco: <rs ana="IK'I_BALAM">íquíbalam</rs>. y solamente les<pc> –</pc>
-<lb n="28"/>acompañaron <rs ana="AJAW_K'ICHE'">los quiches</rs>, y tambí<pc> –</pc>
+<lb n="28"/>acompañaron <rs ana="TINAMIT_K'ICHE'">los quiches</rs>, y tambí<pc> –</pc>
 <lb n="29"/>en los de <rs ana="TAMUB">tamub</rs>, y así tambíen es el ído<pc> –</pc>
 <lb n="30"/>lo de los de <rs ana="TAMUB">tamub</rs>, el ídolo <rs ana="TOJIL">tohíl</rs>, y to<pc> –</pc>
 <lb n="31"/>maron su nombre de sus antepasa<pc> –</pc>
@@ -9464,13 +9464,13 @@ perhaps priests not deities?</note>
 <lb n="36"/><choice><abbr>S<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y así los aben agora.
 </p>
 <p corresp="#p54">
-<lb n="37"/>y así se llamaron las tres parçíalida<pc> –</pc>
-<lb n="38"/>des <rs ana="AJAW_K'ICHE'">quiches</rs>, y no<abbr type="superscription">se</abbr>dexaron, ní de<pc> –</pc>
+<lb n="37"/>y así se llamaron <rs ana="TINAMIT_K'ICHE'">las tres parçíalida<pc> –</pc>
+<lb n="38"/>des quiches</rs>, y no<abbr type="superscription">se</abbr>dexaron, ní de<pc> –</pc>
 <lb n="39"/>sampararon <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> era vno su ídolo de
-<lb n="40"/>todos; <rs ana="TOJIL">tohíl</rs> <rs ana="AJAW_K'ICHE'">quiche</rs>, y <rs ana="TOJIL">tohil</rs> el <rs ana="TAMUB">tamub</rs>, y
+<lb n="40"/>todos; <rs ana="TOJIL">tohíl</rs> <rs ana="TINAMIT_K'ICHE'">quiche</rs>, y <rs ana="TOJIL">tohil</rs> el <rs ana="TAMUB">tamub</rs>, y
 <lb n="41"/><rs ana="ILOKAB">ílocab</rs>, solo era vno el nombre desu
-<lb n="42"/>ídolo, y así nose díuídíeron los trespar<pc> –</pc>
-<lb n="43"/>çíalídades quichees, ylustres eran
+<lb n="42"/>ídolo, y así nose díuídíeron <rs ana="TINAMIT_K'ICHE'">los trespar<pc> –</pc>
+<lb n="43"/>çíalídades quichees</rs>, ylustres eran
 <lb n="44"/>çíertamente grandes. el <rs ana="TOJIL">tohíl</rs> <rs ana="AWILIX">auílíx</rs>
 <lb n="45"/><rs ana="JAQAWITZ">hacauíꜩ</rs>, y entonçes entraron todos los
 <lb n="46"/>pueblos, los de <rs ana="RABINALEB">rabínal</rs>, los <rs ana="KAQCHIKELEB">cacchíque<pc> –</pc>
@@ -9694,22 +9694,22 @@ perhaps priests not deities?</note>
 <lb n="19"/>esta era la señal <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>pensaban era de
 <lb n="20"/>amaneçer <choice><abbr>q</abbr><expan instant="false">que</expan></choice> víníeron de el orí<pc> –</pc>
 <lb n="21"/>ente, y vnas eran sus caras cuando pasa<pc> –</pc>
-<lb n="22"/>ron de alla, y auía gran dístancía
-<lb n="23"/>nos es dícho <rs ana="NIM_XO'L">agora</rs>.
+<lb n="22"/>ron <rs ana="NIM_XO'L">de alla</rs>, y auía gran dístancía
+<lb n="23"/>nos es dícho agora.
 </p>
 <p corresp="#p57">
 <lb n="24"/>y llegando a vn çerro allí se jun<pc> –</pc>
-<lb n="25"/>taron todos los quiches con los pu<pc> –</pc>
+<lb n="25"/>taron <rs ana="TINAMIT_K'ICHE'">todos los quiches</rs> con los pu<pc> –</pc>
 <lb n="26"/>eblos, y allí se juntaron a consejo to<pc> –</pc>
 <lb n="27"/>dos, y luego se auísaron vnos a otros.
 <lb n="28"/>y se llama agora <rs ana="CHI_PIXAB">el çerro de el man<pc> –</pc>
 <lb n="29"/>daro</rs>, ó auíso. y juntos allí se engran
 <lb n="30"/>deçíeron a alabaron, yo soy, yo soy
-<lb n="31"/>el <rs ana="AJAW_K'ICHE'">quiche</rs>, y tu tu <rs ana="TAMUB">tamub</rs> así sera tu
+<lb n="31"/>el <rs ana="TINAMIT_K'ICHE'">quiche</rs>, y tu tu <rs ana="TAMUB">tamub</rs> así sera tu
 <lb n="32"/>nombre, le fue dícho a los de <rs ana="TAMUB">tamub</rs>.
 <lb n="33"/>y les díxeron a los de <rs ana="ILOKAB">ílocab</rs>, tu tu lla<pc> –</pc>
 <lb n="34"/>maras <rs ana="ILOKAB">ílocab</rs> y no se perderan estos
-<lb n="35"/>tres quiches, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>seremos vna mes<pc> –</pc>
+<lb n="35"/><rs ana="TINAMIT_K'ICHE'">tres quiches</rs>, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>seremos vna mes<pc> –</pc>
 <lb n="36"/>ma cosa, y de vn mesmo sentír. es<pc> –</pc>
 <lb n="37"/>to díxeron <choice><abbr>q</abbr><expan instant="false">que</expan></choice> se pusíeron los nom<pc> –</pc>
 <lb n="38"/>bres.
@@ -9719,7 +9719,7 @@ perhaps priests not deities?</note>
 <lb n="40"/>queles</rs> los <rs ana="KAQCHIKELEB">ꜫaꜫchíqueles</rs>, y los <rs ana="RABINALEB">rabí<pc> –</pc>
 <lb n="41"/>naleros</rs> este fue el nombre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les dí<pc> –</pc>
 <lb n="42"/>ron, y hasta agora perseuera y a
-<lb n="43"/>los de <rs ana="AJTZ'IKINA_JA">q,íquínaha</rs>, tambíen agora
+<lb n="43"/>los de <rs ana="AJTZ'IKINA_JA"><abbr><hi rend="subscript">q,í</hi></abbr>quínaha</rs>, tambíen agora
 <lb n="44"/>se les dío el nombre, entre ellos mes<pc> –</pc>
 <lb n="45"/>mos. y allí se juntaron, a aguardar
 <lb n="46"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>amaneçiese, y vían el salír de
@@ -9993,8 +9993,8 @@ perhaps priests not deities?</note>
 <lb n="20"/>pueblo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama <rs ana="AMAQ'_TAM">Dan</rs>. allí amane<pc> –</pc>
 <lb n="21"/>çío a los vasallos del <rs ana="TAMUB">tamub</rs>, con su ydolo.
 <lb n="22"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así mesmo era <rs ana="TOJIL">tohíl</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>vno era el nom<pc> –</pc>
-<lb n="23"/>bre su ídolo, de las tres tríbus, ó calpu<pc> –</pc>
-<lb n="24"/>les del <rs ana="AJAW_K'ICHE'">quiche</rs>. y así mesmo es el nom<pc> –</pc>
+<lb n="23"/>bre su ídolo, de <rs ana="TINAMIT_K'ICHE'">las tres tríbus, ó calpu<pc> –</pc>
+<lb n="24"/>les del quiche</rs>. y así mesmo es el nom<pc> –</pc>
 <lb n="25"/>bre de el ídolo de los de <rs ana="RABINALEB">Rabínal</rs>, sino
 <lb n="26"/>es <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>, un poco se díreferençía el nombre, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 <lb n="27"/>se llama <rs ana="JUN_TOJ">toh</rs>. y asícasí es vna mesma len
@@ -10463,7 +10463,7 @@ perhaps priests not deities?</note>
 <lb n="40"/>varas, y solo tomaron la plata en
 <lb n="41"/>escarmíento, y castígo dellos, y en
 <lb n="42"/>engaño suyo fue hecho en señal
-<lb n="43"/>de la grandeza de <rs ana="AJAW_K'ICHE'">los quiches</rs>. y
+<lb n="43"/>de la grandeza de <rs ana="TINAMIT_K'ICHE'">los quiches</rs>. y
 <lb n="44"/>díspertando otra vez, a toda príssa
 <lb n="45"/>palparon sus chalcíquítes, y sus
 <lb />
@@ -10943,7 +10943,7 @@ perhaps priests not deities?</note>
 <p corresp="#p75">
 <lb n="18"/>y luego se uíníeron de allí a <rs ana="Q'UMARAQ_AJ">cumarcaaj</rs>.
 <lb n="19"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamo por los quiches, y enton
-<lb n="20"/>çes víníeron allí los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="K'OTUJA">cotuha</rs>, con <rs ana="AJQ'UKUMATZ">cucu<pc> –</pc>
+<lb n="20"/>çes víníeron allí los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="K'OTUJA_KQCUATRO">cotuha</rs>, con <rs ana="AJQ'UKUMATZ">cucu<pc> –</pc>
 <lb n="21"/>maꜩ</rs>, y todos los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y a la quínta gene<pc> –</pc>
 <lb n="22"/>racíon de hombres desde la crea<pc> –</pc>
 <lb n="23"/>çíon, y desde <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron críados. y allí
@@ -11030,8 +11030,8 @@ perhaps priests not deities?</note>
 <lb n="42"/>quiche</rs>.
 </p>
 <p corresp="#p80">
-<lb n="43"/>y dos eran los <rs ana="SAQIK">Chínamítales</rs>, de zaquí<pc> –</pc>
-<lb n="44"/>quíb. el vno <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. <rs ana="TZ'UTUJA">ꜩutuha</rs>. 2. <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>.
+<lb n="43"/>y dos eran los Chínamítales, de <rs ana="SAQIK">zaquí<pc> –</pc>
+<lb n="44"/>quíb</rs>. el vno <choice><abbr>S<hi rend="superscript">or</hi></abbr><expan instant="false">Señor</expan></choice>. <rs ana="TZ'UTUJA">ꜩutuha</rs>. 2. <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>.
 <lb n="45"/>y solo tenían vna casa grande los dos
 <lb n="46"/><choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice>
 </p>
@@ -11040,12 +11040,12 @@ perhaps priests not deities?</note>
 <lb n="1"/>y así se ajusttaron los veínte, y quatro<pc> –</pc>
 <lb n="2"/><choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y las veínte, y quatro casas gran<pc> –</pc>
 <lb n="3"/>des, quando se engrandecío <rs ana="TEPEW">la glo<pc> –</pc>
-<lb n="4"/>ría</rs> <rs ana="AJAW_K'ICHE'">en el quiche</rs>, y se ensalço la gran
-<lb n="5"/>deza de el peso <rs ana="AJAW_K'ICHE'">quiche</rs>. y quando de
+<lb n="4"/>ría</rs> <rs ana="TINAMIT_K'ICHE'">en el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, y se ensalço la gran
+<lb n="5"/>deza de el peso <rs ana="TINAMIT_K'ICHE'">quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>. y quando de
 <lb n="6"/>cal, y canto se fabríco el pueblo. y ví<pc> –</pc>
 <lb n="7"/>níeron todos los pueblos grandes, y
 <lb n="8"/>chícos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban a cargo de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice>
-<lb n="9"/>y se ensalzo, la gloría de <rs ana="AJAW_K'ICHE'">el quiche</rs>,
+<lb n="9"/>y se ensalzo, la gloría de <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>,
 <lb n="10"/>quando se hízo la casa de el ídolo,
 <lb n="11"/>y las casas de los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y no fueron
 <lb n="12"/>estos los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> las hízíeron, ní trabaxaron
@@ -11119,7 +11119,7 @@ perhaps priests not deities?</note>
 <lb n="25"/>sellamaba <rs ana="K'IKAB_KQSIETE">ꜫaꜫ quicab</rs>. y el otro: <rs ana="KAWISIMAJ_KQSIETE">cauí
 <lb n="26"/>zímah</rs>. y hízíeron muchas cosas el
 <lb n="27"/><rs ana="K'IKAB_KQSIETE">quícab</rs>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>. y este otra
-<lb n="28"/>vez engrandeçío el quiche, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
+<lb n="28"/>vez engrandeçío <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice>
 <lb n="29"/>de uerdad era portentoso. y este
 <lb n="30"/>fue el que díuídío, y repartío los
 <lb n="31"/>pueblos chícos, y grandes, y los pu<pc> –</pc>
@@ -11142,7 +11142,7 @@ perhaps priests not deities?</note>
 <lb n="2"/>de <rs ana="K'IKAB_KQSIETE">quícab</rs>. y vna, o dos parçíalída
 <lb n="3"/>des <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>no traían el tríbuto, fueron so<pc> –</pc>
 <lb n="4"/>juzgados, cobro los tributes, y los tra<pc> –</pc>
-<lb n="5"/>geron ante <rs ana="AJAW_K'ICHE'">el quiche</rs>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>.
+<lb n="5"/>geron ante <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>.
 <lb n="6"/>y fueron puestos en esclauítud, y es<pc> –</pc>
 <lb n="7"/>trechura, y flechados. y no tenían ya 
 <lb n="8"/>poder, y así estuuíeron desparçídos,
@@ -11175,7 +11175,7 @@ perhaps priests not deities?</note>
 <lb n="32"/>leza, y defensa díxeron todos los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>
 <lb n="33"/>y luego salíeron a poner cada vna
 <lb n="34"/>de las parçíalidades defensores con<pc> –</pc>
-<lb n="35"/>tra los enemígps. y entonçes les auí<pc> –</pc>
+<lb n="35"/>tra los enemígos. y entonçes les auí<pc> –</pc>
 <lb n="36"/>saron quando fueron a ponerlos
 <lb n="37"/>en los parages <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>habían de habítar de
 <lb n="38"/>sus montañas, no tengaís míedo, sí
@@ -11184,7 +11184,7 @@ perhaps priests not deities?</note>
 <lb n="41"/>prísa venildo a deçir, y los íremos
 <lb n="42"/>a matar. les díxo <rs ana="K'IKAB_KQSIETE">quícab</rs>, a ellos los
 <lb n="43"/>soldados, y capítanes, y entonçes fueron
-<lb n="44"/>todos los hombres de Guerra, fleche<pc> –</pc>
+<lb n="44"/>todos los hombres de guerra, fleche<pc> –</pc>
 <lb n="45"/>ros, yarqueros
 <lb/>
 <pb corresp="xom-f53-s1"/>
@@ -11192,7 +11192,7 @@ perhaps priests not deities?</note>
 <num rend="large"><hi rend="handwriting;color:pencil">53</hi></num>
 </note>
 <lb n="1"/>y entonçes se desaparçíeron los padres
-<lb n="2"/>y abuelos de los quiches, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estan en
+<lb n="2"/>y abuelos de <rs ana="TINAMIT_K'ICHE'">los quiches</rs><note resp="editor">Should this tag be KAWEQ?</note>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estan en
 <lb n="3"/>cada vno de los çerros.<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron a ser gu<pc> –</pc>
 <lb n="4"/>ardas de los montes, y de los arcos, y flechas
 <lb n="5"/>y vígías de la guerra. y nínguno era es<pc> –</pc>
@@ -11200,19 +11200,19 @@ perhaps priests not deities?</note>
 <lb n="7"/>eran muralla, y defensa de el pueblo.
 <lb n="8"/>y entonçes salíeron todos. los de <rs ana="CHUWILA'">chuíla</rs>, los
 <lb n="9"/>de <rs ana="CHULIMAL">chulimal</rs>, de <rs ana="SAQI_YA">zaquía</rs> de <rs ana="XAJBAKYEJ">sahbaquích</rs>.
-<lb n="10"/>de <rs ana="CHITEMAJ">chítemah</rs>, <rs ana="WAJXALAJUJ">díezyocho</rs> con los de cabra<pc> –</pc>
-<lb n="11"/>can, chabícac, chí hun ahpu. con los de za<pc> –</pc>
+<lb n="10"/>de <rs ana="CHITEMAJ">chítemah</rs>, <rs ana="WAJXALAJUJ">díezyocho</rs> con <rs ana="AJ_KABRAQAN">los de cabra<pc> –</pc>
+<lb n="11"/>can</rs>, chabícac, chí hun ahpu. con los de za<pc> –</pc>
 <lb n="12"/>cualpa. de xoyabah. y de zacabaha, y los
 <lb n="13"/>de ahzíyaha. y los de tutunícapa, los de
 <lb n="14"/>quezaltenango. y los de la costa salíeron
-<lb n="15"/>a cuídar de la Guerra, y aguardar la
+<lb n="15"/>a cuídar de la guerra, y aguardar la
 <lb n="16"/>tíerra. entonçes los embío el <rs ana="K'IKAB_KQSIETE">quícab</rs>, y
-<lb n="17"/><rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>, y el ahpop, el ahpop camha
-<lb n="18"/>y ealel, y ahꜩíc vínac. estos quatro <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>
+<lb n="17"/><rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>, y <rs ana="AJPOP">el ahpop</rs>, <rs ana="AJPOP_K'AMJA">el ahpop camha</rs>
+<lb n="18"/>y <rs ana="Q'ALEL">ealel</rs>, y <rs ana="AJTZIK_WINAQ">ahꜩíc vínac</rs>. estos quatro <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>
 <lb n="19"/>fueron embíados, y velaron la guerra de
 <lb n="20"/><rs ana="K'IKAB_KQSIETE">quícab</rs>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamaban
 <lb n="21"/>el Rey de los de <rs ana="KAWEQ">cauíquíb</rs>. y otros dos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
-<lb n="22"/>vno se llamaba quema. de los de <rs ana="KE'EMA">níha<pc> –</pc>
+<lb n="22"/>vno se llamaba <rs ana="KE'EMA">quema</rs>. de los de <rs ana="NIJA'AIB">níha<pc> –</pc>
 <lb n="23"/>íb</rs>, y otro <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="ACHAQ'_IBOY">achac yboy</rs> de
 <lb n="24"/>los de <rs ana="AJAW_K'ICHE'">ahau quíche</rs>. y estos eran los
 <lb n="25"/>nombres de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>los embíaron
@@ -11239,10 +11239,10 @@ perhaps priests not deities?</note>
 <lb/>
 <lb/>
 <pb corresp="xom-f53-s2"/>
-<lb n="1"/>de el quiche, quando nombraron los
+<lb n="1"/>de <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, quando nombraron los
 <lb n="2"/>capítanes, y caudillos de los vasallos,
 <lb n="3"/>y asífu . y no fueron nombrados aquí
-<lb n="4"/>en el quiche, tíene su nombre el çero
+<lb n="4"/>en <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, tíene su nombre el çero
 <lb n="5"/>donde fueron nombrados los capíta<pc> –</pc>
 <lb n="6"/>nes de los vasallos. y fueron embíados
 <lb n="7"/>todos cada vno a su çerro, y se juntaron
@@ -11266,7 +11266,7 @@ perhaps priests not deities?</note>
 <lb n="21"/>por capítanes de sus uasallos, los quích<pc> –</pc>
 <lb n="22"/>es, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los mírasen, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los oyesen, con sus
 <lb n="23"/>arcos, y flechas, <choice><abbr>pa</abbr><expan instant="false">para</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>çerrasen, y hízíesen
-<lb n="24"/>muralla, y valla al quiche. y así mes<pc> –</pc>
+<lb n="24"/>muralla, y valla <rs ana="TINAMIT_K'ICHE'">al quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>. y así mes<pc> –</pc>
 <lb n="25"/>mo lo hízo el <rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>. nom<pc> –</pc>
 <lb n="26"/>braron los capítanes desus vasallos, <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>
 <lb n="27"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estubíesen en cada vno de los cer<pc> –</pc>
@@ -11381,14 +11381,14 @@ perhaps priests not deities?</note>
 <lb n="33"/>río, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>era el mando de los príçípa<pc> –</pc>
 <lb n="34"/>les, y <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y dedos en dos lloraban, y
 <lb n="35"/>se remudaban a lleuar asus hombres
-<lb n="36"/>el pueblo; con todos <rs ana="AJAW_K'ICHE'">los quiches</rs>. y vno
+<lb n="36"/>el pueblo; con todos <rs ana="TINAMIT_K'ICHE'">los quiches</rs><note resp="editor">Should this tag be KAWEQ?</note>. y vno
 <lb n="37"/>fue el prínçípío de las tradíçíones, y 
 <lb n="38"/>el prínçípío de los alímentados, y sus<pc> –</pc> 
 <lb n="39"/>tentados. y así mesmo haçían los del
 <lb n="40"/><rs ana="TAMUB">tamub</rs>, e <rs ana="ILOKAB">ílocab</rs>, con los de <rs ana="RABINALEB">rabínal</rs>,
 <lb n="41"/>y <rs ana="KAQCHIKELEB">ꜫaꜫchiqueles</rs>, y los de <rs ana="AJTZ'IKINA_JA">q,íquínaha</rs>,
 <lb n="42"/>y de <rs ana="TUJAL_JA">tuhala</rs>, y <rs ana="UCH'ABAJA">vchabaho</rs>, y vno era
-<lb n="43"/>el estílo de todos, en <rs ana="AJAW_K'ICHE'">el quiche</rs>, y no así
+<lb n="43"/>el estílo de todos, en <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, y no así
 <lb n="44"/>nomas reynaron y nose ímbídíaron
 <lb n="45"/>los dones de su alímentador, y sus tenta<pc> –</pc>
 <lb n="46"/>dor. y solo trataban de comer, y beber.
@@ -11411,13 +11411,13 @@ perhaps priests not deities?</note>
 <lb n="12"/>des, y altos, hombres no fue poco lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="13"/>híçíeron, y no fueron pocos los pue<pc> –</pc>
 <lb n="14"/>blos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ganaron muchos ordenes de
-<lb n="15"/>pueblos víníeron a tributo <rs ana="AJAW_K'ICHE'">al quiche</rs>.
+<lb n="15"/>pueblos víníeron a tributo <rs ana="TINAMIT_K'ICHE'">al quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>.
 <lb n="16"/>y fueron muy sentídas sus muertes.
 <lb n="17"/>y fue ensalçado por ellos, y no así no<pc> –</pc>
 <lb n="18"/>mas se leuanto su grandeza. este <rs ana="Q'UKUMATZ_KQCINCO">cu<pc> –</pc>
 <lb n="19"/>cumaꜩ</rs> fue el prínçípío de la gran<pc> –</pc>
 <lb n="20"/>deza de el Reyno. y así fue el prín<pc> –</pc>
-<lb n="21"/>çípío de ser engrandeçído <rs ana="AJAW_K'ICHE'">el quiche</rs>.
+<lb n="21"/>çípío de ser engrandeçído <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>.
 <lb n="22"/>y agora contaremos las generaçío<pc> –</pc>
 <lb n="23"/>nes de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>y sus nombres todos dí<pc> –</pc>
 <lb n="24"/>remos agoraotra uez.
@@ -11436,7 +11436,7 @@ perhaps priests not deities?</note>
 <lb n="35"/>neraçíones de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y víejos <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de<pc> –</pc>
 <lb n="36"/>los calpules todos. y aquí se contara de
 <lb n="37"/>cada vno de por sí, cada vno de los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice>
-<lb n="38"/>de <rs ana="AJAW_K'ICHE'">el quiche</rs>
+<lb n="38"/>de <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>
 </p>
 <lb/>
 <lb/>
@@ -11656,7 +11656,7 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyna
 <p corresp="#p96">
 <lb n="19"/>y estos eran los tres <rs ana="NIM_CH'OKOJ">grandes combí<pc> –</pc>
 <lb n="20"/>tes</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran como <rs ana="NIM_CH'OKOJ">padres</rs> por todos los
-<lb n="21"/><choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> <rs ana="AJAW_K'ICHE'">del quiche</rs>, y todos se juntaban
+<lb n="21"/><choice><abbr type="superscription">SSes</abbr><expan instant="false">Señores</expan></choice> <rs ana="TINAMIT_K'ICHE'">del quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, y todos se juntaban
 <lb n="22"/>en <rs ana="NIM_CH'OKOJ">vno de los tres combítes</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran los<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="23"/>todo lo mandaban, y dísponían, pe<pc> –</pc>
 <lb n="24"/>queño, y grande, <rs ana="NIM_CH'OKOJ">los tres juntos, o
@@ -11667,11 +11667,11 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyna
 <lb n="27"/>uíquíb</rs>. y el Segundo de los de <rs ana="NIJA'IB">níha<pc> –</pc>
 <lb n="28"/>íb</rs>. y el terçero de los de <rs ana="AJAW_K'ICHE'">ahau quí<pc> –</pc>
 <lb n="29"/>che</rs>. cada vno de <rs ana="NIM_CH'OKOJ">estos tres</rs> en su
-<lb n="30"/>chínamítal. y esto es todo <rs ana="AJAW_K'ICHE'">lo de el
-<lb n="31"/>quiche</rs>. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay <rs ana="POPOL_WUJ">donde leerlo</rs>
+<lb n="30"/>chínamítal. y esto es todo <rs ana="TINAMIT_K'ICHE'">lo de el
+<lb n="31"/>quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>. <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> ya no ay <rs ana="POPOL_WUJ">donde leerlo</rs>
 <lb n="32"/>yaun<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> antíguamente lo auía, pero
 <lb n="33"/>se ha perdído. y aquí seacabo todo lo<pc> –</pc>
-<lb n="34"/>tocante <rs ana="AJAW_K'ICHE'">al quiche</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama<rs ana="SANTA_CRUZ"> <choice><abbr type="superscription">Sta</abbr><expan instant="false">Santa</expan></choice>
+<lb n="34"/>tocante <rs ana="TINAMIT_K'ICHE'">al quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llama<rs ana="SANTA_CRUZ"> <choice><abbr type="superscription">Sta</abbr><expan instant="false">Santa</expan></choice>
 <lb n="35"/>Cruz.</rs>
 <lb/>
 <lb/>
