@@ -3234,7 +3234,7 @@ cap.
 <lb n="12"/>ah cate xchaquih chic are
 <lb n="13"/>cut taxecat pachoh taxpe
 <lb n="14"/>chicut vtux ri ah catecut
-<lb n="15"/>xcaton ri<rs ana="IXMUKANE">catit</rs> xucat ri pom
+<lb n="15"/>xcaton ri<rs ana="IXMUKANE">catit</rs> xucat ri <rs ana="POM">pom</rs>
 <lb n="16"/>chuvach riah vnatabal quech
 <lb n="17"/>rÿ. are xquicot vi vqux <rs ana="IXMUKANE">catit</rs>
 <lb n="18"/>ri chu camul xpe vtux ri ah
@@ -4052,20 +4052,20 @@ cap.
 <lb n="7"/>be xel vloc chitiltotic vvach
 <lb n="8"/>ta xel vloc nabe cut chuvach
 <lb n="9"/>quih cate cut ta xqui quir qui
-<lb n="10"/>pom chila petenac vi relebal
+<lb n="10"/><rs ana="POM">pom</rs> chila petenac vi relebal
 <lb n="11"/>quih cate vchac chiquiqux ta
 <lb n="12"/>xquiquiroc oxichal quicamo<pc> –</pc>
-<lb n="13"/>vabal chi qui qux. mi xtam
-<lb n="14"/>pom vbi <rs ana="POM">pom</rs> rucaam <rs ana="BALAM_KI'TZE'">balam
-<lb n="15"/>quiꜩe</rs>. cavizton pom chicv<pc> –</pc>
-<lb n="16"/>bi pom rucaam <rs ana="BALAM_AQ'AB">balam acab</rs>.
-<lb n="17"/>cabavil pom chuqhaxic chic
+<lb n="13"/>vabal chi qui qux. <rs ana="POM">mi xtam
+<lb n="14"/>pom</rs> vbi <rs ana="POM">pom</rs> rucaam <rs ana="BALAM_KI'TZE'">balam
+<lb n="15"/>quiꜩe</rs>. <rs ana="POM">cavizton pom</rs> chicv<pc> –</pc>
+<lb n="16"/>bi <rs ana="POM">pom</rs> rucaam <rs ana="BALAM_AQ'AB">balam acab</rs>.
+<lb n="17"/><rs ana="POM">cabavil pom</rs> chuqhaxic chic
 <lb n="18"/>rucam <rs ana="MAJUK'UTAJ">mahucutah</rs>. e oxibqo
-<lb n="19"/>qui pom are cut xquicato
+<lb n="19"/>qui <rs ana="POM">pom</rs> are cut xquicato
 <lb n="20"/>ta xe zacbizani aponoc chila
 <lb n="21"/>relebal quih quz queoquic
 <lb n="22"/>taxezacbizanic x quicat qui<pc> –</pc>
-<lb n="23"/>pom loꜫalah <rs ana="POM">pom</rs> cate cut x<pc> –</pc>
+<lb n="23"/><rs ana="POM">pom</rs> loꜫalah <rs ana="POM">pom</rs> cate cut x<pc> –</pc>
 <lb n="24"/>coqueh ri maui xquilo ma<pc> –</pc>
 <lb n="25"/>pu xquivachih ralaxic quih
 <lb n="26"/>cate puch ta xel vlo quih xquicotic
@@ -9070,7 +9070,7 @@ perhaps priests not deities?</note>
 <lb n="11"/>luego seseco quando fueron quema<pc> –</pc>
 <lb n="12"/>dos en la hoguera, y quando otra vez
 <lb n="13"/>retoñaron las cañas, entonçes quemo
-<lb n="14"/>copal aquella su <rs ana="IXMUKANE">abuela</rs> delante de
+<lb n="14"/><rs ana="POM">copal</rs> aquella su <rs ana="IXMUKANE">abuela</rs> delante de
 <lb n="15"/>las cañas, en memoría desus níetos.
 <lb n="16"/>y por esto se allegro mucho su <rs ana="IXMUKANE">abuela</rs>
 <lb n="17"/>quando segunda vez retoñaron las
@@ -9883,21 +9883,21 @@ perhaps priests not deities?</note>
 <lb n="6"/>cutah</rs>, y <rs ana="IK'I_BALAM">íquíbalam</rs>. quando se uío
 <lb n="7"/>el luzero, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>salío prímero bríllando
 <lb n="8"/>y salío prímero ante el sol. y luego
-<lb n="9"/>desataron el copal, o ínçíenso <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auí<pc> –</pc>
+<lb n="9"/>desataron <rs ana="POM">el copal, o ínçíenso</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auí<pc> –</pc>
 <lb n="10"/>an traído de alla de el oríente, des<pc> –</pc>
 <lb n="11"/>pues ha deseruír díxeron en su corazon
 <lb n="12"/>y entonçes desataron los tres dones, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>&gt;
-<lb n="13"/>auían pensado en sus corazones. y el
-<lb n="14"/>ínçíenso <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>traía <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs> se lla<pc> –</pc>
-<lb n="15"/>maba míxtam pom. y el Segundo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> 
-<lb n="16"/>traía <rs ana="BALAM_AQ'AB">balam acab</rs> sellamaba: cauíz<pc> –</pc>
-<lb n="17"/>tan pom. y el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>traía <rs ana="MAJUK'UTAJ">mahucutah</rs> se
-<lb n="18"/>llamaba: cabauíl pom. y aquellos tres
-<lb n="19"/>tenían solo ínçíenso, y esto quema<pc> –</pc>
+<lb n="13"/>auían pensado en sus corazones. y <rs ana="POM">el
+<lb n="14"/>ínçíenso</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>traía <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs> se lla<pc> –</pc>
+<lb n="15"/>maba <rs ana="POM">míxtam pom</rs>. y el Segundo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> 
+<lb n="16"/>traía <rs ana="BALAM_AQ'AB">balam acab</rs> sellamaba: <rs ana="POM">cauíz<pc> –</pc>
+<lb n="17"/>tan pom</rs>. y el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>traía <rs ana="MAJUK'UTAJ">mahucutah</rs> se
+<lb n="18"/>llamaba: <rs ana="POM">cabauíl pom</rs>. y aquellos tres
+<lb n="19"/>tenían solo <rs ana="POM">ínçíenso</rs>, y esto quema<pc> –</pc>
 <lb n="20"/>ron <choice><abbr type="superscription">qo</abbr><expan instant="false">quando</expan></choice> in se fueron baílando haçía el<pc> –</pc>
 <lb n="21"/>oríente. y de dulçura lloraban, y
-<lb n="22"/><choice><abbr type="superscription">qo</abbr><expan instant="false">quando</expan></choice>. baílaron quemaron su copal, el
-<lb n="23"/>amado, y preçioso ínçíenso. y luego
+<lb n="22"/><choice><abbr type="superscription">qo</abbr><expan instant="false">quando</expan></choice>. baílaron quemaron <rs ana="POM">su copal, el
+<lb n="23"/>amado, y preçioso ínçíenso</rs>. y luego
 <lb n="24"/>lloraron <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> no víeron, ní pareçío
 <lb n="25"/>el sol. y luego quando salío el sol
 <lb n="26"/>se alegraron todos los animals chí<pc> –</pc>
@@ -9951,8 +9951,8 @@ perhaps priests not deities?</note>
 <lb n="26"/>quando amaneçío. y no eran gran
 <lb n="27"/>des los hombres entonçes, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>eran
 <lb n="28"/>pequeños quando entuvíeron sobre
-<lb n="29"/>los çerros. de <rs ana="MT.JAQAWITZ">hacauíꜩ</rs>. adonde les
-<lb n="30"/>amaneçío, y allí quemaron el copal
+<lb n="29"/>los çerros. de <rs ana="JAQAWITZ_JUYUB">hacauíꜩ</rs>. adonde les
+<lb n="30"/>amaneçío, y allí quemaron <rs ana="POM">el copal</rs>
 <lb n="31"/>y baílaron haçía el oríente, de <choice><abbr>ado</abbr><expan instant="false">adonde</expan></choice>
 <lb n="32"/>víníeron, y alla es su patria, de alla
 <lb n="33"/>víníeron <rs ana="BALAM_KI'TZE'">balamquíꜩe</rs>, <rs ana="BALAM_AQ'AB">balam a<pc> –</pc>
@@ -11302,7 +11302,7 @@ perhaps priests not deities?</note>
 <lb n="4"/>eran grandes <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> y adeuínos, y naua<pc> –</pc>
 <lb n="5"/>el <rs ana="Q'UKUMATZ_KQCINCO">Rey cucumaꜩ</rs>. y <rs ana="K'OTUJA_KQCINCO">cotuha</rs>. y tam<pc> –</pc>
 <lb n="6"/>bíen nauales el <rs ana="K'IKAB_KQSIETE">quícab</rs>, y el <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>
-<lb n="7"/>y sabían si auía Guerra, y les estaba pa<pc> –</pc>
+<lb n="7"/>y sabían si auía guerra, y les estaba pa<pc> –</pc>
 <lb n="8"/>tente, y todo lo veían, osí auía mortan<pc> –</pc>
 <lb n="9"/>dad, o hambre, o pleíto, y todo losabí<pc> –</pc>
 <lb n="10"/>an. y auía donde todo lo uían, y <rs ana="POPOL_WUJ">libro de
@@ -11314,10 +11314,10 @@ perhaps priests not deities?</note>
 <lb n="16"/>y se quebrantaban ante el ídolo. y así era
 <lb n="17"/>el ayuno de ellos. nueue personas, ó hom<pc> –</pc>
 <lb n="18"/>bres, ayunaban, y nueue estaban en
-<lb n="19"/>oraçíon postrados, y quemaban copal
+<lb n="19"/>oraçíon postrados, y quemaban <rs ana="POM">copal</rs>
 <lb n="20"/>y treçe hombres ayunaban, y otros
 <lb n="21"/>treçe estaban en oraçíon, y quema<pc> –</pc>
-<lb n="22"/>ban copal ante el ídolo <rs ana="TOJIL">tohíl</rs>. y solo
+<lb n="22"/>ban <rs ana="POM">copal</rs> ante el ídolo <rs ana="TOJIL">tohíl</rs>. y solo
 <lb n="23"/>zapotes, matasanos, y jocotes, era lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="24"/>comían. y no comían tortillas, ora fuesen
 <lb n="25"/>díeçysíete los hombres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaban oran<pc> –</pc>
@@ -11329,7 +11329,7 @@ perhaps priests not deities?</note>
 <lb n="31"/>estaban en contínençía, y ayunando
 <lb n="32"/>en la casa de el ídolo estaban todos los
 <lb n="33"/>días, y solo se estaban en oraçíon, postra<pc> –</pc>
-<lb n="34"/>dos quemando copal, en esto enten<pc> –</pc>
+<lb n="34"/>dos quemando <rs ana="POM">copal</rs>, en esto enten<pc> –</pc>
 <lb n="35"/>dían. y allí se estaban de noche, y de<pc> –</pc>
 <lb n="36"/>día, llorando, y pídíendo la clarídad
 <lb n="37"/>y vída desus vasallos, y tambíen su
