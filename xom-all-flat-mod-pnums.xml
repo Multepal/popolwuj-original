@@ -5171,7 +5171,7 @@ cap.
 <lb n="21"/>hil</rs>, <rs ana="AJQ'UKUMATZ">ah cueumaꜩ</rs>, <rs ana="NIM_CH'OKOJ_KAWEQ">nim chocoh ca
 <lb n="22"/>vec</rs>, <rs ana="POPOL_WINAQ_CHI_T'UY">popol vinac, chituy</rs> <rs ana="LOLMET_KEJNAY">lolmet,
 <lb n="23"/>queh nay</rs>. <rs ana="POPOL_WINAQ_PA_JOM_TZALATZ'">popol vinac, pahom
-<lb n="24"/>ꜩalaꜩ</rs>, vchuch cam ha.
+<lb n="24"/>ꜩalaꜩ</rs>, <rs ana="UCHUCH_K'AMJA">vchuch cam ha</rs>.
 </p>
 <p xml:id="p77">
 <lb n="25" rend="indent" /><hi rend="large">A</hi>re cut ahauab ri chuvach
@@ -5184,7 +5184,7 @@ cap.
 <lb n="30"/>vach <rs ana="NIJA'IB">nihaibab</rs> are nabe aha<pc> –</pc>
 <lb n="31"/>u va <rs ana="AJAW_Q'ALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
 <lb n="32"/>nac</rs>, <rs ana="Q'ALEL_K'AMJA">cale camha</rs>, <rs ana="NIMA_K'AMJA">nima camha</rs>, <rs ana="UCHUCH_K'AMJA">v
-<lb n="33"/>chuch camha</rs>, <rs ana="NIJA'IB">nimchocoh nihaib,</rs><pc> –</pc>
+<lb n="33"/>chuch camha</rs>, <rs ana="NIM_CH'OKOJ_NIJA'IB">nimchocoh nihaib,</rs><pc> –</pc>
 <lb n="34"/><rs ana="AJAW_AWILIX">aulix</rs>, <rs ana="YAKOLATAM_UTZA'M_POP_SAQLATOL">yacolatam, vꜩam pop
 <lb n="35"/>zaclatol</rs>, <rs ana="NIMA_LOLMET_YE'OLTUX">nima lolmet yeoltux</rs>.
 <lb n="36"/>beleheb cut chi ahauab chuva<pc> –</pc>
@@ -10876,7 +10876,7 @@ perhaps priests not deities?</note>
 </note>
 <lb n="1"/>tar al Rey losde <rs ana="ILOKAB">ílocb</rs>. yasí fue el
 <lb n="2"/>prinçípío de las rebueltas, y las dí<pc> –</pc>
-<lb n="3"/>sensíones de la Guerra, y entraron
+<lb n="3"/>sensíones de la guerra, y entraron
 <lb n="4"/>y ganaron el primer pueblo, fueron
 <lb n="5"/>los soldados y lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>querían era a<pc> –</pc>
 <lb n="6"/>cabar con los <rs ana="KAWEQ">quichees</rs>, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ellos solos
@@ -10943,7 +10943,7 @@ perhaps priests not deities?</note>
 <p corresp="#p75">
 <lb n="18"/>y luego se uíníeron de allí a <rs ana="Q'UMARAQ_AJ">cumarcaaj</rs>.
 <lb n="19"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así se llamo por los quiches, y enton
-<lb n="20"/>çes víníeron allí los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="K'OTUJA_KQCUATRO">cotuha</rs>, con <rs ana="AJQ'UKUMATZ">cucu<pc> –</pc>
+<lb n="20"/>çes víníeron allí los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice><rs ana="K'OTUJA_KQCINCO">cotuha</rs>, con <rs ana="Q'UKUMATZ_KQCINCO">cucu<pc> –</pc>
 <lb n="21"/>maꜩ</rs>, y todos los <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> y a la quínta gene<pc> –</pc>
 <lb n="22"/>racíon de hombres desde la crea<pc> –</pc>
 <lb n="23"/>çíon, y desde <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fueron críados. y allí
@@ -11130,9 +11130,9 @@ perhaps priests not deities?</note>
 <lb n="36"/>los de <rs ana="KAWKEB">caoqueb</rs>, los de <rs ana="SAQKABAJA">zacabaha</rs>.
 <lb n="37"/>los de <rs ana="SAQULEWAB">zaculeuab</rs>. los de <rs ana="CHUWI_MEQ'ENA'">tutuníca<pc> –</pc>
 <lb n="38"/>pa</rs>, los de <rs ana="XELAJUJ">quezaltenango</rs>. los de
-<lb n="39"/><rs ana="CHUWA_TZ'AQ">Guatt<hi rend="superscript">a</hi>.</rs> los de <rs ana="TZ'OLOJ_CHE'">momostenango</rs>.
+<lb n="39"/><rs ana="CHUWA_TZ'AQ"><choice><abbr>Guatt<hi rend="superscript">a</hi></abbr><expan instant="false">Guatemala</expan></choice>.</rs> los de <rs ana="TZ'OLOJ_CHE'">momostenango</rs>.
 <lb n="40"/>y estos dejaron a <rs ana="K'IKAB_KQSIETE">quícab</rs>. y hízíeron
-<lb n="41"/>Guerra. y fueron vençídos, y des
+<lb n="41"/>guerra. y fueron vençídos, y des
 <lb n="42"/>parçídos los pueblos del de <rs ana="RABINALEB">Rabínal</rs>,
 <lb n="43"/>delos <rs ana="KAQCHIKELEB">ꜫaꜫchíqueles</rs>, de <rs ana="SAQULEWAB">zaculeuab</rs>,
 <lb n="44"/>yfueron vençídos todos los pueblos
@@ -11142,7 +11142,7 @@ perhaps priests not deities?</note>
 <lb n="2"/>de <rs ana="K'IKAB_KQSIETE">quícab</rs>. y vna, o dos parçíalída
 <lb n="3"/>des <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>no traían el tríbuto, fueron so<pc> –</pc>
 <lb n="4"/>juzgados, cobro los tributes, y los tra<pc> –</pc>
-<lb n="5"/>geron ante <rs ana="TINAMIT_K'ICHE'">el quiche</rs><note resp="editor">Should this tag be KAWEQ?</note>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>.
+<lb n="5"/>geron ante <rs ana="K'IKAB_KQSIETE">el quicab</rs>, y <rs ana="KAWISIMAJ_KQSIETE">cauízímah</rs>.
 <lb n="6"/>y fueron puestos en esclauítud, y es<pc> –</pc>
 <lb n="7"/>trechura, y flechados. y no tenían ya 
 <lb n="8"/>poder, y así estuuíeron desparçídos,
