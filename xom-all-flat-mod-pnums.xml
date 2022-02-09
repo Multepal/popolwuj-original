@@ -5001,7 +5001,7 @@ cap.
 <note place="margin-left" anchored="true">t/e</note>
 <lb n="11"/>queh</rs> ruqpuch <rs ana="AJAW_Q'ALEL">ealelahau</rs> ta
 <lb n="12"/>xahauar cutahau <rs ana="K'OTUJA_KQCUATRO">cotuha</rs> ruq
-<lb n="13"/><rs ana="ISTAYUL">iztayul</rs> quibi <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpopcam
+<lb n="13"/><rs ana="ISTAYUL_KQCUATRO">iztayul</rs> quibi <rs ana="AJPOP">ahpop</rs> <rs ana="AJPOP_K'AMJA">ahpopcam
 <lb n="14"/>ha</rs> xe ahauar chiri <rs ana="CHI_ISMACHI'">chiizmachi</rs>
 <lb n="15"/>vꜩilah tinamit xuxic xquibano
 <lb n="16"/>xacu <rs ana="OXIB_RI_NIM_JA">oxib ri nimha</rs> xux chiri
@@ -5202,7 +5202,7 @@ cap.
 <lb n="44"/>Ca<gap reason="deletion" unit="character" instant="false"/>ib chinamit chi na ipuch
 <lb n="45"/>ca quiquib au<add place="above" instant="false" status="unremarkable">ha</add>ab <rs ana="TZ'UTUJA">ꜩutuha</rs>
 <unclear reason="illegible" instant="false">y</unclear> <rs ana="Q'ALEL_SAQIK">ealel
-<lb n="46"/>'zaquic</rs> xahun chi nim ha ecaib
+<lb n="46"/>zaquic</rs> xahun chi nim ha ecaib
 <lb n="47"/>chiahauab.
 </p>
 <p xml:id="p81">
@@ -10862,7 +10862,7 @@ perhaps priests not deities?</note>
 <lb n="35"/>endo esto los de <rs ana="ILOKAB">ílocab</rs>, <del rend="scribble" instant="false" status="unremarkable">q</del>uísíeron
 <lb n="36"/>venír a matar a <rs ana="K'OTUJA_KQCUATRO">cotuha</rs> y se empe<pc> –</pc>
 <lb n="37"/>zo la guerra por ellos, y solo querían
-<lb n="38"/>vn Rey <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> sí y <rs ana="ISTAYUL">al Rey ztayul</rs>, lo
+<lb n="38"/>vn Rey <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> sí y <rs ana="ISTAYUL_KQCUATRO">al Rey ztayul</rs>, lo
 <lb n="39"/>quísíeron castígar, los de <rs ana="ILOKAB">ílocab</rs>,
 <lb n="40"/>con la muerte, y no salío la ímbídía
 <lb n="41"/>de ellos contra el Rey <rs ana="K'OTUJA_KQCUATRO">cotuha</rs>, síno
