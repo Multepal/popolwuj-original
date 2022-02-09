@@ -5428,11 +5428,11 @@ cap.
 <p xml:id="p85">
 <lb n="11" rend="indent"/>Va cute qui cobic qui chapic
 <lb n="12"/>quetaxic puch huvinac ealel hu
-<lb n="13"/>vinac ahpop xchapic rumal ah<pc> –</pc>
-<lb n="14"/>pop ahpop camha rumal puch ea<pc> –</pc>
-<lb n="15"/>lel ah ꜩic vinac xoc queealem ro<pc> –</pc>
-<lb n="16"/>nohel ealel ahpop hulahuh nim
-<lb n="17"/>chocoh <rs ana="AJAW_Q'ALEL">ealel ahau</rs> <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>, <rs ana="Q'ALEL_ACHIJ">v
+<lb n="13"/>vinac <rs ana="AJPOP">ahpop</rs> xchapic rumal <rs ana="AJPOP">ah<pc> –</pc>
+<lb n="14"/>pop</rs> <rs ana="AJPOP_K'AMJA">ahpop camha</rs> rumal puch <rs ana="AJTZIK_WINAQ">ea<pc> –</pc>
+<lb n="15"/>lel ah ꜩic vinac</rs> xoc queealem ro<pc> –</pc>
+<lb n="16"/>nohel <rs ana="Q'ALEL">ealel</rs> <rs ana="AJPOP">ahpop</rs> hulahuh <rs ana="NIMA_CH'OKOJ">nim
+<lb n="17"/>chocoh</rs> <rs ana="AJAW_Q'ALEL">ealel ahau</rs> <rs ana="Q'ALEL_SAQIK">ealel zaquic</rs>, <rs ana="Q'ALEL_ACHIJ">v
 <lb n="18"/>ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rahpop achih</rs>, <rs ana="RAJTZ'ALAM_ACHIJ">rahꜩa<pc> –</pc>
 <lb n="19"/>lam achih</rs>, <rs ana="UTZA'M_ACHIJ">vꜩam achih</rs>, quibi a
 <lb n="20"/>chihab xoquic taxecobic xebina<pc> –</pc>
@@ -11254,10 +11254,10 @@ perhaps priests not deities?</note>
 </p>
 <p corresp="#p85">
 <lb n="11"/>y estala çelebraçíon de su elecçí<pc> –</pc>
-<lb n="12"/>on, y nombramíento de los veíte capí<pc> –</pc>
-<lb n="13"/>tanesde asíento, y casa, por los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> prín<pc> –</pc>
-<lb n="14"/>çípales, y se les dío el cargo a todos los
-<lb n="15"/>capítanes once grandes combítes, y
+<lb n="12"/>on, y nombramíento de los veíte <rs ana="Q'ALEL">capí<pc> –</pc>
+<lb n="13"/>tanes</rs><rs ana="AJPOP">de asíento, y casa</rs>, por los <rs ana="WINAQ_AJTZIK"><choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> prín<pc> –</pc>
+<lb n="14"/>çípales</rs>, y se les dío el cargo a todos <rs ana="Q'ALEL">los
+<lb n="15"/>capítanes</rs> <rs ana="NIMA_CH'OKOJ">once grandes combítes</rs>, y
 <lb n="16"/>fueron llamados <rs ana="AJAW_Q'ALEL">ealel ahau</rs>, <rs ana="Q'ALEL_SAQIK">ealel za<pc> –</pc>
 <lb n="17"/>quíc</rs>, <rs ana="Q'ALEL_ACHIJ">v ealel achih</rs>, <rs ana="RAJPOP_ACHIJ">rah pop achíh</rs>, <rs ana="RAJTZ'ALAM_ACHIJ">rah
 <lb n="18"/>ꜩalam achíh</rs>, <rs ana="UTZA'M_ACHIJ">v ꜩamachíh</rs>, así se nom<pc> –</pc>
