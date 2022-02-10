@@ -5782,7 +5782,7 @@ cap.
 <lb n="25"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>2</num></hi></note><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩic vinac</rs> hun vnim ha
 </p>
 <p>            
-<lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="Q'ALEL_K'AMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
+<lb n="26"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>3</num></hi></note><rs ana="AJAW_Q'ALEL_K'AMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs> hun vnim ha.
 </p>
 <p>            
 <lb n="27"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>4</num></hi></note><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
@@ -11598,7 +11598,7 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyna
 <lb n="24"/><rs ana="AJAW_Q'ALEL"><hi rend="large">A</hi>hau ꜫalel</rs> el primer <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de los de <rs ana="NIJA'IB">ní<pc> –</pc>
 <lb n="25"/>haíbab</rs> Sor<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 <lb n="26"/><rs ana="AJAW_AJTZIK_WINAQ"><hi rend="large">A</hi>hau ah ꜩíc vínac</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
-<lb n="27"/><hi rend="large">A</hi>hau <rs ana="Q'ALEL_K'AMJA">ꜫalel camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
+<lb n="27"/><rs ana="AJAW_Q'ALEL_K'AMJA"><hi rend="large">A</hi>hau ꜫalel camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
 <lb n="28"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="29"/><rs ana="UCHUCH_K'AMJA"><hi rend="large">V</hi>chuch camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="30"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>&gt;
