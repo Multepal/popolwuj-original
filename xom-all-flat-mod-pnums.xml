@@ -698,7 +698,7 @@ cap.
 <lb n="17"/>iu ahe ve cacoxou chic mi<pc> –</pc>
 <lb n="18"/>nabe mixnucam vloc <hi rend="double-underline">chuvi</hi>
 <lb n="19"/><hi rend="double-underline">ꜫaꜫ</hi> cut chixeque vi chiꜩa<pc> –</pc>
-<note place="margin-left border-left border-right" anchored="true"><del rend="strikeout" instant="false" status="unremarkable">u cab <unclear instant="false">pé</unclear> <rs ana="JUNAJPU">hun<lb/>hunahpu</rs></del></note>
+<note place="margin-left border-left border-right" anchored="true"><del rend="strikeout" instant="false" status="unremarkable">u cab <unclear instant="false">ri</unclear> <rs ana="JUNAJPU">hun<lb/>hunahpu</rs></del></note>
 <lb n="20"/>iaba chuvi ꜫaꜫ ta cul qui ca<pc> –</pc>
 <lb n="21"/>ma chic quiꜩih chi e qaxtoq
 <lb n="22"/>xqha ri <rs ana="WUQUB_KAK'IX">vvcub caquix</rs>, ta xu 
@@ -1561,12 +1561,7 @@ cap.
 <lb n="35"/>naquipa caraih chire ri xa bac
 <lb n="36"/>ri colocoxinac chucab tac che
 <lb n="37"/>xqha ri vholom <rs ana="JUN_JUNAJPU">hun ahpu</rs> ta       
-<note resp="editor">Following note contains cursive annotation, partly crossed out, preceded by a cross sign (which needs to be represented as an entity).</note>
-<note rend="left-margin">
-<pc>+</pc> <del><unclear></unclear></del>
-<lb />Rel <del><unclear></unclear></del>
-<lb /><unclear>Pug, dap I.</unclear>
-</note>
+<note rend="left-margin"><lb>✝ Quo modo</lb> <lb>Rel litud <unclear>S<hi rend="superscript">r</hi></unclear></lb> <lb>Puc., cap I.</lb></note>
 <lb n="38"/>xqhavic chire ri <rs ana="IXKIK'">capoh</rs> maca<pc> –</pc>
 <lb n="39"/>raih xuqha xic? canuraih xqha
 <lb n="40"/>cut ri <rs ana="IXKIK'">capoh</rs> uꜩbala chaliquiba
@@ -1691,8 +1686,7 @@ cap.
 <lb n="10"/>ahauab quezeleuachin conohel.
 <lb n="11"/>maui xuꜩinic xqha cut <rs ana="JUN_KAME">hun came</rs>.
 <lb n="12"/>mi xuꜩinic ixahauab vana cu vqux
-<note resp="editor">Following note is incorrect</note>
-<lb n="13"/><note place="margin" anchored="true"><num rend="large">x</num></note>e qo pazel. uꜩbala vila cut xqha
+<lb n="13"/><add>>x</add>e qo pazel. uꜩbala vila cut xqha
 <lb n="14"/>curi <rs ana="JUN_KAME">hun came</rs> ta xuchuieh cu a
 <lb n="15"/>can oc eaturur rih chicomah ꜫaꜫ
 <lb n="16"/>luhluh rih <rs ana="KIK'">chiquic</rs> vꜩ chiluu v
@@ -7008,7 +7002,7 @@ perhaps priests not deities?</note>
 <lb n="5"/>en trambos a dos. y luego lo arojaron al
 <lb n="6"/>suelo, y lo enterraron. y así fue venzí<pc> –</pc>
 <lb n="7"/>do <rs ana="KABRAQAN">cabraran</rs> por solos <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xba<pc> –</pc>
-<lb n="8"/>lanque</rs>. no esposible contra las obras de <note place="margin-right" type="scribble" anchored="true">Susl   cxxtipmm<lb/>Q smllmnnnltan<lb/>Sp <num rend="large">3</num><hi rend="small">er</hi><num rend="large">21</num>.</note>
+<lb n="8"/>lanque</rs>. no esposible contra las obras de <note place="margin-right" type="scribble" anchored="true">✝ San T<hi rend="superscript">s</hi><unclear>--</unclear> ten-<lb/>er alta mal t<unclear>-</unclear><lb/>Joan <num rend="large">21</num>.</note>
 <lb n="9"/>estos <rs ana="KA'IB_K'AJOLAB">muchachos</rs> aquí en la tíerra.               
 </p>
  <note resp="editor">ANOTHER PARAGRAPH NOT IN THE QUC </note>
