@@ -1561,7 +1561,7 @@ cap.
 <lb n="35"/>naquipa caraih chire ri xa bac
 <lb n="36"/>ri colocoxinac chucab tac che
 <lb n="37"/>xqha ri vholom <rs ana="JUN_JUNAJPU">hun ahpu</rs> ta       
-<note rend="left-margin"><lb>✝ Quo modo</lb> <lb>Rel litud <unclear>S<hi rend="superscript">r</hi></unclear></lb> <lb>Puc., cap I.</lb></note>
+<note rend="left-margin"><lb>✝ Quo modo</lb> <lb>fiet istud <unclear>S<hi rend="superscript">r</hi></unclear></lb> <lb>Luc., cap I.</lb></note>
 <lb n="38"/>xqhavic chire ri <rs ana="IXKIK'">capoh</rs> maca<pc> –</pc>
 <lb n="39"/>raih xuqha xic? canuraih xqha
 <lb n="40"/>cut ri <rs ana="IXKIK'">capoh</rs> uꜩbala chaliquiba
@@ -6033,7 +6033,7 @@ cap.
 <lb n="31"/>mostraron los grandes zerros. y así su ser
 <lb n="32"/>formada la tierra, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se crío por aquellos
 <lb n="33"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llaman <rs ana="UK'U'X_KAJ">el corazon de el zielo</rs>, y <rs ana="UK'U'X_ULEW">el cora
-<lb n="34"/>zon de la tierra</rs>, y esto es lo primero <abbr><expan instant="false">q’</expan></abbr> dís
+<lb n="34"/>zon de la tierra</rs>, y esto es lo primero <choice><abbr><expan instant="false">q’</expan></abbr></choice> dís
 <lb n="35"/>currieron estando el zielo y la tierra den
 <lb n="36"/>tro de el agua, y así su ser discurrído a
 <lb n="37"/>quello <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> discurrieron, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> pensaron suser
@@ -6117,7 +6117,7 @@ cap.
 <lb n="16"/>cabasteís de saludarnos, no nos ínvocas<pc> –</pc>
 <lb n="17"/>teís, todavía ay quíen nos invoque, hare
 <lb n="18"/>mos o travez quíen nos obedezca. tomad
-<lb n="19"/>este <choice><abbr>o ff<hi rend="superscript">o</hi>.</abbr><expan instant="false">oferta</expan></choice> vuestra carne sera mascada
+<lb n="19"/>este <choice><abbr>o ff<hi rend="superscript">a</hi>.</abbr><expan instant="false">oferta</expan></choice> vuestra carne sera mascada
 <lb n="20"/>y de eso servíreís. se les fue dicho <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se les
 <lb n="21"/>notifíco a todos los animales chicos y gran
 <lb n="22"/>des <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay sobre la tíerra. y entonzes quí<pc> –</pc>
@@ -6132,7 +6132,6 @@ cap.
 <lb n="31"/>animales <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay aquí sobre la tíerra
 <lb n="32"/>yasí probaron otra vez otras críaturas
 <lb n="33"/>por <rs ana="TZ'AQOL">el críador</rs>, y pruebese otra vez, ya
-<note resp="editor">note that Ximénez will just say "El críador" in the Spanish where the K'iche' says "Tzacol bitol alom qaholom", more monotheistic effect.</note>
 <lb n="34"/>se azerco la sembradura, y amanezímí
 <lb n="35"/>ento, hagamos sustentador nuestro, y
 <lb n="36"/>mantenedor nuestro. como seremos
@@ -6159,9 +6158,8 @@ cap.
 <lb n="9"/>síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en vna parte se estaba su cara, era
 <lb n="10"/>cíego, y no miraba <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> atras, <choice><abbr>aunq’</abbr><expan instant="false">aunque</expan></choice>habla<pc> –</pc>
 <lb n="11"/>ba, no tenía entendímíento, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se re
-<lb n="12"/>benía en el agua, no era fuerte. y díxe<pc> –</pc>
+<lb n="12"/>benía en <rs ana="PALO">el agua</rs>, no era fuerte. y díxe<pc> –</pc>
 <lb n="13"/>ron otra vez los <rs ana="TZ'AQOL">hazedores</rs>, y <rs ana="BITOL">formadores</rs>
-<note resp="editor">who are hazedores/formadores/fabrícadores in this passage in terms of rs ana </note>
 <lb n="14"/>sera peor despues, y no andara, y no
 <lb n="15"/>se multíplícara <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> fuere hecho, solo
 <lb n="16"/>de su entendímíento lo dixeron, y en
@@ -6178,7 +6176,6 @@ cap.
 <lb n="27"/><rs ana="IXMUKANE">xmucane</rs>. ¶ y despues su ser dicho aque<pc> –</pc>
 <lb n="28"/>llo a los adívínos, abuela de el día, o sol,
 <lb n="29"/>y de la luna <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así eran llamados por los
-<note resp="editor">SHOULD ABUELA DE EL DÍA Y LA LUNA BE MARKED UP AS XPIYACOC AND XMUCANE AND IF SO HOW </note>
 <lb n="30"/><rs ana="TZ'AQOL">hazedores</rs>, y <rs ana="BITOL">fabrícadores</rs>, y estos eran
 <lb n="31"/>los nombres de <rs ana="XPIYAKOK">xpíyacoc</rs>, y <rs ana="IXMUKANE">xmucane</rs>.
 <lb />
@@ -6191,8 +6188,6 @@ cap.
 <lb n="32"/>y díxeron aquel <rs ana="JUN_RAQAN">huracan</rs>, con <rs ana="TEPEW_Q'UKUMATZ">tepeu
 <lb n="33"/>y gucumaꜩ</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice> ledixeron al de el sol, o
 <lb n="34"/>adivino, al formador adívíno alcan<pc> –</pc>
-<note resp="editor">in Christenson this "al de el sol, o adivino" is "Master of Days and Mistress of Shaping, who are seers"
-perhaps priests not deities?</note>
 <lb n="35"/>zo, y se vnío de ello otra vez se haga nu<pc> –</pc>
 <lb n="36"/>estro hombre formado, y nuestro hom<pc> –</pc>
 <lb n="37"/>bre edífícado ota vez sustentado, y
@@ -7002,7 +6997,7 @@ perhaps priests not deities?</note>
 <lb n="5"/>en trambos a dos. y luego lo arojaron al
 <lb n="6"/>suelo, y lo enterraron. y así fue venzí<pc> –</pc>
 <lb n="7"/>do <rs ana="KABRAQAN">cabraran</rs> por solos <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xba<pc> –</pc>
-<lb n="8"/>lanque</rs>. no esposible contra las obras de <note place="margin-right" type="scribble" anchored="true">✝ San T<hi rend="superscript">s</hi><unclear>--</unclear> ten-<lb/>er alta mal t<unclear>-</unclear><lb/>Joan <num rend="large">21</num>.</note>
+<lb n="8"/>lanque</rs>. no esposible contra las obras de <note place="margin-right" type="scribble" anchored="true"><unclear>✝ San t<hi rend="superscript">s</hi> esten-<lb/>en alta mal la<lb/>Joan <num rend="large">21</num>.</unclear></note>
 <lb n="9"/>estos <rs ana="KA'IB_K'AJOLAB">muchachos</rs> aquí en la tíerra.               
 </p>
  <note resp="editor">ANOTHER PARAGRAPH NOT IN THE QUC </note>
