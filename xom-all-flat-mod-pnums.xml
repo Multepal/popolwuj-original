@@ -807,8 +807,8 @@ cap.
 <lb n="28"/>qaholab xeqha cut que qui<pc> –</pc>
 <lb n="29"/>cot chic qo ri vbanic ca qui
 <lb n="30"/>oxih checevic oxih puch chicu 
-<lb n="31"/>cah la cabobal</del> naual atit, na<pc> –</pc>
-<lb n="32"/>ual mama xbanouic ta xqui<pc> –</pc>
+<lb n="31"/>cah la cabobal</del> <rs ana="IXMUKANE">naual atit</rs>, <rs ana="XPIYAKOK">na<pc> –</pc>
+<lb n="32"/>ual mama</rs> xbanouic ta xqui<pc> –</pc>
 <lb n="33"/>cam cut quieab xtiquitax v<pc> –</pc>
 <lb n="34"/>coc vꜩchic xuxic. xa rumal v
 <lb n="35"/>camic <rs ana="WUQUB_KAK'IX">vvcub caquix</rs> xcah
@@ -1561,7 +1561,7 @@ cap.
 <lb n="35"/>naquipa caraih chire ri xa bac
 <lb n="36"/>ri colocoxinac chucab tac che
 <lb n="37"/>xqha ri vholom <rs ana="JUN_JUNAJPU">hun ahpu</rs> ta       
-<note rend="left-margin"><lb>✝ Quo modo</lb> <lb>Rel litud <unclear>S<hi rend="superscript">r</hi></unclear></lb> <lb>Puc., cap I.</lb></note>
+<note rend="left-margin"><lb>✝ Quo modo</lb> <lb>fiet istud <unclear>S<hi rend="superscript">r</hi></unclear></lb> <lb>Luc., cap I.</lb></note>
 <lb n="38"/>xqhavic chire ri <rs ana="IXKIK'">capoh</rs> maca<pc> –</pc>
 <lb n="39"/>raih xuqha xic? canuraih xqha
 <lb n="40"/>cut ri <rs ana="IXKIK'">capoh</rs> uꜩbala chaliquiba
@@ -3418,7 +3418,7 @@ cap.
 <lb n="37"/>pu xquilo nim chutin vpa cah
 <lb n="38"/>vpa vleu camo cut chive mi<pc> –</pc>
 <lb n="39"/>xohvinaquiric ohꜩac, oh bit mi<pc> –</pc>
-<lb n="40"/>xohvxic at catit, at camam xe
+<lb n="40"/>xohvxic <rs ana="IXMUKANE">at catit</rs>, <rs ana="XPIYAKOK">at camam</rs> xe
 <lb n="41"/>qha taxquicamouah quiꜩaquic
 <lb n="42"/>quibitic. xquiz quetamah rono<pc> –</pc>
 <lb n="43"/>hel xquimucuh cah ꜩuc cah xu
@@ -3462,9 +3462,9 @@ cap.
 <lb n="29"/>mabal ruq ronohel qui naobal e
 <lb n="30"/>cahib chi vinac, vxe vticaribal que<pc> –</pc>
 <lb n="31"/>he cut qui ꜩaquic quibitic nabe
-<lb n="32"/>ca mam ca cahau rumal <rs ana="UK'U'X_KAJ">vqux cah</rs> <rs ana="UK'U'X_ULEW">v
-<lb n="33"/>quxvleu</rs> taxqohe chi cut quiculel qui<pc> –</pc>
-<lb n="34"/>xoquil puch xuxic xavi ca bauil xnao<pc> –</pc>
+<lb n="32"/><rs ana="XA_Q'ANA_JAL">ca mam</rs> <rs ana="XA_Q'ANA_JAL">ca cahau</rs> rumal <rs ana="UK'U'X_KAJ">vqux cah</rs> <rs ana="UK'U'X_ULEW">v
+<lb n="33"/>quxvleu</rs> taxqohe chi cut <rs ana="IXOQ_AJAWAB">quiculel</rs> <rs ana="IXOQ_AJAWAB">qui<pc> –</pc>
+<lb n="34"/>xoquil</rs> puch xuxic xavi ca bauil xnao<pc> –</pc>
 <lb n="35"/>hinchic quehe ri xapa varam <del rend="scribble" instant="false" status="unremarkable">xquicam</del>
 <lb n="36"/>xquicam vi quiꜩih e hebel chi <rs ana="IXOQ_AJAWAB">ixoc</rs> qo
 <lb n="37"/>ruq <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs> <rs ana="BALAM_AQ'AB">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahu<pc> –</pc>
@@ -3943,7 +3943,7 @@ cap.
 <lb n="4"/>cate puch xquicam chirecaxic
 <lb n="5"/>v cabavil huhun chiquech ta xoc
 <lb n="6"/>cut <rs ana="AWILIX">avlix</rs> pazivan vbinaam
-<lb n="7"/><rs ana="EWABAL_SIWAN">evabal zivan</rs> chuchax cumal
+<lb n="7"/><rs ana="EWAB'AL_SIWAN">evabal zivan</rs> chuchax cumal
 <lb n="8"/>pa nima zivan chiquechelah
 <lb n="9"/>pa <rs ana="PA_AWILIX">vlix</rs> vbi vacamic chiri xca<pc> –</pc>
 <lb n="10"/>nahvi xcucanahoc pazivan
@@ -4235,7 +4235,7 @@ cap.
 <lb n="2"/>ꜩucuxic ri ral tac <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs> ral
 <lb n="3"/><rs ana="KEJ">queh</rs> camob ꜩucuxic cumal ri
 <lb n="4"/>ahquixb ahcahb arecut ta
-<lb n="5"/>chiquiric ri <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs> alqueh ca<pc> –</pc>
+<lb n="5"/>chiquiric ri <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs> al<rs ana="KEJ">queh</rs> ca<pc> –</pc>
 <lb n="6"/>te cut chibe qui culu ri vquiquel
 <lb n="7"/><rs ana="KEJ">queh</rs> <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs> pu chi ri abah ri <rs ana="TOJIL">to<pc> –</pc>
 <lb n="8"/>hil</rs><rs ana="AWILIX">aulix</rs> xucari<del instant="false" status="unremarkable"><unclear instant="false"/></del> cut vca<hi rend="superscript">a</hi>h quic
@@ -6033,7 +6033,7 @@ cap.
 <lb n="31"/>mostraron los grandes zerros. y así su ser
 <lb n="32"/>formada la tierra, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se crío por aquellos
 <lb n="33"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llaman <rs ana="UK'U'X_KAJ">el corazon de el zielo</rs>, y <rs ana="UK'U'X_ULEW">el cora
-<lb n="34"/>zon de la tierra</rs>, y esto es lo primero <abbr><expan instant="false">q’</expan></abbr> dís
+<lb n="34"/>zon de la tierra</rs>, y esto es lo primero <choice><abbr><expan instant="false">q’</expan></abbr></choice> dís
 <lb n="35"/>currieron estando el zielo y la tierra den
 <lb n="36"/>tro de el agua, y así su ser discurrído a
 <lb n="37"/>quello <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> discurrieron, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> pensaron suser
@@ -6117,7 +6117,7 @@ cap.
 <lb n="16"/>cabasteís de saludarnos, no nos ínvocas<pc> –</pc>
 <lb n="17"/>teís, todavía ay quíen nos invoque, hare
 <lb n="18"/>mos o travez quíen nos obedezca. tomad
-<lb n="19"/>este <choice><abbr>o ff<hi rend="superscript">o</hi>.</abbr><expan instant="false">oferta</expan></choice> vuestra carne sera mascada
+<lb n="19"/>este <choice><abbr>o ff<hi rend="superscript">a</hi>.</abbr><expan instant="false">oferta</expan></choice> vuestra carne sera mascada
 <lb n="20"/>y de eso servíreís. se les fue dicho <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se les
 <lb n="21"/>notifíco a todos los animales chicos y gran
 <lb n="22"/>des <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay sobre la tíerra. y entonzes quí<pc> –</pc>
@@ -6132,7 +6132,6 @@ cap.
 <lb n="31"/>animales <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay aquí sobre la tíerra
 <lb n="32"/>yasí probaron otra vez otras críaturas
 <lb n="33"/>por <rs ana="TZ'AQOL">el críador</rs>, y pruebese otra vez, ya
-<note resp="editor">note that Ximénez will just say "El críador" in the Spanish where the K'iche' says "Tzacol bitol alom qaholom", more monotheistic effect.</note>
 <lb n="34"/>se azerco la sembradura, y amanezímí
 <lb n="35"/>ento, hagamos sustentador nuestro, y
 <lb n="36"/>mantenedor nuestro. como seremos
@@ -6159,9 +6158,8 @@ cap.
 <lb n="9"/>síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en vna parte se estaba su cara, era
 <lb n="10"/>cíego, y no miraba <choice><abbr>p<hi rend="superscript">a</hi></abbr><expan instant="false">para</expan></choice> atras, <choice><abbr>aunq’</abbr><expan instant="false">aunque</expan></choice>habla<pc> –</pc>
 <lb n="11"/>ba, no tenía entendímíento, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se re
-<lb n="12"/>benía en el agua, no era fuerte. y díxe<pc> –</pc>
+<lb n="12"/>benía en <rs ana="PALO">el agua</rs>, no era fuerte. y díxe<pc> –</pc>
 <lb n="13"/>ron otra vez los <rs ana="TZ'AQOL">hazedores</rs>, y <rs ana="BITOL">formadores</rs>
-<note resp="editor">who are hazedores/formadores/fabrícadores in this passage in terms of rs ana </note>
 <lb n="14"/>sera peor despues, y no andara, y no
 <lb n="15"/>se multíplícara <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> fuere hecho, solo
 <lb n="16"/>de su entendímíento lo dixeron, y en
@@ -6178,7 +6176,6 @@ cap.
 <lb n="27"/><rs ana="IXMUKANE">xmucane</rs>. ¶ y despues su ser dicho aque<pc> –</pc>
 <lb n="28"/>llo a los adívínos, abuela de el día, o sol,
 <lb n="29"/>y de la luna <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así eran llamados por los
-<note resp="editor">SHOULD ABUELA DE EL DÍA Y LA LUNA BE MARKED UP AS XPIYACOC AND XMUCANE AND IF SO HOW </note>
 <lb n="30"/><rs ana="TZ'AQOL">hazedores</rs>, y <rs ana="BITOL">fabrícadores</rs>, y estos eran
 <lb n="31"/>los nombres de <rs ana="XPIYAKOK">xpíyacoc</rs>, y <rs ana="IXMUKANE">xmucane</rs>.
 <lb />
@@ -6191,8 +6188,6 @@ cap.
 <lb n="32"/>y díxeron aquel <rs ana="JUN_RAQAN">huracan</rs>, con <rs ana="TEPEW_Q'UKUMATZ">tepeu
 <lb n="33"/>y gucumaꜩ</rs> <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">cuando</expan></choice> ledixeron al de el sol, o
 <lb n="34"/>adivino, al formador adívíno alcan<pc> –</pc>
-<note resp="editor">in Christenson this "al de el sol, o adivino" is "Master of Days and Mistress of Shaping, who are seers"
-perhaps priests not deities?</note>
 <lb n="35"/>zo, y se vnío de ello otra vez se haga nu<pc> –</pc>
 <lb n="36"/>estro hombre formado, y nuestro hom<pc> –</pc>
 <lb n="37"/>bre edífícado ota vez sustentado, y
@@ -6621,7 +6616,7 @@ perhaps priests not deities?</note>
 <lb n="14"/>y así seperdío su riqueza de <rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs>.
 <lb n="15"/>y el medico tomo todas las píedras prezío<pc> –</pc>
 <lb n="16"/>sas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> le ensoberbezíeron<del instant="false" status="unremarkable"><unclear instant="false"/></del>  aquí en la tierra. 
-<lb n="17"/>y el Viejo y la vieja <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo hízíeron eran díoses 
+<lb n="17"/>y <rs ana="XPIYAKOK">el Viejo</rs> y <rs ana="IXMUKANE">la vieja</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>lo hízíeron eran díoses 
 <lb n="18"/>y <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> tomaron su brazo lo pusieron en su lu<pc> –</pc>
 <lb n="19"/>gar y se revnío, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>do bueno. y solo por la 
 <lb n="20"/>muerte de <rs ana="WUQUB_KAK'IX">vvcubcaquíx</rs> quisieron hazerlo
@@ -7002,7 +6997,7 @@ perhaps priests not deities?</note>
 <lb n="5"/>en trambos a dos. y luego lo arojaron al
 <lb n="6"/>suelo, y lo enterraron. y así fue venzí<pc> –</pc>
 <lb n="7"/>do <rs ana="KABRAQAN">cabraran</rs> por solos <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XBALAMKE">xba<pc> –</pc>
-<lb n="8"/>lanque</rs>. no esposible contra las obras de <note place="margin-right" type="scribble" anchored="true">✝ San T<hi rend="superscript">s</hi><unclear>--</unclear> ten-<lb/>er alta mal t<unclear>-</unclear><lb/>Joan <num rend="large">21</num>.</note>
+<lb n="8"/>lanque</rs>. no esposible contra las obras de <note place="margin-right" type="scribble" anchored="true"><unclear>✝ San t<hi rend="superscript">s</hi> esten-<lb/>en alta mal li<lb/>Joan <num rend="large">21</num>.</unclear></note>
 <lb n="9"/>estos <rs ana="KA'IB_K'AJOLAB">muchachos</rs> aquí en la tíerra.               
 </p>
  <note resp="editor">ANOTHER PARAGRAPH NOT IN THE QUC </note>
@@ -8894,8 +8889,8 @@ perhaps priests not deities?</note>
 <lb n="46"/>víníeron a ver todos <rs ana="RAJAWAL_XIBALBA">los de el ínfí<pc> –</pc>
 <pb corresp="xom-f30-s2"/>
 <lb n="1"/>erno</rs> se juntaron a díuertírse, y to<pc> –</pc>
-<lb n="2"/>do lo baílaron, <rs ana="XAJOJ_KUX">la comadreja</rs>, <rs ana="XAJOJ_PUJUY">el pu</rs><pc> –</pc>
-<lb n="3"/><rs ana="XAJOJ_PUJUY">huy</rs><note resp="editor">tag can't span the line break without an error</note>, el armado, y les díxo el <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> a ellos
+<lb n="2"/>do lo baílaron, <rs ana="XAJOJ_KUX">la comadreja</rs>, <rs ana="XAJOJ_PUJUY">el pu<pc> –</pc>
+<lb n="3"/>huy</rs>, el armado, y les díxo el <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> a ellos
 <lb n="4"/>ea despedazad aqueste mí perro,
 <lb n="5"/>y volueldo a resuçítar les fue dícho.
 <lb n="6"/>Sí <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> díxeron, y entonçes despeda<pc> –</pc>
@@ -9209,7 +9204,7 @@ perhaps priests not deities?</note>
 <lb />
 <pb corresp="xom-f33-s2"/>
 <lb n="1"/>víeron, y oyeron, anduuíeron, y pal
-<lb n="2"/>paron. eran Buenos hombres, y her<pc> –</pc>
+<lb n="2"/>paron. eran buenos hombres, y her<pc> –</pc>
 <lb n="3"/>mosos, y sus semejanzas fueron de
 <lb n="4"/>hombres, y tuuíeron respíraçíón, y
 <lb n="5"/>mírando, llego su vista, a verlo todo
@@ -9219,8 +9214,8 @@ perhaps priests not deities?</note>
 <lb n="9"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>esta en el çíelo, y lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay en la tíerra
 <lb n="10"/>y no auí cosa <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les pudíese ímpe<pc> –</pc>
 <lb n="11"/>dír la vista de todo quanto ay, y no
-<lb n="12"/>auían menester andar, ní corer nu<pc> –</pc>
-<lb n="13"/>estros prímeros padres para ver to<pc> –</pc>
+<lb n="12"/>auían menester andar, ní corer <rs ana="XA_Q'ANA_JAL">nu<pc> –</pc>
+<lb n="13"/>estros prímeros padres</rs> para ver to<pc> –</pc>
 <lb n="14"/>do lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay en el çíelo, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>en vna
 <lb n="15"/>parte se estaban quando lo uían
 <lb n="16"/>todo. mucha era su sabíduría, y so<pc> –</pc>
@@ -9230,8 +9225,8 @@ perhaps priests not deities?</note>
 <lb n="20"/>bres el <rs ana="BALAM_KI'TZE'">balá <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ꜩe</rs>, <rs ana="BALAM_AQ'AB">balá acah</rs>. <rs ana="MAJUK'UTAJ">mahucu</rs>. <rs ana="IK'I_BALAM">íquíba</rs>.
 </p>
 <p corresp="#p49">
-<lb n="21"/>y entonçes fueron preguntados por el
-<lb n="22"/>críador como es vuestro estado? oys por
+<lb n="21"/>y entonçes fueron preguntados por <rs ana="TZ'AQOL">el
+<lb n="22"/>críador</rs> como es vuestro estado? oys por
 <lb n="23"/>ventura? veís por ventura? por ventura
 <lb n="24"/>es bueno vuestro andar, y hablar?
 <lb n="25"/>mírad, y ved todo el mundo, veís cla<pc> –</pc>
@@ -9248,15 +9243,15 @@ perhaps priests not deities?</note>
 <lb n="37"/>mos lo grande, y lo pequeño, el çíelo, y
 <lb n="38"/>la tíerra. y así os damos gracias <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>nos
 <lb n="39"/>críasteís, y fuímos críados, y formados.
-<lb n="40"/>tu eres nuestra abuela, y nuestro abu<pc> –</pc>
-<lb n="41"/>elo díxeron dando gracias. de su cre
+<lb n="40"/>tu eres <rs ana="IXMUKANE">nuestra abuela</rs>, y <rs ana="XPIYAKOK">nuestro abu<pc> –</pc>
+<lb n="41"/>elo</rs> díxeron dando gracias. de su cre
 <lb n="42"/>açíon. y acabaron de saberlo todo, y de
 <lb n="43"/>verlo hasta los quarto ríncones de el çí<pc> –</pc>
 <lb n="44"/>elo, y de la tíerra, y lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>auía dentro
 <lb n="45"/>deel çíelo, y dentro de la tíerra. y no les
 <lb n="46"/>pareçío bíen esto a los <rs ana="BITOL">formadores</rs>, y <rs ana="TZ'AQOL">crí
-<lb n="47"/>adores</rs>, no esta bíen esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díxeron nues<pc> –</pc>
-<lb n="48"/>tras críaturas, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díçen saber quanto ay
+<lb n="47"/>adores</rs>, no esta bíen esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díxeron <rs ana="XA_Q'ANA_JAL">nues<pc> –</pc>
+<lb n="48"/>tras críaturas</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díçen saber quanto ay
 <pb corresp="xom-f34-s1"/>
 <note  rend="margin-right" anchored="true">
 <num rend="large">34</num>
@@ -9266,11 +9261,11 @@ perhaps priests not deities?</note>
 <p corresp="#p50">
 <lb n="2"/>y así otra uez consultaron los críado<pc> –</pc>
 <lb n="3"/>res, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>haremos otra vez con estos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se<pc> –</pc>
-<lb n="4"/>lo lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> esta çerca vean?
+<lb n="4"/>lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> esta çerca vean?
 <lb n="5"/>síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vnpoco de la haz de la tíerra ve<pc> –</pc>
 <lb n="6"/>an sus ojos, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> no es bueno esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>dí<pc> –</pc>
 <lb n="7"/>çen. por ventura no son solamente crí<pc> –</pc>
-<lb n="8"/>aturas? por uentura han deser ellos tam
+<lb n="8"/>aturas? por uentura han deser <rs ana="XA_Q'ANA_JAL">ellos</rs> tam
 <lb n="9"/>bíen díoses? y sí no se multíplícan <choice><abbr>qdo</abbr><expan instant="false">quando</expan></choice>
 <lb n="10"/>ya sea tíempo de<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> amanezca, y sí no
 <lb n="11"/>se aumentan? desbaratemoslos vn po<pc> –</pc>
@@ -9280,7 +9275,7 @@ perhaps priests not deities?</note>
 <lb n="15"/>quanto ay, y lo vemos todo? les fue dí
 <lb n="16"/>cho por el <rs ana="UK'U'X_KAJ">coraçon de el çíelo</rs>, <rs ana="JUN_RAQAN">huracan</rs>.
 <lb n="17"/><rs ana="CH'IPI_KAQULJA">chípí caculha</rs>, <rs ana="RAXA_KAQULJA">raxa caculha</rs>, <rs ana="TEPEW_Q'UKUMATZ">tepeu,
-<lb n="18"/>cucumaꜩ</rs> cíador. y al víejo <rs ana="XPIYAKOK">xpíyacoc</rs>.
+<lb n="18"/>cucumaꜩ</rs> cíador. y <rs ana="XPIYAKOK">al víejo xpíyacoc</rs>.
 <lb n="19"/>y a la <rs ana="IXMUKANE">xmucane</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>son llamados cría<pc> –</pc>
 <lb n="20"/>dores. y después díspusíeron de otra
 <lb n="21"/>suerte asus críaturas.
@@ -9293,9 +9288,9 @@ perhaps priests not deities?</note>
 <lb n="25"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se empaña, así le empaño los ojos. y así
 <lb n="26"/>solo pudo ver lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba zerca, solo aquello
 <lb n="27"/>le estaua claro. y así fue perdída la sabí du<pc> –</pc>
-<lb n="28"/>ría, y entendímíento de los quarto hom<pc> –</pc>
-<lb n="29"/>bres, prímeros. y así fueron formados nu<pc> –</pc>
-<lb n="30"/>estros prímeros Padres por el <rs ana="UK'U'X_KAJ">corazon de
+<lb n="28"/>ría, y entendímíento de <rs ana="XA_Q'ANA_JAL">los quarto hom<pc> –</pc>
+<lb n="29"/>bres, prímeros</rs>. y así fueron formados <rs ana="XA_Q'ANA_JAL">nu<pc> –</pc>
+<lb n="30"/>estros prímeros Padres</rs> por el <rs ana="UK'U'X_KAJ">corazon de
 <lb n="31"/>el çíelo</rs>, y de <rs ana="UK'U'X_ULEW">la tíerra</rs>. y entonçes se les fue
 <lb n="32"/>ron das <del rend="scribble" instant="false" status="unremarkable">l</del> sus megeres, y así mesmo míla<pc> –</pc>
 <lb n="34"/>grosamente, consultaron otra vez. y estan
@@ -9305,7 +9300,7 @@ perhaps priests not deities?</note>
 <lb n="38"/><rs ana="IK'I_BALAM">íquí balam</rs> y ya tenían a <rs ana="IXOQ_AJAWAB">sus mugeres</rs> q<abbr type="superscription">do</abbr>
 <lb n="39"/>díspertaron de el sueño. y luego se ale
 <lb n="40"/>graron con <rs ana="IXOQ_AJAWAB">sus mugeres</rs>. y estos eran los
-<lb n="41"/>nombres desus mugeres. <rs ana="KAQA_PALO_JA'">caha paluma</rs>
+<lb n="41"/>nombres de <rs ana="IXOQ_AJAWAB">">sus mugeres</rs>. <rs ana="KAQA_PALO_JA'">caha paluma</rs>
 <lb n="42"/>la mugger de <rs ana="BALAM_KI'TZE'">balam quiꜩe</rs>. <rs ana="CHOMI_JA'">chumíha</rs>, la
 <lb n="43"/>muger de <rs ana="BALAM_AQ'AB">balam acab</rs>. <rs ana="TZ'UNUNI_JA'">ꜩununíha</rs>. la
 <lb n="44"/>mugger de <rs ana="MAJUK'UTAJ">nahucutah</rs>. y <rs ana="KAK'IXA_JA'">caqúíxa ha</rs>. la
@@ -9317,7 +9312,7 @@ perhaps priests not deities?</note>
 <lb n="2"/>son el orígen de <rs ana="TINAMIT_K'ICHE'">nosotros los quiches</rs>, y mu<pc> –</pc>
 <lb n="3"/>chísímos fueron los poderosos. y no solo fu<pc> –</pc>
 <lb n="4"/>eron quarto; síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>solo quarto fueron
-<lb n="5"/>los padres de nosotros <rs ana="TINAMIT_K'ICHE'">los quiches</rs>, y fu<pc> –</pc>
+<lb n="5"/><rs ana="XA_Q'ANA_JAL">los padres de nosotros</rs> <rs ana="TINAMIT_K'ICHE'">los quiches</rs>, y fu<pc> –</pc>
 <lb n="6"/>eron díferentes los nombres de cada vno
 <lb n="7"/>quando se multíplícaron alla en el orí<pc> –</pc>
 <lb n="8"/>ente. y fueron muchos los nombres de
@@ -9346,7 +9341,7 @@ perhaps priests not deities?</note>
 <lb n="31"/>chaheleb</rs>, <rs ana="BALAM_KOLOB">balam colob</rs>. y solo estas eran
 <lb n="32"/>las príncípales ramas de los pueblos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="33"/>así les llamamos, y solo hemos referído
-<lb n="34"/>los príçípales. y muchos fueron los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
+<lb n="34"/><rs ana="XA_Q'ANA_JAL">los príçípales</rs>. y muchos fueron los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="35"/>salíeron con cada vna de las famílías
 <lb n="36"/>y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>no escríuímos sus nombres, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>alla
 <lb n="37"/>se multíplícaron en el oríente, y fue<pc> –</pc>
@@ -9729,8 +9724,8 @@ perhaps priests not deities?</note>
 <lb n="12"/>dras, pasaron <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. aca. y estaban las
 <lb n="13"/>píedras sobresalíentes en ríngle<pc> –</pc>
 <lb n="14"/>ra en la arena quando pasaron.
-<lb n="15"/>Y así le llaman, píedras en rínglera
-<lb n="16"/>y arrancada arena á aquel camí<pc> –</pc>
+<lb n="15"/>Y así le llaman, <rs ana="CHOLOCHIK_ABAJ">píedras en rínglera</rs>
+<lb n="16"/>y <rs ana="BOQOTAJINAQ_SANAYEB">arrancada arena</rs> á aquel camí<pc> –</pc>
 <lb n="17"/>no ellos, por <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> pasaron en <rs ana="PALO">el mar</rs>
 <lb n="18"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díuídíendose pasaron <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. aca.
 <lb n="19"/>y estaban muy aflíxídos por falta de
@@ -9770,7 +9765,7 @@ perhaps priests not deities?</note>
 <lb n="3"/>y buscaremos montes, díxeron todos.
 <lb n="4"/>y luego tomaron cargados sus ídolos
 <lb n="5"/>y cada vno dellos lleuo al <rs ana="AWILIX">auílíx</rs> á
-<lb n="6"/>vna barranca <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama. <rs ana="EWABAL_SIWAN">barranca
+<lb n="6"/>vna barranca <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llama. <rs ana="EWA'BAL_SIWAN">barranca
 <lb n="7"/>de el escondídízo</rs>. por nosotros. en vna
 <lb n="8"/>gran barranca en la montaña <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ago<pc> –</pc>
 <lb n="9"/>ra sellama: <rs ana="PA_AWILIX">en auílís</rs>, y allí sequedo.
@@ -10044,8 +10039,8 @@ perhaps priests not deities?</note>
 <lb n="30"/>así no permítas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>seamos cogídos en
 <lb n="31"/>redes, y solo dadnos la paja, y el za<pc> –</pc>
 <lb n="32"/>cate despreçíado. y solamente ven<pc> –</pc>
-<lb n="33"/>dran a darte el venado hembra, y las
-<lb n="34"/>hembras de los paxaros, y vn poco de
+<lb n="33"/>dran a darte <rs ana="KEJ">el venado</rs> hembra, y las
+<lb n="34"/>hembras de <rs ana="TZ'IKIN">los paxaros</rs>, y vn poco de
 <lb n="35"/>su sangre para nosotros pobres de no<pc> –</pc>
 <lb n="36"/>sotros <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>sera dexada la lana del ve<pc> –</pc>
 <lb n="37"/>nado, guardad aquella vista de los o<pc> –</pc>
@@ -10053,7 +10048,7 @@ perhaps priests not deities?</note>
 <lb n="39"/>serã sus venados, y estos seran nuestros
 <lb n="40"/>substitutes ante el pueblo. y entonçes
 <lb n="41"/>os díran donde esta el <rs ana="TOJIL">tohíl</rs>? entonçes
-<lb n="42"/>mostraldes el venado, y no os manífes<pc> –</pc>
+<lb n="42"/>mostraldes <rs ana="KEJ">el venado</rs>, y no os manífes<pc> –</pc>
 <lb n="43"/>teís a vosotros mesmos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>ay otra cosa <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="44"/>se haga, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> es mucho vuestro ser, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="45"/>trauagen los pueblos todos. y traeran
@@ -10063,7 +10058,7 @@ perhaps priests not deities?</note>
 <lb n="1"/>y se asemejaban a mançebos, <choice><abbr type="superscription">qo</abbr><expan instant="false">quando</expan></choice> salí<pc> –</pc>
 <lb n="2"/>eron, y quando lleuaban la ofrenda ante
 <lb n="3"/>ellos. y entonçes empezo a ser buscados
-<lb n="4"/>los pollos de los paxaros, y de los venados.
+<lb n="4"/>los pollos <rs ana="TZ'IKIN">de los paxaros</rs>, y <rs ana="KEJ">de los venados</rs>.
 <lb n="5"/>y eran armadas trampas por los prín
 <lb n="6"/>çípales, y en hallandoles los pollos, y ve<pc> –</pc>
 <lb n="7"/>nados tíernos las hembras, íban a poner
@@ -10072,9 +10067,9 @@ perhaps priests not deities?</note>
 <lb n="10"/>gre ellos al ídolo, luego hablaba la píe<pc> –</pc>
 <lb n="11"/>dra, quando llegaban aquellos <choice><abbr>S<hi rend="superscript">Ses</hi></abbr><expan instant="false">Señores</expan></choice>. <choice><abbr type="superscription">qo</abbr><expan instant="false">quando</expan></choice> le
 <lb n="12"/>llevaban la ofrenda. y así mesmo, haçí<pc> –</pc>
-<lb n="13"/>an ante los venados <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>quemaban resí<pc> –</pc>
+<lb n="13"/>an ante <rs ana="KEJ">los venados</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>quemaban resí<pc> –</pc>
 <lb n="14"/>na, perícon, y holomocox, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es vna yerua,
-<lb n="15"/>y los venados cada vno en su cerro, por<pc> –</pc>
+<lb n="15"/>y <rs ana="KEJ">los venados</rs> cada vno en su cerro, por<pc> –</pc>
 <lb n="16"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> los perseguían, y no habítaban en sus
 <lb n="17"/>moradas de día, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se andaban
 <lb n="18"/>por los montes, y solo comían, los híjos
@@ -10082,7 +10077,7 @@ perhaps priests not deities?</note>
 <lb n="20"/>buscaban, y no tenían buena comída,
 <lb n="21"/>ní bebída, y entonçes nose supo desus
 <lb n="22"/>habítaçíones, y no se sabe donde an<pc> –</pc>
-<lb n="23"/>dan, sus mugeres, o hembras; y luego
+<lb n="23"/>dan, <rs ana="IXOQ_AJAWAB">sus mugeres, o hembras</rs>; y luego
 <lb n="24"/>muchos pueblos se fueron fundando
 <lb n="25"/>y se íuan juntando cada vna de las
 <lb n="26"/>tríbus, y se íban poníendo çerca de
@@ -10108,8 +10103,8 @@ perhaps priests not deities?</note>
 <lb n="46"/>o dos los quíeren destruír denosotros.
 <lb />
 <pb corresp="xom-f42-s2"/>
-<lb n="1"/>y todos los días venían con sus muge<pc> –</pc>
-<lb n="2"/>res a sus habitaçíones, y solo traían
+<lb n="1"/>y todos los días venían con <rs ana="IXOQ_AJAWAB">sus muge<pc> –</pc>
+<lb n="2"/>res</rs> a sus habitaçíones, y solo traían
 <lb n="3"/>híjos de <rs ana="WONON">tabanos</rs>, y <rs ana="SITA'L">abíspas</rs>, y panales
 <lb n="4"/>y les daban asus mugeres. todos los
 <lb n="5"/>días. y ensconces se fueron ante el
