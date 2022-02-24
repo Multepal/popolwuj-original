@@ -451,8 +451,8 @@ cap.
 <lb n="27"/>vach cah ꜩac, cah bit banol que
 <lb n="28"/>vinaquirizay quech quehe
 <lb n="29"/>cut qui ca mizaxic xebutic
-<lb n="30"/>xpe nima eol chila chicah.
-<lb n="31"/>xe <rs ana="K'OTK'OWACH">cotcovach</rs> vbi, xcotin vloc
+<lb n="30"/>xpe <rs ana="Q'OL">nima eol</rs> chila chicah.
+<lb n="31"/><rs ana="K'OTK'OWACH">xe cotcovach</rs> vbi, xcotin vloc
 <lb n="32"/>vbac qui vach, xepe <rs ana="KAMALOTZ'">camaloꜩ</rs>
 <lb n="33"/>xcupin vla quiholom, xpe
 <lb n="34"/><rs ana="KOTZBALAM">coꜩbalam</rs>. xtio quitiohil, xpe
@@ -6201,11 +6201,10 @@ cap.
 <lb n="2"/>el hombre formado, y edificado. y por el hombre
 <lb n="3"/>nuestro pobre, y así se díga, mostrad vuestro
 <lb n="4"/>nombre <rs ana="JUNAJPU_WUCH">hun ahpu vuch</rs>, <rs ana="JUNAJPU_UTIW">hun ahpu vtíu</rs> <rs ana="ALOM">dos
-<lb n="5"/>vezes madre</rs>, <rs ana="K'AJOLOM">dos vezes Padre</rs>, grandes, gran<pc> –</pc>
-<lb n="6"/>de <rs ana="SAQI_NIM_AQ_SIS">pízote</rs>, el de los chalchíguítes, el de el
+<lb n="5"/>vezes madre</rs>, <rs ana="K'AJOLOM">dos vezes Padre</rs>, grandes, <rs ana="SAQI_NIM_AQ_SIS">gran<pc> –</pc>
+<lb n="6"/>de pízote</rs>, el de los chalchíguítes, el de el
 <lb n="7"/>toríron, el de la tabla, o trono, el de el toltecat
 <lb n="8"/>abuela de el sol, abuela de la luna, así seaís
- <note resp="editor">should these titles be marked up </note>
 <lb n="9"/>dichos por nuestros formados, y críaturas.
 <lb n="10"/>echad suertes con maíses, y con ꜩítes y sea
 <lb n="11"/>solo hecho, sí saldra, sí labraremos, y lo
@@ -6213,35 +6212,32 @@ cap.
 <lb n="13"/>fue dicho alos adívínos. y luego su echa<pc> –</pc>
 <lb n="14"/>dura de las suertes, su ser saludado lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="15"/>sortearon con el maís y el ꜩíte. a sol, a
-<lb n="16"/>formadura dixeron vnabieja y un viejo
- <note resp="editor">should vieja and viejo be xmucane and xpiyacoc </note>
-<lb n="17"/>a ellos. y el viejo era el de las suertes de
-<lb n="18"/>el ꜩité, y se llamaba <rs ana="XPIYAKOK">xpíyacoc</rs>, y la vieja
+<lb n="16"/>formadura dixeron <rs ana="IXMUKANE">vnabieja</rs> y <rs ana="XPIYAKOK">">un viejo</rs>
+<lb n="17"/>a ellos. y <rs ana="XPIYAKOK">">el viejo</rs> era el de las suertes de
+<lb n="18"/>el ꜩité, y se llamaba <rs ana="XPIYAKOK">xpíyacoc</rs>, y <rs ana="IXMUKANE">la vieja</rs>
 <lb n="19"/>adivina de el sol, y de la formadura, se
 <lb n="20"/>llamaba chíracan <rs ana="IXMUKANE">xmucane</rs>. <del rend="overstrike" instant="false" status="unremarkable">y esta</del>
-<lb n="21"/><del rend="overstrike" instant="false" status="unremarkable">vieja adivina de el sol</del> y dixeron <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice>
+<lb n="21"/><del rend="overstrike" instant="false" status="unremarkable"><rs ana="IXMUKANE">vieja</rs> adivina de el sol</del> y dixeron <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice>
 <lb n="22"/>empezaron a adivinar el sol solo se
 <lb n="23"/>junten y se avnen decid nuestra nu<pc> –</pc>
 <lb n="24"/>eua, nuestro oydo hablá, parlád, si es
 <lb n="25"/>conveniente sea labrado el palo por los
 <lb n="26"/>formadores, y sí es este es <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se ha de sus<pc> –</pc>
- <note resp="editor">what to do with formadores </note>
 <lb n="27"/>tentar, y alímentar, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se siembre, y acba<pc> –</pc>
 <lb n="28"/>re, dí tu maís, tu ꜩíte, tu sol, tu forma<pc> –</pc>
 <lb n="29"/>dura llamad, y segued le dixo al maís,
 <lb n="30"/>y al ꜩíte, al sol, y ála formadura. y tu
 <lb n="31"/><rs ana="UK'U'X_KAJ">corazon de el zielo</rs> tened verguenza, no afren<pc> –</pc>
 <lb n="32"/>teís a <rs ana="TEPEU_Q'UKUMATZ">tepeu, y cucumaꜩ</rs>. y entonzes respon<pc> –</pc>
-<lb n="33"/>diendo el q,íte y el maís dixeron la verdad
+<lb n="33"/>diendo el q<abbr><hi rend="subscript">,</hi></abbr>íte y el maís dixeron la verdad
 <lb n="34"/>haceldo así <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>así estara bíen, y hablara el pa
 <lb n="35"/>lo enlabrandolo. y luego fue hecha la íma
 <lb n="36"/>gen de el hombre depalo, y hablo como hom<pc> –</pc>
 <lb n="37"/>bre. y este fue el hombre <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hizieron, y se
 <lb n="38"/>multiplicaron, tuvieron, hijos, e hijas, em<pc> –</pc>
 <lb n="39"/>pero salieron tontos sin corazon, sin enten<pc> –</pc>
-<lb n="40"/>dimiento; y así no se acordaron mas desu crí<pc> –</pc>
-<lb n="41"/>ador; sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>en vano estubieron, y andu<pc> –</pc>
-<note resp="editor">what to do with el criador </note>
+<lb n="40"/>dimiento; y así no se acordaron mas de<rs ana="TZ'AQOL">su</rs> <rs ana="BITOL">crí<pc> –</pc>
+<lb n="41"/>ador</rs>; sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>en vano estubieron, y andu<pc> –</pc>
 <lb n="42"/>uieron sobre la tierra, y así no se acorda<pc> –</pc>
 <lb/>
 <lb/>
