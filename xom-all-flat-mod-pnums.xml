@@ -3207,13 +3207,13 @@ cap.
 <lb n="42"/>carinac qui zachic vmaixic na<pc> –</pc>
 <lb n="43"/>ipuch quiziquixic. maui nim
 <lb n="44"/>qui quih oher xa xrah ꜩa vi vi<pc> –</pc>
-<lb n="45"/>nac oher quiꜩih mana cabavil1
+<lb n="45"/>nac oher quiꜩih mana cabavi<add><hi rend="bold">l</hi></add>
 <lb n="46"/>quibi oher xavi xibal oher iꜩel
-<lb n="47"/>quivach e ahꜩa ahtucur, e tac<pc> –</pc>
+<lb n="47"/>quivach e <rs ana="AJTZA">ahꜩa</rs> <rs ana="AJTUKUR">ahtucur</rs>, e tac<pc> –</pc>
 <pb xml:id="xom-f32-s1"/>
 <lb n="1"/>chinel chimac chilabal; enaipu 
-<lb n="2"/>ah muculic qux, e quecail za<pc> –</pc>
-<lb n="3"/>quiilah moxvach, ahlaꜩab que
+<lb n="2"/><rs ana="AJMUQULIK_K'UX">ah muculic qux</rs>, e quecail za<pc> –</pc>
+<lb n="3"/>quiil<rs ana="AJMOX_WACH">ah moxvach</rs>, <rs ana="AJLATZAB'">ahlaꜩab</rs> que
 <lb n="4"/>vqhaxic. chixeon quivach que
 <lb n="5"/>culutahic; quehe cut vzachic
 <lb n="6"/>qui nimal cacal, maui nim
@@ -9028,16 +9028,16 @@ cap.
 <lb n="42"/>eran enemígos, y contraries de los
 <lb n="43"/>hombres antíguamente, y no eran
 <lb n="44"/>díoses ní así sellamaban antíguamen<pc> –</pc>
-<lb n="45"/>te, yasí mesmo eran espanto de los ma<pc> –</pc>
-<lb n="46"/>les, las caras de estos enemígos, teco<pc> –</pc>
-<lb n="47"/>lotes, y eran engaña dores, eínçítado<pc> –</pc>
+<lb n="45"/>te, yasí mesmo eran espanto de <rs ana="AJTZA">los ma<pc> –</pc>
+<lb n="46"/>les</rs>, las caras de <rs ana="AJTUKUR">estos enemígos, teco<pc> –</pc>
+<lb n="47"/>lotes</rs>, y eran engaña dores, eínçítado<pc> –</pc>
 <pb corresp="xom-f32-s1"/>
 <note place="margin-right" anchored="true">
 <num rend="large">32</num>
 </note>
 <lb n="1"/>res de las culpas, y pecados y eran tam<pc> –</pc>
-<lb n="2"/>bíen de doblado corazon, y traídores, ím<pc> –</pc>
-<lb n="3"/>bídíosos, y los oprímídores, eran díchos,
+<lb n="2"/>bíen de <rs ana="AJMUQULIK_K'UX">doblado corazon</rs>, y <rs ana="AJMOX_WACH">traídores, ím<pc> –</pc>
+<lb n="3"/>bídíosos</rs>, y <rs ana="AJLATZAB'">los oprímídores</rs>, eran díchos,
 <lb n="4"/>y carleaban sus caras; y guerreaban. y
 <lb n="5"/>así fueron perdídos, y cajo su grandeza
 <lb n="6"/>y ya no fue grande su ímperío. y esto es
