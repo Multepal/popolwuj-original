@@ -63,7 +63,7 @@ the origin of the text, e.g. the date and place of its composition. -->
 <pb xml:id="xom-f01-s1"/>
 <note place="margin-left" type="chapter-heading" anchored="true">
 cap.
-<lb />1.del serde  <note resp="editor">Could have a cross followed by 'sexde' </note>
+<lb />1.del serde 
 <lb /><rs ana="DIOS">Díos</rs>
 </note>
 <lb n="1"/><hi rend="very-large">ARE V XE OHER</hi>
@@ -88,7 +88,7 @@ cap.
 <lb n="17"/>rÿ <rs ana="IXMUKANE">iyom</rs>, <rs ana="XPIYAKOK">mamom</rs> <rs ana="XPIYAKOK">xpiyacoc</rs>,
 <lb n="18"/><rs ana="IXMUKANE">xmucane</rs> vbi, <rs ana="IXMUKANE">maꜩanel</rs> <rs ana="XPIYAKOK">chu<pc> –</pc>
 <lb n="19"/>quenel</rs> <rs ana="IXMUKANE">camul yiom</rs>, <rs ana="XPIYAKOK">camul
-<lb n="20"/>mamom</rs> chuqhaxic pa quiche
+<lb n="20"/>mamom</rs> chuqhaxic <rs ana="TINAMIT_K'ICHE'">pa quiche</rs>
 <note place="margin-left" anchored="true"><num rend="large">2</num></note>
 <lb n="21"/>ꜩih. ta xquiꜩihoh ronohel 
 <lb n="22"/>ruq xquiban chic chizaquil
