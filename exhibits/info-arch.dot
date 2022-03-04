@@ -12,6 +12,8 @@ digraph InfoArch {
     COLOP [label=<Sam Colop<br/>Poetic Editon>]
     MAYAN1 [label=<New Yukatek<br/>Mayan Edition>]
     MAYAN2 [label=<New K'iche<br/>Mayan Edition>]
+    COLOP2 [label=<Aldo's Colop>]
+    PVX [label=<B and C PV>]
 
     {XOM, DRUPAL} -> HTML [label="XSLT"]
     XOM -> DRUPAL [label=<references&nbsp;&nbsp;<br/>and&nbsp;&nbsp;<br/>annotations&nbsp;&nbsp;>]
@@ -20,7 +22,8 @@ digraph InfoArch {
 
     /* XOM -> COLOP -> {MAYAN1, MAYAN2} [label="TextMap"] */
 
-    {MAYAN1, MAYAN2} -> COLOP -> XOM [label="TextMap"]
+    {MAYAN2; COLOP2} -> COLOP -> XOM [label="TextMap"]
+    MAYAN1 -> PVX -> XOM [label="TextMap"]
     
     {rank=same; HTML; CTE}
     {rank=same; MAYAN2; MAYAN2}
