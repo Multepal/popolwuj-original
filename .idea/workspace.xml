@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c38c8bf-ac12-4dbd-bbdc-6b6a49dca481" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+    <list default="true" id="2c38c8bf-ac12-4dbd-bbdc-6b6a49dca481" name="Default" comment="Updated copyright statement.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +35,41 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/rca2t/Dropbox/Courses/SPAN/pw/templates/base.html" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated copyright statement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated copyright statement." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1581522197114">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1581522197114" />
     <state x="120" y="1" key="SettingsEditor" timestamp="1581521620170">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="120" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581521620170" />
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1581522205332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1581522205332" />
   </component>
 </project>
