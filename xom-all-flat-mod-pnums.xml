@@ -380,15 +380,15 @@ cap.
 <lb n="7"/><rs ana="AJTZ'ALAM">ahꜩalam</rs>, <rs ana="AJRAXA_LAQ">ah raxalac</rs>, <rs ana="AJRAXA_TZEL">ah raxazel</rs>
 <lb n="8"/><rs ana="AJ_Q'OL">ah eol</rs>, <rs ana="AJTOLTEKAT">ah toltecat</rs> <rs ana="RATI'T_Q'IJ">ratit quih</rs> <rs ana="RATI'T_SAQ">ra
 <lb n="9"/>tiꜩac</rs> quixvqhaxic rumal caꜩac
-<lb n="10"/>cabit chimala chi <rs ana="IXIM">ixim</rs>, chi <rs ana="TZ'ITE">ꜩite</rs>
+<lb n="10"/>cabit chimala chi <rs ana="IXIM">ixim</rs>, chi <rs ana="TZ'ITE'">ꜩite</rs>
 <lb n="11"/>xa chibanatahic xa pu chel apan
 <lb n="12"/>oc chicahah chicacotah puch
 <lb n="13"/>vchi vvach che xevqhaxic e
 <lb n="14"/>ah <del rend="overstrike" instant="false" status="unremarkable">t</del> quih cate puch vcahic v
 <lb n="15"/>quihiloxic ri xmalic chi <rs ana="IXIM">ixim</rs>
-<lb n="16"/>chi<rs ana="TZ'ITE">ꜩite</rs> quih bit xeqha quri
+<lb n="16"/>chi<rs ana="TZ'ITE'">ꜩite</rs> quih bit xeqha quri
 <lb n="17"/>hun<rs ana="XMUKANE">atit</rs> hun<rs ana="XPIYAKOK">mama</rs> chiquech
-<lb n="18"/>are ri <rs ana="XPIYAKOK">mama</rs> are <rs ana="TZ'ITE">ah ꜩite</rs> <rs ana="XPIYAKOK">xpi<pc> –</pc>
+<lb n="18"/>are ri <rs ana="XPIYAKOK">mama</rs> are <rs ana="TZ'ITE'">ah ꜩite</rs> <rs ana="XPIYAKOK">xpi<pc> –</pc>
 <lb n="19"/>yacoc</rs> vbi. arecu ri<rs ana="XMUKANE">atit</rs> <rs ana="XMUKANE">ahquih</rs>
 <lb n="20"/><rs ana="XMUKANE">ahbit chi racan</rs> <rs ana="IXMUKANE">xmucane</rs> vbi
 <lb n="21"/>xeqha cut ta x<del rend="overstrike" instant="false" status="unremarkable"> </del>quitiquiba quih
@@ -398,10 +398,10 @@ cap.
 <lb n="25"/>ri che chahavaxic chicotox
 <lb n="26"/>puch cumal <rs ana="TZ'AQOL">ahꜩac</rs> <rs ana="B'ITOL">ahbit</rs>.
 <lb n="27"/>ve are ꜩucul cool ta chavax
-<lb n="28"/>oc tazaquiroc at <rs ana="IXIM">ixim</rs> at <rs ana="TZ'ITE">ꜩi<pc> –</pc>
+<lb n="28"/>oc tazaquiroc at <rs ana="IXIM">ixim</rs> at <rs ana="TZ'ITE'">ꜩi<pc> –</pc>
 <lb n="29"/>te</rs>, at quih, at bit. catchoco<pc> –</pc>
 <lb n="30"/>nic cattaquentah xqha chi<pc> –</pc>
-<lb n="31"/>re <rs ana="IXIM">ixim</rs> <rs ana="TZ'ITE">q<hi rend="subscript">,</hi>ite</rs>, quih bit. cat
+<lb n="31"/>re <rs ana="IXIM">ixim</rs> <rs ana="TZ'ITE'">q<hi rend="subscript">,</hi>ite</rs>, quih bit. cat
 <lb n="32"/>quixla vloc at <rs ana="UK'U'X_KAJ">vqux cah</rs>
 <lb n="33"/>macahizah vchi vvach <rs ana="TEPEW_Q'UKUMATZ">tepeu
 <lb n="34"/>gucumaꜩ</rs> xeqha ta xquibih
@@ -1474,11 +1474,11 @@ cap.
 <lb n="2"/>vpam, vcab chi cut <rs ana="XUXULIM_JA" type="toponym">xuxulim ha</rs>
 <lb n="3"/>vbi ꜩaꜩ chi teu vpam zac xuru<pc> –</pc>
 <lb n="4"/>xuh, zac caracoh chi xurulah teu
-<lb n="5"/>choc vloc chupam, rox chi cut <rs ana="BALAM_JA" type="toponym">ba<pc> –</pc>
+<lb n="5"/>choc vloc chupam, rox chi cut <rs ana="B'ALAM_JA" type="toponym">ba<pc> –</pc>
 <lb n="6"/>lami ha</rs> vbi vtuquel <rs ana="B'ALAM">balam</rs> qo chu<pc> –</pc>
 <lb n="7"/>pan quequichouic, quebuchuuic
 <lb n="8"/>chi matat quechiquitit queeꜩa<pc> –</pc>
-<lb n="9"/>pim <rs ana="B'ALAM">balam</rs> <rs ana="BALAM_JA">pa ha</rs>. <rs ana="SOTZ'I_JA" type="toponym">ꜩoꜩi ha</rs> vbi v
+<lb n="9"/>pim <rs ana="B'ALAM">balam</rs> <rs ana="B'ALAM_JA">pa ha</rs>. <rs ana="SOTZ'I_JA" type="toponym">ꜩoꜩi ha</rs> vbi v
 <lb n="10"/>cah v tihobal vtuquel ꜩoꜩ vpam
 <lb n="11"/>chiha queꜩiꜩotic, queꜩitilahic
 <lb n="12"/>queropop pa ha e ꜩapin ꜩoꜩ ma<pc> –</pc>
@@ -2686,8 +2686,8 @@ cap.
 <lb n="37"/>lan que</rs>
 </p>
 <p xml:id="p33">
-<lb n="38" rend="indent" />Cate xeoc chicut <rs ana="BALAM_JA">pabala
-<lb n="39"/>mi ha</rs> ꜩaꜩ chi<rs ana="B'ALAM">balam</rs> <rs ana="BALAM_JA">balam
+<lb n="38" rend="indent" />Cate xeoc chicut <rs ana="B'ALAM_JA">pabala
+<lb n="39"/>mi ha</rs> ꜩaꜩ chi<rs ana="B'ALAM">balam</rs> <rs ana="B'ALAM_JA">balam
 <lb n="40"/>rochoch</rs> maui cohitio qo ivech
 <lb n="41"/>chuxic xevqhaxic <rs ana="B'ALAM">balam</rs> cate
 <lb n="42"/>cut xquipuquih baca chi quiva<pc> –</pc>
@@ -2699,7 +2699,7 @@ cap.
 <pb xml:id="xom-f27-s1"/>
 <lb n="1"/>varanel conohel qui quiqux chi<pc> –</pc>
 <lb n="2"/>re macuxecamic xavi xere vꜩ
-<lb n="3"/>quivach xeel vloc pa<rs ana="BALAM_JA">balami ha</rs>
+<lb n="3"/>quivach xeel vloc pa<rs ana="B'ALAM_JA">balami ha</rs>
 <lb n="4"/>naquipa quichi e vinaquil apa
 <lb n="5"/>qui xepe vi xeqha ri  co<pc> –</pc>
 <lb n="6"/>nohel
@@ -3896,8 +3896,8 @@ cap.
 <lb n="11"/>bi <rs ana="PALO">palo</rs> xeicouvi vloc xa
 <lb n="12"/>chuvi tac abah xeicou vi vloc
 <lb n="13"/>colehe vla ri abah puzanaieb
-<lb n="14"/>ta xquibinatizah cut <rs ana="CHOLOCHIK_ABAJ">cholochic
-<lb n="15"/>abah</rs> <rs ana="BOQOTAJINAQ_SANAYEB">bocotahinac zanaieb</rs> v
+<lb n="14"/>ta xquibinatizah cut <rs ana="CHOLOCHIK_AB'AJ">cholochic
+<lb n="15"/>abah</rs> <rs ana="B'OQOTAJINAQ_SANAYEB'">bocotahinac zanaieb</rs> v
 <lb n="16"/>bi cumal ri xeicou vi vloc chu
 <lb n="17"/>pan <rs ana="PALO">palo</rs> vhachon rib ha xeicou
 <lb n="18"/><note  place="margin-left" type="correction">+catut</note>vi vloc are cut chi+tat vi quiqux
@@ -5174,7 +5174,7 @@ cap.
 <lb n="30"/>vach <rs ana="NIJA'IB">nihaibab</rs> are nabe aha<pc> –</pc>
 <lb n="31"/>u va <rs ana="AJAW_Q'ALEL">ahau ealel</rs>, <rs ana="AJAW_AJTZIK_WINAQ">ahau ahꜩic vi<pc> –</pc>
 <lb n="32"/>nac</rs>, <rs ana="Q'ALEL_K'AMJA">cale camha</rs>, <rs ana="NIMA_K'AMJA">nima camha</rs>, <rs ana="UCHUCH_K'AMJA">v
-<lb n="33"/>chuch camha</rs>, <rs ana="NIM_CH'OKOJ_NIJA'IB">nimchocoh nihaib,</rs><pc> –</pc>
+<lb n="33"/>chuch camha</rs>, <rs ana="NIM_CH'OKOJ_NIJA'IB'">nimchocoh nihaib,</rs><pc> –</pc>
 <lb n="34"/><rs ana="AJAW_AWILIX">aulix</rs>, <rs ana="YAKOLATAM_UTZA'M_POP_SAQLATOL">yacolatam, vꜩam pop
 <lb n="35"/>zaclatol</rs>, <rs ana="NIMA_LOLMET_YE'OLTUX">nima lolmet yeoltux</rs>.
 <lb n="36"/>beleheb cut chi ahauab chuva<pc> –</pc>
@@ -5784,7 +5784,7 @@ cap.
 <lb n="29"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>6</num></hi></note><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>ima camha</rs> hun vnim ha.
 </p>
 <p>            
-<lb n="30"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>7</num></hi></note><rs ana="NIM_CH'OKOJ_NIJA'IB"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
+<lb n="30"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>7</num></hi></note><rs ana="NIM_CH'OKOJ_NIJA'IB'"><hi rend="large">N</hi>im chocoh nihaib</rs> hun vnim ha.
 </p>
 <p>            
 <lb n="31"/><note place="margin-left" anchored="true"><hi rend="handwriting;color:pencil"><num>8</num></hi></note><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auilix</rs> hun vnim ha.
@@ -6201,15 +6201,15 @@ cap.
 <lb n="7"/>toríron</rs>, <rs ana="AJCH'UT">el de la tabla</rs>, <rs ana="AJTZ'ALAM">o trono</rs>, <rs ana="AJTOLTEKAT">el de el toltecat</rs>
 <lb n="8"/><rs ana="RATI'I_Q'IJ">abuela de el sol</rs>, <rs ana="RATI'T_SAQ">abuela de la luna</rs>, así seaís
 <lb n="9"/>dichos por nuestros formados, y críaturas.
-<lb n="10"/>echad suertes con <rs ana="IXIM">maíses</rs>, y con <rs ana="TZ'ITE">ꜩítes</rs> y sea
+<lb n="10"/>echad suertes con <rs ana="IXIM">maíses</rs>, y con <rs ana="TZ'ITE'">ꜩítes</rs> y sea
 <lb n="11"/>solo hecho, sí saldra, sí labraremos, y lo
 <lb n="12"/>tallaremos su voca y su cara de palo se les
 <lb n="13"/>fue dicho alos adívínos. y luego su echa<pc> –</pc>
 <lb n="14"/>dura de las suertes, su ser saludado lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
-<lb n="15"/>sortearon con <rs ana="IXIM">el maís</rs> y <rs ana="TZ'ITE">el ꜩíte</rs>. a sol, a
+<lb n="15"/>sortearon con <rs ana="IXIM">el maís</rs> y <rs ana="TZ'ITE'">el ꜩíte</rs>. a sol, a
 <lb n="16"/>formadura dixeron <rs ana="IXMUKANE">vnabieja</rs> y <rs ana="XPIYAKOK">">un viejo</rs>
 <lb n="17"/>a ellos. y <rs ana="XPIYAKOK">">el viejo</rs> era el de las suertes de
-<lb n="18"/><rs ana="TZ'ITE">el ꜩité</rs>, y se llamaba <rs ana="XPIYAKOK">xpíyacoc</rs>, y <rs ana="IXMUKANE">la vieja</rs>
+<lb n="18"/><rs ana="TZ'ITE'">el ꜩité</rs>, y se llamaba <rs ana="XPIYAKOK">xpíyacoc</rs>, y <rs ana="IXMUKANE">la vieja</rs>
 <lb n="19"/>adivina de el sol, y de la formadura, se
 <lb n="20"/>llamaba chíracan <rs ana="IXMUKANE">xmucane</rs>. <del rend="overstrike" instant="false" status="unremarkable">y esta</del>
 <lb n="21"/><del rend="overstrike" instant="false" status="unremarkable"><rs ana="IXMUKANE">vieja</rs> adivina de el sol</del> y dixeron <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice>
@@ -6219,9 +6219,9 @@ cap.
 <lb n="25"/>conveniente sea labrado el palo por los
 <lb n="26"/>formadores, y sí es este es <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se ha de sus<pc> –</pc>
 <lb n="27"/>tentar, y alímentar, <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> se siembre, y acba<pc> –</pc>
-<lb n="28"/>re, dí tu <rs ana="IXIM">maís</rs>, tu <rs ana="TZ'ITE">ꜩíte</rs>, tu sol, tu forma<pc> –</pc>
+<lb n="28"/>re, dí tu <rs ana="IXIM">maís</rs>, tu <rs ana="TZ'ITE'">ꜩíte</rs>, tu sol, tu forma<pc> –</pc>
 <lb n="29"/>dura llamad, y segued le dixo <rs ana="IXIM">al maís</rs>,
-<lb n="30"/>y <rs ana="TZ'ITE">al ꜩíte</rs>, al sol, y ála formadura. y tu
+<lb n="30"/>y <rs ana="TZ'ITE'">al ꜩíte</rs>, al sol, y ála formadura. y tu
 <lb n="31"/><rs ana="UK'U'X_KAJ">corazon de el zielo</rs> tened verguenza, no afren<pc> –</pc>
 <lb n="32"/>teís a <rs ana="TEPEU_Q'UKUMATZ">tepeu, y cucumaꜩ</rs>. y entonzes respon<pc> –</pc>
 <lb n="33"/>diendo el q<hi rend="subscript">,</hi>íte y <rs ana="IXIM">el maís</rs> dixeron la verdad
@@ -7294,7 +7294,7 @@ cap.
 <lb n="3"/>curidad. el segundo era, y se llamaba <rs ana="XUXULIM_JA" type="toponym">casa
 <lb n="4"/>donde arrodillaban</rs>, <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> solo auía mucho frío
 <lb n="5"/>de muy intolerable, eínsoportable frío
-<lb n="6"/>el terzero era <rs ana="BALAM_JA" type="toponym">casa de leon tígres</rs>, donde
+<lb n="6"/>el terzero era <rs ana="B'ALAM_JA" type="toponym">casa de leon tígres</rs>, donde
 <lb n="7"/>solo auía <rs ana="B'ALAM">tígres</rs>. donde apenas sepodían
 <lb n="8"/>rebullír, allí se estrujaban, y se mordían.
 <lb n="9"/>la cuarta era <rs ana="SOTZ'I_JA" type="toponym">casa de murzíelagos</rs>, don
@@ -8506,7 +8506,7 @@ cap.
 <lb/>
 </p>
 <p corresp="#p33">
-<lb n="36"/>y luego entraron en <rs ana="BALAM_JA">la casa de los tí<pc> –</pc>
+<lb n="36"/>y luego entraron en <rs ana="B'ALAM_JA">la casa de los tí<pc> –</pc>
 <lb n="37"/>gres</rs>, no eran constables los <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> auía en
 <lb n="38"/>la casa. no nos mordaís, les díxeron ay
 <lb n="39"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sea vuestra comída y luego echaron
@@ -8522,7 +8522,7 @@ cap.
 </note>
 <lb n="1"/>todos, y estaban alegres de a que lla, mas
 <lb n="2"/>no murieron. y así mesmo salíeron bu<pc> –</pc>
-<lb n="3"/>enos de <rs ana="BALAM_JA">la casa de los tígres</rs>. y díxeron
+<lb n="3"/>enos de <rs ana="B'ALAM_JA">la casa de los tígres</rs>. y díxeron
 <lb n="4"/><rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> genero de hombres
 <lb n="5"/>soys, de adonde venístís?
 <lb/>
@@ -9715,8 +9715,8 @@ cap.
 <lb n="12"/>dras, pasaron <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. aca. y estaban las
 <lb n="13"/>píedras sobresalíentes en ríngle<pc> –</pc>
 <lb n="14"/>ra en la arena quando pasaron.
-<lb n="15"/>Y así le llaman, <rs ana="CHOLOCHIK_ABAJ">píedras en rínglera</rs>
-<lb n="16"/>y <rs ana="BOQOTAJINAQ_SANAYEB">arrancada arena</rs> á aquel camí<pc> –</pc>
+<lb n="15"/>Y así le llaman, <rs ana="CHOLOCHIK_AB'AJ">píedras en rínglera</rs>
+<lb n="16"/>y <rs ana="B'OQOTAJINAQ_SANAYEB'">arrancada arena</rs> á aquel camí<pc> –</pc>
 <lb n="17"/>no ellos, por <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> pasaron en <rs ana="PALO">el mar</rs>
 <lb n="18"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>díuídíendose pasaron <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. aca.
 <lb n="19"/>y estaban muy aflíxídos por falta de
@@ -10990,7 +10990,7 @@ cap.
 <lb n="29"/>y estos son los <choice><abbr>SS<hi rend="superscript">es.</hi></abbr><expan instant="false">Señores</expan></choice> de los de <rs ana="NIJA'IB">níhaí<pc> –</pc>
 <lb n="30"/>bab</rs> el prímero <rs ana="AJAW_Q'ALEL">ahau ealel</rs>. 2. <rs ana="AJAW_AJTZIK_WINAQ">ahau
 <lb n="31"/>ahꜩíc vínac</rs>. 3. <rs ana="Q'ALEL_K'AMJA">calecamha</rs>. 4. <rs ana="UCHUCH_K'AMJA">vchuch
-<lb n="32"/>camha</rs>. 5. <rs ana="NIM_CH'OKOJ_NIJA'IB">ním chocoh níhaíb</rs>. 6. <rs ana="AJAW_AWILIX">aha<pc> –</pc>
+<lb n="32"/>camha</rs>. 5. <rs ana="NIM_CH'OKOJ_NIJA'IB'">ním chocoh níhaíb</rs>. 6. <rs ana="AJAW_AWILIX">aha<pc> –</pc>
 <lb n="33"/>u auílix</rs>. 7 <rs ana="YAKOLATAM_UTZA'M_POP_SAQLATOL">yacolatam. 8. vꜩam
 <lb n="34"/>pop o, zaclatol.</rs> 9. <rs ana="NIMA_LOLMET_YE'OLTUX">níma lolmet yeol<pc> –</pc>
 <lb n="35"/>tux</rs>. nueue <choice><abbr>SS<hi rend="superscript">es</hi></abbr><expan instant="false">Señores</expan></choice> ante los de <rs ana="NIJA'IB">níha<pc> –</pc>
@@ -11582,7 +11582,7 @@ es el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> Reyna
 <lb n="28"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="29"/><rs ana="UCHUCH_K'AMJA"><hi rend="large">V</hi>chuch camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>
 <lb n="30"/><rs ana="NIMA_K'AMJA"><hi rend="large">N</hi>íma camha</rs>.<choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">gre.</abbr><expan instant="false">grande</expan></choice>&gt;
-<lb n="31"/><rs ana="NIM_CH'OKOJ_NIJA'IB"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
+<lb n="31"/><rs ana="NIM_CH'OKOJ_NIJA'IB'"><hi rend="large">N</hi>ímchocoh níhaíb</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
 <lb n="32"/><rs ana="AJAW_AWILIX"><hi rend="large">A</hi>hau auílíx</rs><choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa <choice><abbr type="superscription">grane.</abbr><expan instant="false">grande</expan></choice>
 <lb n="33"/><rs ana="YAKOLATAM"><hi rend="large">Y</hi>acolatam</rs>. <choice><abbr type="superscription">Sor</abbr><expan instant="false">Señor</expan></choice> de vna casa grande.
 </p>
