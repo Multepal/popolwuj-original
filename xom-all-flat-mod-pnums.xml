@@ -74,7 +74,7 @@ cap.
 <note place="margin-left" anchored="true"><num rend="large">1.</num></note>
 <lb n="4"/>tiquiba vi oher ꜩih, vticaribal,
 <lb n="5"/>vxenabal puch ronohel xban,
-<lb n="6"/>pa <rs ana="TINAMIT_K'ICHE'" type="toponym">tinamit quiche</rs>, ramac qui<pc> –</pc>
+<lb n="6"/>pa <rs ana="TINAMIT_K'ICHE'">tinamit quiche</rs>, ramac qui<pc> –</pc>
 <lb n="7"/>che vinac; arecut xchicacam
 <lb n="8"/>vi vcutunizaxic, vcalahobiza<pc> –</pc>
 <lb n="9"/>xic, vꜩihoxic puch euaxibal
@@ -692,7 +692,7 @@ cap.
 <lb n="12"/>la xqha cu ri <rs ana="CHIMALMAT">chimalmat</rs> ri
 <lb n="13"/>xoquil <rs ana="WUQUB'_KAQIX">vvcub caquix</rs>. na
 <lb n="14"/>qui pa ri ri e caib qaxtoq mi<pc> –</pc>
-<lb n="15"/>xiquivubah, mi xzilibatah
+<lb n="15"/>xiqui<rs ana="WUB">vubah</rs>, mi xzilibatah
 <lb n="16"/>nu ꜫaꜫate rumal xacachu<pc> –</pc>
 <lb n="17"/>iu ahe ve cacoxou chic mi<pc> –</pc>
 <lb n="18"/>nabe mixnucam vloc <hi rend="double-underline">chuvi</hi>
@@ -954,7 +954,7 @@ cap.
 <lb n="27"/>cub caquix</rs>. quehe cut qui<pc> –</pc>
 <lb n="28"/>camic <rs ana="MOTZ">omuch qaholab</rs> ri xqha 
 <lb n="29"/>chicut are ri xeoc chichu<pc> –</pc>
-<lb n="30"/>milal ri <rs ana="MOTZ" type="toponym">moꜩ</rs> vbi cumal, ve 
+<lb n="30"/>milal ri <rs ana="MOTZ">moꜩ</rs> vbi cumal, ve 
 <lb n="31"/>cut xa zacbal ꜩih lo are chi<pc> –</pc>
 <lb n="32"/>cut chicabÿh vchacatahic 
 <lb n="33"/>chic <rs ana="SIPAKNA">zipacna</rs> rumal ri e caib 
@@ -984,7 +984,7 @@ cap.
 <lb n="8"/>zelabah curi v va rachac
 <lb n="9"/>tap rihouohic cate cut ta
 <lb n="10"/>xquicoh vcoc chuxe pec, chu<pc> –</pc>
-<lb n="11"/>xe nima huyub; <rs ana="ME'AWAN" type="toponym">meauan</rs>
+<lb n="11"/>xe nima huyub; <rs ana="ME'AWAN">meauan</rs>
 <lb n="12"/>vbi huyub xchacatah vi
 <lb n="13"/>cate cut ta xeperi <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>
 <lb n="14"/>xquicu ri <rs ana="SIPAKNA">zipacna</rs> chiya, a<pc> –</pc>
@@ -1384,19 +1384,19 @@ cap.
 <lb n="10"/>cut pu beal <rs ana="XIB'ALB'A">xibalba</rs>, xuluxuh
 <lb n="11"/>vchi cumuc, xecah cut ta xeel
 <lb n="12"/>chicu aponoc chuchihal ha zi<pc> –</pc>
-<lb n="13"/>van ub <rs ana="NU'_SIWAN" type="toponym">nuzivan</rs> <rs ana="K'ULKU_SIWAN" type="toponym">cul, cu ziuan</rs>
+<lb n="13"/>van ub <rs ana="NU'_SIWAN">nuzivan</rs> <rs ana="K'ULKU_SIWAN">cul, cu ziuan</rs>
 <lb n="14"/>vbi xeecovi xeeco chicut chu<pc> –</pc>
-<lb n="15"/>pan halhal <rs ana="JA'_SIMAJ" type="toponym">ha zimah</rs>, maui ahí<pc> –</pc>
+<lb n="15"/>pan halhal <rs ana="JA'_SIMAJ">ha zimah</rs>, maui ahí<pc> –</pc>
 <lb n="16"/>lan zimah xeicovi maui xeto<pc> –</pc>
 <lb n="17"/>cotahic ta xeopon chicut chi a
-<lb n="18"/><rs ana="KIK'_YA'" type="toponym">chiquiquia</rs> xeicou chiri maui
-<lb n="19"/>xcucah xeopon chi a vtuquel <rs ana="PUJ_CHI_JA'" type="toponym">pu<pc> –</pc>
+<lb n="18"/><rs ana="KIK'_YA'">chiquiquia</rs> xeicou chiri maui
+<lb n="19"/>xcucah xeopon chi a vtuquel <rs ana="PUJ_CHI_JA'">pu<pc> –</pc>
 <lb n="20"/>ch chi a</rs> maui xechacatahic xa<pc> –</pc>
 <lb n="21"/>ui xeicou chic ta xeopon chicut
 <lb n="22"/>pacahib xalcat be, cachiri cut
 <lb n="23"/>xechacatah vi pacahib xalcat
-<lb n="24"/>be <rs ana="KAQA_B'E" type="toponym">hun ꜫaꜫabe</rs>, <rs ana="Q'EQA_B'E" type="toponym">hun cut queca
-<lb n="25"/>be</rs>, <rs ana="SAQI_B'E" type="toponym">zaqui be hun</rs>, <rs ana="Q'ANA_B'E">hun cut ꜫana
+<lb n="24"/>be <rs ana="KAQA_B'E">hun ꜫaꜫabe</rs>, <rs ana="Q'EQA_B'E">hun cut queca
+<lb n="25"/>be</rs>, <rs ana="SAQI_B'E">zaqui be hun</rs>, <rs ana="Q'ANA_B'E">hun cut ꜫana
 <lb n="26"/>be</rs> cahib be. are cut xqhau
 <lb n="27"/>ri <rs ana="Q'EQA_B'E">queca be</rs> in quinicamo in
 <lb n="28"/>vbe ahau xqhau ri be chiricut
@@ -1437,7 +1437,7 @@ cap.
 <lb n="13"/>conohel <rs ana="RAJAWAL_XIB'ALB'A">rahaual xibalba</rs>. xa
 <lb n="14"/>hix chiha, ve chibe yaoc ichah
 <lb n="15"/>izic chi varabal xevqhaxcut
-<lb n="16"/>cate cut xeoponic pa <rs ana="Q'EQUMA_JA" type="toponym">quecuma
+<lb n="16"/>cate cut xeoponic pa <rs ana="Q'EQUMA_JA">quecuma
 <lb n="17"/>ha</rs> vtuquel queeum vpam chi<pc> –</pc>
 <lb n="18"/>hata xquicam cut qui naoh <rs ana="XIB'ALB'A">xi<pc> –</pc>
 <lb n="19"/>balba</rs>, xa quecapuzu chuec xa
@@ -1471,18 +1471,18 @@ cap.
 <lb n="47"/>molah chi tihobal arevnabe ri
 <pb xml:id="xom-f15-s1"/>
 <lb n="1"/><rs ana="Q'EQUMA_JA">queeuma ha</rs> vtuquel queeum
-<lb n="2"/>vpam, vcab chi cut <rs ana="XUXULIM_JA" type="toponym">xuxulim ha</rs>
+<lb n="2"/>vpam, vcab chi cut <rs ana="XUXULIM_JA">xuxulim ha</rs>
 <lb n="3"/>vbi ꜩaꜩ chi teu vpam zac xuru<pc> –</pc>
 <lb n="4"/>xuh, zac caracoh chi xurulah teu
-<lb n="5"/>choc vloc chupam, rox chi cut <rs ana="B'ALAM_JA" type="toponym">ba<pc> –</pc>
+<lb n="5"/>choc vloc chupam, rox chi cut <rs ana="B'ALAM_JA">ba<pc> –</pc>
 <lb n="6"/>lami ha</rs> vbi vtuquel <rs ana="B'ALAM">balam</rs> qo chu<pc> –</pc>
 <lb n="7"/>pan quequichouic, quebuchuuic
 <lb n="8"/>chi matat quechiquitit queeꜩa<pc> –</pc>
-<lb n="9"/>pim <rs ana="B'ALAM">balam</rs> <rs ana="B'ALAM_JA">pa ha</rs>. <rs ana="SOTZ'I_JA" type="toponym">ꜩoꜩi ha</rs> vbi v
+<lb n="9"/>pim <rs ana="B'ALAM">balam</rs> <rs ana="B'ALAM_JA">pa ha</rs>. <rs ana="SOTZ'I_JA">ꜩoꜩi ha</rs> vbi v
 <lb n="10"/>cah v tihobal vtuquel ꜩoꜩ vpam
 <lb n="11"/>chiha queꜩiꜩotic, queꜩitilahic
 <lb n="12"/>queropop pa ha e ꜩapin ꜩoꜩ ma<pc> –</pc>
-<lb n="13"/>habi queel vi. roo chi cut <rs ana="CHAYIM_JA" type="toponym">chaim
+<lb n="13"/>habi queel vi. roo chi cut <rs ana="CHAYIM_JA">chaim
 <lb n="14"/>ha</rs> vbi vtuquel chaqol chupam
 <lb n="15"/>zacleloh re chicha chiꜩininic
 <lb n="16"/>chiyohohic chiri pa ha. qui na<pc> –</pc>
@@ -1501,7 +1501,7 @@ cap.
 <lb n="29"/>puch, varal xchivevah vi ivach
 <lb n="30"/>quixpuzic xqha<rs ana="JUN_KAME'">hun came</rs> <rs ana="WUQUB'_KAME'">vvcub
 <lb n="31"/>came</rs>. ta xepuz cut xemuc cut
-<lb n="32"/>chi <rs ana="PUSB'AL_CHAAJ" type="toponym">pucbal chah</rs> vbi xemuc vi
+<lb n="32"/>chi <rs ana="PUSB'AL_CHAAJ">pucbal chah</rs> vbi xemuc vi
 <lb n="33"/>xcat vholom ri <rs ana="JUN_JUNAJPU">hun hunahpu</rs>
 <lb n="34"/>xa vnimal xmuquic ruq ri v chac
 <lb n="35"/>chiya ri vholom xolche ri tiquil
@@ -3502,7 +3502,7 @@ cap.
 <lb n="20"/>are pocol quirol chila relebal
 <lb n="21"/>quih xavi xere xpevi <rs ana="TAMUB'">tamub</rs> <rs ana="ILOKAB'">ilo<pc> –</pc>
 <lb n="22"/>cab</rs> ruq oxlahuh vca amac. oxla<pc> –</pc>
-<lb n="23"/>hun tecpan ruq<rs ana="RAB'INALEB'" type="toponym">rabinaleb</rs>, <rs ana="KAQCHIKELEB'">caechi<pc> –</pc>
+<lb n="23"/>hun tecpan ruq<rs ana="RAB'INALEB'">rabinaleb</rs>, <rs ana="KAQCHIKELEB'">caechi<pc> –</pc>
 <lb n="24"/>queleb</rs>, <rs ana="AJTZ'IKINA_JA">ah q,inquina ha</rs>, ruq puch
 <lb n="25"/><rs ana="SAQAJIB'">zacahib</rs>, ruq naipuch <rs ana="LAMAKIB'">lamaquib</rs>,
 <lb n="26"/><rs ana="KUMATZ_AMAQ'">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhal ha</rs> <rs ana="UCH'AB'AJA">vchabaha</rs>, <rs ana="AJCH'UMILA_JA">ah chu<pc> –</pc>
@@ -3591,7 +3591,7 @@ cap.
 <lb n="8" rend="indent"/><hi rend="large">A</hi>recut vbi huyub va xebe vi
 <lb n="9"/><rs ana="B'ALAM_KI'TZE' ">Balam quiꜩe</rs>, <rs ana="B'ALAM _AQ'AB'">Balam acab</rs> <rs ana="MAJUK'UTAJ">mahu
 <lb n="10"/>cutah</rs>, <rs ana="IQ'I_B'ALAM">iqui balam</rs> ruq <rs ana="TAMUB'">tumub</rs>, <rs ana="ILOKAB'">ilo<pc> –</pc>
-<lb n="11"/>cab</rs>, <rs ana="TULÁN" type="toponym">tulan</rs><rs ana="SUYWA" type="toponym">zuiva</rs> vvcub pec, vv<pc> –</pc>
+<lb n="11"/>cab</rs>, <rs ana="TULÁN">tulan</rs><rs ana="SUYWA">zuiva</rs> vvcub pec, vv<pc> –</pc>
 <lb n="12"/>cubzivan vbi tinamit xeopon vi
 <lb n="13"/>e camolre cabauil
 </p>
@@ -6431,7 +6431,7 @@ cap.
 <lb n="35"/>híjo <rs ana="SIPAKNA">zípacna</rs>, su pasto, y comida eran
 <lb n="36"/>los grandes montes y esto ademas en vna
 <lb n="37"/>noche amanezío hecho <rs ana="CHI_Q'AQ'">elzerro</rs> llamado <rs ana="JUNAJPU_JUYUB'">hun
-<lb n="38"/>ahpu</rs><rs ana="PEK_UL_YA'" type="toponym">pecul</rs> <rs ana="YA'XKANUL" type="toponym">yaxcanul</rs> <rs ana="MAKAMOB'" type="toponym">macamob</rs> <rs ana="JULISNAB'" type="toponym">huliznab</rs>
+<lb n="38"/>ahpu</rs><rs ana="PEK_UL_YA'">pecul</rs> <rs ana="YA'XKANUL">yaxcanul</rs> <rs ana="MAKAMOB'">macamob</rs> <rs ana="JULISNAB'">huliznab</rs>
 <lb n="39"/><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> en vna noche <rs ana="SIPAKNA">zípacna</rs> hazía vn
 <lb/>
 <lb/>
@@ -6761,7 +6761,7 @@ cap.
 <lb n="22"/>las muertes de<rs ana="MOTZ">los cuatrozíentos mucha<pc> –</pc>
 <lb n="23"/>chos</rs> y así se dijo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estos entraron en lu<pc> –</pc>
 <lb n="24"/>gar de las síete cabríllas en el zielo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se 
-<lb n="25"/>llaman, <rs ana="MOTZ" type="toponym">moꜩ</rs>. esto es monton, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> de mon<corr><pc> –</pc></corr> 
+<lb n="25"/>llaman, <rs ana="MOTZ">moꜩ</rs>. esto es monton, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> de mon<corr><pc> –</pc></corr> 
 <lb n="26"/>ton fueron muertos. y estoquízas sera men<corr><pc> –</pc></corr>
 <lb n="27"/>tíra. agora diremos como fue venzído <rs ana="SIPAKNA">zípac<pc> –</pc>
 <lb n="28"/>na</rs>, por a quellos dos muchachos <rs ana="JUNAJPU">hunahpu</rs>,
@@ -6793,7 +6793,7 @@ cap.
 <lb n="5"/>ñas de otras hojas mas pequeñas llamadas, pa<pc> –</pc>
 <lb n="6"/>hac. ylaconcha, y manos hízíeron de laxa, y la pusíeron
 <lb n="7"/>tumbada. y entonzes lo pusieron en vna cueua de
-<lb n="8"/>baxodevn gran cerro, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="ME'AWAN" type="toponym">meauan</rs>. en
+<lb n="8"/>baxodevn gran cerro, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="ME'AWAN">meauan</rs>. en
 <lb n="9"/>donde fue venzído. y entonzes víníeron <rs ana="KA'IB_K'AJOLAB'">los mu<pc> –</pc>
 <lb n="10"/>chachos</rs>, yse hízíeron encontradízos con <rs ana="SIPAKNA">zípacna</rs>
 <lb n="11"/>en el arroyo. y le preguntaron: donde vas mu<pc> –</pc>
@@ -7199,11 +7199,11 @@ cap.
 <lb n="11"/>muy ladeadas, y baxaron; y cuando sa<pc> –</pc>
 <lb n="12"/>lieron llegaron alagua violenta, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
 <lb n="13"/>ra <rs ana="NU'_SIWAN">vna varranca muy angosta</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se
-<lb n="14"/>llamaba <rs ana="K'ULKU_SIWAN" type="toponym">fuerte varranca</rs>. y pasando
+<lb n="14"/>llamaba <rs ana="K'ULKU_SIWAN">fuerte varranca</rs>. y pasando
 <lb n="15"/>de allí al agua <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se trueca; y pasaron
 <lb n="16"/><rs ana="JA'_SIMAJ">donde todo era palos puntíagudos</rs>, y
 <lb n="17"/>no se hirieron, y llegaron ala orílla
-<lb n="18"/>de <rs ana="KIK'_YA'" type="toponym">vn río <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era de sangre</rs>, y no bebí<pc> –</pc>
+<lb n="18"/>de <rs ana="KIK'_YA'">vn río <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era de sangre</rs>, y no bebí<pc> –</pc>
 <lb n="19"/>eron en el río, ní pudíeron ser venzí<pc> –</pc>
 <lb n="20"/>dos síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> pasaron, y llegaron avn
 <lb n="21"/>camino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se díuídía en cuatro camí<pc> –</pc>
@@ -7252,7 +7252,7 @@ cap.
 <p corresp="#p19.1">
 <lb n="14"/>ea andad les dixeron a aquella casa
 <lb n="15"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>allí seos llevara vuestro ocote. ylu<pc> –</pc>
-<lb n="16"/>ego se fueron ala <rs ana="Q'EQUMA_JA" type="toponym">casa de la obscuridad</rs>
+<lb n="16"/>ego se fueron ala <rs ana="Q'EQUMA_JA">casa de la obscuridad</rs>
 <lb n="17"/>do solo auía obscurídad en aquella
 <lb n="18"/>casa. y entonzes díscurríeron <rs ana="RAJAWAL_XIB'ALB'A">los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice>
 <lb n="19"/>de el infierno</rs> de lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> deuían hazer, ylo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
@@ -7291,16 +7291,16 @@ cap.
 <num rend="large">15</num>
 </note>
 <lb n="2"/>era aquela <rs ana="Q'EQUMA_JA">casa obscura</rs>, dosolo auía obs<pc> –</pc>
-<lb n="3"/>curidad. el segundo era, y se llamaba <rs ana="XUXULIM_JA" type="toponym">casa
+<lb n="3"/>curidad. el segundo era, y se llamaba <rs ana="XUXULIM_JA">casa
 <lb n="4"/>donde arrodillaban</rs>, <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> solo auía mucho frío
 <lb n="5"/>de muy intolerable, eínsoportable frío
-<lb n="6"/>el terzero era <rs ana="B'ALAM_JA" type="toponym">casa de leon tígres</rs>, donde
+<lb n="6"/>el terzero era <rs ana="B'ALAM_JA">casa de leon tígres</rs>, donde
 <lb n="7"/>solo auía <rs ana="B'ALAM">tígres</rs>. donde apenas sepodían
 <lb n="8"/>rebullír, allí se estrujaban, y se mordían.
-<lb n="9"/>la cuarta era <rs ana="SOTZ'I_JA" type="toponym">casa de murzíelagos</rs>, don
+<lb n="9"/>la cuarta era <rs ana="SOTZ'I_JA">casa de murzíelagos</rs>, don
 <lb n="10"/>de solo auía murzíelagos, donde estaban
 <lb n="11"/>chíllando, y volando enzerrados, sínpoder
-<lb n="12"/>salír. el quinto era <rs ana="CHAYIM_JA" type="toponym">casa de navajas</rs>, de
+<lb n="12"/>salír. el quinto era <rs ana="CHAYIM_JA">casa de navajas</rs>, de
 <lb n="13"/>chaí donde solo auía deestas navajas
 <lb n="14"/>de muy agudos filos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estavan hazíendo
 <lb n="15"/>ruído, refregandose vnas conotras. mu<pc> –</pc>
@@ -7318,7 +7318,7 @@ cap.
 <lb n="27"/>sereis arrebatados, y quedaran vu<pc> –</pc>
 <lb n="28"/>estras caras aquí ocultas. yentonzes
 <lb n="29"/>fueron despedazados y los enterraron
-<lb n="30"/>en <rs ana="PUSB'AL_CHAAJ" type="toponym">donde echaban la zeníza</rs>, y le fue
+<lb n="30"/>en <rs ana="PUSB'AL_CHAAJ">donde echaban la zeníza</rs>, y le fue
 <lb n="31"/>cortada la cabeza a <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>, y
 <lb n="32"/>solo le enterraron el cuerpo con el
 <lb n="33"/>otro <rs ana="WUQUB'_JUNAJPU">su hermano</rs>. y entonzes <rs ana="JUN_KAME'">hun came</rs>
@@ -9410,7 +9410,7 @@ cap.
 <lb n="8"/>y el monte, y parage donde se fueron
 <lb n="9"/><rs ana="B'ALAM_KI'TZE' ">balam quíꜩe</rs>, <rs ana="B'ALAM _AQ'AB'">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>
 <lb n="10"/>y <rs ana="IQ'I_B'ALAM">íquíbalam</rs>, con los de <rs ana="ILOKAB'">ílocab</rs>, y <rs ana="TAMUB'">tamub</rs>
-<lb n="11"/>se llamaba, <rs ana="TULÁN" type="toponym">tulan</rs><rs ana="SUYWA" type="toponym">zu</rs>. síete queues, y
+<lb n="11"/>se llamaba, <rs ana="TULÁN">tulan</rs><rs ana="SUYWA">zu</rs>. síete queues, y
 <lb n="12"/>síete barrancas, y así se llamaba el pu<pc> –</pc>
 <lb n="13"/>eblo á <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> fueron a traer los ídolos.
 </p>
