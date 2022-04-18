@@ -1335,8 +1335,8 @@ cap.
 <lb n="11"/>rih qo v xic, are chi naipuch ri
 <lb n="12"/><rs ana="JOLOM_TUKUR">holom tucur</rs> xa vtuquel vholom
 <lb n="13"/>mahabi racan xa v xic qolic
-<lb n="14"/>e cahib ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> rahpop achi<pc> –</pc>
-<lb n="15"/>hab quecalem ta xepe cut chila
+<lb n="14"/>e cahib ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> <rs ana="RAJPOP">rahpop achi<pc> –</pc>
+<lb n="15"/>hab</rs> quecalem ta xepe cut chila
 <lb n="16"/>chi <rs ana="XIB'ALB'A">xibalba</rs> libah chi xevlic e
 <lb n="17"/>cu tacal chuvi <rs ana="JOM">hom</rs> que<rs ana="CHAAJ">chaah</rs> cut
 <lb n="18"/><rs ana="JUN_JUNAJPU">hun hunahpu</rs> <rs ana="WUQUB'_JUNAJPU">vvcub hun ahpu</rs>
@@ -1510,7 +1510,7 @@ cap.
 <lb n="38"/>xol che. ta xvachin curi che
 <lb n="39"/>mahabi v vach, maha choco ri
 <lb n="40"/>vholom ri <rs ana="JUN_JUNAJPU">hun hunahpu</rs> chu<pc> –</pc>
-<lb n="41"/>xol che. are curizima cohcha
+<lb n="41"/>xol che. are cu<rs ana="TZIMA">rizima</rs> cohcha
 <lb n="42"/>chire va camic vholom <rs ana="JUN_JUNAJPU">hun hu<pc> –</pc>
 <lb n="43"/>nahpu</rs> chuqhaxic. taxumaihah
 <lb n="44"/>cut <rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">vvcub came</rs> v
@@ -1519,7 +1519,7 @@ cap.
 <lb n="47"/>holom <rs ana="JUN_JUNAJPU">hunhunahpu</rs> xahunam 
 <pb xml:id="xom-f15-s2"/>
 <note place="margin-right" type="pagination" anchored="true"><num rend="large">15</num></note>
-<lb n="1"/>chic vvach ruq vvach zima carilo
+<lb n="1"/>chic vvach ruq vvach <rs ana="TZIMA">zima</rs> carilo
 <lb n="2"/>ronohel <rs ana="XIB'ALB'A">xibalba</rs> ta chul qui caiih.
 <lb n="3"/>nim vqoheic riche xux chiqui qux
 <lb n="4"/>rumal huzu xubanic ta xoc vholom
@@ -1530,7 +1530,7 @@ cap.
 <lb n="9"/>catah quib, xquiquil quib xibal<pc> –</pc>
 <lb n="10"/>ba conohel. macu calah chiri v
 <lb n="11"/>holom <rs ana="JUN_JUNAJPU">hun hunahpu</rs> xa hunama<pc> –</pc>
-<lb n="12"/>tal chic ruc vvach che ri zima
+<lb n="12"/>tal chic ruc vvach che ri <rs ana="TZIMA">zima</rs>
 <lb n="13"/>vbi xuxic, nim cut vꜩihoxic xu<pc> –</pc>
 <lb n="14"/>ta hun <rs ana="IXKIK'">capoh</rs>. va cute xchicabÿh
 <lb n="15"/>roponic.
@@ -1627,19 +1627,19 @@ cap.
 <lb n="1"/>val lalnu cahau, mahabi achih
 <lb n="2"/>vetaam vvach xqhacut uꜩ bala
 <lb n="3"/>quiꜩih vi chi at hoxol chec chipu<pc> –</pc>
-<lb n="4"/>zu ix rahpop achih chicama vloc
+<lb n="4"/>zu ix <rs ana="RAJPOP">rahpop achih</rs> chicama vloc
 <lb n="5"/>ri vqux chupan zel chiquicololeh
 <lb n="6"/>ahauab vacamic xevqhax cuta
 <lb n="7"/>ri <rs ana="TUKUR">tucur</rs>, e cahib ta xebec quiti<pc> –</pc>
 <lb n="8"/>quem ri zel ta xebec quichelem
 <lb n="9"/>ri <rs ana="IXKIK'">capoh</rs> cucaam ri zaquitoc puz<pc> –</pc>
 <lb n="10"/>bal re. maui chuꜩinic quinicami<pc> –</pc>
-<lb n="11"/>zah ix zamahel rumal maui
+<lb n="11"/>zah ix <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> rumal maui
 <lb n="12"/>nu hoxbal ri qo chinupam xaqui
 <lb n="13"/>xvinaquiric xere xbenumaihah
 <lb n="14"/>ri vholom <rs ana="JUN_JUNAJPU">hun hunahpu</rs> qochi
-<lb n="15"/>pucbal chah quequeta cut maui
-<lb n="16"/>qui puz ix zamahel xqhari <rs ana="IXKIK'">capoh</rs>
+<lb n="15"/><rs ana="PUSB'AL_CHAAJ">pucbal chah</rs> quequeta cut maui
+<lb n="16"/>qui puz ix <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> xqhari <rs ana="IXKIK'">capoh</rs>
 <lb n="17"/>a xqhauic. naquipa xchicacoh
 <lb n="18"/>v quexel ri iqux mi xbÿx vloc ru<pc> –</pc>
 <lb n="19"/>mal acahau chicam vloc ri vqux
@@ -1650,7 +1650,7 @@ cap.
 <lb n="24"/>chupan zel mapa mi xohvqhax
 <lb n="25"/>vloc naquila cut xchicaya pazel
 <lb n="26"/>cacahtanabec mata catcamic xe
-<lb n="27"/>qha curi zamahel. vꜩ bala ma<pc> –</pc>
+<lb n="27"/>qha curi <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs>. vꜩ bala ma<pc> –</pc>
 <lb n="28"/>ui quech ri qux ta chuxoc ruq
 <lb n="29"/>maui varal ivochoch chuxic
 <lb n="30"/>macu xachichih vinac chicamic ca<pc> –</pc>
@@ -2612,8 +2612,8 @@ cap.
 <lb n="16"/>che ticon puch que bechacala chi<pc> –</pc>
 <lb n="17"/>ri xavi xere chiquiqhabeh ri
 <lb n="18"/>quibix <rs ana="XPURPUWEQ">xpurpuvec</rs>, <rs ana="XPURPUWEQ">xpurpu<pc> –</pc>
-<lb n="19"/>uec</rs> qhari hun ta choquic pu
-<lb n="20"/>huyu, <rs ana="PUJUYU'">puhuyu</rs> chachic ta cho<pc> –</pc>
+<lb n="19"/>uec</rs> qhari hun ta choquic <rs ana="PUJUYU'">pu
+<lb n="20"/>huyu</rs>, <rs ana="PUJUYU'">puhuyu</rs> chachic ta cho<pc> –</pc>
 <lb n="21"/>quic ri <rs ana="PUJUYU'">puhuyu</rs> vbi e caib chi<pc> –</pc>
 <lb n="22"/>chahal ticon vticon <rs ana="JUN_KAME'">hun came</rs>
 <lb n="23"/><rs ana="WUQUB'_KAME'">vvcub came</rs> macu caquina ri
@@ -7149,8 +7149,8 @@ cap.
 <lb n="11"/>colote</rs>, tenía colorada la espalda, y tenía
 <lb n="12"/>alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="JOLOM_TUKUR">cabeza tecolote</rs>, no te<pc> –</pc>
 <lb n="13"/>nía mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la cabeza, no tenía pies, síno solo
-<lb n="14"/>alas. estos cuatro <rs ana="USAMAJEL_XIB'ALB'A">mensageros</rs> eran se<pc> –</pc>
-<lb n="15"/>ñores prinzípales. Luego víníeron al
+<lb n="14"/>alas. estos cuatro <rs ana="USAMAJEL_XIB'ALB'A">mensageros</rs> eran <rs ana="RAJPOP">se<pc> –</pc>
+<lb n="15"/>ñores prinzípales</rs>. Luego víníeron al
 <lb n="16"/>mensage desde <rs ana="XIB'ALB'A">el ínfíerno</rs>, y en un íns<pc> –</pc>
 <lb n="17"/>tante llegaron derechos <rs ana="JOM">al atrío</rs> a <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> es<pc> –</pc>
 <lb n="18"/>taban <rs ana="CHAAJ">jugando ala pelota</rs> <rs ana="JUN_JUNAJPU">hunhunahpu</rs>
@@ -7329,7 +7329,7 @@ cap.
 <lb n="38"/>aquel palo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>antes no tenía fruto an<pc> –</pc>
 <lb n="39"/>tes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> pusíesen la cabeza de <rs ana="JUN_JUNAJPU">hun hun ah<pc> –</pc>
 <lb n="40"/>pu</rs> en el horcon. y lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fructífíco eslo
-<lb n="41"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>agora llamamops hícaras la cabe<pc> –</pc>
+<lb n="41"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>agora llamamops <rs ana="TZIMA">hícaras</rs> la cabe<pc> –</pc>
 <lb n="42"/>za de <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>. y al ver esto <rs ana="JUN_KAME'">hun
 <lb n="43"/>came</rs>, y <rs ana="WUQUB'_KAME'">vvcubcame</rs> se maravíllaron
 <lb n="44"/>de ver el fruto de el arbol <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>por to<pc> –</pc>
@@ -7338,7 +7338,7 @@ cap.
 <lb n="47"/>estaba la cabeza de <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>, síno
 <pb corresp="xom-f15-s2"/>
 <lb n="1"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se auía todo hecho, vna mesma cosa con
-<lb n="2"/>las hícaras yasí les parezía ala vista a
+<lb n="2"/><rs ana="TZIMA">las hícaras</rs> yasí les parezía ala vista a
 <lb n="3"/>todos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs> cuando ívan a
 <lb n="4"/>divertirse. en mucha estimaçíon lo tu<pc> –</pc>
 <lb n="5"/>vieron alquel arbol, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> en vn instan<pc> –</pc>
@@ -7349,7 +7349,7 @@ cap.
 <lb n="10"/>pusieron, y determinaron todos <rs ana="RAJAWAL_XIB'ALB'A">los de el
 <lb n="11"/>ínfierno</rs>. y no se vía donde estaba la ca<pc> –</pc>
 <lb n="12"/>beza de <rs ana="JUN_JUNAJPU">hun hun ahpu</rs> <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se auía hecho
-<lb n="13"/>vna mesma cosa con las hícaras. y esta ma<pc> –</pc>
+<lb n="13"/>vna mesma cosa con <rs ana="TZIMA">las hícaras</rs>. y esta ma<pc> –</pc>
 <lb n="14"/>rabilla la oyó una <rs ana="IXKIK'">donzella</rs>. agora dire
 <lb n="15"/>mos como fue alla.
 </p>
@@ -7446,13 +7446,13 @@ cap.
 <lb n="2"/>dixo el cíertamente tu eres forníca<pc> –</pc>
 <lb n="3"/>ría. ea andad vosotros <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> principa<pc> –</pc>
 <lb n="4"/>ples andad y sacríficalda, y traed
-<lb n="5"/>su carazon en vna hícara. esto se
-<lb n="6"/>les mando alos tecolotes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran cuatro.
-<lb n="7"/>y luego fueron y tomaron vna hícara
+<lb n="5"/>su carazon en <rs ana="TZIMA">vna hícara</rs>. esto se
+<lb n="6"/>les mando <rs ana="USAMAJEL_XIB'ALB'A">alos tecolotes</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran cuatro.
+<lb n="7"/>y luego fueron y tomaron <rs ana="TZIMA">vna hícara</rs>
 <lb n="8"/>y se fueron llevandola cargada, y tam
 <lb n="9"/>bíen llebaban vna cuchilla aguda <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>
 <lb n="10"/>revanarla. y entonzes <rs ana="IXKIK'">ella</rs> les díxo no
-<lb n="11"/>me mateís mensageros <choice><abbr>por q’</abbr><expan instant="false">por que</expan></choice> no soy for<pc> –</pc>
+<lb n="11"/>me mateís <rs ana="USAMAJEL_XIB'ALB'A">mensageros</rs> <choice><abbr>por q’</abbr><expan instant="false">por que</expan></choice> no soy for<pc> –</pc>
 <lb n="12"/>nícaría. sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solamente se engendro
 <lb n="13"/>lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tengo en la barriga. lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sucedío fue
 <lb n="14"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fuí adívertirme, y uer aquel prodí<pc> –</pc>
@@ -7460,7 +7460,7 @@ cap.
 <lb n="16"/>esta en el zenízero. y así no me mateís
 <lb n="17"/>mensageros. y respondíeron ellos pu<pc> –</pc>
 <lb n="18"/>es <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> hemos de lleuar en lugar de tu
-<lb n="19"/>corazon en la hícara? no nos manda<pc> –</pc>
+<lb n="19"/>corazon en <rs ana="TZIMA">la hícara</rs>? no nos manda<pc> –</pc>
 <lb n="20"/>ron los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en esta hícara les lle<pc> –</pc>
 <lb n="21"/>uaremos tu corazon, así no nos man<pc> –</pc>
 <lb n="22"/>daron? bíen quísíeramos nosotros
@@ -7470,22 +7470,22 @@ cap.
 <lb n="26"/>bres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> mueran. y de verdad ese sera
 <lb n="27"/>vuestro ser ser engañadores. y lu<pc> –</pc>
 <lb n="28"/>ego sera mío <rs ana="JUN_KAME'">hun came</rs>, y <rs ana="WUQUB'_KAME'">vvcubcame</rs>
-<lb n="29"/>y solo sera de ellos lasangre, y las
+<lb n="29"/>y solo sera de ellos <rs ana="KIK'">lasangre</rs>, y las
 <lb n="30"/>calberas esto sera solo de ellos en
 <lb n="31"/>su presenzía. este corazón nosera 
 <lb n="32"/>quemado delante de ellos. poned
-<lb n="33"/>en la hícara el fruto de este arbol
+<lb n="33"/>en <rs ana="TZIMA">la hícara</rs> el fruto de este arbol
 <lb n="34"/>dixo <rs ana="IXKIK'">la donzella</rs>. y el humor de a<pc> –</pc>
 <lb n="35"/>quell arbol era colorado, y salí<pc> –</pc>
-<lb n="36"/>endo el humor lo cogíeron en la
-<lb n="37"/>hícara y luego se congelo y se hizo
+<lb n="36"/>endo el humor lo cogíeron en <rs ana="TZIMA">la
+<lb n="37"/>hícara</rs> y luego se congelo y se hizo
 <lb n="38"/>redondo y puso en lugar de el cora
-<lb n="39"/>zon, y era como sangre su humor
-<lb n="40"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> puso en lugar de sangre. y enton<pc> –</pc>
+<lb n="39"/>zon, y era como <rs ana="KIK'">sangre</rs> su humor
+<lb n="40"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> puso en lugar de <rs ana="KIK'">sangre</rs>. y enton<pc> –</pc>
 <lb n="41"/>zes sacaron aquella <rs ana="KIK'">sangre</rs> de
 <lb n="42"/>el humor de el palo, y fue hecho co<pc> –</pc>
 <lb n="43"/>mo <rs ana="KIK'">sangre</rs>, y muy colorado estuvo
-<lb n="44"/>despues de sacado en la hícara, y en<pc> –</pc>
+<lb n="44"/>despues de sacado en <rs ana="TZIMA">la hícara</rs>, y en<pc> –</pc>
 <lb n="45"/>tonzes resplandezio aquel palo por la
 <lb n="46"/><rs ana="IXKIK'">donzella</rs> yeste palo se llama grana
 <lb n="47"/>palo colorado, y se llamo <rs ana="KIK'">sangre</rs>, y por<pc> –</pc>
@@ -7498,13 +7498,13 @@ cap.
 <lb n="3"/>dixo <rs ana="IXKIK'">la donzella</rs> a<rs ana="TUKUR">los tecolotes</rs>. estabíen <rs ana="IXKIK'">don
 <lb n="4"/>zella</rs> díxeron ellos íremos allevar esto, y tu
 <lb n="5"/>anda bete <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> nosotros vamos a dar este su tru<pc> –</pc>
-<lb n="6"/>eque de tu corazon alos <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> dixeron los te<pc> –</pc>
-<lb n="7"/>coletes. y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegaron ala presençía
+<lb n="6"/>eque de tu corazon alos <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> dixeron <rs ana="TUKUR">los te<pc> –</pc>
+<lb n="7"/>coletes</rs>. y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegaron ala presençía
 <lb n="8"/>de los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban aguardando todos.
 <lb n="9"/>por ventura yase concluyo dixeron <rs ana="JUN_KAME'">hun<pc> –</pc>
 <lb n="10"/>came</rs>, y <rs ana="WUQUB'_KAME'">vucub came</rs>. yaze concluyó <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice>
 <lb n="11"/>díxeron ellos. aquí esta sucorazon en el
-<lb n="12"/>asíento de esta hícara. estabíen veamos
+<lb n="12"/>asíento de <rs ana="TZIMA">esta hícara</rs>. estabíen veamos
 <lb n="13"/>dixeron <rs ana="JUN_KAME'">huncame</rs>, y <rs ana="WUQUB'_KAME'">vvcubcame</rs>. y cogíen
 <lb n="14"/>dolo con los tres dedos lo leuanto <choice><abbr>pa</abbr><expan instant="false">para</expan></choice> arrí<pc> –</pc>
 <lb n="15"/>ba chorreaba <rs ana="KIK'">lasangre</rs>, y estaba muy
@@ -8439,8 +8439,8 @@ cap.
 <lb n="20"/>çía cantando. el otro deçía. <rs ana="PUJUYU'">puhuyu</rs>,
 <lb n="21"/><rs ana="PUJUYU''">puhuyu</rs>, y así se llamá, <rs ana="PUJUYU''">puhuyu</rs> los dos
 <lb n="22"/>guardas de la guerta de <rs ana="JUN_KAME''">hun came</rs>, y
-<lb n="23"/><rs ana="WUQUB'_KAME'">vucub came</rs>, y no sentían a las hor<pc> –</pc>
-<lb n="24"/>mígas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sacaban <rs ana="KOTZ'I'J">las flores</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> guarda<pc> –</pc>
+<lb n="23"/><rs ana="WUQUB'_KAME'">vucub came</rs>, y no sentían a <rs ana="SANIK">las hor<pc> –</pc>
+<lb n="24"/>mígas</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sacaban <rs ana="KOTZ'I'J">las flores</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> guarda<pc> –</pc>
 <lb n="25"/>ban, y venían como dando bueltas, y
 <lb n="26"/>meneandose con <rs ana="KOTZ'I'J">las flores</rs> de sobre
 <lb n="27"/>los palos, y con los díentes alzaban las
@@ -8449,20 +8449,20 @@ cap.
 <lb n="30"/>y no sentían los díentes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les comían
 <lb n="31"/>las alas, y las colas y así lleuaban <rs ana="KOTZ'I'J">las
 <lb n="32"/>flores</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> cogían con los díentes y muy
-<lb n="33"/>en breve llenaron las quarto hícaras
+<lb n="33"/>en breve llenaron las quarto <rs ana="TZIMA">hícaras</rs>
 <lb n="34"/>de <rs ana="KOTZ'I'J">flores</rs>, y estaban colmadas quan<pc> –</pc>
-<lb n="35"/>do amanezío. y luego víníeron los
-<lb n="36"/>mensageros, embíados, y díxeron, dí<pc> –</pc>
+<lb n="35"/>do amanezío. y luego víníeron <rs ana="USAMAJEL_XIB'ALB'A">los
+<lb n="36"/>mensageros</rs>, embíados, y díxeron, dí<pc> –</pc>
 <lb n="37"/>çe el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> luego vengan lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> hemos
-<lb n="38"/>Ganado. esta bíen <rs ana="KA'IB_K'AJOLAB'">díxeron</rs>, y se
-<lb n="39"/>fueron lleuando las quarto hícaras
+<lb n="38"/>ganado. esta bíen <rs ana="KA'IB_K'AJOLAB'">díxeron</rs>, y se
+<lb n="39"/>fueron lleuando las quarto <rs ana="TZIMA">hícaras</rs>
 <lb n="40"/>colmadas de <rs ana="KOTZ'I'J">flores</rs>, y llegaron
-<lb n="41"/>ante el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>y los Señores tomaron las
+<lb n="41"/>ante el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>y <rs ana="RAJAWAL_XIB'ALB'A">los Señores</rs> tomaron las
 <lb n="42"/><rs ana="KOTZ'I'J">flores</rs>, muy suaves. y así fueron ven
 <lb n="43"/>çídos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>. y solas hor<pc> –</pc>
 <lb n="44"/>mígas embíaron <rs ana="KA'IB_K'AJOLAB'">los mançebos</rs>
 <lb n="45"/>y en una noche cortaron <rs ana="SANIK">las hormigas</rs>
-<lb n="46"/>las flores, y las pusieron en las hícaras
+<lb n="46"/><rs ana="KOTZ'I'J">las flores</rs>, y las pusieron en <rs ana="TZIMA">las hícaras</rs>
 <lb n="47"/>y así se espantaron todos <rs ana="RAJAWAL_XIB'ALB'A">los deelínfí<pc> –</pc>
 <pb corresp="xom-f26-s2"/>
 <lb n="1"/>erno</rs>, y tenían los rostros pálidos por
