@@ -2,6 +2,8 @@
 
 ## To do
 
+* Add RS elements for animals
+* Learn punctuation pattern 
 * Figure out a way to enable students to do continue the markup. 
 * Verify paragraph breaks and think about element types (e.g. lists).
 * Incorporate the Escolios! (See `/00-ximenez`.)
