@@ -1,0 +1,53 @@
+digraph Annalte {
+
+    fontname="Arial"
+    node [fontname="Arial" shape="plaintext"]
+
+    subgraph cluster_TEI {
+        label="TEI Sources\n(Github)"
+        fontcolor=royalblue
+        color=lightgray
+        style=filled
+        TEI1 [label="Ximenez"]
+        TEI2 [label="Colop"]
+        TEIN [label="X"]
+        SCHEMA [label="TEI Schema\nODD"]
+        HEADER [label="Shared Header\nContent"]
+    }
+
+    subgraph cluster_DRUPAL {
+        label="Database\n(Drupal)"
+        fontcolor=royalblue
+        color=lightgray
+        style=filled
+        ANNOTATIONS
+        TOPICS
+    }
+
+    subgraph cluster_AANALTE {
+        label="Aanalte"
+        fontcolor=royalblue
+        color=lightgray
+        style=filled
+        TRANSFORMS [label="XSLT"]
+        HTML
+        CTE   
+    }
+
+    edge [label="git\npull"]
+    TEI1 -> TRANSFORMS
+    TEI2 -> TRANSFORMS
+    TEIN -> TRANSFORMS
+
+    edge [label=""]
+    TRANSFORMS -> HTML
+    TRANSFORMS -> CTE
+
+    edge [label="API\nRDF"]
+    ANNOTATIONS -> TRANSFORMS
+    TOPICS -> TRANSFORMS
+
+
+
+
+}
