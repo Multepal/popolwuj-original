@@ -210,8 +210,9 @@
     </xsl:template>
 
     <xsl:template match="tei:rs">        
-        <xsl:variable name="ana_old" select="@ana" />
-        <xsl:variable name="ana_new" select="replace($ana_old, $quote, $quote_replacement)" />
+        <!-- <xsl:variable name="ana_old" select="@ana" />
+        <xsl:variable name="ana_new" select="replace($ana_old, $quote, $quote_replacement)" /> -->
+        <xsl:variable name="ana_new" select="replace(@ana, $quote, $quote_replacement)" />
         <!-- <a class="rs" data-ana="{@ana}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a> -->
         <a class="rs" data-ana="{$ana_new}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a>
     </xsl:template>
