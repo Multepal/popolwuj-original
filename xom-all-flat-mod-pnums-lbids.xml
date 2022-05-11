@@ -74,7 +74,7 @@ cap.
 <note place="margin-left" anchored="true"><num rend="large">1.</num></note>
 <lb n="4" id="xom-f01-s1--4"/>tiquiba vi oher ꜩih, vticaribal,
 <lb n="5" id="xom-f01-s1--5"/>vxenabal puch ronohel xban,
-<lb n="6" id="xom-f01-s1--6"/>pa <rs ana="TINAMIT_K'ICHE'" type="toponym">tinamit quiche</rs>, ramac qui<pc> –</pc>
+<lb n="6" id="xom-f01-s1--6"/>pa <rs ana="TINAMIT_K'ICHE'">tinamit quiche</rs>, ramac qui<pc> –</pc>
 <lb n="7" id="xom-f01-s1--7"/>che vinac; arecut xchicacam
 <lb n="8" id="xom-f01-s1--8"/>vi vcutunizaxic, vcalahobiza<pc> –</pc>
 <lb n="9" id="xom-f01-s1--9"/>xic, vꜩihoxic puch euaxibal
@@ -353,7 +353,7 @@ cap.
 <lb n="30" id="xom-f03-s2--30"/><rs ana="B'ITOL">ah bit</rs>. Ta xquibÿh cut chire
 <lb n="31" id="xom-f03-s2--31"/><rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmucane</rs><add instant="false" status="unremarkable">¶</add> cate cut
 <lb n="32" id="xom-f03-s2--32"/>vbixic ri chiquech ri enic vachi<pc> –</pc>
-<lb n="33" id="xom-f03-s2--33"/>nel, ratit quih ratit zac que
+<lb n="33" id="xom-f03-s2--33"/>nel, <rs ana="IXMUKANE">ratit quih</rs> <rs ana="IXMUKANE">ratit zac</rs> que
 <lb n="34" id="xom-f03-s2--34"/>vqhaxic cumal ri <rs ana="TZ'AQOL">ꜩacol</rs> <rs ana="B'ITOL">bitol</rs>
 <lb n="35" id="xom-f03-s2--35"/>are qui bi ri <rs ana="XPIYAKOK">xpiyacoc</rs>, <rs ana="IXMUKANE">xmuca<pc> –</pc>
 <lb n="36" id="xom-f03-s2--36"/>ne</rs>
@@ -378,7 +378,7 @@ cap.
 <lb n="5" id="xom-f04-s1--5"/>m</rs>, <rs ana="KA'MUL_K'AJOLOM">camul qaholom</rs> <rs ana="NIM_AQ">nimac</rs> <rs ana="NIMA_SIS">nima
 <lb n="6" id="xom-f04-s1--6"/>ꜩÿz</rs> <rs ana="AJK'UWAL">ah cuval</rs> <rs ana="AJYAMANIK">ah yamanic</rs> <rs ana="AJCH'UT">ah chut</rs>
 <lb n="7" id="xom-f04-s1--7"/><rs ana="AJTZ'ALAM">ahꜩalam</rs>, <rs ana="AJRAXA_LAQ">ah raxalac</rs>, <rs ana="AJRAXA_TZEL">ah raxazel</rs>
-<lb n="8" id="xom-f04-s1--8"/><rs ana="AJ_Q'OL">ah eol</rs>, <rs ana="AJTOLTEKAT">ah toltecat</rs> <rs ana="RATI'T_Q'IJ">ratit quih</rs> <rs ana="RATI'T_SAQ">ra
+<lb n="8" id="xom-f04-s1--8"/><rs ana="AJQ'OL">ah eol</rs>, <rs ana="AJTOLTEKAT">ah toltecat</rs> <rs ana="RATI'T_Q'IJ">ratit quih</rs> <rs ana="RATI'T_SAQ">ra
 <lb n="9" id="xom-f04-s1--9"/>tiꜩac</rs> quixvqhaxic rumal caꜩac
 <lb n="10" id="xom-f04-s1--10"/>cabit chimala chi <rs ana="IXIM">ixim</rs>, chi <rs ana="TZ'ITE'">ꜩite</rs>
 <lb n="11" id="xom-f04-s1--11"/>xa chibanatahic xa pu chel apan
@@ -652,8 +652,6 @@ cap.
 <lb n="23" id="xom-f06-s2--23"/>xch<del rend="scribble" instant="false" status="unremarkable">i</del> cabÿh qui chacatahic
 <lb n="24" id="xom-f06-s2--24"/>chi qui huhunal ri nimari<pc> –</pc>
 <lb n="25" id="xom-f06-s2--25"/>zai rib.
-<note resp="editor">Implied by the Spanish </note>
-<note resp="editor">In response to above, K'iche' is anchor text (so paragraph element removed)</note>
 <lb n="25.1"/>are ri <rs ana="WUQUB'_KAQIX">vvcub ca<pc> –</pc>
 <lb n="26" id="xom-f06-s2--26"/>quix</rs> hun nima che ri ta<pc> –</pc>
 <lb n="27" id="xom-f06-s2--27"/>pal are cu recha ri <rs ana="WUQUB'_KAQIX">vvcub
@@ -692,7 +690,7 @@ cap.
 <lb n="12" id="xom-f07-s1--12"/>la xqha cu ri <rs ana="CHIMALMAT">chimalmat</rs> ri
 <lb n="13" id="xom-f07-s1--13"/>xoquil <rs ana="WUQUB'_KAQIX">vvcub caquix</rs>. na
 <lb n="14" id="xom-f07-s1--14"/>qui pa ri ri e caib qaxtoq mi<pc> –</pc>
-<lb n="15" id="xom-f07-s1--15"/>xiquivubah, mi xzilibatah
+<lb n="15" id="xom-f07-s1--15"/>xiqui<rs ana="WUB">vubah</rs>, mi xzilibatah
 <lb n="16" id="xom-f07-s1--16"/>nu ꜫaꜫate rumal xacachu<pc> –</pc>
 <lb n="17" id="xom-f07-s1--17"/>iu ahe ve cacoxou chic mi<pc> –</pc>
 <lb n="18" id="xom-f07-s1--18"/>nabe mixnucam vloc <hi rend="double-underline">chuvi</hi>
@@ -730,29 +728,29 @@ cap.
 <lb n="1" id="xom-f07-s2--1"/>cut. cate cut ta xebec ꜩamal
 <note place="margin-left" anchored="true"><num rend="large">7</num></note>
 <lb n="2" id="xom-f07-s2--2"/>cubi ri <rs ana="WUQUB'_KAQIX">vvcub caquix</rs> chuvach
-<lb n="3" id="xom-f07-s2--3"/>v calibal, ta xeicouic ri atit
-<lb n="4" id="xom-f07-s2--4"/>mama queeꜩeyah curi eca<pc> –</pc>
-<lb n="5" id="xom-f07-s2--5"/>ib <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> chiquih ta xei<pc> –</pc>
+<lb n="3" id="xom-f07-s2--3"/>v calibal, ta xeicouic ri <rs ana="SAQI_NIM_AQ_SIS">atit
+<lb n="4" id="xom-f07-s2--4"/>mama</rs> queeꜩeyah curi <rs ana="KA'IB_K'AJOLAB'">eca<pc> –</pc>
+<lb n="5" id="xom-f07-s2--5"/>ib qaholab</rs> chiquih ta xei<pc> –</pc>
 <lb n="6" id="xom-f07-s2--6"/>cou chuxe rochoch ahau cu
 <lb n="7" id="xom-f07-s2--7"/>racuh cu vchi ri <rs ana="WUQUB'_KAQIX">vvcub ca<pc> –</pc>
 <lb n="8" id="xom-f07-s2--8"/>quix</rs> rumal re. ta xril cut <rs ana="WUQUB'_KAQIX">v
 <lb n="9" id="xom-f07-s2--9"/>vcub caquix</rs> ri <rs ana="SAQI_NIM_AQ_SIS">mama atit</rs> ca<pc> –</pc>
 <lb n="10" id="xom-f07-s2--10"/>chbilan quib apa quixpe vi
-<lb n="11" id="xom-f07-s2--11"/>camam, xqha curi ahau xa
-<lb n="12" id="xom-f07-s2--12"/>oh ꜩucubei quib lal ahau
+<lb n="11" id="xom-f07-s2--11"/><rs ana="SAQI_NIM_AQ_SIS">camam</rs>, xqha curi <rs ana="WUQUB'_KAQIX">ahau</rs> xa
+<lb n="12" id="xom-f07-s2--12"/>oh ꜩucubei quib <rs ana="WUQUB'_KAQIX">lal ahau</rs>
 <lb n="13" id="xom-f07-s2--13"/>xeqha cut. naquipa iꜩucu<pc> –</pc>
-<lb n="14" id="xom-f07-s2--14"/>bal maivalcval ri ivachbi<pc> –</pc>
-<lb n="15" id="xom-f07-s2--15"/>lan, mahabi lalahau eca ca
-<lb n="16" id="xom-f07-s2--16"/>mam ri, xere nare catocobah
+<lb n="14" id="xom-f07-s2--14"/>bal ma<rs ana="KA'IB_K'AJOLAB'">ivalcval</rs> ri ivachbi<pc> –</pc>
+<lb n="15" id="xom-f07-s2--15"/>lan, mahabi <rs ana="WUQUB'_KAQIX">lal ahau</rs> eca <rs ana="SAQI_NIM_AQ_SIS">ca
+<lb n="16" id="xom-f07-s2--16"/>mam</rs> ri, xere nare catocobah
 <lb n="17" id="xom-f07-s2--17"/>qui vach ri yaaxel hupir cha
-<lb n="18" id="xom-f07-s2--18"/>cap cacaya chiquech lal ahau
+<lb n="18" id="xom-f07-s2--18"/>cap cacaya chiquech <rs ana="WUQUB'_KAQIX">lal ahau</rs>
 <lb n="19" id="xom-f07-s2--19"/>xeqha cut <rs ana="SAQI_NIM_AQ_SIS">ri atit mama</rs> cuꜩin
-<lb n="20" id="xom-f07-s2--20"/>curi ahau rumal vcoxom re
+<lb n="20" id="xom-f07-s2--20"/>curi <rs ana="WUQUB'_KAQIX">ahau</rs> rumal vcoxom re
 <lb n="21" id="xom-f07-s2--21"/>xa cunimac vachih chic <del instant="false" status="unremarkable">qu</del> ca
 <lb n="22" id="xom-f07-s2--22"/>qhavic intabacanih chivech
 <lb n="23" id="xom-f07-s2--23"/>chitocobah ta nuvach, na qui<pc> –</pc>
 <lb n="24" id="xom-f07-s2--24"/>pa quichibano, naquion <del instant="false" status="unremarkable">chi –</del>
-<lb n="25" id="xom-f07-s2--25"/>qui chicunah, xqha cut ahau
+<lb n="25" id="xom-f07-s2--25"/>qui chicunah, xqha cut <rs ana="WUQUB'_KAQIX">ahau</rs>
 <lb n="26" id="xom-f07-s2--26"/>xa vchicopil eiah chique
 <lb n="27" id="xom-f07-s2--27"/>lezah, xacu vbac vvach chi<pc> –</pc>
 <lb n="28" id="xom-f07-s2--28"/>cacunah xabac chicavico lal
@@ -761,14 +759,14 @@ cap.
 <lb n="31" id="xom-f07-s2--31"/>xouic hutaquih maui choqui<pc> –</pc>
 <lb n="32" id="xom-f07-s2--32"/>tahic, mahabi nu varam rum<pc> –</pc>
 <lb n="33" id="xom-f07-s2--33"/>al ruq vbac nu vach xa xi<pc> –</pc>
-<lb n="34" id="xom-f07-s2--34"/>quivbah e caib qaxtoq ta xti-
+<lb n="34" id="xom-f07-s2--34"/>qui<rs ana="WUB">vbah</rs> e caib qaxtoq ta xti-
 <lb n="35" id="xom-f07-s2--35"/>caric, maui quinechahic rumal
 <lb n="36" id="xom-f07-s2--36"/>quehe ta cut chitocobah vi nu
 <lb n="37" id="xom-f07-s2--37"/>vach, xa cachuiub vehe chic
-<lb n="38" id="xom-f07-s2--38"/>rive, vꜩbala lal ahau chicop
+<lb n="38" id="xom-f07-s2--38"/>rive, vꜩbala <rs ana="WUQUB'_KAQIX">lal ahau</rs> chicop
 <lb n="39" id="xom-f07-s2--39"/>ba cacaxuuic xachoc v que<pc> –</pc>
 <lb n="40" id="xom-f07-s2--40"/>xel chel ri ela. maba vꜩlo chel
-<lb n="41" id="xom-f07-s2--41"/>ri ve rumal xere in ahau vi
+<lb n="41" id="xom-f07-s2--41"/>ri ve rumal xere <rs ana="WUQUB'_KAQIX">in ahau</rs> vi
 <lb n="42" id="xom-f07-s2--42"/>nu caubal ri ve. ruq vbac nu
 <lb n="43" id="xom-f07-s2--43"/>vach. xchicacoh chic nacut v
 <lb n="44" id="xom-f07-s2--44"/>quexel hocombac xchoc chic
@@ -779,7 +777,7 @@ cap.
 <lb n="1" id="xom-f08-s1--1"/>re <rs ana="WUQUB'_KAQIX">vvcub caquix</rs>. xa <rs ana="IXIM">zaqui ixim</rs>
 <lb n="2" id="xom-f08-s1--2"/>vquexel re xoquic, xa chi cu
 <lb n="3" id="xom-f08-s1--3"/>zac huluhuh chi vla <rs ana="IXIM">ixim</rs> pu chi. huzu<pc> –</pc>
-<lb n="4" id="xom-f08-s1--4"/>cu xcah v vach maui ahau chic
+<lb n="4" id="xom-f08-s1--4"/>cu xcah v vach maui <rs ana="WUQUB'_KAQIX">ahau</rs> chic
 <lb n="5" id="xom-f08-s1--5"/>xvachinic xquiz elic ri re cuval
 <lb n="6" id="xom-f08-s1--6"/>raxcauacoh puchi ta xcunax chi
 <lb n="7" id="xom-f08-s1--7"/>cut vbac vvach <rs ana="WUQUB'_KAQIX">vvcub caquix</rs> ta
@@ -954,7 +952,7 @@ cap.
 <lb n="27" id="xom-f09-s2--27"/>cub caquix</rs>. quehe cut qui<pc> –</pc>
 <lb n="28" id="xom-f09-s2--28"/>camic <rs ana="MOTZ">omuch qaholab</rs> ri xqha
 <lb n="29" id="xom-f09-s2--29"/>chicut are ri xeoc chichu<pc> –</pc>
-<lb n="30" id="xom-f09-s2--30"/>milal ri <rs ana="MOTZ" type="toponym">moꜩ</rs> vbi cumal, ve
+<lb n="30" id="xom-f09-s2--30"/>milal ri <rs ana="MOTZ">moꜩ</rs> vbi cumal, ve
 <lb n="31" id="xom-f09-s2--31"/>cut xa zacbal ꜩih lo are chi<pc> –</pc>
 <lb n="32" id="xom-f09-s2--32"/>cut chicabÿh vchacatahic
 <lb n="33" id="xom-f09-s2--33"/>chic <rs ana="SIPAKNA">zipacna</rs> rumal ri e caib
@@ -984,7 +982,7 @@ cap.
 <lb n="8" id="xom-f10-s1--8"/>zelabah curi v va rachac
 <lb n="9" id="xom-f10-s1--9"/>tap rihouohic cate cut ta
 <lb n="10" id="xom-f10-s1--10"/>xquicoh vcoc chuxe pec, chu<pc> –</pc>
-<lb n="11" id="xom-f10-s1--11"/>xe nima huyub; <rs ana="ME'AWAN" type="toponym">meauan</rs>
+<lb n="11" id="xom-f10-s1--11"/>xe nima huyub; <rs ana="ME'AWAN">meauan</rs>
 <lb n="12" id="xom-f10-s1--12"/>vbi huyub xchacatah vi
 <lb n="13" id="xom-f10-s1--13"/>cate cut ta xeperi <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>
 <lb n="14" id="xom-f10-s1--14"/>xquicu ri <rs ana="SIPAKNA">zipacna</rs> chiya, a<pc> –</pc>
@@ -1335,8 +1333,8 @@ cap.
 <lb n="11" id="xom-f13-s2--11"/>rih qo v xic, are chi naipuch ri
 <lb n="12" id="xom-f13-s2--12"/><rs ana="JOLOM_TUKUR">holom tucur</rs> xa vtuquel vholom
 <lb n="13" id="xom-f13-s2--13"/>mahabi racan xa v xic qolic
-<lb n="14" id="xom-f13-s2--14"/>e cahib ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> rahpop achi<pc> –</pc>
-<lb n="15" id="xom-f13-s2--15"/>hab quecalem ta xepe cut chila
+<lb n="14" id="xom-f13-s2--14"/>e cahib ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> <rs ana="RAJPOP">rahpop achi<pc> –</pc>
+<lb n="15" id="xom-f13-s2--15"/>hab</rs> quecalem ta xepe cut chila
 <lb n="16" id="xom-f13-s2--16"/>chi <rs ana="XIB'ALB'A">xibalba</rs> libah chi xevlic e
 <lb n="17" id="xom-f13-s2--17"/>cu tacal chuvi <rs ana="JOM">hom</rs> que<rs ana="CHAAJ">chaah</rs> cut
 <lb n="18" id="xom-f13-s2--18"/><rs ana="JUN_JUNAJPU">hun hunahpu</rs> <rs ana="WUQUB'_JUNAJPU">vvcub hun ahpu</rs>
@@ -1384,19 +1382,19 @@ cap.
 <lb n="10" id="xom-f14-s1--10"/>cut pu beal <rs ana="XIB'ALB'A">xibalba</rs>, xuluxuh
 <lb n="11" id="xom-f14-s1--11"/>vchi cumuc, xecah cut ta xeel
 <lb n="12" id="xom-f14-s1--12"/>chicu aponoc chuchihal ha zi<pc> –</pc>
-<lb n="13" id="xom-f14-s1--13"/>van ub <rs ana="NU'_SIWAN" type="toponym">nuzivan</rs> <rs ana="K'ULKU_SIWAN" type="toponym">cul, cu ziuan</rs>
+<lb n="13" id="xom-f14-s1--13"/>van ub <rs ana="NU'_SIWAN">nuzivan</rs> <rs ana="K'ULKU_SIWAN">cul, cu ziuan</rs>
 <lb n="14" id="xom-f14-s1--14"/>vbi xeecovi xeeco chicut chu<pc> –</pc>
-<lb n="15" id="xom-f14-s1--15"/>pan halhal <rs ana="JA'_SIMAJ" type="toponym">ha zimah</rs>, maui ahí<pc> –</pc>
+<lb n="15" id="xom-f14-s1--15"/>pan halhal <rs ana="JA'_SIMAJ">ha zimah</rs>, maui ahí<pc> –</pc>
 <lb n="16" id="xom-f14-s1--16"/>lan zimah xeicovi maui xeto<pc> –</pc>
 <lb n="17" id="xom-f14-s1--17"/>cotahic ta xeopon chicut chi a
-<lb n="18" id="xom-f14-s1--18"/><rs ana="KIK'_YA'" type="toponym">chiquiquia</rs> xeicou chiri maui
-<lb n="19" id="xom-f14-s1--19"/>xcucah xeopon chi a vtuquel <rs ana="PUJ_CHI_JA'" type="toponym">pu<pc> –</pc>
+<lb n="18" id="xom-f14-s1--18"/><rs ana="KIK'_YA'">chiquiquia</rs> xeicou chiri maui
+<lb n="19" id="xom-f14-s1--19"/>xcucah xeopon chi a vtuquel <rs ana="PUJ_CHI_JA'">pu<pc> –</pc>
 <lb n="20" id="xom-f14-s1--20"/>ch chi a</rs> maui xechacatahic xa<pc> –</pc>
 <lb n="21" id="xom-f14-s1--21"/>ui xeicou chic ta xeopon chicut
 <lb n="22" id="xom-f14-s1--22"/>pacahib xalcat be, cachiri cut
 <lb n="23" id="xom-f14-s1--23"/>xechacatah vi pacahib xalcat
-<lb n="24" id="xom-f14-s1--24"/>be <rs ana="KAQA_B'E" type="toponym">hun ꜫaꜫabe</rs>, <rs ana="Q'EQA_B'E" type="toponym">hun cut queca
-<lb n="25" id="xom-f14-s1--25"/>be</rs>, <rs ana="SAQI_B'E" type="toponym">zaqui be hun</rs>, <rs ana="Q'ANA_B'E">hun cut ꜫana
+<lb n="24" id="xom-f14-s1--24"/>be <rs ana="KAQA_B'E">hun ꜫaꜫabe</rs>, <rs ana="Q'EQA_B'E">hun cut queca
+<lb n="25" id="xom-f14-s1--25"/>be</rs>, <rs ana="SAQI_B'E">zaqui be hun</rs>, <rs ana="Q'ANA_B'E">hun cut ꜫana
 <lb n="26" id="xom-f14-s1--26"/>be</rs> cahib be. are cut xqhau
 <lb n="27" id="xom-f14-s1--27"/>ri <rs ana="Q'EQA_B'E">queca be</rs> in quinicamo in
 <lb n="28" id="xom-f14-s1--28"/>vbe ahau xqhau ri be chiricut
@@ -1437,7 +1435,7 @@ cap.
 <lb n="13" id="xom-f14-s2--13"/>conohel <rs ana="RAJAWAL_XIB'ALB'A">rahaual xibalba</rs>. xa
 <lb n="14" id="xom-f14-s2--14"/>hix chiha, ve chibe yaoc ichah
 <lb n="15" id="xom-f14-s2--15"/>izic chi varabal xevqhaxcut
-<lb n="16" id="xom-f14-s2--16"/>cate cut xeoponic pa <rs ana="Q'EQUMA_JA" type="toponym">quecuma
+<lb n="16" id="xom-f14-s2--16"/>cate cut xeoponic pa <rs ana="Q'EQUMA_JA">quecuma
 <lb n="17" id="xom-f14-s2--17"/>ha</rs> vtuquel queeum vpam chi<pc> –</pc>
 <lb n="18" id="xom-f14-s2--18"/>hata xquicam cut qui naoh <rs ana="XIB'ALB'A">xi<pc> –</pc>
 <lb n="19" id="xom-f14-s2--19"/>balba</rs>, xa quecapuzu chuec xa
@@ -1471,18 +1469,18 @@ cap.
 <lb n="47" id="xom-f14-s2--47"/>molah chi tihobal arevnabe ri
 <pb xml:id="xom-f15-s1"/>
 <lb n="1" id="xom-f15-s1--1"/><rs ana="Q'EQUMA_JA">queeuma ha</rs> vtuquel queeum
-<lb n="2" id="xom-f15-s1--2"/>vpam, vcab chi cut <rs ana="XUXULIM_JA" type="toponym">xuxulim ha</rs>
+<lb n="2" id="xom-f15-s1--2"/>vpam, vcab chi cut <rs ana="XUXULIM_JA">xuxulim ha</rs>
 <lb n="3" id="xom-f15-s1--3"/>vbi ꜩaꜩ chi teu vpam zac xuru<pc> –</pc>
 <lb n="4" id="xom-f15-s1--4"/>xuh, zac caracoh chi xurulah teu
-<lb n="5" id="xom-f15-s1--5"/>choc vloc chupam, rox chi cut <rs ana="B'ALAM_JA" type="toponym">ba<pc> –</pc>
+<lb n="5" id="xom-f15-s1--5"/>choc vloc chupam, rox chi cut <rs ana="B'ALAM_JA">ba<pc> –</pc>
 <lb n="6" id="xom-f15-s1--6"/>lami ha</rs> vbi vtuquel <rs ana="B'ALAM">balam</rs> qo chu<pc> –</pc>
 <lb n="7" id="xom-f15-s1--7"/>pan quequichouic, quebuchuuic
 <lb n="8" id="xom-f15-s1--8"/>chi matat quechiquitit queeꜩa<pc> –</pc>
-<lb n="9" id="xom-f15-s1--9"/>pim <rs ana="B'ALAM">balam</rs> <rs ana="B'ALAM_JA">pa ha</rs>. <rs ana="SOTZ'I_JA" type="toponym">ꜩoꜩi ha</rs> vbi v
+<lb n="9" id="xom-f15-s1--9"/>pim <rs ana="B'ALAM">balam</rs> <rs ana="B'ALAM_JA">pa ha</rs>. <rs ana="SOTZ'I_JA">ꜩoꜩi ha</rs> vbi v
 <lb n="10" id="xom-f15-s1--10"/>cah v tihobal vtuquel ꜩoꜩ vpam
 <lb n="11" id="xom-f15-s1--11"/>chiha queꜩiꜩotic, queꜩitilahic
 <lb n="12" id="xom-f15-s1--12"/>queropop pa ha e ꜩapin ꜩoꜩ ma<pc> –</pc>
-<lb n="13" id="xom-f15-s1--13"/>habi queel vi. roo chi cut <rs ana="CHAYIM_JA" type="toponym">chaim
+<lb n="13" id="xom-f15-s1--13"/>habi queel vi. roo chi cut <rs ana="CHAYIM_JA">chaim
 <lb n="14" id="xom-f15-s1--14"/>ha</rs> vbi vtuquel chaqol chupam
 <lb n="15" id="xom-f15-s1--15"/>zacleloh re chicha chiꜩininic
 <lb n="16" id="xom-f15-s1--16"/>chiyohohic chiri pa ha. qui na<pc> –</pc>
@@ -1501,16 +1499,16 @@ cap.
 <lb n="29" id="xom-f15-s1--29"/>puch, varal xchivevah vi ivach
 <lb n="30" id="xom-f15-s1--30"/>quixpuzic xqha<rs ana="JUN_KAME'">hun came</rs> <rs ana="WUQUB'_KAME'">vvcub
 <lb n="31" id="xom-f15-s1--31"/>came</rs>. ta xepuz cut xemuc cut
-<lb n="32" id="xom-f15-s1--32"/>chi <rs ana="PUSB'AL_CHAAJ" type="toponym">pucbal chah</rs> vbi xemuc vi
+<lb n="32" id="xom-f15-s1--32"/>chi <rs ana="PUSB'AL_CHAAJ">pucbal chah</rs> vbi xemuc vi
 <lb n="33" id="xom-f15-s1--33"/>xcat vholom ri <rs ana="JUN_JUNAJPU">hun hunahpu</rs>
 <lb n="34" id="xom-f15-s1--34"/>xa vnimal xmuquic ruq ri v chac
-<lb n="35" id="xom-f15-s1--35"/>chiya ri vholom xolche ri tiquil
+<lb n="35" id="xom-f15-s1--35"/>chiya ri <rs ana="JUN_JUNAJPU">vholom</rs> xolche ri tiquil
 <lb n="36" id="xom-f15-s1--36"/>pa be xqha cut <rs ana="JUN_KAME'">hun came</rs> <rs ana="WUQUB'_KAME'">vvcu<pc> –</pc>
-<lb n="37" id="xom-f15-s1--37"/>bcame</rs>. ta xbe cuyaoc vholom
+<lb n="37" id="xom-f15-s1--37"/>bcame</rs>. ta xbe cuyaoc <rs ana="JUN_JUNAJPU">vholom</rs>
 <lb n="38" id="xom-f15-s1--38"/>xol che. ta xvachin curi che
 <lb n="39" id="xom-f15-s1--39"/>mahabi v vach, maha choco ri
 <lb n="40" id="xom-f15-s1--40"/>vholom ri <rs ana="JUN_JUNAJPU">hun hunahpu</rs> chu<pc> –</pc>
-<lb n="41" id="xom-f15-s1--41"/>xol che. are curizima cohcha
+<lb n="41" id="xom-f15-s1--41"/>xol che. are cu<rs ana="TZIMA">rizima</rs> cohcha
 <lb n="42" id="xom-f15-s1--42"/>chire va camic vholom <rs ana="JUN_JUNAJPU">hun hu<pc> –</pc>
 <lb n="43" id="xom-f15-s1--43"/>nahpu</rs> chuqhaxic. taxumaihah
 <lb n="44" id="xom-f15-s1--44"/>cut <rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">vvcub came</rs> v
@@ -1519,8 +1517,8 @@ cap.
 <lb n="47" id="xom-f15-s1--47"/>holom <rs ana="JUN_JUNAJPU">hunhunahpu</rs> xahunam
 <pb xml:id="xom-f15-s2"/>
 <note place="margin-right" type="pagination" anchored="true"><num rend="large">15</num></note>
-<lb n="1" id="xom-f15-s2--1"/>chic vvach ruq vvach zima carilo
-<lb n="2" id="xom-f15-s2--2"/>ronohel <rs ana="XIB'ALB'A">xibalba</rs> ta chul qui caiih.
+<lb n="1" id="xom-f15-s2--1"/>chic vvach ruq vvach <rs ana="TZIMA">zima</rs> carilo
+<lb n="2" id="xom-f15-s2--2"/>ronohel <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> ta chul qui caiih.
 <lb n="3" id="xom-f15-s2--3"/>nim vqoheic riche xux chiqui qux
 <lb n="4" id="xom-f15-s2--4"/>rumal huzu xubanic ta xoc vholom
 <lb n="5" id="xom-f15-s2--5"/><rs ana="JUN_JUNAJPU">hun hunahpu</rs> chuxol xeqha curi <rs ana="XIB'ALB'A">xi<pc> –</pc>
@@ -1530,62 +1528,62 @@ cap.
 <lb n="9" id="xom-f15-s2--9"/>catah quib, xquiquil quib xibal<pc> –</pc>
 <lb n="10" id="xom-f15-s2--10"/>ba conohel. macu calah chiri v
 <lb n="11" id="xom-f15-s2--11"/>holom <rs ana="JUN_JUNAJPU">hun hunahpu</rs> xa hunama<pc> –</pc>
-<lb n="12" id="xom-f15-s2--12"/>tal chic ruc vvach che ri zima
+<lb n="12" id="xom-f15-s2--12"/>tal chic ruc vvach che ri <rs ana="TZIMA">zima</rs>
 <lb n="13" id="xom-f15-s2--13"/>vbi xuxic, nim cut vꜩihoxic xu<pc> –</pc>
 <lb n="14" id="xom-f15-s2--14"/>ta hun <rs ana="IXKIK'">capoh</rs>. va cute xchicabÿh
 <lb n="15" id="xom-f15-s2--15"/>roponic.
 </p>
 <p xml:id="p20">
-<lb n="16" rend="indent"/><hi rend="large">V</hi>a chi cute vꜩihoxic hun capoh
-<lb n="17" id="xom-f15-s2--17"/><rs ana="IXKIK'">vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>
+<lb n="16" rend="indent"/><hi rend="large">V</hi>a chi cute vꜩihoxic <rs ana="IXKIK'">hun capoh
+<lb n="17" id="xom-f15-s2--17"/>vmeal</rs> hun ahau <rs ana="KUCHUMA_KIK'">cuchumaquic</rs>
 <lb n="18" id="xom-f15-s2--18"/>vbi.
 </p>
 <p xml:id="p21">
-<lb n="19" rend="indent"/><hi rend="large">A</hi>re cut ta xuta hun <rs ana="IXKIK'">capoh vme<pc> –</pc>
+<lb n="19" rend="indent"/><hi rend="large">A</hi>re cut ta xuta <rs ana="IXKIK'">hun capoh vme<pc> –</pc>
 <lb n="20" id="xom-f15-s2--20"/>al</rs> hun ahau <rs ana="KUCHUMA_KIK'">cuchumaquic</rs> vbi v
-<lb n="21" id="xom-f15-s2--21"/>cahau <rs ana="IXKIK'">xquic</rs> cut vbi ri capoh ta
+<lb n="21" id="xom-f15-s2--21"/>cahau <rs ana="IXKIK'">xquic</rs> cut vbi ri <rs ana="IXKIK'">capoh</rs> ta
 <lb n="22" id="xom-f15-s2--22"/>xuta cut vꜩihoxic ri vvach che
 <lb n="23" id="xom-f15-s2--23"/>ta chiꜩihox chic rumal vcahau
 <lb n="24" id="xom-f15-s2--24"/>chumaihah cut ta chiꜩihoxic ma
 <lb n="25" id="xom-f15-s2--25"/>qui naoh vila ri che cabixic qui<pc> –</pc>
 <lb n="26" id="xom-f15-s2--26"/>ꜩih quz vvach cacha canutao x<pc> –</pc>
 <lb n="27" id="xom-f15-s2--27"/>qha cut cate xbec xa vtuquel xa<pc> –</pc>
-<lb n="28" id="xom-f15-s2--28"/>pon cut chuxe che tiquil chipuc<pc> –</pc>
-<lb n="29" id="xom-f15-s2--29"/>bal chah tiquil vi hiiaa. naqui<pc> –</pc>
+<lb n="28" id="xom-f15-s2--28"/>pon cut chuxe che tiquil chi<rs ana="PUSB'AL_CHAAJ">puc<pc> –</pc>
+<lb n="29" id="xom-f15-s2--29"/>bal chah</rs> tiquil vi hiiaa. naqui<pc> –</pc>
 <lb n="30" id="xom-f15-s2--30"/>pe vvach vae che maqui pa
 <lb n="31" id="xom-f15-s2--31"/>quz chivachin vache. maquicam
 <lb n="32" id="xom-f15-s2--32"/>tah maquizach tah laquita xchin
 <lb n="33" id="xom-f15-s2--33"/>chup hunoc xqha curi <rs ana="IXKIK'">capoh</rs> ta
-<lb n="34" id="xom-f15-s2--34"/>xqhau cut ri bac qo vla xol che
-<lb n="35" id="xom-f15-s2--35"/>naquipa caraih chire ri xa bac
+<lb n="34" id="xom-f15-s2--34"/>xqhau cut ri <rs ana="JUN_JUNAJPU">bac</rs> qo vla xol che
+<lb n="35" id="xom-f15-s2--35"/>naquipa caraih chire ri xa <rs ana="JUN_JUNAJPU">bac</rs>
 <lb n="36" id="xom-f15-s2--36"/>ri colocoxinac chucab tac che
 <lb n="37" id="xom-f15-s2--37"/>xqha ri vholom <rs ana="JUN_JUNAJPU">hun ahpu</rs> ta<note place="margin-left" type="scribble" anchored="true"><seg type="note-symbol">✝</seg>Quo modo<lb />fiet istud <unclear>S<hi rend="superscript">r</hi></unclear><lb /> Luc., cap I.</note>
 <lb n="38" id="xom-f15-s2--38"/>xqhavic chire ri <rs ana="IXKIK'">capoh</rs> maca<pc> –</pc>
 <lb n="39" id="xom-f15-s2--39"/>raih xuqha xic? canuraih xqha
 <lb n="40" id="xom-f15-s2--40"/>cut ri <rs ana="IXKIK'">capoh</rs> uꜩbala chaliquiba
 <lb n="41" id="xom-f15-s2--41"/>vloc ri auiquicab vilana xqha
-<lb n="42" id="xom-f15-s2--42"/>ri bac ve xqha cu <rs ana="IXKIK'">capoh</rs> xuliqui<pc> –</pc>
+<lb n="42" id="xom-f15-s2--42"/>ri <rs ana="JUN_JUNAJPU">bac</rs> ve xqha cu <rs ana="IXKIK'">capoh</rs> xuliqui<pc> –</pc>
 <lb n="43" id="xom-f15-s2--43"/>ba acanoc vviquicab chuvach
-<lb n="44" id="xom-f15-s2--44"/>bac cate cut chipiꜩ caban v
-<lb n="45" id="xom-f15-s2--45"/>chub bac ta xpetic tacal cut pu
+<lb n="44" id="xom-f15-s2--44"/><rs ana="JUN_JUNAJPU">bac</rs> cate cut chipiꜩ caban v
+<lb n="45" id="xom-f15-s2--45"/>chub <rs ana="JUN_JUNAJPU">bac</rs> ta xpetic tacal cut pu
 <lb n="46" id="xom-f15-s2--46"/>cab <rs ana="IXKIK'">capoh</rs> ta xril cut v pu cab
 <lb n="47" id="xom-f15-s2--47"/>huzuc xunicoh macuhabi vchub
 <pb xml:id="xom-f16-s1"/>
-<lb n="1" id="xom-f16-s1--1"/>bac pucab xaretal mi xnuya cha<pc> –</pc>
-<lb n="2" id="xom-f16-s1--2"/>ue ri nu chub nu caxah. are ri nu
-<lb n="3" id="xom-f16-s1--3"/>holom mahabi cachocon chivi xa
-<lb n="4" id="xom-f16-s1--4"/>bac mahabi chi v chac. xavi que<pc> –</pc>
-<lb n="5" id="xom-f16-s1--5"/>he vholom ve qui nimahaU xa<pc> –</pc>
+<lb n="1" id="xom-f16-s1--1"/><rs ana="JUN_JUNAJPU">bac</rs> pucab xaretal mi xnuya cha<pc> –</pc>
+<lb n="2" id="xom-f16-s1--2"/>ue ri nu chub nu caxah. are ri <rs ana="JUN_JUNAJPU">nu
+<lb n="3" id="xom-f16-s1--3"/>holom</rs> mahabi cachocon chivi xa
+<lb n="4" id="xom-f16-s1--4"/><rs ana="JUN_JUNAJPU">bac</rs> mahabi chi v chac. xavi que<pc> –</pc>
+<lb n="5" id="xom-f16-s1--5"/>he <rs ana="JUN_JUNAJPU">vholom</rs> ve qui <rs ana="JUN_JUNAJPU">nimaha<add>U</add></rs> xa<pc> –</pc>
 <lb n="6" id="xom-f16-s1--6"/>vtiohil vꜩ vi vvach. are cut ta
 <lb n="7" id="xom-f16-s1--7"/>chicamic chuxibih chirib vinac
 <lb n="8" id="xom-f16-s1--8"/>rumal vbaquil. quehe cut xa
 <lb n="9" id="xom-f16-s1--9"/><rs ana="KA'IB_K'AJOLAB'">vqahol</rs> quehe ri vchub vcaxah
-<lb n="10" id="xom-f16-s1--10"/>vqoheic ve <rs ana="KA'IB_K'AJOLAB'">vqahol</rs> ahau ve puch
-<lb n="11" id="xom-f16-s1--11"/><rs ana="KA'IB_K'AJOLAB'">vqahol</rs> naol, ahuchan xma chi<pc> –</pc>
+<lb n="10" id="xom-f16-s1--10"/>vqoheic ve <rs ana="KA'IB_K'AJOLAB'">vqahol ahau</rs> ve puch
+<lb n="11" id="xom-f16-s1--11"/><rs ana="KA'IB_K'AJOLAB'">vqahol naol</rs>, <rs ana="KA'IB_K'AJOLAB'">ahuchan</rs> xma chi<pc> –</pc>
 <lb n="12" id="xom-f16-s1--12"/>zach vi chibec chiꜩacatahic ma<pc> –</pc>
-<lb n="13" id="xom-f16-s1--13"/>vi chupel mapu maixel vvach
-<lb n="14" id="xom-f16-s1--14"/>ahau achih naol, ahvqhan xa
-<lb n="15" id="xom-f16-s1--15"/>xichicanahic vmial vqahol
+<lb n="13" id="xom-f16-s1--13"/>vi chupel mapu maixel <rs ana="JUN_JUNAJPU">vvach
+<lb n="14" id="xom-f16-s1--14"/>ahau achih naol</rs>, <rs ana="JUN_JUNAJPU">ahvqhan</rs> xa
+<lb n="15" id="xom-f16-s1--15"/>xichicanahic <rs ana="KA'IB_K'AJOLAB'">vmial vqahol</rs>
 <lb n="16" id="xom-f16-s1--16"/>ta chuxoc. quehe mi xnuban
 <lb n="17" id="xom-f16-s1--17"/>chave. catacan cut chila chu<pc> –</pc>
 <lb n="18" id="xom-f16-s1--18"/>vach vleu mavi cacamic catoc
@@ -1606,7 +1604,7 @@ cap.
 <lb n="33" id="xom-f16-s1--33"/>cahau
 </p>
 <p xml:id="p22">
-<lb n="34" rend="indent"/><hi rend="large">C</hi>ate puch vnatahic capoh ru<pc> –</pc>
+<lb n="34" rend="indent"/><hi rend="large">C</hi>ate puch vnatahic <rs ana="IXKIK'">capoh</rs> ru<pc> –</pc>
 <lb n="35" id="xom-f16-s1--35"/>mal vcahau ta xil ri ral cochic
 <lb n="36" id="xom-f16-s1--36"/>ta <rs ana="IXKIK'">xquicuch</rs> cut qui naoh cono<pc> –</pc>
 <lb n="37" id="xom-f16-s1--37"/>hel ahauab <rs ana="JUN_KAME'">hun came</rs> <rs ana="WUQUB'_KAME'">vvcub
@@ -1627,19 +1625,19 @@ cap.
 <lb n="1" id="xom-f16-s2--1"/>val lalnu cahau, mahabi achih
 <lb n="2" id="xom-f16-s2--2"/>vetaam vvach xqhacut uꜩ bala
 <lb n="3" id="xom-f16-s2--3"/>quiꜩih vi chi at hoxol chec chipu<pc> –</pc>
-<lb n="4" id="xom-f16-s2--4"/>zu ix rahpop achih chicama vloc
+<lb n="4" id="xom-f16-s2--4"/>zu ix <rs ana="RAJPOP">rahpop achih</rs> chicama vloc
 <lb n="5" id="xom-f16-s2--5"/>ri vqux chupan zel chiquicololeh
 <lb n="6" id="xom-f16-s2--6"/>ahauab vacamic xevqhax cuta
 <lb n="7" id="xom-f16-s2--7"/>ri <rs ana="TUKUR">tucur</rs>, e cahib ta xebec quiti<pc> –</pc>
 <lb n="8" id="xom-f16-s2--8"/>quem ri zel ta xebec quichelem
 <lb n="9" id="xom-f16-s2--9"/>ri <rs ana="IXKIK'">capoh</rs> cucaam ri zaquitoc puz<pc> –</pc>
 <lb n="10" id="xom-f16-s2--10"/>bal re. maui chuꜩinic quinicami<pc> –</pc>
-<lb n="11" id="xom-f16-s2--11"/>zah ix zamahel rumal maui
+<lb n="11" id="xom-f16-s2--11"/>zah ix <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> rumal maui
 <lb n="12" id="xom-f16-s2--12"/>nu hoxbal ri qo chinupam xaqui
 <lb n="13" id="xom-f16-s2--13"/>xvinaquiric xere xbenumaihah
 <lb n="14" id="xom-f16-s2--14"/>ri vholom <rs ana="JUN_JUNAJPU">hun hunahpu</rs> qochi
-<lb n="15" id="xom-f16-s2--15"/>pucbal chah quequeta cut maui
-<lb n="16" id="xom-f16-s2--16"/>qui puz ix zamahel xqhari <rs ana="IXKIK'">capoh</rs>
+<lb n="15" id="xom-f16-s2--15"/><rs ana="PUSB'AL_CHAAJ">pucbal chah</rs> quequeta cut maui
+<lb n="16" id="xom-f16-s2--16"/>qui puz ix <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> xqhari <rs ana="IXKIK'">capoh</rs>
 <lb n="17" id="xom-f16-s2--17"/>a xqhauic. naquipa xchicacoh
 <lb n="18" id="xom-f16-s2--18"/>v quexel ri iqux mi xbÿx vloc ru<pc> –</pc>
 <lb n="19" id="xom-f16-s2--19"/>mal acahau chicam vloc ri vqux
@@ -1650,7 +1648,7 @@ cap.
 <lb n="24" id="xom-f16-s2--24"/>chupan zel mapa mi xohvqhax
 <lb n="25" id="xom-f16-s2--25"/>vloc naquila cut xchicaya pazel
 <lb n="26" id="xom-f16-s2--26"/>cacahtanabec mata catcamic xe
-<lb n="27" id="xom-f16-s2--27"/>qha curi zamahel. vꜩ bala ma<pc> –</pc>
+<lb n="27" id="xom-f16-s2--27"/>qha curi <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs>. vꜩ bala ma<pc> –</pc>
 <lb n="28" id="xom-f16-s2--28"/>ui quech ri qux ta chuxoc ruq
 <lb n="29" id="xom-f16-s2--29"/>maui varal ivochoch chuxic
 <lb n="30" id="xom-f16-s2--30"/>macu xachichih vinac chicamic ca<pc> –</pc>
@@ -1810,11 +1808,11 @@ cap.
 <lb n="31" id="xom-f18-s1--31"/>baꜩ</rs> <rs ana="JUN_CHOWEN">hun chouen</rs>. xenimaquir cut
 <lb n="32" id="xom-f18-s1--32"/>nima caxcol rail. xeicou vi xecax<pc> –</pc>
 <lb n="33" id="xom-f18-s1--33"/>cobizaxic enimac etamanel chic
-<lb n="34" id="xom-f18-s1--34"/>xeuxic. xavixere e ahzu e ahbix
+<lb n="34" id="xom-f18-s1--34"/>xeuxic. xavixere e ah<rs ana="SU'">zu</rs> e ahbix
 <lb n="35" id="xom-f18-s1--35"/>e pu ahzibab, ahcot xevxic rono<pc> –</pc>
 <lb n="36" id="xom-f18-s1--36"/>hel chuꜩin cumal. xa xquetaam
 <lb n="37" id="xom-f18-s1--37"/>vi xealaxic xa xenauinac epu
-<lb n="38" id="xom-f18-s1--38"/>uquexel qui cahau ri xebe chi<pc> –</pc>
+<lb n="38" id="xom-f18-s1--38"/>uquexel <rs ana="JUN_JUNAJPU">qui cahau</rs> ri xebe chi<pc> –</pc>
 <lb n="39" id="xom-f18-s1--39"/><rs ana="XIB'ALB'A">xibalba</rs> caminac vi qui cahau
 <lb n="40" id="xom-f18-s1--40"/>e cu nimac etamanel ri <rs ana="JUN_B'ATZ">hun baꜩ</rs>
 <lb n="41" id="xom-f18-s1--41"/><rs ana="JUN_CHOWEN">hun chouen</rs> chi qui qux ronohel
@@ -1828,10 +1826,10 @@ cap.
 <note place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">18</hi></num>
 </note>
-<lb n="1" id="xom-f18-s2--1"/>vvbanic chiquibano huta quih
+<lb n="1" id="xom-f18-s2--1"/><rs ana="WUB">vvb</rs>anic chiquibano huta quih
 <lb n="2" id="xom-f18-s2--2"/>maui queloꜫoxic rumal ri <rs ana="IXMUKANE">catit</rs>
 <lb n="3" id="xom-f18-s2--3"/><rs ana="JUN_B'ATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs>. maui chiia
-<lb n="4" id="xom-f18-s2--4"/>quiva xbaninac vaim xepu va<pc> –</pc>
+<lb n="4" id="xom-f18-s2--4"/>qui<rs ana="WA">va</rs> xbaninac <rs ana="WA">va</rs>im xepu va<pc> –</pc>
 <lb n="5" id="xom-f18-s2--5"/>inac ri <rs ana="JUN_B'ATZ">hun baꜩ</rs> <rs ana="JUN_CHOWEN">hun choven</rs> ta
 <lb n="6" id="xom-f18-s2--6"/>quevvlic, macu quecacaric oio<pc> –</pc>
 <lb n="7" id="xom-f18-s2--7"/>uaric xa chiquicuyu xere que<pc> –</pc>
@@ -1997,9 +1995,9 @@ cap.
 <lb n="16" id="xom-f20-s1--16"/>vachpu <rs ana="IXB'AQIYALO">qui chuch</rs> nabe xquibano
 <lb n="17" id="xom-f20-s1--17"/>ri <rs ana="B'IX">abix</rs>. xa coh<rs ana="B'IX">abix</rs>ic <rs ana="IXMUKANE">ixcatit</rs> ix
 <lb n="18" id="xom-f20-s1--18"/>pu <rs ana="IXB'AQIYALO">cachuch</rs> xeqha mi xbizonic oh
-<lb n="19" id="xom-f20-s1--19"/>qolic oh <rs ana="KA'IB_K'AJOLAB'">ivÿ</rs> oh <rs ana="KA'IB_K'AJOLAB'">qui quexel</rs> <rs ana="KA'IB_K'AJOLAB'">caꜩ</rs>
+<lb n="19" id="xom-f20-s1--19"/>qolic <rs ana="KA'IB_K'AJOLAB'">oh ivÿ</rs> <rs ana="KA'IB_K'AJOLAB'">oh qui quexel</rs> <rs ana="JUN_BATZ'_JUN_CHOWEN">caꜩ</rs>
 <lb n="20" id="xom-f20-s1--20"/>xeqha curi <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XB'ALAMQ'E">xbalanque</rs>.
-<lb n="21" id="xom-f20-s1--21"/>ta xquicam cut quicah qui <rs ana="MIXKINA">mixqui
+<lb n="21" id="xom-f20-s1--21"/>ta xquicam cut qui<rs ana="KAJ">cah</rs> qui <rs ana="MIXKINA">mixqui
 <lb n="22" id="xom-f20-s1--22"/>na</rs> qui xoquem xebec ruq huhun
 <lb n="23" id="xom-f20-s1--23"/>qui <rs ana="WUB'">vvb</rs> xquiteleh xeel chi co cho<pc> –</pc>
 <lb n="24" id="xom-f20-s1--24"/>ch ta xquipixab cu <rs ana="IXMUKANE">catit</rs> chire
@@ -2057,7 +2055,7 @@ cap.
 <lb n="25" id="xom-f20-s2--25"/>oponic. apa chinac cohmichouic
 <lb n="26" id="xom-f20-s2--26"/>xeqha cut are cut quebanou ri
 <lb n="27" id="xom-f20-s2--27"/>ronohel chuti chicop nima chicop
-<lb n="28" id="xom-f20-s2--28"/><rs ana="KOJ">coh</rs> <rs ana="B'ALAM">balam</rs>, queh, <rs ana="UMUL">vmul</rs>, <rs ana="YAK">iac</rs>, <rs ana="UTIW">vtiu</rs>
+<lb n="28" id="xom-f20-s2--28"/><rs ana="KOJ">coh</rs> <rs ana="B'ALAM">balam</rs>, <rs ana="KEJ">queh</rs>, <rs ana="UMUL">vmul</rs>, <rs ana="YAK">iac</rs>, <rs ana="UTIW">vtiu</rs>
 <lb n="29" id="xom-f20-s2--29"/><rs ana="AQ">ae</rs>, <rs ana="SIS">ziz</rs> chuti <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs>, nima <rs ana="TZ'IKIN"><abbr>q<hi rend="subscript">'</hi></abbr>iquin</rs>
 <lb n="30" id="xom-f20-s2--30"/>are xebanouic xahun acab xqui<pc> –</pc>
 <lb n="31" id="xom-f20-s2--31"/>bano cate chicut xquitiquiba
@@ -2141,12 +2139,12 @@ cap.
 <lb n="10" id="xom-f21-s2--10"/>naquila cu quinvvchah vve
 <lb n="11" id="xom-f21-s2--11"/>quirilri <rs ana="IXMUKANE">ivatit</rs> xghacut maui
 <lb n="12" id="xom-f21-s2--12"/>chiꜩac aqux oh qolic cohnohi<pc> –</pc>
-<lb n="13" id="xom-f21-s2--13"/>nic goruqhaxic ricatit, xahu
+<lb n="13" id="xom-f21-s2--13"/>nic goruqhaxic ri<rs ana="IXMUKANE">catit</rs>, xahu
 <lb n="14" id="xom-f21-s2--14"/>zu cacaya acanoc xiquin ha ta
 <lb n="15" id="xom-f21-s2--15"/>cuho co apanoc huzu cat opon
 <lb n="16" id="xom-f21-s2--16"/>chiri xequel vi chiri cut caquil
 <lb n="17" id="xom-f21-s2--17"/>vi putumha xapa cati caquil
-<lb n="18" id="xom-f21-s2--18"/>vi xeqhacut chire cho, taxqui<pc> –</pc>
+<lb n="18" id="xom-f21-s2--18"/>vi xeqhacut chire <rs ana="CH'O">cho</rs>, taxqui<pc> –</pc>
 <lb n="19" id="xom-f21-s2--19"/>pixabah hunacab xcam qui na<pc> –</pc>
 <lb n="20" id="xom-f21-s2--20"/>oh ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XB'ALAMQ'E">xbalanque</rs> qui
 <lb n="21" id="xom-f21-s2--21"/>cutiquil quih xeoponic.
@@ -2209,12 +2207,12 @@ cap.
 <lb n="23" id="xom-f22-s1--23"/><rs ana="JUN_JUNAJPU">hun hunahpu</rs> <rs ana="WUQUB'_JUNAJPU">vvcubhunahpu</rs> xr<pc> –</pc>
 <lb n="24" id="xom-f22-s1--24"/>ah quinimarizah quib chicavach
 <lb n="25" id="xom-f22-s1--25"/>he<hi rend="large">ꜫ</hi>u itacachic xeqha chic <rs ana="JUN_KAME'">rihun
-<lb n="26" id="xom-f22-s1--26"/>came</rs>, <rs ana="WUQUB'_KAME'">vvcubcame</rs> conohel ahauab
+<lb n="26" id="xom-f22-s1--26"/>came</rs>, <rs ana="WUQUB'_KAME'">vvcubcame</rs> conohel <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs>
 <lb n="27" id="xom-f22-s1--27"/>xetaca vloc xeqhacut chire qui
-<lb n="28" id="xom-f22-s1--28"/>zamahel quixqha quixoponic que
-<lb n="29" id="xom-f22-s1--29"/>petoc queqha ahauab varal tah
+<lb n="28" id="xom-f22-s1--28"/><rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> quixqha quixoponic que
+<lb n="29" id="xom-f22-s1--29"/>petoc queqha <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> varal tah
 <lb n="30" id="xom-f22-s1--30"/><rs ana="CHAAJ">cohchaah</rs> vi cuq vvcubix coheꜩanic
-<lb n="31" id="xom-f22-s1--31"/>quecha ahauab quixqha quixopo<pc> –</pc>
+<lb n="31" id="xom-f22-s1--31"/><rs ana="CHAAJ">quecha</rs> <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> quixqha quixopo<pc> –</pc>
 <lb n="32" id="xom-f22-s1--32"/>nic xevqhax cut ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> ta
 <lb n="33" id="xom-f22-s1--33"/>xepecut nimahoc cuquibe riga<pc> –</pc>
 <lb n="34" id="xom-f22-s1--34"/>holab chicochoch ca tocol chico<pc> –</pc>
@@ -2481,11 +2479,11 @@ cap.
 <lb n="38" id="xom-f24-s2--38"/>nabe xeoc pa <rs ana="Q'EQUMA_JA">que eumaha</rs>
 <lb n="39" id="xom-f24-s2--39"/>cate cut ta xbeyaoc quichah
 <lb n="40" id="xom-f24-s2--40"/>catilovic ta xoponic ruq huhun
-<lb n="41" id="xom-f24-s2--41"/>qui zic rumal vzamahel <rs ana="JUN_KAME'">hun
+<lb n="41" id="xom-f24-s2--41"/>qui zic rumal <rs ana="USAMAJEL_XIB'ALB'A">vzamahel</rs> <rs ana="JUN_KAME'">hun
 <lb n="42" id="xom-f24-s2--42"/>came</rs>, vae quichahe cacha aha<pc> –</pc>
 <lb n="43" id="xom-f24-s2--43"/>u chul quiya chic ri chah zaca<pc> –</pc>
 <lb n="44" id="xom-f24-s2--44"/>ric ruq ri zic chul qui moloba
-<lb n="45" id="xom-f24-s2--45"/>cacha ahau xqha zamahel ta
+<lb n="45" id="xom-f24-s2--45"/>cacha <rs ana="JUN_KAME'">ahau</rs> xqha <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> ta
 <lb n="46" id="xom-f24-s2--46"/>xoponic vꜩbala xeqha cut ma
 <lb n="47" id="xom-f24-s2--47"/>cu xquiꜩih richah xa ꜫaꜫahv
 <pb xml:id="xom-f25-s1"/>
@@ -2516,9 +2514,9 @@ cap.
 <lb n="22" id="xom-f25-s1--22"/>xohpe vilo maui que taam xaxe
 <lb n="23" id="xom-f25-s1--23"/>qha maui xquibÿ vꜩbala xaca
 <lb n="24" id="xom-f25-s1--24"/>be caca<rs ana="CHAAJ">chaah</rs> <rs ana="KA'IB_K'AJOLAB'">ixqaholab</rs> xe
-<lb n="25" id="xom-f25-s1--25"/>qha  chi que vꜩ xechare
-<lb n="26" id="xom-f25-s1--26"/>ba chicacoh ri va ca
-<lb n="27" id="xom-f25-s1--27"/>quic xeqha. matah areta chi coh
+<lb n="25" id="xom-f25-s1--25"/>qha chi que vꜩ xechare
+<lb n="26" id="xom-f25-s1--26"/>ba chicacoh ri va <rs ana="KIK'">ca
+<lb n="27" id="xom-f25-s1--27"/>quic</rs> xeqha. matah areta chi coh
 <lb n="28" id="xom-f25-s1--28"/>va que xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>. maha
 <lb n="29" id="xom-f25-s1--29"/>bi are chicacoh va que xeqha
 <lb n="30" id="xom-f25-s1--30"/>chic. vꜩ bala xeqha
@@ -2528,15 +2526,15 @@ cap.
 <lb n="34" id="xom-f25-s1--34"/>habi xeqha vꜩ bala
 <lb n="35" id="xom-f25-s1--35"/>xqha ta xzac cu vloc
 <lb n="36" id="xom-f25-s1--36"/>rumal quicutacal chu
-<lb n="37" id="xom-f25-s1--37"/>vach vbate cate puch
+<lb n="37" id="xom-f25-s1--37"/>vach <rs ana="B'ATE">vbate</rs> cate puch
 <lb n="38" id="xom-f25-s1--38"/>ta xquil ri zaquitoc
 <lb n="39" id="xom-f25-s1--39"/>ta xel chupan riquic chiꜩini<pc> –</pc>
 <lb n="40" id="xom-f25-s1--40"/>nic xbe he chua tac vleuh
-<lb n="41" id="xom-f25-s1--41"/>ri chaa. naquipala
+<lb n="41" id="xom-f25-s1--41"/>ri <rs ana="CHAAJ">chaa</rs>. naquipala
 <lb n="42" id="xom-f25-s1--42"/>xqha ri que xa ca<pc> –</pc>
 <lb n="43" id="xom-f25-s1--43"/>mic quivah chi que ch mata
-<lb n="44" id="xom-f25-s1--44"/>xohbe itaca, matapu xbeiza<pc> –</pc>
-<lb n="45" id="xom-f25-s1--45"/>mahel quiꜩih tocob ca vach
+<lb n="44" id="xom-f25-s1--44"/>xohbe itaca, matapu xbei<rs ana="USAMAJEL_XIB'ALB'A">za<pc> –</pc>
+<lb n="45" id="xom-f25-s1--45"/>mahel</rs> quiꜩih tocob ca vach
 <lb n="46" id="xom-f25-s1--46"/>xacohbec xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> chi<pc> –</pc>
 <lb n="47" id="xom-f25-s1--47"/>que. are tacu xahauax chi que
 <pb xml:id="xom-f25-s2"/>
@@ -2545,13 +2543,13 @@ cap.
 </note>
 <lb n="1" id="xom-f25-s2--1"/><rs ana="KA'IB_K'AJOLAB'">qaholab</rs> huzu ta xcam rihun chi
 <lb n="2" id="xom-f25-s2--2"/>ri chiri chi cha xechacatah tah
-<lb n="3" id="xom-f25-s2--3"/>maui que he xa xecha<pc> –</pc>
+<lb n="3" id="xom-f25-s2--3"/>maui que he xa <rs ana="XIB'ALB'A">xibalba</rs> xecha<pc> –</pc>
 <lb n="4" id="xom-f25-s2--4"/>catah chic cumal <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> maba
-<lb n="5" id="xom-f25-s2--5"/>quixbec <rs ana="KA'IB_K'AJOLAB'">ixqaholab</rs> cohchah na
+<lb n="5" id="xom-f25-s2--5"/>quixbec <rs ana="KA'IB_K'AJOLAB'">ixqaholab</rs> coh<rs ana="CHAAJ">chah</rs> na
 <lb n="6" id="xom-f25-s2--6"/>xa are cacacoho ri ivech xvq<pc> –</pc>
 <lb n="7" id="xom-f25-s2--7"/>hax cut <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> vꜩbala xeqha
-<lb n="8" id="xom-f25-s2--8"/>cut are cu xocri qui quic ta
-<lb n="9" id="xom-f25-s2--9"/>xcah <rs ana="CHAAJ">cuchaah</rs>. cate cut ta xqui<pc> –</pc>
+<lb n="8" id="xom-f25-s2--8"/>cut are cu xocri qui <rs ana="KIK'">quic</rs> ta
+<lb n="9" id="xom-f25-s2--9"/>xcah cu<rs ana="CHAAJ">chaah</rs>. cate cut ta xqui<pc> –</pc>
 <lb n="10" id="xom-f25-s2--10"/>choi quichacon; naqui pa chica<pc> –</pc>
 <lb n="11" id="xom-f25-s2--11"/>chaco xeqha he na quicut
 <lb n="12" id="xom-f25-s2--12"/>xa xeqha <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> xa cacha cacah
@@ -2566,14 +2564,14 @@ cap.
 <lb n="21" id="xom-f25-s2--21"/>pu qui cha ri <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>, xacu qui ruꜩ
 <lb n="22" id="xom-f25-s2--22"/>qui qux ta xquiya quib chicha
 <lb n="23" id="xom-f25-s2--23"/>catahic ri <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>. que quicot
-<lb n="24" id="xom-f25-s2--24"/>cut ri  ta xechacatahic
+<lb n="24" id="xom-f25-s2--24"/>cut ri <rs ana="XIB'ALB'A">xibalba</rs> ta xechacatahic
 <lb n="25" id="xom-f25-s2--25"/>vꜩ mi xcabano nabe mixecacha
-<lb n="26" id="xom-f25-s2--26"/>co xeqha  apa xchibe
+<lb n="26" id="xom-f25-s2--26"/>co xeqha <rs ana="XIB'ALB'A">xibalba</rs> apa xchibe
 <lb n="27" id="xom-f25-s2--27"/>qui camavi ri <rs ana="KOTZ'I'J">coq<hi rend="subscript">,</hi>ih</rs> xeqha chi<pc> –</pc>
 <lb n="28" id="xom-f25-s2--28"/>qui qux. qui ꜩih ta acab chiia
 <lb n="29" id="xom-f25-s2--29"/>ri ca <rs ana="KOTZ'I'J">coq<hi rend="subscript">,</hi>ih</rs> cachacom puch xe
-<lb n="30" id="xom-f25-s2--30"/>vqhax puch <rs ana="KA'IB_K'AJOLAB'">qaholab</rs>
-<lb n="31" id="xom-f25-s2--31"/>que rumal
+<lb n="30" id="xom-f25-s2--30"/>vqhax puch <rs ana="KA'IB_K'AJOLAB'">qaholab</rs> <rs ana="JUNAJPU">hunahpu</rs>
+<lb n="31" id="xom-f25-s2--31"/><rs ana="XB'ALAMQ'E">xbalanque</rs> rumal <rs ana="XIB'ALB'A">xibalba</rs>
 <lb n="32" id="xom-f25-s2--32"/>vꜩbala acaba chicut cohcha<pc> –</pc>
 <lb n="33" id="xom-f25-s2--33"/>ahic xeqha cut ta xepixaban
 <lb n="34" id="xom-f25-s2--34"/>quib cate chicut ta xeoc chi
@@ -2612,8 +2610,8 @@ cap.
 <lb n="16" id="xom-f26-s1--16"/>che ticon puch que bechacala chi<pc> –</pc>
 <lb n="17" id="xom-f26-s1--17"/>ri xavi xere chiquiqhabeh ri
 <lb n="18" id="xom-f26-s1--18"/>quibix <rs ana="XPURPUWEQ">xpurpuvec</rs>, <rs ana="XPURPUWEQ">xpurpu<pc> –</pc>
-<lb n="19" id="xom-f26-s1--19"/>uec</rs> qhari hun ta choquic pu
-<lb n="20" id="xom-f26-s1--20"/>huyu, <rs ana="PUJUYU'">puhuyu</rs> chachic ta cho<pc> –</pc>
+<lb n="19" id="xom-f26-s1--19"/>uec</rs> qhari hun ta choquic <rs ana="PUJUYU'">pu
+<lb n="20" id="xom-f26-s1--20"/>huyu</rs>, <rs ana="PUJUYU'">puhuyu</rs> chachic ta cho<pc> –</pc>
 <lb n="21" id="xom-f26-s1--21"/>quic ri <rs ana="PUJUYU'">puhuyu</rs> vbi e caib chi<pc> –</pc>
 <lb n="22" id="xom-f26-s1--22"/>chahal ticon vticon <rs ana="JUN_KAME'">hun came</rs>
 <lb n="23" id="xom-f26-s1--23"/><rs ana="WUQUB'_KAME'">vvcub came</rs> macu caquina ri
@@ -2755,13 +2753,13 @@ cap.
 <lb n="1" id="xom-f27-s2--1"/>hupacha mi xabano mahabi
 <lb n="2" id="xom-f27-s2--2"/>chic chizilabic xaquichico<pc> –</pc>
 <lb n="3" id="xom-f27-s2--3"/>zoz chic cate cut xuquixbih
-<lb n="4" id="xom-f27-s2--4"/>que araroc mixcaya
+<lb n="4" id="xom-f27-s2--4"/><rs ana="XB'ALAMQ'E">xbalanque</rs> araroc mixcaya
 <lb n="5" id="xom-f27-s2--5"/>yan xcha cut chila cut xbe
 <lb n="6" id="xom-f27-s2--6"/>colana vi vholom chuvi <rs ana="JOM">hom</rs>
 <lb n="7" id="xom-f27-s2--7"/>xavi vꜩih <rs ana="JUN_KAME'">hun came</rs> <rs ana="WUQUB'_KAME'">vvcub
-<lb n="8" id="xom-f27-s2--8"/>came</rs> que quicot curi <rs ana="XIB'ALB'A">xibal<pc> –</pc>
-<lb n="9" id="xom-f27-s2--9"/>ba</rs> conohel rumal vholom
-<lb n="10" id="xom-f27-s2--10"/>cate cut ta xutac
+<lb n="8" id="xom-f27-s2--8"/>came</rs> que quicot curi <rs ana="RAJAWAL_XIB'ALB'A">xibal<pc> –</pc>
+<lb n="9" id="xom-f27-s2--9"/>ba conohel</rs> rumal vholom
+<lb n="10" id="xom-f27-s2--10"/><rs ana="JUNAJPU">hun ahpu</rs> cate cut ta xutac
 <lb n="11" id="xom-f27-s2--11"/>chicop ronohel <rs ana="SIS">ziz</rs>, <rs ana="AQ">aꜫ</rs>. rono<pc> –</pc>
 <lb n="12" id="xom-f27-s2--12"/>hel chuti chicop, nima chicop
 <lb n="13" id="xom-f27-s2--13"/>chacab xavi xare racabal
@@ -2777,7 +2775,7 @@ cap.
 <lb n="23" id="xom-f27-s2--23"/>bah xbevcama, qo xavleu
 <lb n="24" id="xom-f27-s2--24"/>xbe vcama halahoh que cha
 <lb n="25" id="xom-f27-s2--25"/>ri chicop, nimachicop quipu
-<lb n="26" id="xom-f27-s2--26"/>ca v xambe canahoc ri <rs ana="SIS">ꜩiz</rs> <rs ana="Q'OQ">coc</rs>
+<lb n="26" id="xom-f27-s2--26"/>ca v xambe canahoc ri <rs ana="SIS">ꜩ<emph rend="strong">iz</emph></rs> <rs ana="Q'OQ">coc</rs>
 <lb n="27" id="xom-f27-s2--27"/>xbe vcama cubalcatih chuꜩam
 <lb n="28" id="xom-f27-s2--28"/>capetic are cut xoc halvac hi<pc> –</pc>
 <lb n="29" id="xom-f27-s2--29"/>bal vholom <rs ana="JUNAJPU">hunahpu</rs> libahchi
@@ -2943,7 +2941,7 @@ cap.
 <lb n="40" id="xom-f29-s1--40"/>cab qui cabichal epu hupu<pc> –</pc>
 <lb n="41" id="xom-f29-s1--41"/>huh ta xebec pa choh chiri
 <lb n="42" id="xom-f29-s1--42"/>cut xecam vi qui cabichal que
-<lb n="43" id="xom-f29-s1--43"/>quicot chicut ronohel <rs ana="XIB'ALB'A">xibalba</rs>.
+<lb n="43" id="xom-f29-s1--43"/>quicot chicut ronohel <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs>.
 <lb n="44" id="xom-f29-s1--44"/>tacal quiyuyub tacal qui xul
 <lb n="45" id="xom-f29-s1--45"/>cab mixecachaco quiꜩih mavi
 <lb n="46" id="xom-f29-s1--46"/>a tan xquiya quib xeqha. cate
@@ -2978,33 +2976,33 @@ cap.
 <lb n="20" id="xom-f29-s2--20"/>chic quiia maihabal xquiban
 <lb n="21" id="xom-f29-s2--21"/>chic xquiporoh ha queheri qui
 <lb n="22" id="xom-f29-s2--22"/>ꜩih chicatic libah chicut chivi<pc> –</pc>
-<lb n="23" id="xom-f29-s2--23"/>naquir chic. ꜩaꜩ chi <rs ana="XIB'ALB'A">xibalba</rs> chica<pc> –</pc>
+<lb n="23" id="xom-f29-s2--23"/>naquir chic. ꜩaꜩ chi <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> chica<pc> –</pc>
 <lb n="24" id="xom-f29-s2--24"/>yic cate chiquipuz quib chicam
 <lb n="25" id="xom-f29-s2--25"/>hun chique chipune na chicami
 <lb n="26" id="xom-f29-s2--26"/>naquil nabe chiquicamizah quib
 <lb n="27" id="xom-f29-s2--27"/>xaui xere libah chicaztah vi chi
-<lb n="28" id="xom-f29-s2--28"/>vvach xa quicay <rs ana="XIB'ALB'A">xibalba</rs> ta chi<pc> –</pc>
+<lb n="28" id="xom-f29-s2--28"/>vvach xa quicay <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> ta chi<pc> –</pc>
 <lb n="29" id="xom-f29-s2--29"/>quibano ronohel xquiban chic
 <lb n="30" id="xom-f29-s2--30"/>v xenaahic chic chacbal quech
-<lb n="31" id="xom-f29-s2--31"/><rs ana="XIB'ALB'A">xibalba</rs> cumal.
+<lb n="31" id="xom-f29-s2--31"/><rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> cumal.
 </p>
 <p xml:id="p39">
 <lb n="32" rend="indent" />Cate chi puch roponic chic v
-<lb n="33" id="xom-f29-s2--33"/>ꜩihel quixahoh chi xiquin aha<pc> –</pc>
-<lb n="34" id="xom-f29-s2--34"/>uab <rs ana="JUN_KAME'">huncame</rs>, <rs ana="WUQUB'_KAME'">vvcub came</rs> xch<pc> –</pc>
+<lb n="33" id="xom-f29-s2--33"/>ꜩihel quixahoh chi xiquin <rs ana="RAJAWAL_XIB'ALB'A">aha<pc> –</pc>
+<lb n="34" id="xom-f29-s2--34"/>uab</rs> <rs ana="JUN_KAME'">huncame</rs>, <rs ana="WUQUB'_KAME'">vvcub came</rs> xch<pc> –</pc>
 <lb n="35" id="xom-f29-s2--35"/>a ta xquitao naqui ri caibme<pc> –</pc>
 <lb n="36" id="xom-f29-s2--36"/>ba la quiꜩih vi chi quz. quiꜩih
 <lb n="37" id="xom-f29-s2--37"/>vi pu chihebelic quixahouic
 <lb n="38" id="xom-f29-s2--38"/>ronohel caquibano xqha cut
-<lb n="40" id="xom-f29-s2--40"/>quiꜩihoxic xoponic cuq ahauab
+<lb n="40" id="xom-f29-s2--40"/>quiꜩihoxic xoponic cuq <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs>
 <lb n="41" id="xom-f29-s2--41"/>quz xquitao ta xbochi cut qui
-<lb n="42" id="xom-f29-s2--42"/>zamahel tacol chique petoc ch<pc> –</pc>
+<lb n="42" id="xom-f29-s2--42"/><rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> tacol chique petoc ch<pc> –</pc>
 <lb n="43" id="xom-f29-s2--43"/>vl ta quibana cacay queca ma<pc> –</pc>
 <lb n="44" id="xom-f29-s2--44"/>ihah tah quecacayih ta puch
-<lb n="45" id="xom-f29-s2--45"/>quecha ahauab quixqha chi<pc> –</pc>
-<lb n="46" id="xom-f29-s2--46"/>que xuqhax ri zamahel xeo<pc> –</pc>
+<lb n="45" id="xom-f29-s2--45"/>quecha <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> quixqha chi<pc> –</pc>
+<lb n="46" id="xom-f29-s2--46"/>que xuqhax ri <rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> xeo<pc> –</pc>
 <lb n="47" id="xom-f29-s2--47"/>pon cut cuq ri xahol ta xqhav
-<lb n="48" id="xom-f29-s2--48"/>cut quiꜩih ahauab chique
+<lb n="48" id="xom-f29-s2--48"/>cut quiꜩih <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> chique
 <pb xml:id="xom-f30-s1"/>
 <lb n="1" id="xom-f30-s1--1"/>mabachicah rumal ri quiꜩih
 <lb n="2" id="xom-f30-s1--2"/>cohxobic maxa mavi cohquix<pc> –</pc>
@@ -3016,18 +3014,18 @@ cap.
 <lb n="8" id="xom-f30-s1--8"/>meba qo cam curaih naypu ri
 <lb n="9" id="xom-f30-s1--9"/>ca xahoh caquicaztah quivach
 <lb n="10" id="xom-f30-s1--10"/>cuq maquehela cu xchicaban
-<lb n="11" id="xom-f30-s1--11"/>chique ri ahauab quehe cu ma
-<lb n="12" id="xom-f30-s1--12"/>vi cacah vi ixzamahel xeq<pc> –</pc>
+<lb n="11" id="xom-f30-s1--11"/>chique ri <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> quehe cu ma
+<lb n="12" id="xom-f30-s1--12"/>vi cacah vi <rs ana="USAMAJEL_XIB'ALB'A">ixzamahel</rs> xeq<pc> –</pc>
 <lb n="13" id="xom-f30-s1--13"/>ha cut ri <rs ana="JUNAJPU">hun ahpu</rs> <rs ana="XB'ALAMQ'E">xbalanque</rs>
 <lb n="14" id="xom-f30-s1--14"/>xelehebex na qui vach chuvi
 <lb n="15" id="xom-f30-s1--15"/>ra chuvi cax cacrail xebec
 <lb n="16" id="xom-f30-s1--16"/>maui atan xcah benam quia
 <lb n="17" id="xom-f30-s1--17"/>mul xchihic xa chimachcay
-<lb n="18" id="xom-f30-s1--18"/>zamahel chiquivach camol que
+<lb n="18" id="xom-f30-s1--18"/><rs ana="USAMAJEL_XIB'ALB'A">zamahel</rs> chiquivach camol que
 <lb n="19" id="xom-f30-s1--19"/>ta xebe cut ruq ahau.
 </p>
 <p xml:id="p40">
-<lb n="20" rend="indent" />Xeopon puch cuq ahauab
+<lb n="20" rend="indent" />Xeopon puch cuq <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs>
 <lb n="21" id="xom-f30-s1--21"/>Quemocho chic chiqui xule la
 <lb n="22" id="xom-f30-s1--22"/>qui vach xeoponic xqui que<pc> –</pc>
 <lb n="23" id="xom-f30-s1--23"/>melah quib chiquiluc quib
@@ -3035,17 +3033,17 @@ cap.
 <lb n="25" id="xom-f30-s1--25"/>chiaꜩiac quiꜩih vi chimeba qui
 <lb n="26" id="xom-f30-s1--26"/>vachibal xeoponic ta xꜩonox
 <lb n="27" id="xom-f30-s1--27"/>cut quihuyubal camac puch
-<lb n="28" id="xom-f30-s1--28"/>xꜩonox naipuch qui chuch qui
-<lb n="29" id="xom-f30-s1--29"/>cahau apa quixpevi xevqha<pc> –</pc>
-<lb n="30" id="xom-f30-s1--30"/>xic. maba quetaon at ahau ma
-<lb n="31" id="xom-f30-s1--31"/>ui xquetaamah vvach ca chuch
-<lb n="32" id="xom-f30-s1--32"/>cacahau ca oh chutic oc ta xe<pc> –</pc>
+<lb n="28" id="xom-f30-s1--28"/>xꜩonox naipuch <rs ana="IXKIK'">qui chuch</rs> <rs ana="JUNAJPU">qui
+<lb n="29" id="xom-f30-s1--29"/>cahau</rs> apa quixpevi xevqha<pc> –</pc>
+<lb n="30" id="xom-f30-s1--30"/>xic. maba quetaon <rs ana="JUN_KAME'_WUQUB'_KAME'">at ahau</rs> ma
+<lb n="31" id="xom-f30-s1--31"/>ui xquetaamah vvach <rs ana="IXKIK'">ca chuch</rs>
+<lb n="32" id="xom-f30-s1--32"/><rs ana="JUNAJPU">cacahau</rs> ca oh chutic oc ta xe<pc> –</pc>
 <lb n="33" id="xom-f30-s1--33"/>camic xa xeqha maui naquila
 <lb n="34" id="xom-f30-s1--34"/>xquibÿh. vꜩbala chiban ta ba
 <lb n="35" id="xom-f30-s1--35"/>ca cay naqui chivah yvahil chi<pc> –</pc>
 <lb n="36" id="xom-f30-s1--36"/>cayao xevqhaxic. maba cacah
 <lb n="37" id="xom-f30-s1--37"/>quiꜩih chicacaxibih quib xeqha
-<lb n="38" id="xom-f30-s1--38"/>chic chire ahau. mi xibih ivib
+<lb n="38" id="xom-f30-s1--38"/>chic chire <rs ana="JUN_KAME'_WUQUB'_KAME'">ahau</rs>. mi xibih ivib
 <lb n="39" id="xom-f30-s1--39"/>mix xobic quixxahouoc. are
 <lb n="40" id="xom-f30-s1--40"/>ta nabe chixah ri quixpuzu ta
 <lb n="41" id="xom-f30-s1--41"/>ivib chiporoh ta curi vochoch
@@ -3059,10 +3057,10 @@ cap.
 <note  place="margin-left" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">30</hi></num>
 </note>
-<lb n="1" id="xom-f30-s2--1"/>ri <rs ana="XIB'ALB'A">xibalba</rs> xepulic ecayel ro
-<lb n="2" id="xom-f30-s2--2"/>nohel cut xquixaho <rs ana="XAJOJ_PUJUY">xquixah
+<lb n="1" id="xom-f30-s2--1"/>ri <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> xepulic ecayel ro
+<lb n="2" id="xom-f30-s2--2"/>nohel cut xquixaho <rs ana="XAJOJ_KUX">xquixah
 <lb n="3" id="xom-f30-s2--3"/>cux</rs>, <rs ana="XAJOJ_PUJUY">xquixah puhuy</rs>, <rs ana="IB'OY">xquixah
-<lb n="4" id="xom-f30-s2--4"/>yboy</rs> xqha cu ahau chique
+<lb n="4" id="xom-f30-s2--4"/>yboy</rs> xqha cu <rs ana="JUN_KAME'_WUQUB'_KAME'">ahau</rs> chique
 <lb n="5" id="xom-f30-s2--5"/>chipuzu ri nu ꜩÿ chicaztah chi
 <lb n="6" id="xom-f30-s2--6"/>vvach ivvmal xevqhaxic ve
 <lb n="7" id="xom-f30-s2--7"/>xeqha. ta xquipuz ꜩÿ xqaztai
@@ -3071,31 +3069,31 @@ cap.
 <lb n="10" id="xom-f30-s2--10"/>bizala vhe ta xqaztah v vach
 <lb n="11" id="xom-f30-s2--11"/>xqha cuahau chique chiporo<pc> –</pc>
 <lb n="12" id="xom-f30-s2--12"/>h naba vochoch xevqhaxchic
-<lb n="13" id="xom-f30-s2--13"/>ta xquiporoh cut rochoch ahau
-<lb n="14" id="xom-f30-s2--14"/>e pulinac ahauab pa ha conohel
+<lb n="13" id="xom-f30-s2--13"/>ta xquiporoh cut rochoch <rs ana="JUN_KAME'_WUQUB'_KAME">ahau</rs>
+<lb n="14" id="xom-f30-s2--14"/>e pulinac <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> pa ha conohel
 <lb n="15" id="xom-f30-s2--15"/>maui xecatic libah chichic x<pc> –</pc>
 <lb n="16" id="xom-f30-s2--16"/>cuꜩinizah mana huzu zachic
 <lb n="17" id="xom-f30-s2--17"/>ri rochoch <rs ana="JUN_KAME'">huncame</rs> xquimai<pc> –</pc>
-<lb n="18" id="xom-f30-s2--18"/>hah cut conohel ahauab xa
+<lb n="18" id="xom-f30-s2--18"/>hah cut conohel <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> xa
 <lb n="19" id="xom-f30-s2--19"/>vi cu xere quexahouic nim
 <lb n="20" id="xom-f30-s2--20"/>quequicotic xevqhax chicut
-<lb n="21" id="xom-f30-s2--21"/>rumal ahau chicamizah na
+<lb n="21" id="xom-f30-s2--21"/>rumal <rs ana="JUN_KAME'_WUQUB'_KAME">ahau</rs> chicamizah na
 <lb n="22" id="xom-f30-s2--22"/>cuhun vinac chipuzu mata
 <lb n="23" id="xom-f30-s2--23"/>cu chicamic xevqhaxcut vꜩ
 <lb n="24" id="xom-f30-s2--24"/>bala xeqha taxquichap cut
 <lb n="25" id="xom-f30-s2--25"/>hun vinac cate xquipuzu xqui<pc> –</pc>
 <lb n="26" id="xom-f30-s2--26"/>poeoh cu acanoc vquxrihun
 <lb n="27" id="xom-f30-s2--27"/>vinac xquicoloba cut chiqui<pc> –</pc>
-<lb n="28" id="xom-f30-s2--28"/>vach ahauab xquimaiha chi
+<lb n="28" id="xom-f30-s2--28"/>vach <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> xquimaiha chi
 <lb n="29" id="xom-f30-s2--29"/>cut <rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">vvcub came</rs> li
 <lb n="30" id="xom-f30-s2--30"/>bah chi cut xqazta chi v vach
 <lb n="31" id="xom-f30-s2--31"/>rihun vinac cumal nim chi<pc> –</pc>
 <lb n="32" id="xom-f30-s2--32"/>quicot vqux taxqaztah v
-<lb n="33" id="xom-f30-s2--33"/>vach xquimaihah cut ahau<pc> –</pc>
-<lb n="34" id="xom-f30-s2--34"/>ab. chipuzuna china cuivib
+<lb n="33" id="xom-f30-s2--33"/>vach xquimaihah cut <rs ana="RAJAWAL_XIB'ALB'A">ahau<pc> –</pc>
+<lb n="34" id="xom-f30-s2--34"/>ab</rs>. chipuzuna china cuivib
 <lb n="35" id="xom-f30-s2--35"/>chiquiltah quiꜩih curaih ca
 <lb n="36" id="xom-f30-s2--36"/>qux ri ixahoh xeqha chi cu
-<lb n="37" id="xom-f30-s2--37"/>ahauab vꜩbala at ahau
+<lb n="37" id="xom-f30-s2--37"/>ahauab vꜩbala <rs ana="JUN_KAME'_WUQUB'_KAME">at ahau</rs>
 <lb n="38" id="xom-f30-s2--38"/>xeqhacut cate puch xquipuz
 <lb n="39" id="xom-f30-s2--39"/>quib are cu xpuz ri <rs ana="JUNAJPU">xhun ah<pc> –</pc>
 <lb n="40" id="xom-f30-s2--40"/>pu</rs> rumal <rs ana="XB'ALAMQ'E">xbalanque</rs> huhu<pc> –</pc>
@@ -3109,14 +3107,14 @@ cap.
 <pb xml:id="xom-f31-s1"/>
 <lb n="1" id="xom-f31-s1--1"/>lihoc xqhacut libah chicut xqaz<pc> –</pc>
 <lb n="2" id="xom-f31-s1--2"/>tah vvach. nim quequicotic. xavi
-<lb n="3" id="xom-f31-s1--3"/>quehe quequicot ahauab. xavi
+<lb n="3" id="xom-f31-s1--3"/>quehe quequicot <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs>. xavi
 <lb n="4" id="xom-f31-s1--4"/>are quebanovic caquicot quiqux
 <lb n="5" id="xom-f31-s1--5"/><rs ana="JUN_KAME'">huncame</rs> <rs ana="WUQUB'_KAME'">vvcub came</rs> queheri
 <lb n="6" id="xom-f31-s1--6"/>are quexahovic caquinao.
 </p>
 <p xml:id="p41">
 <lb n="7" rend="indent" />Cate puch vrainic vmalinic
-<lb n="8" id="xom-f31-s1--8"/>pu quiqux ahauab chire qui
+<lb n="8" id="xom-f31-s1--8"/>pu quiqux <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> chire qui
 <lb n="9" id="xom-f31-s1--9"/>xahoh <rs ana="JUNAJPU">xhun ahpu</rs> <rs ana="XB'ALAMQ'E">xbalanque</rs>
 <lb n="10" id="xom-f31-s1--10"/>taxelcu quiꜩih <rs ana="JUN_KAME'">hun came</rs>, <rs ana="WUQUB'_KAME'">v<pc> –</pc>
 <lb n="11" id="xom-f31-s1--11"/>vcub came</rs> chibana chique cohipuzu
@@ -3126,21 +3124,21 @@ cap.
 <lb n="15" id="xom-f31-s1--15"/><rs ana="JUNAJPU">hunahpu</rs> <rs ana="XB'ALAMQ'E">xbalanque</rs> vꜩbala
 <lb n="16" id="xom-f31-s1--16"/>chiqaztah ivach mapaixqo
 <lb n="17" id="xom-f31-s1--17"/>cam, oh pu quicotirizai ive ix
-<lb n="18" id="xom-f31-s1--18"/>pu rahaual iv al iqahol xe
-<lb n="19" id="xom-f31-s1--19"/>qha cut chique ahauab. are
+<lb n="18" id="xom-f31-s1--18"/>pu <rs ana="RAJAWAL_XIB'ALB'A">rahaual</rs> iv al iqahol xe
+<lb n="19" id="xom-f31-s1--19"/>qha cut chique <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs>. are
 <lb n="20" id="xom-f31-s1--20"/>cu nabe xpuzri quivholom
 <lb n="21" id="xom-f31-s1--21"/>ahau <rs ana="JUN_KAME'">hun came</rs> vbi <rs ana="RAJAWAL_XIB'ALB'A">rahaual
 <lb n="22" id="xom-f31-s1--22"/>xibalba</rs>. caminac chicut <rs ana="JUN_KAME'">hun
 <lb n="23" id="xom-f31-s1--23"/>came</rs> taxchap chic <rs ana="WUQUB'_KAME'">vvcub ca<pc> –</pc>
 <lb n="24" id="xom-f31-s1--24"/>me</rs> maui xqaztah chi qui vach
 <lb n="25" id="xom-f31-s1--25"/>cate pu quelic <rs ana="XIB'ALB'A">xibalba</rs> chica<pc> –</pc>
-<lb n="26" id="xom-f31-s1--26"/>can are xquil ri ahauab xe
+<lb n="26" id="xom-f31-s1--26"/>can are xquil ri <rs ana="RAJAWAL_XIB'ALB'A">ahauab</rs> xe
 <lb n="27" id="xom-f31-s1--27"/>camic e xaraxoh chubic epu
 <lb n="28" id="xom-f31-s1--28"/>xaraxoxinac qui cabichal xa
 <lb n="29" id="xom-f31-s1--29"/>cu cahizabal qui vach xbanic
-<lb n="30" id="xom-f31-s1--30"/>huzuc xucamibeh rihun aha<pc> –</pc>
-<lb n="31" id="xom-f31-s1--31"/>u mana xquiqaztah chi vvach
-<lb n="32" id="xom-f31-s1--32"/>are curi hun ahau xelahna
+<lb n="30" id="xom-f31-s1--30"/>huzuc xucamibeh ri<rs ana="JUN_KAME'_WUQUB'_KAME">hun aha<pc> –</pc>
+<lb n="31" id="xom-f31-s1--31"/>u</rs> mana xquiqaztah chi vvach
+<lb n="32" id="xom-f31-s1--32"/>are curi <rs ana="JUN_KAME'_WUQUB'_KAME">hun ahau</rs> xelahna
 <lb n="33" id="xom-f31-s1--33"/>xoc na chiquivach ri e xahol
 <lb n="34" id="xom-f31-s1--34"/>maui xuculu mapu xurico to<pc> –</pc>
 <lb n="35" id="xom-f31-s1--35"/>cob nu vach xqha ta xuna rib
@@ -3173,20 +3171,20 @@ cap.
 <lb n="9" id="xom-f31-s2--9"/>hau ri xicamizah <rs ana="JUN_JUNAJPU">hun hunah<pc> –</pc>
 <lb n="10" id="xom-f31-s2--10"/>pu</rs> <rs ana="WUQUB'_JUNAJPU">vvcub hun ahpu</rs> quibi oh
 <lb n="11" id="xom-f31-s2--11"/>cu pacol re vae quirail qui ca<pc> –</pc>
-<lb n="12" id="xom-f31-s2--12"/>xcol ri cacahau quehe cut mix<pc> –</pc>
+<lb n="12" id="xom-f31-s2--12"/>xcol ri <rs ana="JUNAJPU">cacahau</rs> quehe cut mix<pc> –</pc>
 <lb n="13" id="xom-f31-s2--13"/>cacuyu vi ronohel caxcol mi<pc> –</pc>
 <lb n="14" id="xom-f31-s2--14"/>xiban chique. quehe cut quix
 <lb n="15" id="xom-f31-s2--15"/>cazach vi ivonohel quixcami<pc> –</pc>
 <lb n="16" id="xom-f31-s2--16"/>zah mahabi chic colotahel chi<pc> –</pc>
 <lb n="17" id="xom-f31-s2--17"/>ve xevqhax cut cate puch que
-<lb n="18" id="xom-f31-s2--18"/>lahic coquic conohel <rs ana="XIB'ALB'A">xibalba</rs>
+<lb n="18" id="xom-f31-s2--18"/>lahic coquic conohel <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs>
 <lb n="19" id="xom-f31-s2--19"/>tocob ca vach <rs ana="JUNAJPU">ixhunahpu</rs> <rs ana="XB'ALAMQ'E">xba<pc> –</pc>
 <lb n="20" id="xom-f31-s2--20"/>lanque</rs>/ quiꜩih vi xohmacunic
-<lb n="21" id="xom-f31-s2--21"/>chique ri icahau quibÿh la
-<lb n="22" id="xom-f31-s2--22"/>cute e mucul chi pucbal chah
+<lb n="21" id="xom-f31-s2--21"/>chique ri <rs ana="JUN_JUNAJPU">icahau</rs> quibÿh la
+<lb n="22" id="xom-f31-s2--22"/>cute e mucul chi <rs ana="PUSB'AL_CHAAJ">pucbal chah</rs>
 <lb n="23" id="xom-f31-s2--23"/>xeqha cut. vꜩbala areba ri
 <lb n="24" id="xom-f31-s2--24"/>caꜩih xchicabÿh chive chitaa
-<lb n="25" id="xom-f31-s2--25"/>ivonohel ix <rs ana="XIB'ALB'A">xibalba</rs> rumal
+<lb n="25" id="xom-f31-s2--25"/>ivonohel ix <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs> rumal
 <lb n="26" id="xom-f31-s2--26"/>mana nim chiiquih ivalaxic
 <lb n="27" id="xom-f31-s2--27"/>chuxic ruq naipuch mavi ni<pc> –</pc>
 <lb n="28" id="xom-f31-s2--28"/>m chi icochibal xzcaquin chic
@@ -3202,7 +3200,7 @@ cap.
 <lb n="38" id="xom-f31-s2--38"/>xa rax chapom ronohel vinac
 <lb n="39" id="xom-f31-s2--39"/>chibano quixtaon puch chuvi
 <lb n="40" id="xom-f31-s2--40"/>ri quic holomax, xevqhax cut
-<lb n="41" id="xom-f31-s2--41"/>conohel <rs ana="XIB'ALB'A">xibalba</rs>, quehe cut ti<pc> –</pc>
+<lb n="41" id="xom-f31-s2--41"/>conohel <rs ana="RAJAWAL_XIB'ALB'A">xibalba</rs>, quehe cut ti<pc> –</pc>
 <lb n="42" id="xom-f31-s2--42"/>carinac qui zachic vmaixic na<pc> –</pc>
 <lb n="43" id="xom-f31-s2--43"/>ipuch quiziquixic. maui nim
 <lb n="44" id="xom-f31-s2--44"/>qui quih oher xa xrah ꜩa vi vi<pc> –</pc>
@@ -3279,7 +3277,7 @@ cap.
 <lb n="14" id="xom-f32-s2--14"/>chiue quehe cut quipixabic
 <lb n="15" id="xom-f32-s2--15"/>ri xchacatahinac oc ronohel
 <lb n="16" id="xom-f32-s2--16"/><rs ana="XIB'ALB'A">xibalba</rs> taxeacan culoc vara<pc> –</pc>
-<lb n="17" id="xom-f32-s2--17"/>le nicahzaC huzu cu xeacan  <note resp="editor">not sure how to deal with big C</note>
+<lb n="17" id="xom-f32-s2--17"/>le nicahza<add><hi rend="large">C</hi></add> huzu cu xeacan
 <lb n="18" id="xom-f32-s2--18"/>chicah. hun cu quih hun naipu
 <lb n="19" id="xom-f32-s2--19"/>ic chique ta xzaquiric vpam
 <lb n="20" id="xom-f32-s2--20"/>cah v vach vleu chi cah xeqo<pc> –</pc> <note resp="editor">this q looks like a ꜭ to me</note>
@@ -3502,7 +3500,7 @@ cap.
 <lb n="20" id="xom-f34-s2--20"/>are pocol quirol chila relebal
 <lb n="21" id="xom-f34-s2--21"/>quih xavi xere xpevi <rs ana="TAMUB'">tamub</rs> <rs ana="ILOKAB'">ilo<pc> –</pc>
 <lb n="22" id="xom-f34-s2--22"/>cab</rs> ruq oxlahuh vca amac. oxla<pc> –</pc>
-<lb n="23" id="xom-f34-s2--23"/>hun tecpan ruq<rs ana="RAB'INALEB'" type="toponym">rabinaleb</rs>, <rs ana="KAQCHIKELEB'">caechi<pc> –</pc>
+<lb n="23" id="xom-f34-s2--23"/>hun tecpan ruq<rs ana="RAB'INALEB'">rabinaleb</rs>, <rs ana="KAQCHIKELEB'">caechi<pc> –</pc>
 <lb n="24" id="xom-f34-s2--24"/>queleb</rs>, <rs ana="AJTZ'IKINA_JA">ah q,inquina ha</rs>, ruq puch
 <lb n="25" id="xom-f34-s2--25"/><rs ana="SAQAJIB'">zacahib</rs>, ruq naipuch <rs ana="LAMAKIB'">lamaquib</rs>,
 <lb n="26" id="xom-f34-s2--26"/><rs ana="KUMATZ_AMAQ'">cumaꜩ</rs>, <rs ana="TUJAL_JA">tuhal ha</rs> <rs ana="UCH'AB'AJA">vchabaha</rs>, <rs ana="AJCH'UMILA_JA">ah chu<pc> –</pc>
@@ -3591,7 +3589,7 @@ cap.
 <lb n="8" rend="indent"/><hi rend="large">A</hi>recut vbi huyub va xebe vi
 <lb n="9" id="xom-f35-s2--9"/><rs ana="B'ALAM_KI'TZE' ">Balam quiꜩe</rs>, <rs ana="B'ALAM _AQ'AB'">Balam acab</rs> <rs ana="MAJUK'UTAJ">mahu
 <lb n="10" id="xom-f35-s2--10"/>cutah</rs>, <rs ana="IQ'I_B'ALAM">iqui balam</rs> ruq <rs ana="TAMUB'">tumub</rs>, <rs ana="ILOKAB'">ilo<pc> –</pc>
-<lb n="11" id="xom-f35-s2--11"/>cab</rs>, <rs ana="TULÁN" type="toponym">tulan</rs><rs ana="SUYWA" type="toponym">zuiva</rs> vvcub pec, vv<pc> –</pc>
+<lb n="11" id="xom-f35-s2--11"/>cab</rs>, <rs ana="TULÁN">tulan</rs><rs ana="SUYWA">zuiva</rs> vvcub pec, vv<pc> –</pc>
 <lb n="12" id="xom-f35-s2--12"/>cubzivan vbi tinamit xeopon vi
 <lb n="13" id="xom-f35-s2--13"/>e camolre cabauil
 </p>
@@ -6055,8 +6053,8 @@ cap.
 <lb n="7" id="xom-f02-s2--7"/>suspension debaxo de los palos, y mecates<unclear reason="could be a superscripted 2" instant="false">?</unclear><note resp="editor">It could be the start of a ? that Ximénez decided not to finish</note> y so
 <lb n="8r"/>lo ha de estar bueno el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>aiga quien los guar<pc> –</pc>
 <lb n="9" id="xom-f02-s2--9"/>de; dixeron <choice><abbr>q<hi rend="superscript">o</hi></abbr><expan instant="false">quando</expan></choice> lo consultaron, y parlaron
-<lb n="10" id="xom-f02-s2--10"/>y luego fueron produzidos venados, y paxa<pc> –</pc>
-<lb n="11" id="xom-f02-s2--11"/>ros, y entonzes les repartieron sus casas
+<lb n="10" id="xom-f02-s2--10"/>y luego fueron produzidos <rs ana="KEJ">venados</rs>, y <rs ana="TZ'IKIN">paxa<pc> –</pc>
+<lb n="11" id="xom-f02-s2--11"/>ros</rs>, y entonzes les repartieron sus casas
 <lb n="12" id="xom-f02-s2--12"/>a<rs ana="KEJ">los venados</rs>, y a <rs ana="TZ'IKIN">los pajaros</rs>. tu <rs ana="KEJ">venado</rs> en
 <lb n="13" id="xom-f02-s2--13"/>los caminos de el agua; y en las varrancas
 <lb n="14" id="xom-f02-s2--14"/>dormíreís. aqui estaras, en la paja, y en las
@@ -6415,14 +6413,14 @@ cap.
 <lb n="19" id="xom-f06-s1--19"/>dixeron <rs ana="KA'IB_K'AJOLAB'">los dos muchachos</rs>, no sera bíen <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es<pc> –</pc>
 <lb n="20" id="xom-f06-s1--20"/>to pase adelante <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> no vívíran los hom<pc> –</pc>
 <lb n="21" id="xom-f06-s1--21"/>bres aquí en la tierra; y así probaremos a
-<lb n="22" id="xom-f06-s1--22"/>tirarle con la cerbatana, <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> coma, le tírare<corr instant="false"><pc> –</pc></corr>
+<lb n="22" id="xom-f06-s1--22"/>tirarle con <rs ana="WUB">la cerbatana</rs>, <choice><abbr>qo</abbr><expan instant="false">quando</expan></choice> coma, le tírare<corr instant="false"><pc> –</pc></corr>
 <lb n="23" id="xom-f06-s1--23"/>mos, y le meteremos una enfermedad, y
 <lb n="24" id="xom-f06-s1--24"/>entonzes se a cabará sus ríquezas, sus pi<pc> –</pc>
 <lb n="25" id="xom-f06-s1--25"/>edras preciosas, y sus chalchíguítes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es con
 <lb n="26" id="xom-f06-s1--26"/>lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se engrandeze, y así lo haran todos los
 <lb n="27" id="xom-f06-s1--27"/>hombres. no <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> tenga ríquezas se ha de
 <lb n="28" id="xom-f06-s1--28"/>hazer grande: dixeron <rs ana="KA'IB_K'AJOLAB'">los dos muchachos</rs>.
-<lb n="29" id="xom-f06-s1--29"/>y cada uno con su zervatana al hombro. y
+<lb n="29" id="xom-f06-s1--29"/>y cada uno con <rs ana="WUB">su zervatana</rs> al hombro. y
 <lb n="30" id="xom-f06-s1--30"/>aqueste <rs ana="WUQUB'_KAQIX">vvcubcaquíx</rs> tenía dos hijos, el
 <lb n="31" id="xom-f06-s1--31"/>prímero se llamaba <rs ana="SIPAKNA">zípacna</rs>, y el segun<corr instant="false"><pc> –</pc></corr>
 <lb n="32" id="xom-f06-s1--32"/>do se llamaba <rs ana="KAB'RAQAN">cab racan</rs>. y su madre de
@@ -6431,7 +6429,7 @@ cap.
 <lb n="35" id="xom-f06-s1--35"/>híjo <rs ana="SIPAKNA">zípacna</rs>, su pasto, y comida eran
 <lb n="36" id="xom-f06-s1--36"/>los grandes montes y esto ademas en vna
 <lb n="37" id="xom-f06-s1--37"/>noche amanezío hecho <rs ana="CHI_Q'AQ'">elzerro</rs> llamado <rs ana="JUNAJPU_JUYUB'">hun
-<lb n="38" id="xom-f06-s1--38"/>ahpu</rs><rs ana="PEK_UL_YA'" type="toponym">pecul</rs> <rs ana="YA'XKANUL" type="toponym">yaxcanul</rs> <rs ana="MAKAMOB'" type="toponym">macamob</rs> <rs ana="JULISNAB'" type="toponym">huliznab</rs>
+<lb n="38" id="xom-f06-s1--38"/>ahpu</rs><rs ana="PEK_UL_YA'">pecul</rs> <rs ana="YA'XKANUL">yaxcanul</rs> <rs ana="MAKAMOB'">macamob</rs> <rs ana="JULISNAB'">huliznab</rs>
 <lb n="39" id="xom-f06-s1--39"/><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> en vna noche <rs ana="SIPAKNA">zípacna</rs> hazía vn
 <lb/>
 <lb/>
@@ -6552,12 +6550,12 @@ cap.
 <lb n="7" id="xom-f07-s2--7"/>estaba gritando de el dolor de la muela
 <lb n="8" id="xom-f07-s2--8"/>y víendolos <rs ana="WUQUB'_KAQIX">vvcubcaquíx</rs> alos <rs ana="SAQI_NIM_AQ_SIS">dos víejos</rs>
 <lb n="9" id="xom-f07-s2--9"/>y a<rs ana="KA'IB_K'AJOLAB'">los muchachos</rs> les pregunto, de adon
-<lb n="10" id="xom-f07-s2--10"/>de venís abuelos? nosotros <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice>andamos
+<lb n="10" id="xom-f07-s2--10"/>de venís <rs ana="SAQI_NIM_AQ_SIS">abuelos</rs>? nosotros <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice>andamos
 <lb n="11" id="xom-f07-s2--11"/>buscando nuestro remedío dixeron como
-<lb n="12" id="xom-f07-s2--12"/>buscaís vuestro remedio? son hijos vues<pc> –</pc>
-<lb n="13" id="xom-f07-s2--13"/>tros esos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>os acompañan? no <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice>son nu<pc> –</pc>
-<lb n="14" id="xom-f07-s2--14"/>estrosníetos; sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les tenemos lastíma
-<lb n="15" id="xom-f07-s2--15"/><choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>de lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hallamos lesdamos vn pedazo
+<lb n="12" id="xom-f07-s2--12"/>buscaís vuestro remedio? son <rs ana="KA'IB_K'AJOLAB'">hijos vues<pc> –</pc>
+<lb n="13" id="xom-f07-s2--13"/>tros</rs> esos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>os acompañan? no <rs ana="WUQUB'_KAQIX"><choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice></rs> son <rs ana="KA'IB_K'AJOLAB'">nu<pc> –</pc>
+<lb n="14" id="xom-f07-s2--14"/>estrosníetos</rs>; sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les tenemos lastíma
+<lb n="15" id="xom-f07-s2--15"/><rs ana="WUQUB'_KAQIX"><choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice></rs> de lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hallamos lesdamos vn pedazo
 <lb n="16" id="xom-f07-s2--16"/>de tortilla. dixeron <rs ana="SAQI_NIM_AQ_SIS">los víejos</rs>. y en esto
 <lb n="17" id="xom-f07-s2--17"/>esta el <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice>muy malo de la muela, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>a
 <lb n="18" id="xom-f07-s2--18"/>pura fuerza hablaba. yos os suplíco <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
@@ -6761,7 +6759,7 @@ cap.
 <lb n="22" id="xom-f09-s2--22"/>las muertes de<rs ana="MOTZ">los cuatrozíentos mucha<pc> –</pc>
 <lb n="23" id="xom-f09-s2--23"/>chos</rs> y así se dijo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estos entraron en lu<pc> –</pc>
 <lb n="24" id="xom-f09-s2--24"/>gar de las síete cabríllas en el zielo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se
-<lb n="25" id="xom-f09-s2--25"/>llaman, <rs ana="MOTZ" type="toponym">moꜩ</rs>. esto es monton, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> de mon<corr><pc> –</pc></corr>
+<lb n="25" id="xom-f09-s2--25"/>llaman, <rs ana="MOTZ">moꜩ</rs>. esto es monton, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> de mon<corr><pc> –</pc></corr>
 <lb n="26" id="xom-f09-s2--26"/>ton fueron muertos. y estoquízas sera men<corr><pc> –</pc></corr>
 <lb n="27" id="xom-f09-s2--27"/>tíra. agora diremos como fue venzído <rs ana="SIPAKNA">zípac<pc> –</pc>
 <lb n="28" id="xom-f09-s2--28"/>na</rs>, por a quellos dos muchachos <rs ana="JUNAJPU">hunahpu</rs>,
@@ -6793,7 +6791,7 @@ cap.
 <lb n="5" id="xom-f10-s1--5"/>ñas de otras hojas mas pequeñas llamadas, pa<pc> –</pc>
 <lb n="6" id="xom-f10-s1--6"/>hac. ylaconcha, y manos hízíeron de laxa, y la pusíeron
 <lb n="7" id="xom-f10-s1--7"/>tumbada. y entonzes lo pusieron en vna cueua de
-<lb n="8" id="xom-f10-s1--8"/>baxodevn gran cerro, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="ME'AWAN" type="toponym">meauan</rs>. en
+<lb n="8" id="xom-f10-s1--8"/>baxodevn gran cerro, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="ME'AWAN">meauan</rs>. en
 <lb n="9" id="xom-f10-s1--9"/>donde fue venzído. y entonzes víníeron <rs ana="KA'IB_K'AJOLAB'">los mu<pc> –</pc>
 <lb n="10" id="xom-f10-s1--10"/>chachos</rs>, yse hízíeron encontradízos con <rs ana="SIPAKNA">zípacna</rs>
 <lb n="11" id="xom-f10-s1--11"/>en el arroyo. y le preguntaron: donde vas mu<pc> –</pc>
@@ -7149,8 +7147,8 @@ cap.
 <lb n="11" id="xom-f13-s2--11"/>colote</rs>, tenía colorada la espalda, y tenía
 <lb n="12" id="xom-f13-s2--12"/>alas. el<choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaba <rs ana="JOLOM_TUKUR">cabeza tecolote</rs>, no te<pc> –</pc>
 <lb n="13" id="xom-f13-s2--13"/>nía mas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>la cabeza, no tenía pies, síno solo
-<lb n="14" id="xom-f13-s2--14"/>alas. estos cuatro <rs ana="USAMAJEL_XIB'ALB'A">mensageros</rs> eran se<pc> –</pc>
-<lb n="15" id="xom-f13-s2--15"/>ñores prinzípales. Luego víníeron al
+<lb n="14" id="xom-f13-s2--14"/>alas. estos cuatro <rs ana="USAMAJEL_XIB'ALB'A">mensageros</rs> eran <rs ana="RAJPOP">se<pc> –</pc>
+<lb n="15" id="xom-f13-s2--15"/>ñores prinzípales</rs>. Luego víníeron al
 <lb n="16" id="xom-f13-s2--16"/>mensage desde <rs ana="XIB'ALB'A">el ínfíerno</rs>, y en un íns<pc> –</pc>
 <lb n="17" id="xom-f13-s2--17"/>tante llegaron derechos <rs ana="JOM">al atrío</rs> a <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> es<pc> –</pc>
 <lb n="18" id="xom-f13-s2--18"/>taban <rs ana="CHAAJ">jugando ala pelota</rs> <rs ana="JUN_JUNAJPU">hunhunahpu</rs>
@@ -7198,12 +7196,12 @@ cap.
 <lb n="10" id="xom-f14-s1--10"/>camino de <rs ana="XIB'ALB'A">el ínfierno</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tenía las gradas
 <lb n="11" id="xom-f14-s1--11"/>muy ladeadas, y baxaron; y cuando sa<pc> –</pc>
 <lb n="12" id="xom-f14-s1--12"/>lieron llegaron alagua violenta, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
-<lb n="13" id="xom-f14-s1--13"/>ra <rs ana="NU'_SIWAN">vna varranca muy angosta</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se
-<lb n="14" id="xom-f14-s1--14"/>llamaba <rs ana="K'ULKU_SIWAN" type="toponym">fuerte varranca</rs>. y pasando
+<lb n="13" id="xom-f14-s1--13"/>era <rs ana="NU'_SIWAN">vna varranca muy angosta</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se
+<lb n="14" id="xom-f14-s1--14"/>llamaba <rs ana="K'ULKU_SIWAN">fuerte varranca</rs>. y pasando
 <lb n="15" id="xom-f14-s1--15"/>de allí al agua <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se trueca; y pasaron
 <lb n="16" id="xom-f14-s1--16"/><rs ana="JA'_SIMAJ">donde todo era palos puntíagudos</rs>, y
 <lb n="17" id="xom-f14-s1--17"/>no se hirieron, y llegaron ala orílla
-<lb n="18" id="xom-f14-s1--18"/>de <rs ana="KIK'_YA'" type="toponym">vn río <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era de sangre</rs>, y no bebí<pc> –</pc>
+<lb n="18" id="xom-f14-s1--18"/>de <rs ana="KIK'_YA'">vn río <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> era de sangre</rs>, y no bebí<pc> –</pc>
 <lb n="19" id="xom-f14-s1--19"/>eron en el río, ní pudíeron ser venzí<pc> –</pc>
 <lb n="20" id="xom-f14-s1--20"/>dos síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> pasaron, y llegaron avn
 <lb n="21" id="xom-f14-s1--21"/>camino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se díuídía en cuatro camí<pc> –</pc>
@@ -7252,7 +7250,7 @@ cap.
 <p corresp="#p19.1">
 <lb n="14" id="xom-f14-s2--14"/>ea andad les dixeron a aquella casa
 <lb n="15" id="xom-f14-s2--15"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>allí seos llevara vuestro ocote. ylu<pc> –</pc>
-<lb n="16" id="xom-f14-s2--16"/>ego se fueron ala <rs ana="Q'EQUMA_JA" type="toponym">casa de la obscuridad</rs>
+<lb n="16" id="xom-f14-s2--16"/>ego se fueron ala <rs ana="Q'EQUMA_JA">casa de la obscuridad</rs>
 <lb n="17" id="xom-f14-s2--17"/>do solo auía obscurídad en aquella
 <lb n="18" id="xom-f14-s2--18"/>casa. y entonzes díscurríeron <rs ana="RAJAWAL_XIB'ALB'A">los <choice><abbr>SSes</abbr><expan instant="false">Señores</expan></choice>
 <lb n="19" id="xom-f14-s2--19"/>de el infierno</rs> de lo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> deuían hazer, ylo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
@@ -7291,16 +7289,16 @@ cap.
 <num rend="large">15</num>
 </note>
 <lb n="2" id="xom-f15-s1--2"/>era aquela <rs ana="Q'EQUMA_JA">casa obscura</rs>, dosolo auía obs<pc> –</pc>
-<lb n="3" id="xom-f15-s1--3"/>curidad. el segundo era, y se llamaba <rs ana="XUXULIM_JA" type="toponym">casa
+<lb n="3" id="xom-f15-s1--3"/>curidad. el segundo era, y se llamaba <rs ana="XUXULIM_JA">casa
 <lb n="4" id="xom-f15-s1--4"/>donde arrodillaban</rs>, <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> solo auía mucho frío
 <lb n="5" id="xom-f15-s1--5"/>de muy intolerable, eínsoportable frío
-<lb n="6" id="xom-f15-s1--6"/>el terzero era <rs ana="B'ALAM_JA" type="toponym">casa de leon tígres</rs>, donde
+<lb n="6" id="xom-f15-s1--6"/>el terzero era <rs ana="B'ALAM_JA">casa de leon tígres</rs>, donde
 <lb n="7" id="xom-f15-s1--7"/>solo auía <rs ana="B'ALAM">tígres</rs>. donde apenas sepodían
 <lb n="8" id="xom-f15-s1--8"/>rebullír, allí se estrujaban, y se mordían.
-<lb n="9" id="xom-f15-s1--9"/>la cuarta era <rs ana="SOTZ'I_JA" type="toponym">casa de murzíelagos</rs>, don
+<lb n="9" id="xom-f15-s1--9"/>la cuarta era <rs ana="SOTZ'I_JA">casa de murzíelagos</rs>, don
 <lb n="10" id="xom-f15-s1--10"/>de solo auía murzíelagos, donde estaban
 <lb n="11" id="xom-f15-s1--11"/>chíllando, y volando enzerrados, sínpoder
-<lb n="12" id="xom-f15-s1--12"/>salír. el quinto era <rs ana="CHAYIM_JA" type="toponym">casa de navajas</rs>, de
+<lb n="12" id="xom-f15-s1--12"/>salír. el quinto era <rs ana="CHAYIM_JA">casa de navajas</rs>, de
 <lb n="13" id="xom-f15-s1--13"/>chaí donde solo auía deestas navajas
 <lb n="14" id="xom-f15-s1--14"/>de muy agudos filos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estavan hazíendo
 <lb n="15" id="xom-f15-s1--15"/>ruído, refregandose vnas conotras. mu<pc> –</pc>
@@ -7318,7 +7316,7 @@ cap.
 <lb n="27" id="xom-f15-s1--27"/>sereis arrebatados, y quedaran vu<pc> –</pc>
 <lb n="28" id="xom-f15-s1--28"/>estras caras aquí ocultas. yentonzes
 <lb n="29" id="xom-f15-s1--29"/>fueron despedazados y los enterraron
-<lb n="30" id="xom-f15-s1--30"/>en <rs ana="PUSB'AL_CHAAJ" type="toponym">donde echaban la zeníza</rs>, y le fue
+<lb n="30" id="xom-f15-s1--30"/>en <rs ana="PUSB'AL_CHAAJ">donde echaban la zeníza</rs>, y le fue
 <lb n="31" id="xom-f15-s1--31"/>cortada la cabeza a <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>, y
 <lb n="32" id="xom-f15-s1--32"/>solo le enterraron el cuerpo con el
 <lb n="33" id="xom-f15-s1--33"/>otro <rs ana="WUQUB'_JUNAJPU">su hermano</rs>. y entonzes <rs ana="JUN_KAME'">hun came</rs>
@@ -7329,7 +7327,7 @@ cap.
 <lb n="38" id="xom-f15-s1--38"/>aquel palo, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>antes no tenía fruto an<pc> –</pc>
 <lb n="39" id="xom-f15-s1--39"/>tes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> pusíesen la cabeza de <rs ana="JUN_JUNAJPU">hun hun ah<pc> –</pc>
 <lb n="40" id="xom-f15-s1--40"/>pu</rs> en el horcon. y lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>fructífíco eslo
-<lb n="41" id="xom-f15-s1--41"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>agora llamamops hícaras la cabe<pc> –</pc>
+<lb n="41" id="xom-f15-s1--41"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>agora llamamops <rs ana="TZIMA">hícaras</rs> la cabe<pc> –</pc>
 <lb n="42" id="xom-f15-s1--42"/>za de <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>. y al ver esto <rs ana="JUN_KAME'">hun
 <lb n="43" id="xom-f15-s1--43"/>came</rs>, y <rs ana="WUQUB'_KAME'">vvcubcame</rs> se maravíllaron
 <lb n="44" id="xom-f15-s1--44"/>de ver el fruto de el arbol <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>por to<pc> –</pc>
@@ -7338,7 +7336,7 @@ cap.
 <lb n="47" id="xom-f15-s1--47"/>estaba la cabeza de <rs ana="JUN_JUNAJPU">hun hun ahpu</rs>, síno
 <pb corresp="xom-f15-s2"/>
 <lb n="1" id="xom-f15-s2--1"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se auía todo hecho, vna mesma cosa con
-<lb n="2" id="xom-f15-s2--2"/>las hícaras yasí les parezía ala vista a
+<lb n="2" id="xom-f15-s2--2"/><rs ana="TZIMA">las hícaras</rs> yasí les parezía ala vista a
 <lb n="3" id="xom-f15-s2--3"/>todos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs> cuando ívan a
 <lb n="4" id="xom-f15-s2--4"/>divertirse. en mucha estimaçíon lo tu<pc> –</pc>
 <lb n="5" id="xom-f15-s2--5"/>vieron alquel arbol, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> en vn instan<pc> –</pc>
@@ -7349,7 +7347,7 @@ cap.
 <lb n="10" id="xom-f15-s2--10"/>pusieron, y determinaron todos <rs ana="RAJAWAL_XIB'ALB'A">los de el
 <lb n="11" id="xom-f15-s2--11"/>ínfierno</rs>. y no se vía donde estaba la ca<pc> –</pc>
 <lb n="12" id="xom-f15-s2--12"/>beza de <rs ana="JUN_JUNAJPU">hun hun ahpu</rs> <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> se auía hecho
-<lb n="13" id="xom-f15-s2--13"/>vna mesma cosa con las hícaras. y esta ma<pc> –</pc>
+<lb n="13" id="xom-f15-s2--13"/>vna mesma cosa con <rs ana="TZIMA">las hícaras</rs>. y esta ma<pc> –</pc>
 <lb n="14" id="xom-f15-s2--14"/>rabilla la oyó una <rs ana="IXKIK'">donzella</rs>. agora dire
 <lb n="15" id="xom-f15-s2--15"/>mos como fue alla.
 </p>
@@ -7373,16 +7371,16 @@ cap.
 <lb n="29" id="xom-f15-s2--29"/>y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>hermosamente fructifica este arbol!
 <lb n="30" id="xom-f15-s2--30"/>no me moríre, ni me acabare, si cojo
 <lb n="31" id="xom-f15-s2--31"/>vna de esta fruta. y entonzes hablo
-<lb n="32" id="xom-f15-s2--32"/>la calabera. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba en las cruzes de
+<lb n="32" id="xom-f15-s2--32"/><rs ana="JUN_JUNAJPU">la calabera</rs>. <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estaba en las cruzes de
 <lb n="33" id="xom-f15-s2--33"/>el árbol. y dixo: <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>es lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>deseas solo
-<lb n="34" id="xom-f15-s2--34"/>es hueso eso <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> esta Redondo enlas
+<lb n="34" id="xom-f15-s2--34"/>es hueso eso <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> esta redondo enlas
 <lb n="35" id="xom-f15-s2--35"/>ramas de el arbol esto le dixo a<rs ana="IXKIK'">la don
 <lb n="36" id="xom-f15-s2--36"/>zella</rs>. por ventura lo deseas lo deseo
 <lb n="37" id="xom-f15-s2--37"/>dixo <rs ana="IXKIK'">la donzella</rs> . estabíen pues extien<pc> –</pc>
-<lb n="38" id="xom-f15-s2--38"/>de tumano derecha dixo lacalabera.
+<lb n="38" id="xom-f15-s2--38"/>de tumano derecha dixo <rs ana="JUN_JUNAJPU">lacalabera</rs>.
 <lb n="39" id="xom-f15-s2--39"/>bíen.dixo <rs ana="IXKIK'">la donzella</rs> y estendío la ma<pc> –</pc>
-<lb n="40" id="xom-f15-s2--40"/>no derecha <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. arríba delante de la
-<lb n="41" id="xom-f15-s2--41"/>calabera. y luego echo la calabera un chíz<pc> –</pc>
+<lb n="40" id="xom-f15-s2--40"/>no derecha <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>. arríba delante de <rs ana="JUN_JUNAJPU">la
+<lb n="41" id="xom-f15-s2--41"/>calabera</rs>. y luego echo <rs ana="JUN_JUNAJPU">la calabera</rs> un chíz<pc> –</pc>
 <lb n="42" id="xom-f15-s2--42"/>gete de saliba, y vino derecha ala mano
 <lb n="43" id="xom-f15-s2--43"/>de <rs ana="IXKIK'">la donzella</rs>. y luego atoda proza mi<pc> –</pc>
 <lb n="44" id="xom-f15-s2--44"/>rose la palma de la mano, y ya no auía
@@ -7392,14 +7390,14 @@ cap.
 <note place="margin-right" type="pagination" anchored="true">
 <num rend="large"><hi rend="handwriting;color:pencil">16</hi></num>
 </note>
-<lb n="1" id="xom-f16-s1--1"/>saliba de la calabera en su mano. te he dado
-<lb n="2" id="xom-f16-s1--2"/>dixo la calabera señal en mí salíba, y mí
+<lb n="1" id="xom-f16-s1--1"/>saliba de <rs ana="JUN_JUNAJPU">la calabera</rs> en su mano. te he dado
+<lb n="2" id="xom-f16-s1--2"/>dixo <rs ana="JUN_JUNAJPU">la calabera</rs> señal en mí salíba, y mí
 <lb n="3" id="xom-f16-s1--3"/>baba. esta mi cabeza ya no respondera
 <lb n="4" id="xom-f16-s1--4"/><choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> solo es gueso, y no tíene carne y
 <lb n="5" id="xom-f16-s1--5"/>así mesmo es la cabeza de cualquíer <choice><abbr type="superscription">Sor.</abbr><expan instant="false">Señor</expan></choice>
 <lb n="6" id="xom-f16-s1--6"/>y solo por la carne se adorna. y en moví<pc> –</pc>
-<lb n="7" id="xom-f16-s1--7"/>endo se asombran los hombres por la
-<lb n="8" id="xom-f16-s1--8"/>calabera. y así <rs ana="KA'IB_K'AJOLAB'">sus hijos</rs> son como lasalí<pc> –</pc>
+<lb n="7" id="xom-f16-s1--7"/>endo se asombran los hombres por <rs ana="JUN_JUNAJPU">la
+<lb n="8" id="xom-f16-s1--8"/>calabera</rs>. y así <rs ana="KA'IB_K'AJOLAB'">sus hijos</rs> son como lasalí<pc> –</pc>
 <lb n="9" id="xom-f16-s1--9"/>ba, y su baba, sí son <rs ana="KA'IB_K'AJOLAB'">hijos</rs> de <choice><abbr type="superscription">Ses.</abbr><expan instant="false">Señores</expan></choice> de sabío
 <lb n="10" id="xom-f16-s1--10"/>y entendido, nose píerde ní se apaga
 <lb n="11" id="xom-f16-s1--11"/>el ser de <choice><abbr type="superscription">Ses.</abbr><expan instant="false">Señores</expan></choice> entendido, o sabio, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>
@@ -7446,13 +7444,13 @@ cap.
 <lb n="2" id="xom-f16-s2--2"/>dixo el cíertamente tu eres forníca<pc> –</pc>
 <lb n="3" id="xom-f16-s2--3"/>ría. ea andad vosotros <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> principa<pc> –</pc>
 <lb n="4" id="xom-f16-s2--4"/>ples andad y sacríficalda, y traed
-<lb n="5" id="xom-f16-s2--5"/>su carazon en vna hícara. esto se
-<lb n="6" id="xom-f16-s2--6"/>les mando alos tecolotes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran cuatro.
-<lb n="7" id="xom-f16-s2--7"/>y luego fueron y tomaron vna hícara
+<lb n="5" id="xom-f16-s2--5"/>su carazon en <rs ana="TZIMA">vna hícara</rs>. esto se
+<lb n="6" id="xom-f16-s2--6"/>les mando <rs ana="USAMAJEL_XIB'ALB'A">alos tecolotes</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> eran cuatro.
+<lb n="7" id="xom-f16-s2--7"/>y luego fueron y tomaron <rs ana="TZIMA">vna hícara</rs>
 <lb n="8" id="xom-f16-s2--8"/>y se fueron llevandola cargada, y tam
 <lb n="9" id="xom-f16-s2--9"/>bíen llebaban vna cuchilla aguda <choice><abbr>pa</abbr><expan instant="false">para</expan></choice>
 <lb n="10" id="xom-f16-s2--10"/>revanarla. y entonzes <rs ana="IXKIK'">ella</rs> les díxo no
-<lb n="11" id="xom-f16-s2--11"/>me mateís mensageros <choice><abbr>por q’</abbr><expan instant="false">por que</expan></choice> no soy for<pc> –</pc>
+<lb n="11" id="xom-f16-s2--11"/>me mateís <rs ana="USAMAJEL_XIB'ALB'A">mensageros</rs> <choice><abbr>por q’</abbr><expan instant="false">por que</expan></choice> no soy for<pc> –</pc>
 <lb n="12" id="xom-f16-s2--12"/>nícaría. sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solamente se engendro
 <lb n="13" id="xom-f16-s2--13"/>lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> tengo en la barriga. lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sucedío fue
 <lb n="14" id="xom-f16-s2--14"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fuí adívertirme, y uer aquel prodí<pc> –</pc>
@@ -7460,7 +7458,7 @@ cap.
 <lb n="16" id="xom-f16-s2--16"/>esta en el zenízero. y así no me mateís
 <lb n="17" id="xom-f16-s2--17"/>mensageros. y respondíeron ellos pu<pc> –</pc>
 <lb n="18" id="xom-f16-s2--18"/>es <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> hemos de lleuar en lugar de tu
-<lb n="19" id="xom-f16-s2--19"/>corazon en la hícara? no nos manda<pc> –</pc>
+<lb n="19" id="xom-f16-s2--19"/>corazon en <rs ana="TZIMA">la hícara</rs>? no nos manda<pc> –</pc>
 <lb n="20" id="xom-f16-s2--20"/>ron los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> en esta hícara les lle<pc> –</pc>
 <lb n="21" id="xom-f16-s2--21"/>uaremos tu corazon, así no nos man<pc> –</pc>
 <lb n="22" id="xom-f16-s2--22"/>daron? bíen quísíeramos nosotros
@@ -7470,22 +7468,22 @@ cap.
 <lb n="26" id="xom-f16-s2--26"/>bres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> mueran. y de verdad ese sera
 <lb n="27" id="xom-f16-s2--27"/>vuestro ser ser engañadores. y lu<pc> –</pc>
 <lb n="28" id="xom-f16-s2--28"/>ego sera mío <rs ana="JUN_KAME'">hun came</rs>, y <rs ana="WUQUB'_KAME'">vvcubcame</rs>
-<lb n="29" id="xom-f16-s2--29"/>y solo sera de ellos lasangre, y las
+<lb n="29" id="xom-f16-s2--29"/>y solo sera de ellos <rs ana="KIK'">lasangre</rs>, y las
 <lb n="30" id="xom-f16-s2--30"/>calberas esto sera solo de ellos en
 <lb n="31" id="xom-f16-s2--31"/>su presenzía. este corazón nosera
 <lb n="32" id="xom-f16-s2--32"/>quemado delante de ellos. poned
-<lb n="33" id="xom-f16-s2--33"/>en la hícara el fruto de este arbol
+<lb n="33" id="xom-f16-s2--33"/>en <rs ana="TZIMA">la hícara</rs> el fruto de este arbol
 <lb n="34" id="xom-f16-s2--34"/>dixo <rs ana="IXKIK'">la donzella</rs>. y el humor de a<pc> –</pc>
 <lb n="35" id="xom-f16-s2--35"/>quell arbol era colorado, y salí<pc> –</pc>
-<lb n="36" id="xom-f16-s2--36"/>endo el humor lo cogíeron en la
-<lb n="37" id="xom-f16-s2--37"/>hícara y luego se congelo y se hizo
+<lb n="36" id="xom-f16-s2--36"/>endo el humor lo cogíeron en <rs ana="TZIMA">la
+<lb n="37" id="xom-f16-s2--37"/>hícara</rs> y luego se congelo y se hizo
 <lb n="38" id="xom-f16-s2--38"/>redondo y puso en lugar de el cora
-<lb n="39" id="xom-f16-s2--39"/>zon, y era como sangre su humor
-<lb n="40" id="xom-f16-s2--40"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> puso en lugar de sangre. y enton<pc> –</pc>
+<lb n="39" id="xom-f16-s2--39"/>zon, y era como <rs ana="KIK'">sangre</rs> su humor
+<lb n="40" id="xom-f16-s2--40"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> puso en lugar de <rs ana="KIK'">sangre</rs>. y enton<pc> –</pc>
 <lb n="41" id="xom-f16-s2--41"/>zes sacaron aquella <rs ana="KIK'">sangre</rs> de
 <lb n="42" id="xom-f16-s2--42"/>el humor de el palo, y fue hecho co<pc> –</pc>
 <lb n="43" id="xom-f16-s2--43"/>mo <rs ana="KIK'">sangre</rs>, y muy colorado estuvo
-<lb n="44" id="xom-f16-s2--44"/>despues de sacado en la hícara, y en<pc> –</pc>
+<lb n="44" id="xom-f16-s2--44"/>despues de sacado en <rs ana="TZIMA">la hícara</rs>, y en<pc> –</pc>
 <lb n="45" id="xom-f16-s2--45"/>tonzes resplandezio aquel palo por la
 <lb n="46" id="xom-f16-s2--46"/><rs ana="IXKIK'">donzella</rs> yeste palo se llama grana
 <lb n="47" id="xom-f16-s2--47"/>palo colorado, y se llamo <rs ana="KIK'">sangre</rs>, y por<pc> –</pc>
@@ -7498,13 +7496,13 @@ cap.
 <lb n="3" id="xom-f17-s1--3"/>dixo <rs ana="IXKIK'">la donzella</rs> a<rs ana="TUKUR">los tecolotes</rs>. estabíen <rs ana="IXKIK'">don
 <lb n="4" id="xom-f17-s1--4"/>zella</rs> díxeron ellos íremos allevar esto, y tu
 <lb n="5" id="xom-f17-s1--5"/>anda bete <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> nosotros vamos a dar este su tru<pc> –</pc>
-<lb n="6" id="xom-f17-s1--6"/>eque de tu corazon alos <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> dixeron los te<pc> –</pc>
-<lb n="7" id="xom-f17-s1--7"/>coletes. y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegaron ala presençía
+<lb n="6" id="xom-f17-s1--6"/>eque de tu corazon alos <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> dixeron <rs ana="TUKUR">los te<pc> –</pc>
+<lb n="7" id="xom-f17-s1--7"/>coletes</rs>. y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegaron ala presençía
 <lb n="8" id="xom-f17-s1--8"/>de los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban aguardando todos.
 <lb n="9" id="xom-f17-s1--9"/>por ventura yase concluyo dixeron <rs ana="JUN_KAME'">hun<pc> –</pc>
 <lb n="10" id="xom-f17-s1--10"/>came</rs>, y <rs ana="WUQUB'_KAME'">vucub came</rs>. yaze concluyó <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice>
 <lb n="11" id="xom-f17-s1--11"/>díxeron ellos. aquí esta sucorazon en el
-<lb n="12" id="xom-f17-s1--12"/>asíento de esta hícara. estabíen veamos
+<lb n="12" id="xom-f17-s1--12"/>asíento de <rs ana="TZIMA">esta hícara</rs>. estabíen veamos
 <lb n="13" id="xom-f17-s1--13"/>dixeron <rs ana="JUN_KAME'">huncame</rs>, y <rs ana="WUQUB'_KAME'">vvcubcame</rs>. y cogíen
 <lb n="14" id="xom-f17-s1--14"/>dolo con los tres dedos lo leuanto <choice><abbr>pa</abbr><expan instant="false">para</expan></choice> arrí<pc> –</pc>
 <lb n="15" id="xom-f17-s1--15"/>ba chorreaba <rs ana="KIK'">lasangre</rs>, y estaba muy
@@ -7649,7 +7647,7 @@ cap.
 <lb n="45" id="xom-f18-s1--45"/>lanque</rs>, y solo se entretenían en tírar
 <lb />
 <pb corresp="xom-f18-s2"/>
-<lb n="1" id="xom-f18-s2--1"/>con cerbatana todos los días, y no eran
+<lb n="1" id="xom-f18-s2--1"/>con <rs ana="WUB">cerbatana</rs> todos los días, y no eran
 <lb n="2" id="xom-f18-s2--2"/>amados, desu <rs ana="IXMUKANE">abuela</rs>, y de <rs ana="JUN_B'ATZ">hunbaꜩ</rs>, y
 <lb n="3" id="xom-f18-s2--3"/><rs ana="JUN_CHOWEN">hunchouen</rs>. y no les daban de comer
 <lb n="4" id="xom-f18-s2--4"/>hecha ya la comída, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> auíendo ya
@@ -7657,7 +7655,7 @@ cap.
 <lb n="6" id="xom-f18-s2--6"/>çes venían, y no se enojaban, ní encole
 <lb n="7" id="xom-f18-s2--7"/>rízaban; síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sufrían, y ello sabían
 <lb n="8" id="xom-f18-s2--8"/>quíenes eran, <choice><abbr>porq’</abbr><expan instant="false">que</expan></choice> como claridad míra<pc> –</pc>
-<lb n="9" id="xom-f18-s2--9"/>ban. y traían sus paxaros quando ve<pc> –</pc>
+<lb n="9" id="xom-f18-s2--9"/>ban. y traían <rs ana="TZ'IKIN">sus paxaros</rs> quando ve<pc> –</pc>
 <lb n="10" id="xom-f18-s2--10"/>nían todos los días, y comían <rs ana="JUN_B'ATZ">hun baꜩ</rs>, y
 <lb n="11" id="xom-f18-s2--11"/><rs ana="JUN_CHOWEN">hun chouen</rs>, y nada les daban a los dos
 <lb n="12" id="xom-f18-s2--12"/><rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XB'ALAMQ'E">xbalanque</rs>, sino <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> solo se es<pc> –</pc>
@@ -7665,14 +7663,14 @@ cap.
 <lb n="14" id="xom-f18-s2--14"/><rs ana="JUN_B'ATZ">hun baꜩ</rs>, y <rs ana="JUN_CHOWEN">hun chouen</rs>. y víníeron vna
 <lb n="15" id="xom-f18-s2--15"/>vez <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XB'ALAMQ'E">xbalanque</rs>, sin traer
 <lb n="16" id="xom-f18-s2--16"/>paxaros, y entrando, se enojo <rs ana="IXMUKANE">la vieja</rs>,
-<lb n="17" id="xom-f18-s2--17"/>y les dixo como no traeís paxaros, les
+<lb n="17" id="xom-f18-s2--17"/>y les dixo como no traeís <rs ana="TZ'IKIN">paxaros</rs>, les
 <lb n="18" id="xom-f18-s2--18"/>fue dícho a <rs ana="JUNAJPU">hunahpu</rs>, y <rs ana="XB'ALAMQ'E">xbalanque</rs>
 <lb n="19" id="xom-f18-s2--19"/>fue el caso <rs ana="IXMUKANE">abuela</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se nos han que<pc> –</pc>
-<lb n="20" id="xom-f18-s2--20"/>dado atorados los paxaros en los arbo<pc> –</pc>
+<lb n="20" id="xom-f18-s2--20"/>dado atorados <rs ana="TZ'IKIN">los paxaros</rs> en los arbo<pc> –</pc>
 <lb n="21" id="xom-f18-s2--21"/>les, y no podemos subír <rs ana="KA'IB_K'AJOLAB'">nosotros</rs> sobre
 <lb n="22" id="xom-f18-s2--22"/>los palos, <rs ana="IXMUKANE">Señora</rs>, vayan <rs ana="JUN_B'ATZ'_JUN_CHOWEN">nuestros her<pc> –</pc>
 <lb n="23" id="xom-f18-s2--23"/>manos</rs> con <rs ana="KA'IB_K'AJOLAB'">nosotros</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vayan a baxar
-<lb n="24" id="xom-f18-s2--24"/>los paxaros. y se les fue dícho estabí<pc> –</pc>
+<lb n="24" id="xom-f18-s2--24"/><rs ana="TZ'IKIN">los paxaros</rs>. y se les fue dícho estabí<pc> –</pc>
 <lb n="25" id="xom-f18-s2--25"/>en íremos con <rs ana="KA'IB_K'AJOLAB'">vosotros</rs> por la maña<pc> –</pc>
 <lb n="26" id="xom-f18-s2--26"/>na, esto díxeron <rs ana="JUN_B'ATZ'_JUN_CHOWEN">sus hermanos</rs>, quan
 <lb n="27" id="xom-f18-s2--27"/>do fueron vençidos, y ganados.
@@ -7689,12 +7687,12 @@ cap.
 <lb n="38" id="xom-f18-s2--38"/>entresí. y luego fueron debaxo de un
 <lb n="39" id="xom-f18-s2--39"/>arbol, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se llamaba cante, e íuan en su
 <lb n="40" id="xom-f18-s2--40"/>compañía <rs ana="JUN_B'ATZ'_JUN_CHOWEN">sus hermanos</rs>, y empezaron a
-<lb n="41" id="xom-f18-s2--41"/>tírar con la ceruatana, y no se podían
-<lb n="42" id="xom-f18-s2--42"/>contra los paxaros <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban sobre los ar<pc> –</pc>
+<lb n="41" id="xom-f18-s2--41"/>tírar con <rs ana="WUB">la ceruatana</rs>, y no se podían
+<lb n="42" id="xom-f18-s2--42"/>contra <rs ana="TZ'IKIN">los paxaros</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban sobre los ar<pc> –</pc>
 <lb n="43" id="xom-f18-s2--43"/>boles, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estaban gritando. y se marauílla<pc> –</pc>
 <lb n="44" id="xom-f18-s2--44"/>ron <rs ana="JUN_B'ATZ'_JUN_CHOWEN">sus hermanos</rs> quando víeron tantos
-<lb n="45" id="xom-f18-s2--45"/>paxaros, y nínguno cayo abajo de nu<pc> –</pc>
-<lb n="46" id="xom-f18-s2--46"/>estros paxaros. no caen, andad vajaldos
+<lb n="45" id="xom-f18-s2--45"/><rs ana="TZ'IKIN">paxaros</rs>, y nínguno cayo abajo de <rs ana="TZ'IKIN">nu<pc> –</pc>
+<lb n="46" id="xom-f18-s2--46"/>estros paxaros</rs>. no caen, andad vajaldos
 <lb n="47" id="xom-f18-s2--47"/>aca les díxeron a<rs ana="JUN_B'ATZ'_JUN_CHOWEN">sus hermanos</rs>
 <pb corresp="xom-f19-s1"/>
 <note place="margin-right" type="pagination" anchored="true">
@@ -8029,7 +8027,7 @@ cap.
 <lb n="19" id="xom-f22-s1--19"/>de sus Padres. y oyendo los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> deel <rs ana="XIB'ALB'A">ín
 <lb n="20" id="xom-f22-s1--20"/>fíerno</rs>
 <del rend="scribble" instant="false" status="unremarkable">œ</del>esto díxeron: quíenes son es<pc> –</pc>
-<lb n="21" id="xom-f22-s1--21"/>tos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> otra vez empezaron a jugar sobre
+<lb n="21" id="xom-f22-s1--21"/>tos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> otra vez empezaron <rs ana="CHAAJ">a jugar</rs> sobre
 <lb n="22" id="xom-f22-s1--22"/>nosotros, y no nos tíenen respecto, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> estan
 <lb n="23" id="xom-f22-s1--23"/>haçiendo ruído, por ventura no murí<pc> –</pc>
 <lb n="25" id="xom-f22-s1--25"/>eron aquel <rs ana="JUN_JUNAJPU">hunhunahpu</rs>, y <rs ana="WUQUB'_JUNAJPU">vucubhun
@@ -8039,8 +8037,8 @@ cap.
 <lb n="29" id="xom-f22-s1--29"/>cubcame</rs>, y todos <rs ana="RAJAWAL_XIB'ALB'A">los Señores</rs>, y los llamaron.
 <lb n="30" id="xom-f22-s1--30"/>y díxeron a<rs ana="USAMAJEL_XIB'ALB'A">sus mensageros</rs> andad de<pc> –</pc>
 <lb n="31" id="xom-f22-s1--31"/>çíldes, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> vengan aca <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> lo díçen los <choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> y
-<lb n="32" id="xom-f22-s1--32"/>jugaran con <rs ana="KA'IB_K'AJOLAB'">nosotros</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> de aquí asíete
-<lb n="33" id="xom-f22-s1--33"/>días esten aquí y jugaremos, les fue dí<pc> –</pc>
+<lb n="32" id="xom-f22-s1--32"/><rs ana="CHAAJ">jugaran</rs> con <rs ana="KA'IB_K'AJOLAB'">nosotros</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> de aquí asíete
+<lb n="33" id="xom-f22-s1--33"/>días esten aquí y <rs ana="CHAAJ">jugaremos</rs>, les fue dí<pc> –</pc>
 <lb n="34" id="xom-f22-s1--34"/>cho a <rs ana="USAMAJEL_XIB'ALB'A">los mensageros</rs> y víníeron enton<pc> –</pc>
 <lb n="35" id="xom-f22-s1--35"/>çes por vn camino ancho, de los mucho
 <lb n="36" id="xom-f22-s1--36"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> iba derecho asu casa de ellos, y dere
@@ -8162,7 +8160,7 @@ cap.
 <lb n="2" id="xom-f23-s2--2"/>go, <rs ana="KIK'">el vle</rs>, <rs ana="B'ATE">el bate</rs>, <rs ana="PACHQ'AB">la pala</rs>, y <rs ana="TZ'UM">el cuero</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> va<pc> –</pc>
 <lb n="3" id="xom-f23-s2--3"/>yan a divertirlos, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> lo diçen <rs ana="RAJAWAL_XIB'ALB'A">los Señores</rs>, es<pc> –</pc>
 <lb n="4" id="xom-f23-s2--4"/>to dice <rs ana="IXMUKANE">vuestra abuela</rs>,<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> así víno el men
-<lb n="5" id="xom-f23-s2--5"/>sage de los<choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice> y así vine a llamaros. sí se<pc> –</pc>
+<lb n="5" id="xom-f23-s2--5"/>sage <rs ana="RAJAWAL_XIB'ALB'A">de los<choice><abbr type="superscription">SSes.</abbr><expan instant="false">Señores</expan></choice></rs> y así vine a llamaros. sí se<pc> –</pc>
 <lb n="6" id="xom-f23-s2--6"/>ra así díxeron<rs ana="KA'IB_K'AJOLAB'">ellos</rs> en sus corazones, oy<pc> –</pc>
 <lb n="7" id="xom-f23-s2--7"/>endo el mensage. y luego al punto se
 <lb n="8" id="xom-f23-s2--8"/>víníeron, y llegaron con <rs ana="IXMUKANE">su abuela</rs>, y so<pc> –</pc>
@@ -8170,7 +8168,7 @@ cap.
 <lb/>
 </p>
 <p corresp="#p31">
-<lb n="10" id="xom-f23-s2--10"/>Nosotros vamos, <choice><abbr type="superscription">Sa</abbr><expan instant="false">Señora</expan></choice> y solo á auísaros vení<pc> –</pc>
+<lb n="10" id="xom-f23-s2--10"/>Nosotros vamos, <rs ana="IXMUKANE"><choice><abbr type="superscription">Sa</abbr><expan instant="false">Señora</expan></choice></rs> y solo á auísaros vení<pc> –</pc>
 <lb n="11" id="xom-f23-s2--11"/>mos, y esta señal os dexamos de nuestra pa<pc> –</pc>
 <lb n="12" id="xom-f23-s2--12"/>labra, cada vno de nosotros sembraremos
 <lb n="13" id="xom-f23-s2--13"/><rs ana="AJ">vna caña</rs>, en medio de nuestra casa, y es<pc> –</pc>
@@ -8272,7 +8270,7 @@ cap.
 <lb n="3" id="xom-f24-s2--3"/>gun nombre de  perdío, síno <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> todos
 <lb n="4" id="xom-f24-s2--4"/>díxeron sus nombres todos quando fueron
 <lb n="5" id="xom-f24-s2--5"/>mordidos por vn pelo de la cara de <rs ana="JUNAJPU">hun
-<lb n="6" id="xom-f24-s2--6"/>ahpu</rs>, y no era mosquito en realídad
+<lb n="6" id="xom-f24-s2--6"/>ahpu</rs>, y no era <rs ana="XA'N">mosquito</rs> en realídad
 <lb n="7" id="xom-f24-s2--7"/>de verdad, el <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue a morderlos atodos
 <lb n="8" id="xom-f24-s2--8"/>y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> fue a oyrlos nombres detodos por
 <lb n="9" id="xom-f24-s2--9"/><rs ana="JUNAJPU">hun ahpu</rs>. y luego <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> llegaron alla á
@@ -8439,8 +8437,8 @@ cap.
 <lb n="20" id="xom-f26-s1--20"/>çía cantando. el otro deçía. <rs ana="PUJUYU'">puhuyu</rs>,
 <lb n="21" id="xom-f26-s1--21"/><rs ana="PUJUYU''">puhuyu</rs>, y así se llamá, <rs ana="PUJUYU''">puhuyu</rs> los dos
 <lb n="22" id="xom-f26-s1--22"/>guardas de la guerta de <rs ana="JUN_KAME''">hun came</rs>, y
-<lb n="23" id="xom-f26-s1--23"/><rs ana="WUQUB'_KAME'">vucub came</rs>, y no sentían a las hor<pc> –</pc>
-<lb n="24" id="xom-f26-s1--24"/>mígas <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sacaban <rs ana="KOTZ'I'J">las flores</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> guarda<pc> –</pc>
+<lb n="23" id="xom-f26-s1--23"/><rs ana="WUQUB'_KAME'">vucub came</rs>, y no sentían a <rs ana="SANIK">las hor<pc> –</pc>
+<lb n="24" id="xom-f26-s1--24"/>mígas</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> sacaban <rs ana="KOTZ'I'J">las flores</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> guarda<pc> –</pc>
 <lb n="25" id="xom-f26-s1--25"/>ban, y venían como dando bueltas, y
 <lb n="26" id="xom-f26-s1--26"/>meneandose con <rs ana="KOTZ'I'J">las flores</rs> de sobre
 <lb n="27" id="xom-f26-s1--27"/>los palos, y con los díentes alzaban las
@@ -8449,20 +8447,20 @@ cap.
 <lb n="30" id="xom-f26-s1--30"/>y no sentían los díentes <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> les comían
 <lb n="31" id="xom-f26-s1--31"/>las alas, y las colas y así lleuaban <rs ana="KOTZ'I'J">las
 <lb n="32" id="xom-f26-s1--32"/>flores</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> cogían con los díentes y muy
-<lb n="33" id="xom-f26-s1--33"/>en breve llenaron las quarto hícaras
+<lb n="33" id="xom-f26-s1--33"/>en breve llenaron las quarto <rs ana="TZIMA">hícaras</rs>
 <lb n="34" id="xom-f26-s1--34"/>de <rs ana="KOTZ'I'J">flores</rs>, y estaban colmadas quan<pc> –</pc>
-<lb n="35" id="xom-f26-s1--35"/>do amanezío. y luego víníeron los
-<lb n="36" id="xom-f26-s1--36"/>mensageros, embíados, y díxeron, dí<pc> –</pc>
+<lb n="35" id="xom-f26-s1--35"/>do amanezío. y luego víníeron <rs ana="USAMAJEL_XIB'ALB'A">los
+<lb n="36" id="xom-f26-s1--36"/>mensageros</rs>, embíados, y díxeron, dí<pc> –</pc>
 <lb n="37" id="xom-f26-s1--37"/>çe el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice><choice><abbr>q’</abbr><expan instant="false">que</expan></choice> luego vengan lo <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> hemos
-<lb n="38" id="xom-f26-s1--38"/>Ganado. esta bíen <rs ana="KA'IB_K'AJOLAB'">díxeron</rs>, y se
-<lb n="39" id="xom-f26-s1--39"/>fueron lleuando las quarto hícaras
+<lb n="38" id="xom-f26-s1--38"/>ganado. esta bíen <rs ana="KA'IB_K'AJOLAB'">díxeron</rs>, y se
+<lb n="39" id="xom-f26-s1--39"/>fueron lleuando las quarto <rs ana="TZIMA">hícaras</rs>
 <lb n="40" id="xom-f26-s1--40"/>colmadas de <rs ana="KOTZ'I'J">flores</rs>, y llegaron
-<lb n="41" id="xom-f26-s1--41"/>ante el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>y los Señores tomaron las
+<lb n="41" id="xom-f26-s1--41"/>ante el <choice><abbr>Sor</abbr><expan instant="false">Señor</expan></choice>y <rs ana="RAJAWAL_XIB'ALB'A">los Señores</rs> tomaron las
 <lb n="42" id="xom-f26-s1--42"/><rs ana="KOTZ'I'J">flores</rs>, muy suaves. y así fueron ven
 <lb n="43" id="xom-f26-s1--43"/>çídos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>. y solas hor<pc> –</pc>
 <lb n="44" id="xom-f26-s1--44"/>mígas embíaron <rs ana="KA'IB_K'AJOLAB'">los mançebos</rs>
 <lb n="45" id="xom-f26-s1--45"/>y en una noche cortaron <rs ana="SANIK">las hormigas</rs>
-<lb n="46" id="xom-f26-s1--46"/>las flores, y las pusieron en las hícaras
+<lb n="46" id="xom-f26-s1--46"/><rs ana="KOTZ'I'J">las flores</rs>, y las pusieron en <rs ana="TZIMA">las hícaras</rs>
 <lb n="47" id="xom-f26-s1--47"/>y así se espantaron todos <rs ana="RAJAWAL_XIB'ALB'A">los deelínfí<pc> –</pc>
 <pb corresp="xom-f26-s2"/>
 <lb n="1" id="xom-f26-s2--1"/>erno</rs>, y tenían los rostros pálidos por
@@ -8970,8 +8968,8 @@ cap.
 <lb n="35" id="xom-f31-s1--35"/>tas <rs ana="SANIK">hormigas</rs>, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les fueron a punzar
 <lb n="36" id="xom-f31-s1--36"/>a la barranca, y así los fueron a echar
 <lb n="37" id="xom-f31-s1--37"/>y víníendo se entregaron todos
-<lb n="38" id="xom-f31-s1--38"/>como ya vençído su <choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> de el ínfí<pc> –</pc>
-<lb n="40" id="xom-f31-s1--40"/>erno, ysolo por marauílla, ymílagro,
+<lb n="38" id="xom-f31-s1--38"/>como ya vençído su <rs ana="RAJAWAL_XIB'ALB'A"><choice><abbr>Sor.</abbr><expan instant="false">Señor</expan></choice> de el ínfí<pc> –</pc>
+<lb n="40" id="xom-f31-s1--40"/>erno</rs>, ysolo por marauílla, ymílagro,
 <lb />
 <lb />
 <lb />
@@ -8990,10 +8988,10 @@ cap.
 <lb n="6" id="xom-f31-s2--6"/>remos tambíen los nombres de nuestros
 <lb n="7" id="xom-f31-s2--7"/>padres a vosotros. nosotros somos <rs ana="JUNAJPU">xhun<pc> –</pc>
 <lb n="8" id="xom-f31-s2--8"/>ahpu</rs>, y <rs ana="XB'ALAMQ'E">xbalanque</rs> así nos llamamos. y
-<lb n="9" id="xom-f31-s2--9"/>nuestros Padres son aquellos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> matasteís
+<lb n="9" id="xom-f31-s2--9"/><rs ana="JUN_JUNAJPU">nuestros Padres</rs> son aquellos <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> matasteís
 <lb n="10" id="xom-f31-s2--10"/><choice><abbr>q’</abbr><expan instant="false">que</expan></choice>se llamaban <rs ana="JUN_JUNAJPU">hun hunahpu</rs>, y <rs ana="WUQUB'_JUNAJPU">vucub hun
 <lb n="11" id="xom-f31-s2--11"/>ahpu</rs>. y nosotros somos los vengudores de
-<lb n="12" id="xom-f31-s2--12"/>la pena, y dolor de nuestros Padres.
+<lb n="12" id="xom-f31-s2--12"/>la pena, y dolor de <rs ana="JUN_JUNAJPU">nuestros Padres</rs>.
 <lb n="13" id="xom-f31-s2--13"/>y de todos los males <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>les híçísteís. y así
 <lb n="14" id="xom-f31-s2--14"/>a todos hos hemos deacabar, y matar, y
 <lb n="15" id="xom-f31-s2--15"/>ní vno hade escapar les fue dícho. y
@@ -9001,14 +8999,14 @@ cap.
 <lb n="17" id="xom-f31-s2--17"/>ínfíerno</rs> tened míserícordía de noso<pc> –</pc>
 <lb n="18" id="xom-f31-s2--18"/>tros <rs ana="JUNAJPU">hun ahpu</rs>, y <rs ana="XB'ALAMQ'E">xbalanque</rs>. y çíerta<pc> –</pc>
 <lb n="19" id="xom-f31-s2--19"/>mente peccamos en gran manera contra
-<lb n="20" id="xom-f31-s2--20"/>vuestros Padres <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>deçís, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estan enterra<pc> –</pc>
-<lb n="21" id="xom-f31-s2--21"/>dos enel çenízero díxeron. esta bíen díxe
+<lb n="20" id="xom-f31-s2--20"/><rs ana="JUN_JUNAJPU">vuestros Padres</rs> <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>deçís, y <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>estan enterra<pc> –</pc>
+<lb n="21" id="xom-f31-s2--21"/>dos <rs ana="PUSB'AL_CHAAJ">enel çenízero</rs> díxeron. esta bíen díxe
 <lb n="22" id="xom-f31-s2--22"/>ron ellos, agora oíd todos <rs ana="RAJAWAL_XIB'ALB'A">los deel ínfíer</rs><pc> –</pc>
 <lb n="23" id="xom-f31-s2--23"/>no esto <choice><abbr>q’</abbr><expan instant="false">que</expan></choice> os deçímos, <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> noes grande
 <lb n="24" id="xom-f31-s2--24"/>vuestra dícha, y fortuna, y <choice><abbr>porq’</abbr><expan instant="false">porque</expan></choice> no es
 <lb n="25" id="xom-f31-s2--25"/>grande vuestro don, y poco sera vues<pc> –</pc>
 <lb n="26" id="xom-f31-s2--26"/>tro ser cabezas, no sera vuestra <rs ana="KIK'">la sangre
-<lb n="27" id="xom-f31-s2--27"/>límpía</rs>, solo las texas, y comales, , y los
+<lb n="27" id="xom-f31-s2--27"/>límpía</rs>, solo las texas, y comales, y los
 <lb n="28" id="xom-f31-s2--28"/>mecates, y solo series madres delo<choice><abbr>q’</abbr><expan instant="false">que</expan></choice> se
 <lb n="29" id="xom-f31-s2--29"/>enuegeze, y solo los híjos de la paja
 <lb n="30" id="xom-f31-s2--30"/>y los híjos de las yeruas, os perteneçera
@@ -9018,7 +9016,7 @@ cap.
 <lb n="34" id="xom-f31-s2--34"/>trístes, y desventurados, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>pecan entrad
 <lb n="35" id="xom-f31-s2--35"/>en ellos, y no sea repentína la cogída
 <lb n="36" id="xom-f31-s2--36"/>de los hombres, y oíd, y attended sobre
-<lb n="37" id="xom-f31-s2--37"/>sobre esta enfermedad de sangre.
+<lb n="37" id="xom-f31-s2--37"/>sobre esta enfermedad de <rs ana="KIK'">sangre</rs>.
 <lb n="38" id="xom-f31-s2--38"/>les fue dícho a todos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfíerno</rs>
 <lb n="39" id="xom-f31-s2--39"/>y así empezo suser perdídos, y herra<pc> –</pc>
 <lb n="40" id="xom-f31-s2--40"/>dos, y suser ínuocados. y no era mu<pc> –</pc>
@@ -9098,7 +9096,7 @@ cap.
 <lb n="12" id="xom-f32-s2--12"/>dole. y nosotros somos los vengado<pc> –</pc>
 <lb n="13" id="xom-f32-s2--13"/>res de vuestra muerte, y de las pe<pc> –</pc>
 <lb n="14" id="xom-f32-s2--14"/>nas, <choice><abbr>q’</abbr><expan instant="false">que</expan></choice>os díeron, y así fue su auísamí<pc> –</pc>
-<lb n="15" id="xom-f32-s2--15"/>ento ya vençídos todos <rs ana="SENORES_DE_XIB'ALB'A">los de el ínfí<pc> –</pc>
+<lb n="15" id="xom-f32-s2--15"/>ento ya vençídos todos <rs ana="RAJAWAL_XIB'ALB'A">los de el ínfí<pc> –</pc>
 <lb n="16" id="xom-f32-s2--16"/>erno</rs>. yluego se subíeron aca al mun<pc> –</pc>
 <lb n="17" id="xom-f32-s2--17"/>do; y en un ínstante subíeron al çí<pc> –</pc>
 <lb n="18" id="xom-f32-s2--18"/>elo. y vno de ellos fue puesto por sol,
@@ -9410,7 +9408,7 @@ cap.
 <lb n="8" id="xom-f35-s2--8"/>y el monte, y parage donde se fueron
 <lb n="9" id="xom-f35-s2--9"/><rs ana="B'ALAM_KI'TZE' ">balam quíꜩe</rs>, <rs ana="B'ALAM _AQ'AB'">balam acab</rs>, <rs ana="MAJUK'UTAJ">mahucutah</rs>
 <lb n="10" id="xom-f35-s2--10"/>y <rs ana="IQ'I_B'ALAM">íquíbalam</rs>, con los de <rs ana="ILOKAB'">ílocab</rs>, y <rs ana="TAMUB'">tamub</rs>
-<lb n="11" id="xom-f35-s2--11"/>se llamaba, <rs ana="TULÁN" type="toponym">tulan</rs><rs ana="SUYWA" type="toponym">zu</rs>. síete queues, y
+<lb n="11" id="xom-f35-s2--11"/>se llamaba, <rs ana="TULÁN">tulan</rs><rs ana="SUYWA">zu</rs>. síete queues, y
 <lb n="12" id="xom-f35-s2--12"/>síete barrancas, y así se llamaba el pu<pc> –</pc>
 <lb n="13" id="xom-f35-s2--13"/>eblo á <choice><abbr>do</abbr><expan instant="false">donde</expan></choice> fueron a traer los ídolos.
 </p>
