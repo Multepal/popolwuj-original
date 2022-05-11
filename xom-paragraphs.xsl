@@ -241,11 +241,11 @@
 
     <!-- Change this into a data record for use by JQuery, etc. -->
     <xsl:template match="topic">
-        
+
         <xsl:variable name="key_old" select="key" />
         <xsl:variable name="key_new" select="replace($key_old, $quote,'^')" />
 
-        <div class="topic-entry" id="topic-{key}">
+        <div class="topic-entry" id="topic-{$key_new}">
             <h2 class="topic-title"><xsl:value-of select="title" /></h2>
             <a href="{$themes_ajax_root}{nid}" class="topic-link btn btn-primary btn-sm" target="_blank">See full record</a>
             <div class="topic-type">
