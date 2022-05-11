@@ -24,6 +24,9 @@
         <xsl:text>'</xsl:text>
     </xsl:variable>
 
+    <xsl:variable name="quote_replacement">
+        <xsl:text>__QUOTE__</xsl:text>
+    </xsl:variable>
 
     <!-- Not sure if this is doing anything -->
     <!--
@@ -208,7 +211,7 @@
 
     <xsl:template match="tei:rs">        
         <xsl:variable name="ana_old" select="@ana" />
-        <xsl:variable name="ana_new" select="replace($ana_old, $quote,'^')" />
+        <xsl:variable name="ana_new" select="replace($ana_old, $quote, $quote_replacement)" />
         <!-- <a class="rs" data-ana="{@ana}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a> -->
         <a class="rs" data-ana="{$ana_new}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a>
     </xsl:template>
@@ -243,7 +246,7 @@
     <xsl:template match="topic">
 
         <xsl:variable name="key_old" select="key" />
-        <xsl:variable name="key_new" select="replace($key_old, $quote,'^')" />
+        <xsl:variable name="key_new" select="replace($key_old, $quote, $quote_replacement)" />
 
         <div class="topic-entry" id="topic-{$key_new}">
             <h2 class="topic-title"><xsl:value-of select="title" /></h2>
