@@ -1,33 +1,147 @@
-digraph InfoArch {
+graph InfoArch {
 
     rankdir=LR
-    graph [pad="1", nodesep=".5", ranksep=".5", overlap=false]
-    edge [fontsize=10, labelfloat=false]
-    node [shape="rounded"]
+    graph [pad="1", nodesep=".2" ranksep=".5" overlap=false]
+    edge [fontsize=10, labelfloat=false penwidth=2 color=lightgrey]
+    node [shape="rounded" fontsize=12 style="filled" fontname="arial" color=lightblue]
 
-    XOM [label=<Ximénez<br/>TEI Edition> shape=folder]
-    HTML [label=<Interactive<br/>HTML Edition>]
-    CTE [label=<Open Philology<br/>CTE Edition>]
-    DRUPAL [label=<Database of<br/>Topics and<br/>Annotations> shape=cylinder]
-    COLOP [label=<Sam Colop<br/>Poetic Editon>]
-    MAYAN1 [label=<New Yukatek<br/>Mayan Edition>]
-    MAYAN2 [label=<New K'iche<br/>Mayan Edition>]
-    COLOP2 [label=<Aldo's Colop>]
-    PVX [label=<B and C PV>]
+    // NODES
 
-    {XOM, DRUPAL} -> HTML [label="XSLT"]
-    XOM -> DRUPAL [label=<references&nbsp;&nbsp;<br/>and&nbsp;&nbsp;<br/>annotations&nbsp;&nbsp;>]
-    DRUPAL -> XOM [label=""]
-    XOM -> CTE [label="XSLT"] 
-
-    /* XOM -> COLOP -> {MAYAN1, MAYAN2} [label="TextMap"] */
-
-    {MAYAN2; COLOP2} -> COLOP -> XOM [label="TextMap"]
-    MAYAN1 -> PVX -> XOM [label="TextMap"]
+    subgraph cluster_EXTERNAL {
+        fontname="arial"
+        fontcolor="red"
+        fontsize=16
+        label = "External Projects"
+        color = transparent 
+        YUK [label=<Yukatekan Videos<br/>Children's Edition>]
+        KICHE [label=<Normalized K'iche<br/>Ajpub’>]
+    }
     
-    {rank=same; HTML; CTE}
-    {rank=same; MAYAN2; MAYAN2}
-    {rank=same; XOM; DRUPAL}
+    subgraph cluster_PS {
+        color = transparent 
+        fontcolor="red"
+        fontname="arial"
+        fontsize=16
+        label="Primary Sources"
+        MS1515 [label=<Ayer MS 1515> group="MS"]
+    }
+    
+    subgraph cluster_TEI {
+        color = transparent 
+        fontcolor="red"
+        fontname="arial"
+        fontsize=16
+        label = "Local TEI Encoding"
+        MULTI [label="Multitext" shape="ellipse" color=lightgreen]
+        XOM [label=<Ximénez' PW> shape="ellipse"]
+        ESCOLIOS [label=<Ximénez' Escolios> shape="ellipse"]
+        MAYAN1 [label=<New Yukatek PW> shape="ellipse"]
+        COLOP2 [label=<Aldo's Colop PW> shape="ellipse"]
+        SCHEMA [label="Schema" shape="ellipse" color=lightgreen]
+        HEADER [label="Header\ncontent" shape="ellipse" color=lightgreen]
+    }
+
+    subgraph cluster_BOOKS {
+        color = transparent 
+        fontcolor="red"
+        fontname="arial"
+        fontsize=16
+        label = "Published Sources"
+        COLOP [label=<Sam Colop<br/>Poetic Editon> group="BOOKS"]
+        CHEL [label=<Briceño Chel<br/>Edition> group="BOOKS"]
+        RECINO [label="Recinos"]
+    }
+
+    subgraph cluster_CODE {
+        color = transparent 
+        fontname="arial"
+        fontcolor="red"
+        fontsize=16
+        label = "Dynamic Resources"
+        AANALTE [label="Aanalte\nplatform" shape="ellipse" color=lightgreen]
+        HTML [label=<Interactive<br/>HTML Edition> shape="ellipse"]
+        DRUPAL [label=<Database of<br/>Topics and<br/>Annotations> shape=cylinder]
+        CTS [label=<Open Philology<br/>CTS Transforms>  shape="ellipse"]
+        PORTAL [shape="circle" color=lightgreen]
+        
+    }
+
+    subgraph cluster_CTS {
+        color = transparent 
+        fontname="arial"
+        fontcolor="red"
+        fontsize=16
+        label = "Open Philology"
+        node [color=bisque]
+        CTSPLAT [label="CTS\nInfrastructure"]
+        SCAIFFE [label="Scaife Viewer"]
+    }
+
+    subgraph cluster_LIB {
+        color = transparent 
+        fontname="arial"
+        fontcolor="red"
+        fontsize=16
+        label = "Library Resources"
+        VIDEO [label="Video hosting"]
+        BIBLIO [label="Bibliography"]
+    }
+
+    // EDGES
+
+    MS1515 -- ESCOLIOS
+    MS1515 -- XOM
+    MS1515 -- CHEL
+    MS1515 -- COLOP    
+    
+    COLOP -- KICHE
+    COLOP -- COLOP2
+
+    CHEL -- YUK
+    RECINOS -- YUK
+    CHEL -- MAYAN1
+    
+    XOM -- DRUPAL
+    XOM -- DRUPAL 
+
+    XOM -- HTML
+    DRUPAL -- HTML
+    
+    edge [style="dashed" color=paleturquoise]
+    
+    ESCOLIOS -- DRUPAL
+    MAYAN1 -- DRUPAL
+    COLOP2 -- DRUPAL
+    
+    XOM -- CTS
+    MAYAN1 -- CTS 
+    ESCOLIOS -- CTS 
+    COLOP2 -- CTS
+
+    ESCOLIOS -- AANALTE 
+    XOM -- AANALTE 
+    
+    MAYAN1 -- AANALTE
+    ESCOLIOS -- AANALTE
+    COLOP2 -- AANALTE
+    
+    DRUPAL -- AANALTE 
+    DRUPAL -- CTS
+
+    CTS -- CTSPLAT -- SCAIFFE
 
 
+
+    // PORTAL -- VIDEO
+    // PORTAL -- BIBLIO
+    // PORTAL -- AANALTE
+    // PORTAL -- CTS
+    // PORTAL -- DRUPAL
+
+    edge [style=invis]
+    CHEL -- BIBLIO
+
+
+    
+ 
 }
