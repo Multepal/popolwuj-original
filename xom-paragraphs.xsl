@@ -245,8 +245,9 @@
     <!-- Change this into a data record for use by JQuery, etc. -->
     <xsl:template match="topic">
 
-        <xsl:variable name="key_old" select="key" />
-        <xsl:variable name="key_new" select="replace($key_old, $quote, $quote_replacement)" />
+        <!-- <xsl:variable name="key_old" select="key" /> -->
+        <!-- <xsl:variable name="key_new" select="replace($key_old, $quote, $quote_replacement)" /> -->
+        <xsl:variable name="key_new" select="replace(key, $quote, $quote_replacement)" />
 
         <div class="topic-entry" id="topic-{$key_new}">
             <h2 class="topic-title"><xsl:value-of select="title" /></h2>
