@@ -20,6 +20,11 @@
         </xsl:map>
     </xsl:variable>
 
+    <xsl:variable name="quote">
+        <xsl:text>'</xsl:text>
+    </xsl:variable>
+
+
     <!-- Not sure if this is doing anything -->
     <!--
     <xsl:strip-space elements="p" /> 
@@ -200,9 +205,12 @@
     <xsl:template match="tei:note">
         <span class="note {@resp} {@place}"><xsl:apply-templates /></span>
     </xsl:template>
-    
-    <xsl:template match="tei:rs">
-        <a class="rs" data-ana="{@ana}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a>
+
+    <xsl:template match="tei:rs">        
+        <xsl:variable name="ana_old" select="@ana" />
+        <xsl:variable name="ana_new" select="replace($ana_old, $quote,'^')" />
+        <!-- <a class="rs" data-ana="{@ana}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a> -->
+        <a class="rs" data-ana="{$ana_new}" data-toggle="modal" data-target="#topic-box" href="#"><xsl:apply-templates /></a>
     </xsl:template>
     
     <xsl:template match="tei:corr">
@@ -233,6 +241,10 @@
 
     <!-- Change this into a data record for use by JQuery, etc. -->
     <xsl:template match="topic">
+        
+        <xsl:variable name="key_old" select="key" />
+        <xsl:variable name="key_new" select="replace($key_old, $quote,'^')" />
+
         <div class="topic-entry" id="topic-{key}">
             <h2 class="topic-title"><xsl:value-of select="title" /></h2>
             <a href="{$themes_ajax_root}{nid}" class="topic-link btn btn-primary btn-sm" target="_blank">See full record</a>
